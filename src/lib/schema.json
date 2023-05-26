@@ -1,0 +1,135 @@
+{
+	"$id": "https://example.com/product.schema.json",
+	"title": "Turnier",
+	"description": "Ein Turnier",
+	"type": "object",
+	"required": ["name", "veranstalter", "runden"],
+	"additionalProperties": false,
+	"properties": {
+		"name": {
+			"description": "Name des Turniers",
+			"type": "string"
+		},
+		"veranstalter": {
+			"description": "Name des Veranstalters",
+			"type": "string"
+		},
+		"runden": {
+			"description": "Runden innerhalb des Turniers",
+			"type": "object",
+			"additionalProperties": false,
+			"patternProperties": {
+				".*": {
+					"type": "object",
+					"additionalProperties": false,
+					"properties": {
+						"name": {
+							"description": "Name der Runde",
+							"type": "string"
+						},
+						"battles": {
+							"description": "Battles innerhalb der Runde",
+							"type": "object",
+							"additionalProperties": false,
+							"patternProperties": {
+								"\\d*": {
+									"type": "object",
+									"additionalProperties": false,
+									"properties": {
+										"link": {
+											"description": "Offizieller Link zu dem Battle",
+											"type": "string"
+										},
+										"teilnehmer": {
+											"description": "Teilnehmer an dem Battle",
+											"type": "array",
+											"items": {
+												"type": "object",
+												"additionalProperties": false,
+												"required": ["name"],
+												"properties": {
+													"name": {
+														"description": "Name des Teilnehmers",
+														"type": "string"
+													},
+													"punkte": {
+														"description": "Punkte für den Teilnehmer in diesem Battle",
+														"type": "number"
+													},
+													"runden": {
+														"description": "Runden innerhalb des Battles",
+														"type": "object",
+														"patternProperties": {
+															".*": {
+																"type": "object",
+																"additionalProperties": false,
+																"properties": {
+																	"name": {
+																		"description": "Name der Runde",
+																		"type": "string"
+																	},
+																	"links": {
+																		"description": "Link zur Runde",
+																		"type": "array",
+																		"items": {
+																			"type": "object",
+																			"additionalProperties": false,
+																			"properties": {
+																				"url": {
+																					"description": "URL zum Upload. HTTP, Torrent, ...",
+																					"type": "string"
+																				},
+																				"original": {
+																					"description": "Ist es der originale Link?",
+																					"type": "boolean"
+																				},
+																				"notiz": {
+																					"description": "Mängel am Upload, generelle Hinweise. Wenn leer, sollte es sich um die Originaldatei (nicht unbedingt Originallink!) handeln.",
+																					"type": "string"
+																				}
+																			}
+																		}
+																	},
+																	"beats": {
+																		"description": "Beats, die in der Runde verwendet werden",
+																		"type": "array",
+																		"items": {
+																			"type": "object",
+																			"additionalProperties": false,
+																			"properties": {
+																				"name": {
+																					"description": "Name des Beats",
+																					"type": "string"
+																				},
+																				"produzent": {
+																					"description": "Produzent des Beats",
+																					"type": "string"
+																				},
+																				"link": {
+																					"description": "Link zum Beat",
+																					"type": "string"
+																				},
+																				"timestamp": {
+																					"description": "Bei welcher Millisekunde beginnt der Beat",
+																					"type": "number"
+																				}
+																			}
+																		}
+																	}
+																}
+															}
+														}
+													}
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

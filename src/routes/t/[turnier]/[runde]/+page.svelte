@@ -10,16 +10,23 @@
 		data: turniere
 	});
 	const getColor = (item) => {
-		const points = item.ergebnis.split(':');
-		const tn1 = { c: !!item.hr1 + !!item.rr2, p: parseInt(points[0], 10) };
-		const tn2 = { c: !!item.hr2 + !!item.rr1, p: parseInt(points[1], 10) };
-		switch (true) {
-			case tn1.p > tn2.p || tn1.c > tn2.c:
-				return ['green', 'red'];
-			case tn1.p < tn2.p || tn1.c < tn2.c:
-				return ['red', 'green'];
-			default:
-				return ['', ''];
+		const diff = item.teilnehmer.reduce((a, b) => a - b.runden?.length || 0);
+		if (
+			diff > 0 ||
+			(diff == 0 && item.teilnehmer[0].punkte) ||
+			0 > item.teilnehmer[1].punkte ||
+			0
+		) {
+			return ['green', 'red'];
+		} else if (
+			diff < 0 ||
+			(diff == 0 && item.teilnehmer[0].punkte) ||
+			0 < item.teilnehmer[1].punkte ||
+			0
+		) {
+			return ['red', 'green'];
+		} else {
+			return ['', ''];
 		}
 	};
 </script>
@@ -28,31 +35,29 @@
 <h1>{battles.parents.at(-1).value.name}</h1>
 <nav>
 	<table>
-		{#each battles.value as battle, index}
+		{#each Object.entries(battles.value) as [id, battle]}
 			<tr>
 				<td class={getColor(battle)[0]}
-					>{battle.tn1}
+					>{battle.teilnehmer[0].name}
 					<br />
-					{#if battle.hr1}
-						<a href={battle.hr1}>HR1</a>
-					{/if}
-					{#if battle.rr2}
-						<a href={battle.rr2}>RR2</a>
+					{#if battle.teilnehmer[0].runden}
+						{#each Object.values(battle.teilnehmer[0].runden) as runde}
+							<a href={runde.links[0].url}>{runde.name}</a>&nbsp;
+						{/each}
 					{/if}
 				</td>
-				<td style="text-align:center"
-					><a href="/t/{$page.params.turnier}/{$page.params.runde}/{index}"
-						>vs.<br />{battle.ergebnis}</a
+				<td
+					><a href="/t/{$page.params.turnier}/{$page.params.runde}/{id}"
+						>vs.<br />{battle.teilnehmer.map((e) => e.punkte || 0).join(':')}</a
 					></td
 				>
 				<td class={getColor(battle)[1]}
-					>{battle.tn2}
+					>{battle.teilnehmer[1].name}
 					<br />
-					{#if battle.hr2}
-						<a href={battle.hr2}>HR2</a>
-					{/if}
-					{#if battle.rr1}
-						<a href={battle.rr1}>RR1</a>
+					{#if battle.teilnehmer[0].runden}
+						{#each Object.values(battle.teilnehmer[0].runden) as runde}
+							<a href={runde.links[0].url}>{runde.name}</a>&nbsp;
+						{/each}
 					{/if}</td
 				>
 			</tr>
@@ -66,5 +71,12 @@
 	}
 	.green {
 		color: green;
+	}
+
+	table {
+		width: 100%;
+	}
+	td {
+		text-align: center;
 	}
 </style>

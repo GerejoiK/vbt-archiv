@@ -11,16 +11,14 @@
 		`${$page.params.turnier}.runden.${$page.params.runde}.battles.${$page.params.battle}`,
 		{ data: turniere }
 	);
-	console.log(battle);
 </script>
 
 <hr />
 <h2>{battle.parents.at(-2).value.name}</h2>
-<h3>{battle.value.tn1} vs. {battle.value.tn2}</h3>
-<mark title="Ergebnis">{battle.value.ergebnis.split(':').join(' : ')}</mark>
+<h3>{battle.value.teilnehmer.map((e) => e.name).join(' vs. ')}</h3>
+<mark title="Ergebnis">{battle.value.teilnehmer.map((e) => e.punkte).join(' : ')}</mark>
 <dl>
-	<Battle name="Hinrunde 1" video={battle.value.hr1} />
-	<Battle name="Rückrunde 1" video={battle.value.rr1} />
-	<Battle name="Hinrunde 2" video={battle.value.hr2} />
-	<Battle name="Rückrunde 2" video={battle.value.rr2} />
+	{#each battle.value.teilnehmer.map((e) => Object.values(e.runden || {})).flat() as runde}
+		<Battle name={runde.name} video={runde?.links} />
+	{/each}
 </dl>

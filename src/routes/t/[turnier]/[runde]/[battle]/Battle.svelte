@@ -2,33 +2,36 @@
 	export let name;
 	export let video;
 
-	if (!Array.isArray(video)) {
-		video = [video];
-	}
-    video = video.filter(v => v)
 	video = video.map((v) => {
-		return new URL(v);
+		const vid = Object.assign({}, v);
+		vid.url = new URL(v.url);
+		return vid;
 	});
 </script>
 
 <dt>{name}</dt>
 {#each video as v}
 	<dd>
-		{#if ['www.youtube.com'].includes(v.hostname)}
+		{#if ['www.youtube.com'].includes(v.url.hostname)}
 			<details>
-				<summary><a href={v}>{v}</a></summary>
+				<summary
+					><span title="Originalupload">{v.original ? '🌟' : ''}</span>
+					<a href={v.url.href}>{v.url.href}</a></summary
+				>
 				<iframe
 					width="540"
 					height="320"
-					src={v}
+					src={v.url.href}
 					title=""
 					frameborder="0"
 					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 					allowfullscreen
+					loading="lazy"
 				/>
 			</details>
 		{:else}
-			<a href={v}>{v}</a>
+			<span title="Originalupload">{v.original ? '🌟' : ''}</span>
+			<a href={v.url.href}>{v.url.href}</a>
 		{/if}
 	</dd>
 {/each}

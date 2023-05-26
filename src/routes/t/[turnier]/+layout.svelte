@@ -2,7 +2,9 @@
 	import { page } from '$app/stores';
 	import turniere from '$lib/data';
 	import jq from 'json-query';
-	const turnier = jq(`${$page.params.turnier}`, { data: turniere }).value;
+
+	let turnier = jq(`${$page.params.turnier}`, { data: turniere }).value;
+	$: turnier = jq(`${$page.params.turnier}`, { data: turniere }).value;
 </script>
 
 <h1>{turnier.name}</h1>
