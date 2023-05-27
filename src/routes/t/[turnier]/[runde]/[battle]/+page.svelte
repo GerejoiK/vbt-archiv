@@ -14,7 +14,7 @@
 <hr />
 <h2>{battle.parents.at(-2).value.name}</h2>
 <h3>{battle.value.teilnehmer.map(e => e.name).join(" vs. ")}</h3>
-<mark title="Ergebnis">{battle.value.teilnehmer.map(e => e.punkte).join(" : ")}</mark>
+<mark title="Ergebnis">{battle.value.teilnehmer.map(e => e.punkte || 0).join(" : ")}</mark>
 <dl>
 	{#each battle.value.teilnehmer.map(e => Object.values(e.runden || {})).flat() as runde}
 		<Battle name={runde.name} video={runde?.links} />
