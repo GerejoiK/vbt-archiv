@@ -1,7 +1,7 @@
 <script>
-	import { page } from '$app/stores';
-	import turniere from '$lib/data';
-	import jq from 'json-query';
+	import { page } from "$app/stores";
+	import turniere from "$lib/data";
+	import jq from "json-query";
 
 	let turnier = jq(`${$page.params.turnier}`, { data: turniere }).value;
 	$: turnier = jq(`${$page.params.turnier}`, { data: turniere }).value;

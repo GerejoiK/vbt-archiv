@@ -1,32 +1,22 @@
 <script>
-	import { page } from '$app/stores';
-	import turniere from '$lib/data';
-	import jq from 'json-query';
+	import { page } from "$app/stores";
+	import turniere from "$lib/data";
+	import jq from "json-query";
 
 	let battles = jq(`${$page.params.turnier}.runden.${$page.params.runde}.battles`, {
-		data: turniere
+		data: turniere,
 	});
 	$: battles = jq(`${$page.params.turnier}.runden.${$page.params.runde}.battles`, {
-		data: turniere
+		data: turniere,
 	});
-	const getColor = (item) => {
+	const getColor = item => {
 		const diff = item.teilnehmer.reduce((a, b) => a - b.runden?.length || 0);
-		if (
-			diff > 0 ||
-			(diff == 0 && item.teilnehmer[0].punkte) ||
-			0 > item.teilnehmer[1].punkte ||
-			0
-		) {
-			return ['green', 'red'];
-		} else if (
-			diff < 0 ||
-			(diff == 0 && item.teilnehmer[0].punkte) ||
-			0 < item.teilnehmer[1].punkte ||
-			0
-		) {
-			return ['red', 'green'];
+		if (diff > 0 || (diff == 0 && item.teilnehmer[0].punkte) || 0 > item.teilnehmer[1].punkte || 0) {
+			return ["green", "red"];
+		} else if (diff < 0 || (diff == 0 && item.teilnehmer[0].punkte) || 0 < item.teilnehmer[1].punkte || 0) {
+			return ["red", "green"];
 		} else {
-			return ['', ''];
+			return ["", ""];
 		}
 	};
 </script>
@@ -48,7 +38,7 @@
 				</td>
 				<td
 					><a href="/t/{$page.params.turnier}/{$page.params.runde}/{id}"
-						>vs.<br />{battle.teilnehmer.map((e) => e.punkte || 0).join(':')}</a
+						>vs.<br />{battle.teilnehmer.map(e => e.punkte || 0).join(":")}</a
 					></td
 				>
 				<td class={getColor(battle)[1]}

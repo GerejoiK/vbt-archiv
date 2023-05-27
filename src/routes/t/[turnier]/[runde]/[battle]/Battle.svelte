@@ -2,7 +2,7 @@
 	export let name;
 	export let video;
 
-	video = video.map((v) => {
+	video = video.map(v => {
 		const vid = Object.assign({}, v);
 		vid.url = new URL(v.url);
 		return vid;
@@ -12,10 +12,10 @@
 <dt>{name}</dt>
 {#each video as v}
 	<dd>
-		{#if ['www.youtube.com'].includes(v.url.hostname)}
+		{#if ["www.youtube.com"].includes(v.url.hostname)}
 			<details>
 				<summary
-					><span title="Originalupload">{v.original ? '🌟' : ''}</span>
+					><span title="Originalupload">{v.original ? "🌟" : ""}</span>
 					<a href={v.url.href}>{v.url.href}</a></summary
 				>
 				<iframe
@@ -30,7 +30,7 @@
 				/>
 			</details>
 		{:else}
-			<span title="Originalupload">{v.original ? '🌟' : ''}</span>
+			<span title="Originalupload">{v.original ? "🌟" : ""}</span>
 			<a href={v.url.href}>{v.url.href}</a>
 		{/if}
 	</dd>

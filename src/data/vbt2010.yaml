@@ -5,7 +5,7 @@ vbt2010:
     vorrunde-1:
       name: Vorrunde 1
       battles:
-        '1':
+        "1":
           link: >-
             http://www.rappers.in/en/vbt_2010-Monte-Rap-vs-Sichtwaise+aka+Masafakka-378.html
           teilnehmer:
@@ -25,7 +25,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/Zi-HN8h3AuI
                       original: true
-        '2':
+        "2":
           link: http://www.rappers.in/en/vbt_2010-Ains-vs-OnlyOneProduction-379.html
           teilnehmer:
             - name: Ains
@@ -36,7 +36,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/hsJgAvayM9g
                       original: true
-        '3':
+        "3":
           link: http://www.rappers.in/en/vbt_2010-whazzup-vs-sera+one-380.html
           teilnehmer:
             - name: whazzup
@@ -59,7 +59,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: MC Pint - Smash Brothers
-        '4':
+        "4":
           link: http://www.rappers.in/en/vbt_2010-Toni+Boy-vs-RaP2FaST-381.html
           teilnehmer:
             - name: Toni Boy
@@ -81,7 +81,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '5':
+        "5":
           link: http://www.rappers.in/en/vbt_2010-MeZz0-vs-ellerice-382.html
           teilnehmer:
             - name: MeZz0
@@ -100,7 +100,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/fphv0GozhYE
                       original: true
-        '6':
+        "6":
           link: http://www.rappers.in/en/vbt_2010-locke91-vs-Crystal-Records-383.html
           teilnehmer:
             - name: locke91
@@ -127,7 +127,7 @@ vbt2010:
                     - name: >-
                         Justus-Beatz  - ROCK / FEEDEN UND VOTEN NICHT VERGESSEN
                         SONST IST DAS DER LETZTE BEAT  DER HIER  REINKOMMT  ;)
-        '7':
+        "7":
           link: http://www.rappers.in/en/vbt_2010-Saiko+Black-vs-Kermos-384.html
           teilnehmer:
             - name: Saiko Black
@@ -153,7 +153,7 @@ vbt2010:
                     - name: >-
                         Justus-Beatz  - FICKT EUCH   / VOTE UNF FEEDBACK
                         ERWÜNSCHT  ;)
-        '8':
+        "8":
           link: http://www.rappers.in/en/vbt_2010-Reaper-vs-B+zum+O-385.html
           teilnehmer:
             - name: Reaper
@@ -165,7 +165,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/zzNrHU5CWPI
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: B zum O
               punkte: 5
               runden:
@@ -175,8 +175,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/K6OIsyhlGcs
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '9':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "9":
           link: http://www.rappers.in/en/vbt_2010-Simple+J-vs-KJMaSaKkA-386.html
           teilnehmer:
             - name: Simple J
@@ -195,7 +195,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/6XkpHeAEpYc
                       original: true
-        '10':
+        "10":
           link: http://www.rappers.in/en/vbt_2010-spencc-vs-HeatShot-387.html
           teilnehmer:
             - name: spencc
@@ -218,7 +218,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '11':
+        "11":
           link: http://www.rappers.in/en/vbt_2010-mck92-vs-Da+Henagigi-388.html
           teilnehmer:
             - name: mck92
@@ -239,7 +239,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: El Farmer - GuitarAllong (VBT)
-        '12':
+        "12":
           link: http://www.rappers.in/en/vbt_2010-S-aN-vs-MicAZz-389.html
           teilnehmer:
             - name: S-aN
@@ -258,7 +258,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ZRW0i_40-LI
                       original: true
-        '13':
+        "13":
           link: http://www.rappers.in/en/vbt_2010-LODDE+REC-vs-BossDD-390.html
           teilnehmer:
             - name: LODDE REC
@@ -281,7 +281,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Big Boss Musikantenstadl remix Beat
-        '14':
+        "14":
           link: http://www.rappers.in/en/vbt_2010-Makillas-vs-dreamz+MC-391.html
           teilnehmer:
             - name: Makillas
@@ -299,7 +299,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/8KLMj-Fl-q4
                       original: true
-        '15':
+        "15":
           link: http://www.rappers.in/en/vbt_2010-Lil-Hopz-vs--Killa--392.html
           teilnehmer:
             - name: Lil-Hopz
@@ -312,7 +312,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Veni, Vedi, Vici
-            - name: '-Killa-'
+            - name: "-Killa-"
               punkte: 2
               runden:
                 hr2:
@@ -322,7 +322,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Veni, Vedi, Vici
-        '16':
+        "16":
           link: http://www.rappers.in/en/vbt_2010-ChefCem-vs-C-Jay+One-393.html
           teilnehmer:
             - name: ChefCem
@@ -344,7 +344,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Bozz !!
-        '17':
+        "17":
           link: http://www.rappers.in/en/vbt_2010-K.i.d.F.-vs-coru-394.html
           teilnehmer:
             - name: K.i.d.F.
@@ -362,7 +362,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/iCQqDtqNpjo
                       original: true
-        '18':
+        "18":
           link: http://www.rappers.in/en/vbt_2010-Mc-Buggy-vs-Duzoe-395.html
           teilnehmer:
             - name: Mc-Buggy
@@ -380,7 +380,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/S6Its2woaxs
                       original: true
-        '19':
+        "19":
           link: http://www.rappers.in/en/vbt_2010-InspiratioN-vs-FelyFe-396.html
           teilnehmer:
             - name: InspiratioN
@@ -393,7 +393,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: MicDon - superstar
-        '20':
+        "20":
           link: http://www.rappers.in/en/vbt_2010-A-M-O-C-vs-Toomb-397.html
           teilnehmer:
             - name: A-M-O-C
@@ -406,8 +406,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/LAs0hD63CPk
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '21':
+                    - name: "shizofred - dre style/battle "
+        "21":
           link: http://www.rappers.in/en/vbt_2010-Dr%28ice%29t-vs-Alihan-398.html
           teilnehmer:
             - name: Dr(ice)t
@@ -419,7 +419,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/QVMDz6TTnJs
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
+                    - name: "Moretime Productions - Clubby Checker "
             - name: Alihan
               punkte: 8
               runden:
@@ -429,8 +429,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/U0KXp3FhREI
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
-        '22':
+                    - name: "Moretime Productions - Clubby Checker "
+        "22":
           link: http://www.rappers.in/en/vbt_2010-Don+Maxin-vs-CriVeM-399.html
           teilnehmer:
             - name: Don Maxin
@@ -442,7 +442,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/tWaA8_T5p5o
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
+                    - name: "Moretime Productions - Clubby Checker "
             - name: CriVeM
               runden:
                 hr2:
@@ -451,8 +451,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/7KtbF7Ihc34
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
-        '23':
+                    - name: "Moretime Productions - Clubby Checker "
+        "23":
           link: http://www.rappers.in/en/vbt_2010-Der_NeGro-vs-GYoung-400.html
           teilnehmer:
             - name: Der_NeGro
@@ -475,7 +475,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - El Mortimo
-        '24':
+        "24":
           link: http://www.rappers.in/en/vbt_2010-Mg-Lex-vs--SpiTter--401.html
           teilnehmer:
             - name: Mg-Lex
@@ -487,8 +487,8 @@ vbt2010:
                       original: true
                   beats:
                     - name: PaCe - VBT 2010
-            - name: '-SpiTter-'
-        '25':
+            - name: "-SpiTter-"
+        "25":
           link: http://www.rappers.in/en/vbt_2010-TRA-vs-Ka-o-Peh-402.html
           teilnehmer:
             - name: TRA
@@ -506,7 +506,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/69ScAHzLKu0
                       original: true
-        '26':
+        "26":
           link: http://www.rappers.in/en/vbt_2010-Amoc-vs-Chariz-403.html
           teilnehmer:
             - name: Amoc
@@ -529,7 +529,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Final
-        '27':
+        "27":
           link: http://www.rappers.in/en/vbt_2010-t-face-vs-seekay93-404.html
           teilnehmer:
             - name: t-face
@@ -544,10 +544,10 @@ vbt2010:
                       original: true
                   beats:
                     - name: r0kko - Ring Frei
-        '28':
+        "28":
           link: http://www.rappers.in/en/vbt_2010--KreuTz--vs-TimoseS-405.html
           teilnehmer:
-            - name: '-KreuTz-'
+            - name: "-KreuTz-"
             - name: TimoseS
               runden:
                 hr2:
@@ -555,7 +555,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/Ij_Kc6lXOZE
                       original: true
-        '29':
+        "29":
           link: http://www.rappers.in/en/vbt_2010-Kartoon-vs-stylezstyle-406.html
           teilnehmer:
             - name: Kartoon
@@ -568,7 +568,7 @@ vbt2010:
                   beats:
                     - name: Fam1X - Electrorap
             - name: stylezstyle
-        '30':
+        "30":
           link: http://www.rappers.in/en/vbt_2010-Flexone2-vs-Grisubeats-407.html
           teilnehmer:
             - name: Flexone2
@@ -594,7 +594,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '31':
+        "31":
           link: http://www.rappers.in/en/vbt_2010-Blare_one-vs-M.I.K.I-408.html
           teilnehmer:
             - name: Blare_one
@@ -607,7 +607,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
-        '32':
+        "32":
           link: http://www.rappers.in/en/vbt_2010-John+Dillinger-vs-DECIZE-409.html
           teilnehmer:
             - name: John Dillinger
@@ -618,7 +618,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/kcEyDDvI4Rw
                       original: true
-        '33':
+        "33":
           link: http://www.rappers.in/en/vbt_2010-Kontra+of+GBK-vs-t%214M9-410.html
           teilnehmer:
             - name: Kontra of GBK
@@ -630,7 +630,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/ZKzDAmHNouE
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - ROCKNewGeneration '
+                    - name: "Justus-Beatz  - ROCKNewGeneration "
             - name: t!4M9
               punkte: 4
               runden:
@@ -640,8 +640,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/WM10U0S7ZfY
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - ROCKNewGeneration '
-        '34':
+                    - name: "Justus-Beatz  - ROCKNewGeneration "
+        "34":
           link: http://www.rappers.in/en/vbt_2010-Harry+Proper-vs-G-Rhyme12-411.html
           teilnehmer:
             - name: Harry Proper
@@ -664,7 +664,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: El Farmer - Flucht_aus_Absolom
-        '35':
+        "35":
           link: http://www.rappers.in/en/vbt_2010-Kay+Lynah-vs-AlutaBazooka-412.html
           teilnehmer:
             - name: Kay Lynah
@@ -683,7 +683,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/D8W33fBcs48
                       original: true
-        '36':
+        "36":
           link: http://www.rappers.in/en/vbt_2010-STM8o9-vs-KanistyLez-413.html
           teilnehmer:
             - name: STM8o9
@@ -706,7 +706,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: FlowRebell - back clap
-        '37':
+        "37":
           link: http://www.rappers.in/en/vbt_2010-LKR-vs-Cray-Z-414.html
           teilnehmer:
             - name: LKR
@@ -725,7 +725,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/1hwnj7s35NA
                       original: true
-        '38':
+        "38":
           link: http://www.rappers.in/en/vbt_2010-NavyMC-vs--blesk--415.html
           teilnehmer:
             - name: NavyMC
@@ -736,7 +736,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/t6xIu1yO-vE
                       original: true
-            - name: '-blesk-'
+            - name: "-blesk-"
               punkte: 4
               runden:
                 hr2:
@@ -744,7 +744,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/1O5EetGdMxk
                       original: true
-        '39':
+        "39":
           link: http://www.rappers.in/en/vbt_2010-Lane-vs-Dupash-416.html
           teilnehmer:
             - name: Lane
@@ -756,7 +756,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/gA1dHCEoHb4
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: Dupash
               punkte: 7
               runden:
@@ -766,8 +766,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/xfjlpZ8T2bI
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '40':
+                    - name: "shizofred - dre style/battle "
+        "40":
           link: http://www.rappers.in/en/vbt_2010-Tobsen-vs-M1Co-417.html
           teilnehmer:
             - name: Tobsen
@@ -790,7 +790,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Creepa in Höchstform
-        '41':
+        "41":
           link: http://www.rappers.in/en/vbt_2010-Talha_Rap-vs-DreamOne-418.html
           teilnehmer:
             - name: Talha_Rap
@@ -802,7 +802,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/M2bwLxxxRbI
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: DreamOne
               punkte: 3
               runden:
@@ -812,8 +812,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/4YgF0tBbV9k
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '42':
+                    - name: "shizofred - dre style/battle "
+        "42":
           link: http://www.rappers.in/en/vbt_2010-Drion-vs-Wortfeind-419.html
           teilnehmer:
             - name: Drion
@@ -832,7 +832,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/995gPtKox4M
                       original: true
-        '43':
+        "43":
           link: http://www.rappers.in/en/vbt_2010-Skyline2009-vs-Kreativ91-420.html
           teilnehmer:
             - name: Skyline2009
@@ -845,7 +845,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Arschtritt (VBT 10)
-        '44':
+        "44":
           link: >-
             http://www.rappers.in/en/vbt_2010-streetsoldyer-vs-Beatkid_Rap-421.html
           teilnehmer:
@@ -869,7 +869,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: GeeNaro - BANGBASS ! VOTEN!!!!
-        '45':
+        "45":
           link: http://www.rappers.in/en/vbt_2010-Smok16-vs-Dahomy-422.html
           teilnehmer:
             - name: Smok16
@@ -891,7 +891,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Egoistic - Battle Beat
-        '46':
+        "46":
           link: http://www.rappers.in/en/vbt_2010-Crimson-vs-D-FoK-423.html
           teilnehmer:
             - name: Crimson
@@ -904,7 +904,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '47':
+        "47":
           link: http://www.rappers.in/en/vbt_2010-Sizi-Size-vs-Dannyx3-424.html
           teilnehmer:
             - name: Sizi-Size
@@ -927,7 +927,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '48':
+        "48":
           link: http://www.rappers.in/en/vbt_2010-SouleK-vs-AKS-425.html
           teilnehmer:
             - name: SouleK
@@ -950,7 +950,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats - VBT 2010
-        '49':
+        "49":
           link: http://www.rappers.in/en/vbt_2010-MagixRecordz-AM-vs-Jiro94-426.html
           teilnehmer:
             - name: MagixRecordz-AM
@@ -972,7 +972,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Straight on (VBT 10)
-        '50':
+        "50":
           link: http://www.rappers.in/en/vbt_2010-GeOT-vs-kramsen-427.html
           teilnehmer:
             - name: GeOT
@@ -998,7 +998,7 @@ vbt2010:
                     - name: >-
                         Smok1 - 232 Loads 7 Votes lächerlich alter man VOTEN !!!!
                         IST NICHT SCHWER !!!!!!!
-        '51':
+        "51":
           link: http://www.rappers.in/en/vbt_2010-TekDerNewcomer-vs-boby2330-428.html
           teilnehmer:
             - name: TekDerNewcomer
@@ -1012,7 +1012,7 @@ vbt2010:
                     - name: Miks - Meine Mission
             - name: boby2330
               punkte: 4
-        '52':
+        "52":
           link: http://www.rappers.in/en/vbt_2010-Ac_M-Gee-vs-janbarmann-429.html
           teilnehmer:
             - name: Ac_M-Gee
@@ -1035,7 +1035,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2Diamond Beat - Game Over
-        '53':
+        "53":
           link: http://www.rappers.in/en/vbt_2010-Sentar-vs-e-menz-430.html
           teilnehmer:
             - name: Sentar
@@ -1046,7 +1046,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/5asoQd0ZJvU
                       original: true
             - name: e-menz
-        '54':
+        "54":
           link: http://www.rappers.in/en/vbt_2010-kruste-vs-T.Housewarth-432.html
           teilnehmer:
             - name: kruste
@@ -1074,7 +1074,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Creuzfeld & Jakob
                         (Widmung)
-        '55':
+        "55":
           link: http://www.rappers.in/en/vbt_2010-KilaY-vs-E-Age-433.html
           teilnehmer:
             - name: KilaY
@@ -1097,7 +1097,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Final
-        '56':
+        "56":
           link: http://www.rappers.in/en/vbt_2010-Rytality-vs-Amok_Salva-434.html
           teilnehmer:
             - name: Rytality
@@ -1120,7 +1120,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Dj_MethMX - UPDATE!!! -> Orchester Banger !!!
-        '57':
+        "57":
           link: http://www.rappers.in/en/vbt_2010-BoBoR-vs-Princip-435.html
           teilnehmer:
             - name: BoBoR
@@ -1139,7 +1139,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/hM_YDAdHWa4
                       original: true
-        '58':
+        "58":
           link: http://www.rappers.in/en/vbt_2010-C-Chriz-vs-AnDist-436.html
           teilnehmer:
             - name: C-Chriz
@@ -1162,10 +1162,10 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Arschtritt (VBT 10)
-        '59':
+        "59":
           link: http://www.rappers.in/en/vbt_2010-%2ATMC%2A-vs-Lance+Butters-437.html
           teilnehmer:
-            - name: '*TMC*'
+            - name: "*TMC*"
             - name: Lance Butters
               runden:
                 hr2:
@@ -1173,7 +1173,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/G3MnpGPYlVo
                       original: true
-        '60':
+        "60":
           link: http://www.rappers.in/en/vbt_2010-NuKay-vs-i.rim-438.html
           teilnehmer:
             - name: NuKay
@@ -1196,7 +1196,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: GeeNaro - BANGBASS ! VOTEN!!!!
-        '61':
+        "61":
           link: http://www.rappers.in/en/vbt_2010-..Sa.E..-vs-GeeNaro-439.html
           teilnehmer:
             - name: ..Sa.E..
@@ -1219,7 +1219,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: SpecialBeatForce - StreetLife (16 Bars)
-        '62':
+        "62":
           link: http://www.rappers.in/en/vbt_2010-RJtheR-vs-Primus23-440.html
           teilnehmer:
             - name: RJtheR
@@ -1241,7 +1241,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2Diamond Beat - Game Over
-        '63':
+        "63":
           link: http://www.rappers.in/en/vbt_2010-MPH-vs-JABO-441.html
           teilnehmer:
             - name: MPH
@@ -1254,7 +1254,7 @@ vbt2010:
                   beats:
                     - name: Pesem - My
             - name: JABO
-        '64':
+        "64":
           link: http://www.rappers.in/en/vbt_2010-Snowrash-vs-TurZ-442.html
           teilnehmer:
             - name: Snowrash
@@ -1265,7 +1265,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/IQ98b6uDWic
                       original: true
             - name: TurZ
-        '65':
+        "65":
           link: http://www.rappers.in/en/vbt_2010-Drack-vs-TolgaMusik-443.html
           teilnehmer:
             - name: Drack
@@ -1288,7 +1288,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2Diamond Beat - Game Over
-        '66':
+        "66":
           link: http://www.rappers.in/en/vbt_2010-U-Rapter-vs-Tom+Cruised-444.html
           teilnehmer:
             - name: U-Rapter
@@ -1300,7 +1300,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/NUzp_iR2Ux0
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: Tom Cruised
               punkte: 3
               runden:
@@ -1310,8 +1310,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/fw6Wu1sa4yY
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '67':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "67":
           link: http://www.rappers.in/en/vbt_2010-RageHH-vs-Narut0-445.html
           teilnehmer:
             - name: RageHH
@@ -1324,7 +1324,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Final
-        '68':
+        "68":
           link: http://www.rappers.in/en/vbt_2010-Chellah-vs-Big+Marv18-446.html
           teilnehmer:
             - name: Chellah
@@ -1346,7 +1346,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Miks - Meine Musik Intro
-        '69':
+        "69":
           link: http://www.rappers.in/en/vbt_2010-senselezz-vs-Chester-447.html
           teilnehmer:
             - name: senselezz
@@ -1369,7 +1369,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PaCe - VBT 2010
-        '70':
+        "70":
           link: http://www.rappers.in/en/vbt_2010-Sputnik-vs-lolment-448.html
           teilnehmer:
             - name: Sputnik
@@ -1382,7 +1382,7 @@ vbt2010:
                   beats:
                     - name: Egoistic - Battle Beat
             - name: lolment
-        '71':
+        "71":
           link: http://www.rappers.in/en/vbt_2010-.M.-vs-JanniX-449.html
           teilnehmer:
             - name: .M.
@@ -1401,7 +1401,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/U7Jzs42FiJc
                       original: true
-        '72':
+        "72":
           link: http://www.rappers.in/en/vbt_2010-LaCase-Music-vs-Mc_Pint-450.html
           teilnehmer:
             - name: LaCase-Music
@@ -1414,7 +1414,7 @@ vbt2010:
                   beats:
                     - name: 2 Diamond Beats - VBT 2010
             - name: Mc_Pint
-        '73':
+        "73":
           link: http://www.rappers.in/en/vbt_2010-Mr.K-vs-M+G+Style-451.html
           teilnehmer:
             - name: Mr.K
@@ -1433,7 +1433,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/Lw49kV-z_Fs
                       original: true
-        '74':
+        "74":
           link: >-
             http://www.rappers.in/en/vbt_2010-Straightluke-vs-KisoR+Da+Tona-452.html
           teilnehmer:
@@ -1447,7 +1447,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats - VBT 2010
-        '75':
+        "75":
           link: http://www.rappers.in/en/vbt_2010-shortystyle-vs-Lil+Die-453.html
           teilnehmer:
             - name: shortystyle
@@ -1458,7 +1458,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/ABx6r5jCkZY
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: Lil Die
               punkte: 4
               runden:
@@ -1468,8 +1468,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/RLHgxrsrUk8
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '76':
+                    - name: "shizofred - dre style/battle "
+        "76":
           link: http://www.rappers.in/en/vbt_2010-mcrainbo-vs-Tabun-454.html
           teilnehmer:
             - name: mcrainbo
@@ -1492,7 +1492,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
-        '77':
+        "77":
           link: http://www.rappers.in/en/vbt_2010-StenZz-vs-PrideRAP-455.html
           teilnehmer:
             - name: StenZz
@@ -1503,7 +1503,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/K4KjMRltVFQ
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
+                    - name: "shizofred - reality "
             - name: PrideRAP
               punkte: 6
               runden:
@@ -1513,8 +1513,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/YAbYqdzVEkw
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '78':
+                    - name: "shizofred - reality "
+        "78":
           link: http://www.rappers.in/en/vbt_2010-B-CriiMe-vs-Xdogg-456.html
           teilnehmer:
             - name: B-CriiMe
@@ -1525,7 +1525,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/2S0q-5jX8tQ
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: Xdogg
               runden:
                 hr2:
@@ -1534,8 +1534,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/UWtIgwcNcI4
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '79':
+                    - name: "shizofred - dre style/battle "
+        "79":
           link: http://www.rappers.in/en/vbt_2010-sensation-vs-StriddyCent-457.html
           teilnehmer:
             - name: sensation
@@ -1554,7 +1554,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/KR7XuhNtVwY
                       original: true
-        '80':
+        "80":
           link: http://www.rappers.in/en/vbt_2010-kendo-music-vs-cr34ture-458.html
           teilnehmer:
             - name: kendo-music
@@ -1577,7 +1577,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Egoistic - Battle Beat
-        '81':
+        "81":
           link: http://www.rappers.in/en/vbt_2010-Makellos-vs-Noz-459.html
           teilnehmer:
             - name: Makellos
@@ -1588,7 +1588,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/y0Ga8jhMXZg
                       original: true
-        '82':
+        "82":
           link: http://www.rappers.in/en/vbt_2010-Santo+Capo-vs-Disaster-460.html
           teilnehmer:
             - name: Santo Capo
@@ -1603,7 +1603,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: SpecialBeatForce - StreetLife (16 Bars)
-        '83':
+        "83":
           link: http://www.rappers.in/en/vbt_2010-Siggy-vs-DynamiteDLX-461.html
           teilnehmer:
             - name: Siggy
@@ -1615,8 +1615,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/LDG4t9hw0_M
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
-        '84':
+                    - name: "Moretime Productions - Clubby Checker "
+        "84":
           link: >-
             http://www.rappers.in/en/vbt_2010-Wort-Fetischist-vs-OSTdeutschland-462.html
           teilnehmer:
@@ -1640,7 +1640,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Miks - Drachenjagd048
-        '85':
+        "85":
           link: http://www.rappers.in/en/vbt_2010-KiXx809-vs-Ieviedabronx-463.html
           teilnehmer:
             - name: KiXx809
@@ -1662,7 +1662,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats  -  exclusiv for rappers.in
-        '86':
+        "86":
           link: http://www.rappers.in/en/vbt_2010-Suwhat-vs-Spl%40tt%80r-464.html
           teilnehmer:
             - name: Suwhat
@@ -1685,7 +1685,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats  -  exclusiv for rappers.in
-        '87':
+        "87":
           link: http://www.rappers.in/en/vbt_2010-Giegi-G-vs-TC+RECORDS-465.html
           teilnehmer:
             - name: Giegi-G
@@ -1698,7 +1698,7 @@ vbt2010:
                   beats:
                     - name: Moretime Productions - Big Boss Musikantenstadl remix Beat
             - name: TC RECORDS
-        '88':
+        "88":
           link: http://www.rappers.in/en/vbt_2010-Chalan-vs-bazooka-466.html
           teilnehmer:
             - name: Chalan
@@ -1725,7 +1725,7 @@ vbt2010:
                     - name: >-
                         Justus-Beatz  - ROCK / FEEDEN UND VOTEN NICHT VERGESSEN
                         SONST IST DAS DER LETZTE BEAT  DER HIER  REINKOMMT  ;)
-        '89':
+        "89":
           link: http://www.rappers.in/en/vbt_2010-Lkspresents-vs-dash%60-467.html
           teilnehmer:
             - name: Lkspresents
@@ -1748,7 +1748,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: FRL - chilla milla
-        '90':
+        "90":
           link: http://www.rappers.in/en/vbt_2010-NileZs-vs-Shenzo91-468.html
           teilnehmer:
             - name: NileZs
@@ -1759,9 +1759,9 @@ vbt2010:
                     - url: http://www.youtube.com/embed/9Sy966HlJHE
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
+                    - name: "Moretime Productions - Clubby Checker "
             - name: Shenzo91
-        '91':
+        "91":
           link: http://www.rappers.in/en/vbt_2010-MazzaKa68-vs-ZipZip-469.html
           teilnehmer:
             - name: MazzaKa68
@@ -1774,7 +1774,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: BHB - Real Hip Hop (16er)
-        '92':
+        "92":
           link: http://www.rappers.in/en/vbt_2010-DaN-vs-Sickbo-470.html
           teilnehmer:
             - name: DaN
@@ -1787,7 +1787,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred - kabooombanger dings
-        '93':
+        "93":
           link: http://www.rappers.in/en/vbt_2010-KDiecobY-vs-Jim+Carrol-471.html
           teilnehmer:
             - name: KDiecobY
@@ -1809,7 +1809,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: El Farmer - Street Hustler`s
-        '94':
+        "94":
           link: http://www.rappers.in/en/vbt_2010-Autumn-vs-EreZ-472.html
           teilnehmer:
             - name: Autumn
@@ -1831,7 +1831,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - El Mortimo
-        '95':
+        "95":
           link: http://www.rappers.in/en/vbt_2010-GroebenOne-vs-Manurro-473.html
           teilnehmer:
             - name: GroebenOne
@@ -1853,7 +1853,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mik-Star - Golden Silver
-        '96':
+        "96":
           link: http://www.rappers.in/en/vbt_2010-PsDeluXe809-vs-ProRipper-474.html
           teilnehmer:
             - name: PsDeluXe809
@@ -1872,7 +1872,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/fB6J7N4FjSA
                       original: true
-        '97':
+        "97":
           link: http://www.rappers.in/en/vbt_2010-teest-vs-Lukged1-475.html
           teilnehmer:
             - name: teest
@@ -1894,7 +1894,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Tonik-Beatz - Fuck Police
-        '98':
+        "98":
           link: http://www.rappers.in/en/vbt_2010-St%40ins-vs-Algasoro2009-476.html
           teilnehmer:
             - name: St@ins
@@ -1906,7 +1906,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/jfr4hkPywV0
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
+                    - name: "Moretime Productions - Clubby Checker "
             - name: Algasoro2009
               punkte: 5
               runden:
@@ -1916,8 +1916,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/7HFAuIqQvHE
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
-        '99':
+                    - name: "Moretime Productions - Clubby Checker "
+        "99":
           link: http://www.rappers.in/en/vbt_2010-JaY1994-vs-Mr.Waks-477.html
           teilnehmer:
             - name: JaY1994
@@ -1928,7 +1928,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/7d-oiQ1AyDk
                       original: true
-        '100':
+        "100":
           link: http://www.rappers.in/en/vbt_2010-Andy-K-vs-Kevnox-478.html
           teilnehmer:
             - name: Andy-K
@@ -1954,7 +1954,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Cyber SpAcE ( Für jeden
                         Top Rapper )
-        '101':
+        "101":
           link: http://www.rappers.in/en/vbt_2010-Lim1t-vs-dermacdubitch-479.html
           teilnehmer:
             - name: Lim1t
@@ -1977,7 +1977,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - rappers.in Exclusive Freebeat
-        '102':
+        "102":
           link: http://www.rappers.in/en/vbt_2010-DerGegna-vs-emco-480.html
           teilnehmer:
             - name: DerGegna
@@ -1988,9 +1988,9 @@ vbt2010:
                     - url: http://www.youtube.com/embed/RBeKUm90N7E
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
+                    - name: "shizofred - reality "
             - name: emco
-        '103':
+        "103":
           link: http://www.rappers.in/en/vbt_2010-MoooN-vs-Enemy_One67-481.html
           teilnehmer:
             - name: MoooN
@@ -2012,7 +2012,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Veni, Vedi, Vici
-        '104':
+        "104":
           link: http://www.rappers.in/en/vbt_2010-K-Win-vs-Vandalgubin-482.html
           teilnehmer:
             - name: K-Win
@@ -2023,7 +2023,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/muHWvB42u70
                       original: true
             - name: Vandalgubin
-        '105':
+        "105":
           link: >-
             http://www.rappers.in/en/vbt_2010-Maverick_Musik-vs-Scheffy+Scheff-483.html
           teilnehmer:
@@ -2037,7 +2037,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Miks - Stellvertreter
-        '106':
+        "106":
           link: http://www.rappers.in/en/vbt_2010-plow-vs-KEF-484.html
           teilnehmer:
             - name: plow
@@ -2059,7 +2059,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '107':
+        "107":
           link: http://www.rappers.in/en/vbt_2010-Say-vs-C-Rider-485.html
           teilnehmer:
             - name: Say
@@ -2071,7 +2071,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/C5Uffn7UATc
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: C-Rider
               punkte: 3
               runden:
@@ -2081,8 +2081,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/iOuhaYLfQec
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '108':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "108":
           link: http://www.rappers.in/en/vbt_2010-xX+K%E1y+Xx-vs-Enceo-486.html
           teilnehmer:
             - name: xX Káy Xx
@@ -2097,7 +2097,7 @@ vbt2010:
                     - name: El Farmer - GuitarAllong (VBT)
             - name: Enceo
               punkte: 3
-        '109':
+        "109":
           link: http://www.rappers.in/en/vbt_2010-%24T4T%21C-vs-WoOdY666-487.html
           teilnehmer:
             - name: $T4T!C
@@ -2108,7 +2108,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/FfdfxNKNwEM
                       original: true
-        '110':
+        "110":
           link: http://www.rappers.in/en/vbt_2010-MathiN+FoX-vs-BiG_RoB-488.html
           teilnehmer:
             - name: MathiN FoX
@@ -2121,7 +2121,7 @@ vbt2010:
                   beats:
                     - name: SmeckZ - Weiße Taube
             - name: BiG_RoB
-        '111':
+        "111":
           link: http://www.rappers.in/en/vbt_2010-FloW-KiNG-vs-Basssex-489.html
           teilnehmer:
             - name: FloW-KiNG
@@ -2143,7 +2143,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats - VBT 2010
-        '112':
+        "112":
           link: http://www.rappers.in/en/vbt_2010-PhoenixFighter-vs-Maso-G-490.html
           teilnehmer:
             - name: PhoenixFighter
@@ -2154,7 +2154,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/-p8CO_yTKHE
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: Maso-G
               punkte: 5
               runden:
@@ -2164,8 +2164,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/BRMH-UjPd-Y
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '113':
+                    - name: "shizofred - dre style/battle "
+        "113":
           link: http://www.rappers.in/en/vbt_2010-kohma-one-vs-G%28ESca%29N-491.html
           teilnehmer:
             - name: kohma-one
@@ -2192,7 +2192,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Cyber SpAcE ( Für jeden
                         Top Rapper )
-        '114':
+        "114":
           link: http://www.rappers.in/en/vbt_2010-Relapse-vs-GeeGranit-492.html
           teilnehmer:
             - name: Relapse
@@ -2211,7 +2211,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/JC-jM6n15V8
                       original: true
-        '115':
+        "115":
           link: >-
             http://www.rappers.in/en/vbt_2010-Mahony770-vs-MC+MENSCHENFEIND-493.html
           teilnehmer:
@@ -2225,7 +2225,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: MC Pint - Smash Brothers
-        '116':
+        "116":
           link: http://www.rappers.in/en/vbt_2010-tracmusic-vs-Bash.-494.html
           teilnehmer:
             - name: tracmusic
@@ -2238,7 +2238,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - rappers.in Exclusive Freebeat
-        '117':
+        "117":
           link: http://www.rappers.in/en/vbt_2010-Louks-vs-Marky+P-495.html
           teilnehmer:
             - name: Louks
@@ -2261,7 +2261,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mik-Star - Sneek 04
-        '118':
+        "118":
           link: http://www.rappers.in/en/vbt_2010-Fukz-vs-Sweed-496.html
           teilnehmer:
             - name: Fukz
@@ -2284,7 +2284,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Dozy Devil - Yüah No#1
-        '119':
+        "119":
           link: http://www.rappers.in/en/vbt_2010-dr.kaa-vs-Splint+aka.+Spt-497.html
           teilnehmer:
             - name: dr.kaa
@@ -2306,7 +2306,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: SpecialBeatForce - StreetLife (16 Bars)
-        '120':
+        "120":
           link: http://www.rappers.in/en/vbt_2010-Real-K809-vs-Rosh-498.html
           teilnehmer:
             - name: Real-K809
@@ -2325,7 +2325,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/mv3A0rovqhA
                       original: true
-        '121':
+        "121":
           link: http://www.rappers.in/en/vbt_2010-jabbo-vs-FLOrginal-499.html
           teilnehmer:
             - name: jabbo
@@ -2348,7 +2348,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mik-Star - Sneek 06
-        '122':
+        "122":
           link: http://www.rappers.in/en/vbt_2010-Warren+Peace-vs-Loewenfront-500.html
           teilnehmer:
             - name: Warren Peace
@@ -2360,7 +2360,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/ag49FuxhZI8
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
+                    - name: "shizofred - reality "
             - name: Loewenfront
               punkte: 5
               runden:
@@ -2370,8 +2370,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/AUMvpm2SHB8
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '123':
+                    - name: "shizofred - reality "
+        "123":
           link: http://www.rappers.in/en/vbt_2010-MHE-vs-LTeck-501.html
           teilnehmer:
             - name: MHE
@@ -2394,7 +2394,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Bozz !!
-        '124':
+        "124":
           link: http://www.rappers.in/en/vbt_2010-margi-vs-YaJo-503.html
           teilnehmer:
             - name: margi
@@ -2412,7 +2412,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/m3dkuEdd8ag
                       original: true
-        '125':
+        "125":
           link: http://www.rappers.in/en/vbt_2010-pimf-vs-Donetasy-504.html
           teilnehmer:
             - name: pimf
@@ -2435,7 +2435,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Miks - Das Phaenomen Berlin
-        '126':
+        "126":
           link: http://www.rappers.in/en/vbt_2010-Pr%21MaR-vs-cosa123-505.html
           teilnehmer:
             - name: Pr!MaR
@@ -2458,7 +2458,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: OsoulBeats - trauer beat
-        '127':
+        "127":
           link: http://www.rappers.in/en/vbt_2010-Mc+Gravo-vs-Smoke+M-506.html
           teilnehmer:
             - name: Mc Gravo
@@ -2469,7 +2469,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/qijw1jRr5tE
                       original: true
-        '128':
+        "128":
           link: http://www.rappers.in/en/vbt_2010-Kay+Vee-vs-faktbr-507.html
           teilnehmer:
             - name: Kay Vee
@@ -2480,7 +2480,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/DCg3snPVH0U
                       original: true
             - name: faktbr
-        '129':
+        "129":
           link: http://www.rappers.in/en/vbt_2010-Partymaker1-vs-Giannstar-508.html
           teilnehmer:
             - name: Partymaker1
@@ -2493,8 +2493,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/uYcAcCkBduQ
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '130':
+                    - name: "shizofred - reality "
+        "130":
           link: http://www.rappers.in/en/vbt_2010-Puzzle23-vs-complex-509.html
           teilnehmer:
             - name: Puzzle23
@@ -2506,7 +2506,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/Fheeulf6YoU
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: complex
               punkte: 6
               runden:
@@ -2516,8 +2516,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/ivRc6Pg-tV0
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '131':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "131":
           link: http://www.rappers.in/en/vbt_2010-Borni-vs-Koma-Gun-510.html
           teilnehmer:
             - name: Borni
@@ -2530,7 +2530,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PaCe - VBT 2010
-        '132':
+        "132":
           link: http://www.rappers.in/en/vbt_2010-Ti_Jay-vs-Tjard-512.html
           teilnehmer:
             - name: Ti_Jay
@@ -2552,7 +2552,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '133':
+        "133":
           link: http://www.rappers.in/en/vbt_2010-Micelone-vs-B-Chris-513.html
           teilnehmer:
             - name: Micelone
@@ -2565,8 +2565,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/iWHWEVrvj38
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '134':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "134":
           link: http://www.rappers.in/en/vbt_2010-ThriLL-vs-nash%21-514.html
           teilnehmer:
             - name: ThriLL
@@ -2584,7 +2584,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/cnkS4jiPeg8
                       original: true
-        '135':
+        "135":
           link: http://www.rappers.in/en/vbt_2010-C+M+C-vs-Respect-515.html
           teilnehmer:
             - name: C M C
@@ -2597,7 +2597,7 @@ vbt2010:
                   beats:
                     - name: Mpire - Feel it
             - name: Respect
-        '136':
+        "136":
           link: >-
             http://www.rappers.in/en/vbt_2010-MC+Nacktmull+Mullsches-vs-esistderhesse-516.html
           teilnehmer:
@@ -2616,7 +2616,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/UlEWuBFAJK4
                       original: true
-        '137':
+        "137":
           link: http://www.rappers.in/en/vbt_2010-SicilianDon-vs-E-siX-517.html
           teilnehmer:
             - name: SicilianDon
@@ -2642,7 +2642,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Creuzfeld & Jakob
                         (Widmung)
-        '138':
+        "138":
           link: http://www.rappers.in/en/vbt_2010-KerOne-vs-Kico-518.html
           teilnehmer:
             - name: KerOne
@@ -2653,7 +2653,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/e1Wcec_jE2s
                       original: true
-        '139':
+        "139":
           link: http://www.rappers.in/en/vbt_2010-Rapadize-vs-Drisherx-519.html
           teilnehmer:
             - name: Rapadize
@@ -2672,7 +2672,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/AdSTw1kRaRU
                       original: true
-        '140':
+        "140":
           link: http://www.rappers.in/en/vbt_2010-D.Brasco-vs-YaMikU-520.html
           teilnehmer:
             - name: D.Brasco
@@ -2695,7 +2695,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '141':
+        "141":
           link: http://www.rappers.in/en/vbt_2010-%24%2ABizek%2A%24-vs-Sylux-521.html
           teilnehmer:
             - name: $*Bizek*$
@@ -2718,7 +2718,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2Diamond Beat - Game Over
-        '142':
+        "142":
           link: http://www.rappers.in/en/vbt_2010-Storm-Music-vs-Sinnflow-522.html
           teilnehmer:
             - name: Storm-Music
@@ -2730,8 +2730,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/YqnGce2uGos
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '143':
+                    - name: "shizofred - dre style/battle "
+        "143":
           link: http://www.rappers.in/en/vbt_2010-Gat+Swagger-vs-Bloodsplash-523.html
           teilnehmer:
             - name: Gat Swagger
@@ -2750,7 +2750,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/YWfAKfut3Tw
                       original: true
-        '144':
+        "144":
           link: http://www.rappers.in/en/vbt_2010-CORE-vs-K%F6hn+93-524.html
           teilnehmer:
             - name: CORE
@@ -2773,7 +2773,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '145':
+        "145":
           link: http://www.rappers.in/en/vbt_2010-D-%24tyLe-vs-FO-J1X-525.html
           teilnehmer:
             - name: D-$tyLe
@@ -2795,7 +2795,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: GeeNaro - BANGBASS ! VOTEN!!!!
-        '146':
+        "146":
           link: http://www.rappers.in/en/vbt_2010-Jay+aka+Hde-vs-stfblade-527.html
           teilnehmer:
             - name: Jay aka Hde
@@ -2807,7 +2807,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/X_8Ziipbvgk
                       original: true
                   beats:
-                    - name: 'Ice Diamond - Weihnachts-Exclusive '
+                    - name: "Ice Diamond - Weihnachts-Exclusive "
             - name: stfblade
               punkte: 2
               runden:
@@ -2817,8 +2817,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/ojk3ZBskauU
                       original: true
                   beats:
-                    - name: 'Ice Diamond - Weihnachts-Exclusive '
-        '147':
+                    - name: "Ice Diamond - Weihnachts-Exclusive "
+        "147":
           link: http://www.rappers.in/en/vbt_2010-C.A.+One-vs-Gora%21-528.html
           teilnehmer:
             - name: C.A. One
@@ -2840,7 +2840,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Royal Salute Re-up
-        '148':
+        "148":
           link: http://www.rappers.in/en/vbt_2010-Karano-vs-DerMayhem-529.html
           teilnehmer:
             - name: Karano
@@ -2861,7 +2861,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - El Mortimo
-        '149':
+        "149":
           link: http://www.rappers.in/en/vbt_2010-JoFLow-vs-Axmuzik-530.html
           teilnehmer:
             - name: JoFLow
@@ -2873,7 +2873,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/H_rdXdyOimI
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
+                    - name: "shizofred - reality "
             - name: Axmuzik
               runden:
                 hr2:
@@ -2882,8 +2882,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/eHAuzkcrSPI
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '150':
+                    - name: "shizofred - reality "
+        "150":
           link: http://www.rappers.in/en/vbt_2010-Chris-B-Chicken-vs-ideahl-531.html
           teilnehmer:
             - name: Chris-B-Chicken
@@ -2906,7 +2906,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Catan - Es wird Zeit
-        '151':
+        "151":
           link: http://www.rappers.in/en/vbt_2010-McQuer-vs-King+Marsmania-532.html
           teilnehmer:
             - name: McQuer
@@ -2923,7 +2923,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ORuyZ7Y5njY
                       original: true
-        '152':
+        "152":
           link: http://www.rappers.in/en/vbt_2010-Relaze-vs-Salzmensch-533.html
           teilnehmer:
             - name: Relaze
@@ -2935,8 +2935,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/pjwW90dqlbw
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
-        '153':
+                    - name: "Moretime Productions - Clubby Checker "
+        "153":
           link: http://www.rappers.in/en/vbt_2010-DSGV-vs-iSoRap-534.html
           teilnehmer:
             - name: DSGV
@@ -2959,7 +2959,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: BHB - Real Hip Hop (16er)
-        '154':
+        "154":
           link: http://www.rappers.in/en/vbt_2010-i-jay.cisco-vs-mzes-535.html
           teilnehmer:
             - name: i-jay.cisco
@@ -2980,7 +2980,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: BHB - Real Hip Hop (16er)
-        '155':
+        "155":
           link: http://www.rappers.in/en/vbt_2010-Ricordz-vs-J%60Nem+Der+Bozz-536.html
           teilnehmer:
             - name: Ricordz
@@ -3003,7 +3003,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - El Mortimo
-        '156':
+        "156":
           link: http://www.rappers.in/en/vbt_2010-Yachthund-vs-LzumK_Music-537.html
           teilnehmer:
             - name: Yachthund
@@ -3026,7 +3026,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: TA-Beatz - double violine
-        '157':
+        "157":
           link: http://www.rappers.in/en/vbt_2010-Tripple-G-vs-R.A.P-538.html
           teilnehmer:
             - name: Tripple-G
@@ -3052,7 +3052,7 @@ vbt2010:
                     - name: >-
                         shizofred - shizobeats-contest #1 commin up - dirty
                         southstyle
-        '158':
+        "158":
           link: http://www.rappers.in/en/vbt_2010-King+Taison-vs-MoaBITE-539.html
           teilnehmer:
             - name: King Taison
@@ -3070,7 +3070,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/TkHq2iuO82U
                       original: true
-        '159':
+        "159":
           link: >-
             http://www.rappers.in/en/vbt_2010-eZ-Kay-vs-xX+Chris.H.Deluxe+Xx-540.html
           teilnehmer:
@@ -3083,7 +3083,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/mpQoGBpc6cY
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
+                    - name: "Moretime Productions - Clubby Checker "
             - name: xX Chris.H.Deluxe Xx
               punkte: 1
               runden:
@@ -3093,8 +3093,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/V1fy66UqrbY
                       original: true
                   beats:
-                    - name: 'Moretime Productions - Clubby Checker '
-        '160':
+                    - name: "Moretime Productions - Clubby Checker "
+        "160":
           link: http://www.rappers.in/en/vbt_2010-meins-vs-Rheiner+Zufall-541.html
           teilnehmer:
             - name: meins
@@ -3105,7 +3105,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/Ihjy_j0hYoE
                       original: true
-        '161':
+        "161":
           link: http://www.rappers.in/en/vbt_2010-Mr.+BoenZ-vs-SpliffTastiC-542.html
           teilnehmer:
             - name: Mr. BoenZ
@@ -3128,7 +3128,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Tron - Beach
-        '162':
+        "162":
           link: >-
             http://www.rappers.in/en/vbt_2010-Dexter+the+shit-vs-QQQQ.retrosexual-543.html
           teilnehmer:
@@ -3140,7 +3140,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/Jf4ZxB74IY4
                       original: true
-        '163':
+        "163":
           link: http://www.rappers.in/en/vbt_2010-juSativa-vs-Ginoh-544.html
           teilnehmer:
             - name: juSativa
@@ -3158,7 +3158,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/WoGd9TA7EJo
                       original: true
-        '164':
+        "164":
           link: http://www.rappers.in/en/vbt_2010-Ali+Paris-vs-EnemyOne67-545.html
           teilnehmer:
             - name: Ali Paris
@@ -3170,8 +3170,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/E3fSGVOHdLA
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '165':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "165":
           link: http://www.rappers.in/en/vbt_2010-aredt-vs-Luie-Die-Nadel-546.html
           teilnehmer:
             - name: aredt
@@ -3183,8 +3183,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/1MoMFSWCQ5U
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - Party machen '
-        '166':
+                    - name: "Justus-Beatz  - Party machen "
+        "166":
           link: http://www.rappers.in/en/vbt_2010-Lucs-vs-Prime-547.html
           teilnehmer:
             - name: Lucs
@@ -3195,7 +3195,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/9Vc2Ee14MZo
                       original: true
             - name: Prime
-        '167':
+        "167":
           link: http://www.rappers.in/en/vbt_2010-DanZ-vs-MicDon-548.html
           teilnehmer:
             - name: DanZ
@@ -3218,7 +3218,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Final
-        '168':
+        "168":
           link: http://www.rappers.in/en/vbt_2010-Sneaf-vs-Fast+Bazz-549.html
           teilnehmer:
             - name: Sneaf
@@ -3231,7 +3231,7 @@ vbt2010:
                   beats:
                     - name: Dj_MethMX - Straight_Piano
             - name: Fast Bazz
-        '169':
+        "169":
           link: http://www.rappers.in/en/vbt_2010-G.I.+von+PdS-vs-Melogize-550.html
           teilnehmer:
             - name: G.I. von PdS
@@ -3242,7 +3242,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/Ez4c0yMmjfM
                       original: true
             - name: Melogize
-        '170':
+        "170":
           link: http://www.rappers.in/en/vbt_2010-B-High-vs-LzumT-551.html
           teilnehmer:
             - name: B-High
@@ -3254,7 +3254,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/bxEQzjUcZmM
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: LzumT
               runden:
                 hr2:
@@ -3263,8 +3263,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/ALYKrR_erUU
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '171':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "171":
           link: http://www.rappers.in/en/vbt_2010-Jay-Ko-vs-SaCeOnE-552.html
           teilnehmer:
             - name: Jay-Ko
@@ -3282,7 +3282,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/CDNvQ3a35-M
                       original: true
-        '172':
+        "172":
           link: http://www.rappers.in/en/vbt_2010-jmb-vs-Raderbiatch-553.html
           teilnehmer:
             - name: jmb
@@ -3305,7 +3305,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '173':
+        "173":
           link: http://www.rappers.in/en/vbt_2010-MC-BLYZZ-R-vs-Scotch08-554.html
           teilnehmer:
             - name: MC-BLYZZ-R
@@ -3319,7 +3319,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Boxxxer Muzik - VBT 2010 Beat
-        '174':
+        "174":
           link: http://www.rappers.in/en/vbt_2010-Tamo-Flage-vs-ToMiBriXx-555.html
           teilnehmer:
             - name: Tamo-Flage
@@ -3331,7 +3331,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/d8IWgkjM2gs
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
+                    - name: "shizofred - reality "
             - name: ToMiBriXx
               punkte: 1
               runden:
@@ -3341,8 +3341,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/hoQyg4rWz_U
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '175':
+                    - name: "shizofred - reality "
+        "175":
           link: http://www.rappers.in/en/vbt_2010-Killmatic-vs-Eazy-556.html
           teilnehmer:
             - name: Killmatic
@@ -3365,7 +3365,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - rappers.in Exclusive Freebeat
-        '176':
+        "176":
           link: http://www.rappers.in/en/vbt_2010-M-vs-Kay-Mc-557.html
           teilnehmer:
             - name: M
@@ -3388,7 +3388,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '177':
+        "177":
           link: http://www.rappers.in/en/vbt_2010-Le+Frog-vs-d0p3-558.html
           teilnehmer:
             - name: Le Frog
@@ -3411,7 +3411,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Boxxxer Muzik - VBT 2010 Beat
-        '178':
+        "178":
           link: >-
             http://www.rappers.in/en/vbt_2010-KaOhEr+aka+369-vs-ReaPaMusic-559.html
           teilnehmer:
@@ -3425,7 +3425,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
-        '179':
+        "179":
           link: http://www.rappers.in/en/vbt_2010-clayne-vs-Big+One+R.D.-560.html
           teilnehmer:
             - name: clayne
@@ -3443,7 +3443,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/GRfUa7itEgY
                       original: true
-        '180':
+        "180":
           link: http://www.rappers.in/en/vbt_2010-Koalavoice-vs-KenoOo-561.html
           teilnehmer:
             - name: Koalavoice
@@ -3466,7 +3466,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Final
-        '181':
+        "181":
           link: http://www.rappers.in/en/vbt_2010-King+Hasla-vs-Reasonderking-562.html
           teilnehmer:
             - name: King Hasla
@@ -3477,7 +3477,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/ztARdQx8EB4
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: Reasonderking
               punkte: 5
               runden:
@@ -3487,8 +3487,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/YHU-X5AfdS0
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '182':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "182":
           link: http://www.rappers.in/en/vbt_2010-Typres-vs-SOTB-563.html
           teilnehmer:
             - name: Typres
@@ -3511,7 +3511,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred qualität - brauch keinen namen
-        '183':
+        "183":
           link: >-
             http://www.rappers.in/en/vbt_2010-Ali+aka+KingsiZe-vs-marc+d-light-564.html
           teilnehmer:
@@ -3531,7 +3531,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/No74Y2kI1Gc
                       original: true
-        '184':
+        "184":
           link: http://www.rappers.in/en/vbt_2010-CRuel+cHaoZ-vs-SnIggediSnIx-571.html
           teilnehmer:
             - name: CRuel cHaoZ
@@ -3542,7 +3542,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/6OID0zCmAYg
                       original: true
-        '185':
+        "185":
           link: http://www.rappers.in/en/vbt_2010-Sagio_92-vs-Swizzad-572.html
           teilnehmer:
             - name: Sagio_92
@@ -3564,7 +3564,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Straight on (VBT 10)
-        '186':
+        "186":
           link: http://www.rappers.in/en/vbt_2010-HeeZee-vs-steven+black-573.html
           teilnehmer:
             - name: HeeZee
@@ -3587,7 +3587,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Xdogg Beatz - In Ya Face
-        '187':
+        "187":
           link: http://www.rappers.in/en/vbt_2010-StReNgG-vs-Credo-574.html
           teilnehmer:
             - name: StReNgG
@@ -3600,7 +3600,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Boxxxer Muzik - VBT 2010 Beat
-        '188':
+        "188":
           link: http://www.rappers.in/en/vbt_2010-Mc_Julio-vs-Bs+Crime+Katona-575.html
           teilnehmer:
             - name: Mc_Julio
@@ -3611,7 +3611,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/1V0luwBUZTQ
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: Bs Crime Katona
               punkte: 5
               runden:
@@ -3621,8 +3621,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/nA2nB4DpLFE
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '189':
+                    - name: "shizofred - dre style/battle "
+        "189":
           link: http://www.rappers.in/en/vbt_2010-Hawkdbg-vs-BuGaTTy-576.html
           teilnehmer:
             - name: Hawkdbg
@@ -3635,7 +3635,7 @@ vbt2010:
                   beats:
                     - name: MC Pint - Smash Brothers
             - name: BuGaTTy
-        '190':
+        "190":
           link: >-
             http://www.rappers.in/en/vbt_2010-369+AKA+KaOhEr-vs-Mc_Schokka-577.html
           teilnehmer:
@@ -3650,7 +3650,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Justus-Beatz  - Untergrund ( N M EP)
-        '191':
+        "191":
           link: >-
             http://www.rappers.in/en/vbt_2010-Bad+Boii+Becks-vs-Bonzenboys-578.html
           teilnehmer:
@@ -3670,10 +3670,10 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/QUTOZL3kifM
                       original: true
-        '192':
+        "192":
           link: http://www.rappers.in/en/vbt_2010--HeadLine--vs-Kativo-579.html
           teilnehmer:
-            - name: '-HeadLine-'
+            - name: "-HeadLine-"
               punkte: 4
               runden:
                 hr1:
@@ -3682,7 +3682,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/gc0t_5dfTtE
                       original: true
             - name: Kativo
-        '193':
+        "193":
           link: >-
             http://www.rappers.in/en/vbt_2010-Mc_Picaso-vs-Fakt-KleinStadtJunge-580.html
           teilnehmer:
@@ -3705,7 +3705,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '194':
+        "194":
           link: http://www.rappers.in/en/vbt_2010-McCl0ud-vs-A.G.O.N-581.html
           teilnehmer:
             - name: McCl0ud
@@ -3732,7 +3732,7 @@ vbt2010:
                     - name: >-
                         Justus-Beatz   - 16 bars  pls voten und feeden  wen
                         gedownload wird
-        '195':
+        "195":
           link: http://www.rappers.in/en/vbt_2010-JtR%26+T-Flow-vs-Trex0r-582.html
           teilnehmer:
             - name: JtR& T-Flow
@@ -3755,7 +3755,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Furio - Mindfuck
-        '196':
+        "196":
           link: http://www.rappers.in/en/vbt_2010-Deskit-vs-KSD_HeadbangEnt.-583.html
           teilnehmer:
             - name: Deskit
@@ -3773,7 +3773,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/m1lHy_0m6L8
                       original: true
-        '197':
+        "197":
           link: http://www.rappers.in/en/vbt_2010-B-Stylez-R-vs-KARZ-584.html
           teilnehmer:
             - name: B-Stylez-R
@@ -3786,7 +3786,7 @@ vbt2010:
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
             - name: KARZ
-        '198':
+        "198":
           link: http://www.rappers.in/en/vbt_2010-Fabiluz-vs-%40%24j%40-585.html
           teilnehmer:
             - name: Fabiluz
@@ -3798,8 +3798,8 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Arschtritt (VBT 10)
-            - name: '@$j@'
-        '199':
+            - name: "@$j@"
+        "199":
           link: http://www.rappers.in/en/vbt_2010-DevoRap-vs-CockTail-586.html
           teilnehmer:
             - name: DevoRap
@@ -3811,8 +3811,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/lqjRItLgEYs
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - Trainings Typen '
-        '200':
+                    - name: "Justus-Beatz  - Trainings Typen "
+        "200":
           link: http://www.rappers.in/en/vbt_2010-KeTh-vs-ZaP-587.html
           teilnehmer:
             - name: KeTh
@@ -3824,7 +3824,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/_Fj5IZTw0HE
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - ROCKNewGeneration '
+                    - name: "Justus-Beatz  - ROCKNewGeneration "
             - name: ZaP
               punkte: 5
               runden:
@@ -3834,8 +3834,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/UCbGHOeDQpM
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - ROCKNewGeneration '
-        '201':
+                    - name: "Justus-Beatz  - ROCKNewGeneration "
+        "201":
           link: http://www.rappers.in/en/vbt_2010-vlow-vs-J-Doo-589.html
           teilnehmer:
             - name: vlow
@@ -3853,7 +3853,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/DXwKwSfgEsQ
                       original: true
-        '202':
+        "202":
           link: http://www.rappers.in/en/vbt_2010-DKing-vs-Exelimm611-590.html
           teilnehmer:
             - name: DKing
@@ -3876,7 +3876,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Bozz !!
-        '203':
+        "203":
           link: >-
             http://www.rappers.in/en/vbt_2010-CaptainCock-vs-Hannieskannes-591.html
           teilnehmer:
@@ -3899,7 +3899,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats - VBT 2010
-        '204':
+        "204":
           link: http://www.rappers.in/en/vbt_2010-Sanic-vs-K-E-V-I-N-592.html
           teilnehmer:
             - name: Sanic
@@ -3922,7 +3922,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Straight on (VBT 10)
-        '205':
+        "205":
           link: http://www.rappers.in/en/vbt_2010-MoPain-vs-pascho-593.html
           teilnehmer:
             - name: MoPain
@@ -3935,7 +3935,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Boxxxer Muzik - VBT 2010 Beat
-        '206':
+        "206":
           link: http://www.rappers.in/en/vbt_2010-Snippah-vs-CzudemK-594.html
           teilnehmer:
             - name: Snippah
@@ -3957,7 +3957,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
-        '207':
+        "207":
           link: http://www.rappers.in/en/vbt_2010-Koch04-vs-Paran0ia-595.html
           teilnehmer:
             - name: Koch04
@@ -3968,7 +3968,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/dvLKPmnyDj0
                       original: true
             - name: Paran0ia
-        '208':
+        "208":
           link: http://www.rappers.in/en/vbt_2010-Bivo-vs-ChrisFaction-596.html
           teilnehmer:
             - name: Bivo
@@ -3986,7 +3986,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/XoZ3JTKjnCY
                       original: true
-        '209':
+        "209":
           link: http://www.rappers.in/en/vbt_2010-Resident-vs-Remagin%2A-597.html
           teilnehmer:
             - name: Resident
@@ -4005,7 +4005,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/B5yFgBn21w4
                       original: true
-        '210':
+        "210":
           link: http://www.rappers.in/en/vbt_2010-Serious-m-vs-Mexxwell-598.html
           teilnehmer:
             - name: Serious-m
@@ -4017,7 +4017,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/KPqcWaz2j0Y
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - ROCKNewGeneration '
+                    - name: "Justus-Beatz  - ROCKNewGeneration "
             - name: Mexxwell
               runden:
                 hr2:
@@ -4026,8 +4026,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/fbuwx1nBagc
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - ROCKNewGeneration '
-        '211':
+                    - name: "Justus-Beatz  - ROCKNewGeneration "
+        "211":
           link: http://www.rappers.in/en/vbt_2010-Clancy-vs-Seresy-599.html
           teilnehmer:
             - name: Clancy
@@ -4046,7 +4046,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/YVY6ZftyVhY
                       original: true
-        '212':
+        "212":
           link: http://www.rappers.in/en/vbt_2010-rapKeks-vs-Eldo2010-600.html
           teilnehmer:
             - name: rapKeks
@@ -4065,7 +4065,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/UzP5q53wB6I
                       original: true
-        '213':
+        "213":
           link: http://www.rappers.in/en/vbt_2010-Punchdeinface-vs-Paddy+PS-601.html
           teilnehmer:
             - name: Punchdeinface
@@ -4088,7 +4088,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats  -  exclusiv for rappers.in
-        '214':
+        "214":
           link: http://www.rappers.in/en/vbt_2010-aking-vs-CoolWhite-602.html
           teilnehmer:
             - name: aking
@@ -4099,7 +4099,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/2xr0bKPUXZU
                       original: true
-        '215':
+        "215":
           link: http://www.rappers.in/en/vbt_2010-Staubfaenger-vs-timostyle16-603.html
           teilnehmer:
             - name: Staubfaenger
@@ -4110,9 +4110,9 @@ vbt2010:
                     - url: http://www.youtube.com/embed/SZd-wyyBc68
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: timostyle16
-        '216':
+        "216":
           link: http://www.rappers.in/en/vbt_2010-frey-d-vs-Critt-604.html
           teilnehmer:
             - name: frey-d
@@ -4133,7 +4133,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '217':
+        "217":
           link: >-
             http://www.rappers.in/en/vbt_2010-LeQu-The+Godfather-vs-P_masid-605.html
           teilnehmer:
@@ -4149,7 +4149,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Cyber SpAcE ( Für jeden
                         Top Rapper )
-        '218':
+        "218":
           link: http://www.rappers.in/en/vbt_2010-Prunks-vs-maddy-606.html
           teilnehmer:
             - name: Prunks
@@ -4171,7 +4171,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Fam1X - Electrorap
-        '219':
+        "219":
           link: http://www.rappers.in/en/vbt_2010-BennyZURK-vs-paterik2706-607.html
           teilnehmer:
             - name: BennyZURK
@@ -4194,7 +4194,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Furio - Fallen Angels
-        '220':
+        "220":
           link: http://www.rappers.in/en/vbt_2010-nizzo-vs-Silvinho+%5BHFL%5D-608.html
           teilnehmer:
             - name: nizzo
@@ -4206,7 +4206,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/iPIXULE1NkY
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
+                    - name: "shizofred - reality "
             - name: Silvinho [HFL]
               runden:
                 hr2:
@@ -4215,8 +4215,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/Ws1E4vC4_V4
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '221':
+                    - name: "shizofred - reality "
+        "221":
           link: http://www.rappers.in/en/vbt_2010-Basta-Ace-K-vs-Roxaz-609.html
           teilnehmer:
             - name: Basta-Ace-K
@@ -4231,7 +4231,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '222':
+        "222":
           link: http://www.rappers.in/en/vbt_2010-Reyny+Rey-vs-Chill-Chillah-610.html
           teilnehmer:
             - name: Reyny Rey
@@ -4244,7 +4244,7 @@ vbt2010:
                   beats:
                     - name: Tron - Beach
             - name: Chill-Chillah
-        '223':
+        "223":
           link: >-
             http://www.rappers.in/en/vbt_2010-SonicZ1992-vs-chronic+aka+HooD_killah-611.html
           teilnehmer:
@@ -4258,7 +4258,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Bozz !!
-        '224':
+        "224":
           link: http://www.rappers.in/en/vbt_2010-DeZ-T-vs-Lyrikus-612.html
           teilnehmer:
             - name: DeZ-T
@@ -4281,7 +4281,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: beatinyo - Trap Beat
-        '225':
+        "225":
           link: http://www.rappers.in/en/vbt_2010-CoredoreMore-vs-Fam1X-613.html
           teilnehmer:
             - name: CoredoreMore
@@ -4292,7 +4292,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/_0XY1uBEpzM
                       original: true
-        '226':
+        "226":
           link: http://www.rappers.in/en/vbt_2010-RuFfY-D-vs-%21llflow-614.html
           teilnehmer:
             - name: RuFfY-D
@@ -4304,8 +4304,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/mXQ_XRINUv4
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-            - name: '!llflow'
+                    - name: "shizofred - reality "
+            - name: "!llflow"
               punkte: 3
               runden:
                 hr2:
@@ -4314,8 +4314,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/CBOg0qEburE
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '227':
+                    - name: "shizofred - reality "
+        "227":
           link: http://www.rappers.in/en/vbt_2010-Silus-vs-Ceo-615.html
           teilnehmer:
             - name: Silus
@@ -4337,7 +4337,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats - VBT 2010
-        '228':
+        "228":
           link: http://www.rappers.in/en/vbt_2010-Jamish-vs-kollegahderboss-616.html
           teilnehmer:
             - name: Jamish
@@ -4352,7 +4352,7 @@ vbt2010:
                         Smok1 - 232 Loads 7 Votes lächerlich alter man VOTEN !!!!
                         IST NICHT SCHWER !!!!!!!
             - name: kollegahderboss
-        '229':
+        "229":
           link: http://www.rappers.in/en/vbt_2010-K.B.P-vs-KillahD-617.html
           teilnehmer:
             - name: K.B.P
@@ -4369,7 +4369,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/AjygcnfLHts
                       original: true
-        '230':
+        "230":
           link: >-
             http://www.rappers.in/en/vbt_2010-DaveTheDisser-vs-DerVerteiler-618.html
           teilnehmer:
@@ -4383,7 +4383,7 @@ vbt2010:
                   beats:
                     - name: BHB - Horror Kill (16er)
             - name: DerVerteiler
-        '231':
+        "231":
           link: http://www.rappers.in/en/vbt_2010-L-Z-A-vs-Privot+Gun-619.html
           teilnehmer:
             - name: L-Z-A
@@ -4406,7 +4406,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2Diamond Beat - Game Over
-        '232':
+        "232":
           link: http://www.rappers.in/en/vbt_2010-Plajer-vs-killakid-one-620.html
           teilnehmer:
             - name: Plajer
@@ -4428,7 +4428,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Fam1X - Oldschool Westcoast
-        '233':
+        "233":
           link: http://www.rappers.in/en/vbt_2010-Tiza-vs-Mc-Fox-621.html
           teilnehmer:
             - name: Tiza
@@ -4450,7 +4450,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Freund - Vorhang auf
-        '234':
+        "234":
           link: >-
             http://www.rappers.in/en/vbt_2010-Th3+Best+Rapper-vs-GoldenLineZ+2009-622.html
           teilnehmer:
@@ -4464,7 +4464,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Drac - Tha Game (VBT EXCL)
-        '235':
+        "235":
           link: http://www.rappers.in/en/vbt_2010-PACKO87NRW-vs-PrimeMuzik-623.html
           teilnehmer:
             - name: PACKO87NRW
@@ -4485,7 +4485,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Straight on (VBT 10)
-        '236':
+        "236":
           link: >-
             http://www.rappers.in/en/vbt_2010-Tico-acustic-vs-Rouby%26Robox-624.html
           teilnehmer:
@@ -4499,7 +4499,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Lil Beat - I´m Blue (Acoustic)
-        '237':
+        "237":
           link: http://www.rappers.in/en/vbt_2010-lilchris1-vs-Crazy+Soul-625.html
           teilnehmer:
             - name: lilchris1
@@ -4526,7 +4526,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '238':
+        "238":
           link: http://www.rappers.in/en/vbt_2010-JeyDee-vs-Invalid26-626.html
           teilnehmer:
             - name: JeyDee
@@ -4539,7 +4539,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Veni, Vedi, Vici
-        '239':
+        "239":
           link: http://www.rappers.in/en/vbt_2010-G-Nite-vs-LeOnLives-627.html
           teilnehmer:
             - name: G-Nite
@@ -4561,7 +4561,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: El Farmer - Street Hustler`s
-        '240':
+        "240":
           link: http://www.rappers.in/en/vbt_2010-Kenta-vs-P-K1NG-628.html
           teilnehmer:
             - name: Kenta
@@ -4583,7 +4583,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Big Boss Musikantenstadl remix Beat
-        '241':
+        "241":
           link: http://www.rappers.in/en/vbt_2010-ProZe-vs-SideOne-629.html
           teilnehmer:
             - name: ProZe
@@ -4596,7 +4596,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Big Boss Musikantenstadl remix Beat
-        '242':
+        "242":
           link: http://www.rappers.in/en/vbt_2010-White+T+Sam-vs-Deay-630.html
           teilnehmer:
             - name: White T Sam
@@ -4614,7 +4614,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/w8QPgwqK7JU
                       original: true
-        '243':
+        "243":
           link: http://www.rappers.in/en/vbt_2010-Stokie017-vs-PxX-631.html
           teilnehmer:
             - name: Stokie017
@@ -4641,7 +4641,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '244':
+        "244":
           link: http://www.rappers.in/en/vbt_2010-shizopat-vs-Crank+D-632.html
           teilnehmer:
             - name: shizopat
@@ -4662,7 +4662,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - El Mortimo
-        '245':
+        "245":
           link: http://www.rappers.in/en/vbt_2010-IwI-OnE-vs-Lefiz-633.html
           teilnehmer:
             - name: IwI-OnE
@@ -4684,7 +4684,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: SpecialBeatForce - StreetLife (16 Bars)
-        '246':
+        "246":
           link: http://www.rappers.in/en/vbt_2010-Porta-vs-Seriuz-One-634.html
           teilnehmer:
             - name: Porta
@@ -4697,7 +4697,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats  -  exclusiv for rappers.in
-        '247':
+        "247":
           link: http://www.rappers.in/en/vbt_2010-M.zi-vs-KLaaText-635.html
           teilnehmer:
             - name: M.zi
@@ -4710,7 +4710,7 @@ vbt2010:
                   beats:
                     - name: GeeNaro - BANGBASS ! VOTEN!!!!
             - name: KLaaText
-        '248':
+        "248":
           link: http://www.rappers.in/en/vbt_2010-Hollyhood-vs-Mc-D-Sasta-636.html
           teilnehmer:
             - name: Hollyhood
@@ -4733,7 +4733,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Straight on (VBT 10)
-        '249':
+        "249":
           link: http://www.rappers.in/en/vbt_2010-LeXuZ-vs-X-Pierence-637.html
           teilnehmer:
             - name: LeXuZ
@@ -4756,7 +4756,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Fam1X - Electrorap
-        '250':
+        "250":
           link: http://www.rappers.in/en/vbt_2010-Braitness+Music-vs-LeguOne-638.html
           teilnehmer:
             - name: Braitness Music
@@ -4767,7 +4767,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/qk82VXs-Q6s
                       original: true
             - name: LeguOne
-        '251':
+        "251":
           link: http://www.rappers.in/en/vbt_2010-Rec-Z-vs-KaiNoNe-639.html
           teilnehmer:
             - name: Rec-Z
@@ -4793,7 +4793,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Creuzfeld & Jakob
                         (Widmung)
-        '252':
+        "252":
           link: http://www.rappers.in/en/vbt_2010-SiDk-vs-Biduga-640.html
           teilnehmer:
             - name: SiDk
@@ -4815,7 +4815,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '253':
+        "253":
           link: http://www.rappers.in/en/vbt_2010-BlackLeaf-vs-Kritix-641.html
           teilnehmer:
             - name: BlackLeaf
@@ -4828,7 +4828,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Bozz !!
-        '254':
+        "254":
           link: http://www.rappers.in/en/vbt_2010-Bogi-vs-Shakyar-642.html
           teilnehmer:
             - name: Bogi
@@ -4855,7 +4855,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Cyber SpAcE ( Für jeden
                         Top Rapper )
-        '255':
+        "255":
           link: http://www.rappers.in/en/vbt_2010-O.G.LuC-vs-msserious-643.html
           teilnehmer:
             - name: O.G.LuC
@@ -4878,7 +4878,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats - VBT 2010
-        '256':
+        "256":
           link: http://www.rappers.in/en/vbt_2010-Rhythm+Rider-vs-Scratchi-644.html
           teilnehmer:
             - name: Rhythm Rider
@@ -4900,7 +4900,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: BHB - Real Hip Hop (16er)
-        '257':
+        "257":
           link: http://www.rappers.in/en/vbt_2010-Djin-vs-J-uran-646.html
           teilnehmer:
             - name: Djin
@@ -4911,7 +4911,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/Trn9tXJXQsY
                       original: true
             - name: J-uran
-        '258':
+        "258":
           link: http://www.rappers.in/en/vbt_2010-bayou-vs-DeeLah-647.html
           teilnehmer:
             - name: bayou
@@ -4934,7 +4934,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: MC Pint - Smash Brothers
-        '259':
+        "259":
           link: http://www.rappers.in/en/vbt_2010-F.der.Rapper-vs-Huzzla%21-648.html
           teilnehmer:
             - name: F.der.Rapper
@@ -4947,7 +4947,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: TA-Beatz - double violine
-        '260':
+        "260":
           link: http://www.rappers.in/en/vbt_2010-AB+SLIM-vs-Dizbro-649.html
           teilnehmer:
             - name: AB SLIM
@@ -4958,7 +4958,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/DJJo_u3o71s
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: Dizbro
               punkte: 5
               runden:
@@ -4968,8 +4968,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/S3Kwx9JuG8Q
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '261':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "261":
           link: >-
             http://www.rappers.in/en/vbt_2010-VaLLen2009-vs-_-SpioneK-EinsVier-_-650.html
           teilnehmer:
@@ -4989,7 +4989,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/r8suATA9OKQ
                       original: true
-        '262':
+        "262":
           link: http://www.rappers.in/en/vbt_2010-Gladiac-vs-E.T.M+Arts-651.html
           teilnehmer:
             - name: Gladiac
@@ -5003,7 +5003,7 @@ vbt2010:
                   beats:
                     - name: Ker - Veni, Vedi, Vici
             - name: E.T.M Arts
-        '263':
+        "263":
           link: http://www.rappers.in/en/vbt_2010-Flob-vs-Zer_One-652.html
           teilnehmer:
             - name: Flob
@@ -5018,7 +5018,7 @@ vbt2010:
                         Justus-Beatz   - 16 bars  pls voten und feeden  wen
                         gedownload wird
             - name: Zer_One
-        '264':
+        "264":
           link: http://www.rappers.in/en/vbt_2010-Anifeckz-vs---Exitus---653.html
           teilnehmer:
             - name: Anifeckz
@@ -5031,7 +5031,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-            - name: '--Exitus--'
+            - name: "--Exitus--"
               punkte: 7
               runden:
                 hr2:
@@ -5041,7 +5041,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '265':
+        "265":
           link: http://www.rappers.in/en/vbt_2010-%24UNIKAT%24-vs-Spane-654.html
           teilnehmer:
             - name: $UNIKAT$
@@ -5063,7 +5063,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: C-Rider - Kirby der Bossbanger
-        '266':
+        "266":
           link: >-
             http://www.rappers.in/en/vbt_2010-spigot-vs-mc%22holy+voice%22-655.html
           teilnehmer:
@@ -5091,7 +5091,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '267':
+        "267":
           link: http://www.rappers.in/en/vbt_2010-Dee.-vs-Cybot+Mc-656.html
           teilnehmer:
             - name: Dee.
@@ -5110,7 +5110,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/myebQAjcEM0
                       original: true
-        '268':
+        "268":
           link: http://www.rappers.in/en/vbt_2010-diRAPtor-vs-JA.flux-657.html
           teilnehmer:
             - name: diRAPtor
@@ -5137,7 +5137,7 @@ vbt2010:
                     - name: >-
                         Justus-Beatz  - ROCK / FEEDEN UND VOTEN NICHT VERGESSEN
                         SONST IST DAS DER LETZTE BEAT  DER HIER  REINKOMMT  ;)
-        '269':
+        "269":
           link: http://www.rappers.in/en/vbt_2010-torbenson-vs-Utz--658.html
           teilnehmer:
             - name: torbenson
@@ -5159,7 +5159,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '270':
+        "270":
           link: http://www.rappers.in/en/vbt_2010-Arnulf-vs-ZisaR-659.html
           teilnehmer:
             - name: Arnulf
@@ -5172,7 +5172,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Big Boss Musikantenstadl remix Beat
-        '271':
+        "271":
           link: http://www.rappers.in/en/vbt_2010-Hand-vs-TobY-660.html
           teilnehmer:
             - name: Hand
@@ -5193,7 +5193,7 @@ vbt2010:
     vorrunde-2:
       name: Vorrunde 2
       battles:
-        '1':
+        "1":
           link: >-
             http://www.rappers.in/en/vbt_2010-Wort-Fetischist-vs-Monte-Rap-663.html
           teilnehmer:
@@ -5213,7 +5213,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ecDXvf4V42k
                       original: true
-        '2':
+        "2":
           link: http://www.rappers.in/en/vbt_2010-Suwhat-vs-MeZz0-665.html
           teilnehmer:
             - name: Suwhat
@@ -5235,7 +5235,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Creepa in Höchstform
-        '3':
+        "3":
           link: http://www.rappers.in/en/vbt_2010-Giegi-G-vs-locke91-666.html
           teilnehmer:
             - name: Giegi-G
@@ -5257,7 +5257,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PraimenBeatz - In meiner Stadt
-        '4':
+        "4":
           link: http://www.rappers.in/en/vbt_2010-Chalan-vs-mck92-667.html
           teilnehmer:
             - name: Chalan
@@ -5278,7 +5278,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: SmeckZ ft Summer - Contest
-        '5':
+        "5":
           link: http://www.rappers.in/en/vbt_2010-NileZs-vs-Makillas-668.html
           teilnehmer:
             - name: NileZs
@@ -5297,7 +5297,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/W1NjJYPnvKw
                       original: true
-        '6':
+        "6":
           link: http://www.rappers.in/en/vbt_2010-teest-vs-Lil-Hopz-669.html
           teilnehmer:
             - name: teest
@@ -5315,7 +5315,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/UR_IM5td6OE
                       original: true
-        '7':
+        "7":
           link: http://www.rappers.in/en/vbt_2010-MoooN-vs-Don+Maxin-670.html
           teilnehmer:
             - name: MoooN
@@ -5338,7 +5338,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PaCe - VBT 2010
-        '8':
+        "8":
           link: http://www.rappers.in/en/vbt_2010-K-Win-vs-Der_NeGro-671.html
           teilnehmer:
             - name: K-Win
@@ -5360,7 +5360,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PraimenBeatz - Aussichtslos
-        '9':
+        "9":
           link: http://www.rappers.in/en/vbt_2010-Say-vs-Mg-Lex-672.html
           teilnehmer:
             - name: Say
@@ -5377,7 +5377,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/HepolqdnaMM
                       original: true
-        '10':
+        "10":
           link: http://www.rappers.in/en/vbt_2010-MathiN+FoX-vs-Amoc-673.html
           teilnehmer:
             - name: MathiN FoX
@@ -5390,7 +5390,7 @@ vbt2010:
                   beats:
                     - name: Sepsis - Kings der Stadt
             - name: Amoc
-        '11':
+        "11":
           link: http://www.rappers.in/en/vbt_2010-FloW-KiNG-vs-Kartoon-674.html
           teilnehmer:
             - name: FloW-KiNG
@@ -5401,7 +5401,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/CwBh98fHOkU
                       original: true
             - name: Kartoon
-        '12':
+        "12":
           link: http://www.rappers.in/en/vbt_2010-kohma-one-vs-Harry+Proper-675.html
           teilnehmer:
             - name: kohma-one
@@ -5419,7 +5419,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/6C6xddxGbcM
                       original: true
-        '13':
+        "13":
           link: http://www.rappers.in/en/vbt_2010-Louks-vs-Kay+Lynah-676.html
           teilnehmer:
             - name: Louks
@@ -5438,7 +5438,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/84UjkXc9H7k
                       original: true
-        '14':
+        "14":
           link: http://www.rappers.in/en/vbt_2010-jabbo-vs-LKR-677.html
           teilnehmer:
             - name: jabbo
@@ -5457,7 +5457,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/L1EMfPz4Tqk
                       original: true
-        '15':
+        "15":
           link: http://www.rappers.in/en/vbt_2010-margi-vs-NavyMC-678.html
           teilnehmer:
             - name: margi
@@ -5475,7 +5475,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/RVnWqykI9HQ
                       original: true
-        '16':
+        "16":
           link: http://www.rappers.in/en/vbt_2010-Pr%21MaR-vs-Drion-679.html
           teilnehmer:
             - name: Pr!MaR
@@ -5498,7 +5498,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Miks - FuckStarz
-        '17':
+        "17":
           link: http://www.rappers.in/en/vbt_2010-Kay+Vee-vs-streetsoldyer-680.html
           teilnehmer:
             - name: Kay Vee
@@ -5509,7 +5509,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/z_1g3C6cK6I
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: streetsoldyer
               punkte: 4
               runden:
@@ -5519,8 +5519,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/QHjW26eMxAw
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '18':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "18":
           link: http://www.rappers.in/en/vbt_2010-Partymaker1-vs-Sizi-Size-681.html
           teilnehmer:
             - name: Partymaker1
@@ -5543,7 +5543,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2Diamond Beat - Game Over
-        '19':
+        "19":
           link: http://www.rappers.in/en/vbt_2010-Ti_Jay-vs-MagixRecordz-AM-682.html
           teilnehmer:
             - name: Ti_Jay
@@ -5554,7 +5554,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/r3Epj4mNIM0
                       original: true
             - name: MagixRecordz-AM
-        '20':
+        "20":
           link: http://www.rappers.in/en/vbt_2010-C+M+C-vs-GeOT-683.html
           teilnehmer:
             - name: C M C
@@ -5572,7 +5572,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/s86yu7nivXg
                       original: true
-        '21':
+        "21":
           link: http://www.rappers.in/en/vbt_2010-SicilianDon-vs-Sentar-684.html
           teilnehmer:
             - name: SicilianDon
@@ -5583,7 +5583,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/0x8cIRXJMtY
                       original: true
             - name: Sentar
-        '22':
+        "22":
           link: http://www.rappers.in/en/vbt_2010-D.Brasco-vs-Rytality-685.html
           teilnehmer:
             - name: D.Brasco
@@ -5602,7 +5602,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/zGQb4LuPoyY
                       original: true
-        '23':
+        "23":
           link: http://www.rappers.in/en/vbt_2010-%24%2ABizek%2A%24-vs-BoBoR-686.html
           teilnehmer:
             - name: $*Bizek*$
@@ -5614,8 +5614,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/kctMuWsJfSU
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '24':
+                    - name: "shizofred - dre style/battle "
+        "24":
           link: http://www.rappers.in/en/vbt_2010-D-%24tyLe-vs-Snowrash-688.html
           teilnehmer:
             - name: D-$tyLe
@@ -5628,7 +5628,7 @@ vbt2010:
                   beats:
                     - name: SmeckZ ft Summer - Contest
             - name: Snowrash
-        '25':
+        "25":
           link: http://www.rappers.in/en/vbt_2010-Jay+aka+Hde-vs-Drack-689.html
           teilnehmer:
             - name: Jay aka Hde
@@ -5651,7 +5651,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Creepa in Höchstform
-        '26':
+        "26":
           link: http://www.rappers.in/en/vbt_2010-Karano-vs-Chellah-690.html
           teilnehmer:
             - name: Karano
@@ -5662,9 +5662,9 @@ vbt2010:
                     - url: http://www.youtube.com/embed/N01pNXXa6ok
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: Chellah
-        '27':
+        "27":
           link: http://www.rappers.in/en/vbt_2010-JoFLow-vs-Sputnik-691.html
           teilnehmer:
             - name: JoFLow
@@ -5690,7 +5690,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '28':
+        "28":
           link: http://www.rappers.in/en/vbt_2010-DSGV-vs-.M.-692.html
           teilnehmer:
             - name: DSGV
@@ -5708,7 +5708,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/15sS8Dnn-PI
                       original: true
-        '29':
+        "29":
           link: http://www.rappers.in/en/vbt_2010-Ricordz-vs-LaCase-Music-693.html
           teilnehmer:
             - name: Ricordz
@@ -5721,7 +5721,7 @@ vbt2010:
                   beats:
                     - name: PraimenBeatz - Criminal
             - name: LaCase-Music
-        '30':
+        "30":
           link: http://www.rappers.in/en/vbt_2010-Tripple-G-vs-kendo-music-694.html
           teilnehmer:
             - name: Tripple-G
@@ -5743,7 +5743,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Kinex - Pray
-        '31':
+        "31":
           link: http://www.rappers.in/en/vbt_2010-eZ-Kay-vs-Santo+Capo-695.html
           teilnehmer:
             - name: eZ-Kay
@@ -5756,7 +5756,7 @@ vbt2010:
                   beats:
                     - name: Mpire - Feel it
             - name: Santo Capo
-        '32':
+        "32":
           link: http://www.rappers.in/en/vbt_2010-RuFfY-D-vs-Tamo-Flage-696.html
           teilnehmer:
             - name: RuFfY-D
@@ -5771,7 +5771,7 @@ vbt2010:
                     - name: PraimenBeatz - In meiner Stadt
             - name: Tamo-Flage
               punkte: 5
-        '33':
+        "33":
           link: http://www.rappers.in/en/vbt_2010-Silus-vs-Killmatic-697.html
           teilnehmer:
             - name: Silus
@@ -5794,7 +5794,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
-        '34':
+        "34":
           link: http://www.rappers.in/en/vbt_2010-Jamish-vs-clayne-698.html
           teilnehmer:
             - name: Jamish
@@ -5817,7 +5817,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Big Boss Musikantenstadl remix Beat
-        '35':
+        "35":
           link: http://www.rappers.in/en/vbt_2010-DaveTheDisser-vs-Koalavoice-699.html
           teilnehmer:
             - name: DaveTheDisser
@@ -5839,7 +5839,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PraimenBeatz - In meiner Stadt
-        '36':
+        "36":
           link: http://www.rappers.in/en/vbt_2010-L-Z-A-vs-Typres-700.html
           teilnehmer:
             - name: L-Z-A
@@ -5850,7 +5850,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/XN1ELpde11k
                       original: true
             - name: Typres
-        '37':
+        "37":
           link: http://www.rappers.in/en/vbt_2010-Tiza-vs-Ali+aka+KingsiZe-701.html
           teilnehmer:
             - name: Tiza
@@ -5862,7 +5862,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/Y2898Bo-Ucc
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - Party machen '
+                    - name: "Justus-Beatz  - Party machen "
             - name: Ali aka KingsiZe
               punkte: 1
               runden:
@@ -5872,8 +5872,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/gugQbuPQ6vg
                       original: true
                   beats:
-                    - name: 'Justus-Beatz  - Party machen '
-        '38':
+                    - name: "Justus-Beatz  - Party machen "
+        "38":
           link: http://www.rappers.in/en/vbt_2010-G-Nite-vs-RizeIt-702.html
           teilnehmer:
             - name: G-Nite
@@ -5900,7 +5900,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '39':
+        "39":
           link: http://www.rappers.in/en/vbt_2010-Kenta-vs-Cas+One-703.html
           teilnehmer:
             - name: Kenta
@@ -5921,7 +5921,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: MC Pint - Smash Brothers
-        '40':
+        "40":
           link: http://www.rappers.in/en/vbt_2010-M.zi-vs-IceJunior-704.html
           teilnehmer:
             - name: M.zi
@@ -5943,7 +5943,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred - kabooombanger dings
-        '41':
+        "41":
           link: http://www.rappers.in/en/vbt_2010-Hollyhood-vs-HeeZee-705.html
           teilnehmer:
             - name: Hollyhood
@@ -5969,7 +5969,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Cyber SpAcE ( Für jeden
                         Top Rapper )
-        '42':
+        "42":
           link: http://www.rappers.in/en/vbt_2010-LeXuZ-vs-Hawkdbg-706.html
           teilnehmer:
             - name: LeXuZ
@@ -5992,13 +5992,13 @@ vbt2010:
                       original: true
                   beats:
                     - name: r0kko - Alles kommt zurück
-        '43':
+        "43":
           link: >-
             http://www.rappers.in/en/vbt_2010-Braitness+Music-vs-369+AKA+KaOhEr-707.html
           teilnehmer:
             - name: Braitness Music
             - name: 369 AKA KaOhEr
-        '44':
+        "44":
           link: http://www.rappers.in/en/vbt_2010-Rec-Z-vs-nizzo-708.html
           teilnehmer:
             - name: Rec-Z
@@ -6019,7 +6019,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: MC Pint - Smash Brothers
-        '45':
+        "45":
           link: http://www.rappers.in/en/vbt_2010-SiDk-vs-B-Stylez-R-709.html
           teilnehmer:
             - name: SiDk
@@ -6032,7 +6032,7 @@ vbt2010:
                   beats:
                     - name: CreepaBeats - VBT BEAT
             - name: B-Stylez-R
-        '46':
+        "46":
           link: http://www.rappers.in/en/vbt_2010-Djin-vs-Fabiluz-710.html
           teilnehmer:
             - name: Djin
@@ -6058,7 +6058,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '47':
+        "47":
           link: http://www.rappers.in/en/vbt_2010-VaLLen2009-vs-vlow-711.html
           teilnehmer:
             - name: VaLLen2009
@@ -6071,7 +6071,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '48':
+        "48":
           link: http://www.rappers.in/en/vbt_2010-Gladiac-vs-DKing-712.html
           teilnehmer:
             - name: Gladiac
@@ -6083,7 +6083,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/kqSC2a6LZao
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: DKing
               runden:
                 hr2:
@@ -6092,8 +6092,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/vTQtQRwt62o
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '49':
+                    - name: "shizofred - dre style/battle "
+        "49":
           link: http://www.rappers.in/en/vbt_2010-Flob-vs-CaptainCock-713.html
           teilnehmer:
             - name: Flob
@@ -6106,7 +6106,7 @@ vbt2010:
                   beats:
                     - name: CreepaBeats - Bozz !!
             - name: CaptainCock
-        '50':
+        "50":
           link: http://www.rappers.in/en/vbt_2010-%24UNIKAT%24-vs-Sanic-714.html
           teilnehmer:
             - name: $UNIKAT$
@@ -6117,7 +6117,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ev2C1plvFes
                       original: true
-        '51':
+        "51":
           link: http://www.rappers.in/en/vbt_2010-Dee.-vs-Snippah-715.html
           teilnehmer:
             - name: Dee.
@@ -6130,7 +6130,7 @@ vbt2010:
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
             - name: Snippah
-        '52':
+        "52":
           link: http://www.rappers.in/en/vbt_2010-Hand-vs-Serious-m-717.html
           teilnehmer:
             - name: Hand
@@ -6153,7 +6153,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: DJ Tank & Waynebeatzz - STOMP THE YARD
-        '53':
+        "53":
           link: >-
             http://www.rappers.in/en/vbt_2010-OnlyOneProduction-vs-Punchdeinface-718.html
           teilnehmer:
@@ -6176,7 +6176,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Sepsis - Zu Breit Für\\\'n Club
-        '54':
+        "54":
           link: http://www.rappers.in/en/vbt_2010-RaP2FaST-vs-Staubfaenger-719.html
           teilnehmer:
             - name: RaP2FaST
@@ -6198,7 +6198,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PraimenBeatz - In meiner Stadt
-        '55':
+        "55":
           link: http://www.rappers.in/en/vbt_2010-Kermos-vs--HeadLine--720.html
           teilnehmer:
             - name: Kermos
@@ -6211,7 +6211,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
-            - name: '-HeadLine-'
+            - name: "-HeadLine-"
               punkte: 3
               runden:
                 hr2:
@@ -6221,7 +6221,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
-        '56':
+        "56":
           link: http://www.rappers.in/en/vbt_2010-B+zum+O-vs-Reyny+Rey-721.html
           teilnehmer:
             - name: B zum O
@@ -6244,7 +6244,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '57':
+        "57":
           link: http://www.rappers.in/en/vbt_2010-KJMaSaKkA-vs-DeZ-T-722.html
           teilnehmer:
             - name: KJMaSaKkA
@@ -6255,7 +6255,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/yFd3o5WWlUc
                       original: true
             - name: DeZ-T
-        '58':
+        "58":
           link: http://www.rappers.in/en/vbt_2010-HeatShot-vs-juSativa-723.html
           teilnehmer:
             - name: HeatShot
@@ -6268,7 +6268,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: r0kko - Alles kommt zurück
-        '59':
+        "59":
           link: http://www.rappers.in/en/vbt_2010-MicAZz-vs-Lucs-724.html
           teilnehmer:
             - name: MicAZz
@@ -6291,7 +6291,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PaCe - VBT 2010
-        '60':
+        "60":
           link: http://www.rappers.in/en/vbt_2010-BossDD-vs-pascho-725.html
           teilnehmer:
             - name: BossDD
@@ -6313,7 +6313,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred qualität - brauch keinen namen
-        '61':
+        "61":
           link: http://www.rappers.in/en/vbt_2010-C-Jay+One-vs-ChrisFaction-726.html
           teilnehmer:
             - name: C-Jay One
@@ -6335,7 +6335,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Joao - Mephistos revenge
-        '62':
+        "62":
           link: http://www.rappers.in/en/vbt_2010-coru-vs-Remagin%2A-727.html
           teilnehmer:
             - name: coru
@@ -6358,7 +6358,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred\\\'s rechtschreib - ung suckt
-        '63':
+        "63":
           link: http://www.rappers.in/en/vbt_2010-Duzoe-vs-Seresy-728.html
           teilnehmer:
             - name: Duzoe
@@ -6377,7 +6377,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/1OKGl_KU6EM
                       original: true
-        '64':
+        "64":
           link: http://www.rappers.in/en/vbt_2010-FelyFe-vs-Eldo2010-729.html
           teilnehmer:
             - name: FelyFe
@@ -6390,7 +6390,7 @@ vbt2010:
                   beats:
                     - name: Mik-Star - Golden Silver
             - name: Eldo2010
-        '65':
+        "65":
           link: http://www.rappers.in/en/vbt_2010-Toomb-vs-CoolWhite-730.html
           teilnehmer:
             - name: Toomb
@@ -6412,7 +6412,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: C-Rider - Kirby der Bossbanger
-        '66':
+        "66":
           link: http://www.rappers.in/en/vbt_2010-Alihan-vs-Critt-731.html
           teilnehmer:
             - name: Alihan
@@ -6435,7 +6435,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Criizz-Beatz - VBT 2010 Nr. 1
-        '67':
+        "67":
           link: http://www.rappers.in/en/vbt_2010-Ka-o-Peh-vs-P_masid-732.html
           teilnehmer:
             - name: Ka-o-Peh
@@ -6453,7 +6453,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/f6A6qd16xwY
                       original: true
-        '68':
+        "68":
           link: http://www.rappers.in/en/vbt_2010-seekay93-vs-maddy-733.html
           teilnehmer:
             - name: seekay93
@@ -6472,7 +6472,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/GCwol9AbSE8
                       original: true
-        '69':
+        "69":
           link: http://www.rappers.in/en/vbt_2010-TimoseS-vs-paterik2706-734.html
           teilnehmer:
             - name: TimoseS
@@ -6490,7 +6490,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/q1NHvRyYCNo
                       original: true
-        '70':
+        "70":
           link: http://www.rappers.in/en/vbt_2010-Grisubeats-vs-Roxaz-735.html
           teilnehmer:
             - name: Grisubeats
@@ -6509,7 +6509,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/uGQusbmzKd0
                       original: true
-        '71':
+        "71":
           link: >-
             http://www.rappers.in/en/vbt_2010-M.I.K.I-vs-chronic+aka+HooD_killah-736.html
           teilnehmer:
@@ -6533,7 +6533,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: TasyG - Battle Beat (VBT)
-        '72':
+        "72":
           link: http://www.rappers.in/en/vbt_2010-DECIZE-vs-Fam1X-737.html
           teilnehmer:
             - name: DECIZE
@@ -6556,7 +6556,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: MicDon - superstar
-        '73':
+        "73":
           link: http://www.rappers.in/en/vbt_2010-t%214M9-vs-DanZ-738.html
           teilnehmer:
             - name: t!4M9
@@ -6569,7 +6569,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Kinex - Puncher
-        '74':
+        "74":
           link: http://www.rappers.in/en/vbt_2010-KanistyLez-vs-Sneaf-739.html
           teilnehmer:
             - name: KanistyLez
@@ -6580,7 +6580,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/-bxIE84RVxo
                       original: true
             - name: Sneaf
-        '75':
+        "75":
           link: http://www.rappers.in/en/vbt_2010-Dupash-vs-G.I.+von+PdS-740.html
           teilnehmer:
             - name: Dupash
@@ -6603,7 +6603,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred qualität - brauch keinen namen
-        '76':
+        "76":
           link: http://www.rappers.in/en/vbt_2010-M1Co-vs-B-High-741.html
           teilnehmer:
             - name: M1Co
@@ -6622,7 +6622,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/_P81ef7t0gg
                       original: true
-        '77':
+        "77":
           link: http://www.rappers.in/en/vbt_2010-DreamOne-vs-Jay-Ko-742.html
           teilnehmer:
             - name: DreamOne
@@ -6645,7 +6645,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '78':
+        "78":
           link: http://www.rappers.in/en/vbt_2010-Kreativ91-vs-emco-743.html
           teilnehmer:
             - name: Kreativ91
@@ -6668,7 +6668,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: El Farmer - Flucht_aus_Absolom
-        '79':
+        "79":
           link: http://www.rappers.in/en/vbt_2010-Dahomy-vs-Scheffy+Scheff-744.html
           teilnehmer:
             - name: Dahomy
@@ -6690,7 +6690,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mik-Star - Golden Silver
-        '80':
+        "80":
           link: http://www.rappers.in/en/vbt_2010-D-FoK-vs-KEF-745.html
           teilnehmer:
             - name: D-FoK
@@ -6701,12 +6701,12 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/-kFYL_Rum5E
                       original: true
-        '81':
+        "81":
           link: http://www.rappers.in/en/vbt_2010-AKS-vs-Enceo-746.html
           teilnehmer:
             - name: AKS
             - name: Enceo
-        '82':
+        "82":
           link: http://www.rappers.in/en/vbt_2010-boby2330-vs-WoOdY666-747.html
           teilnehmer:
             - name: boby2330
@@ -6720,7 +6720,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Sepsis - Zu Breit Für\\\'n Club
-        '83':
+        "83":
           link: http://www.rappers.in/en/vbt_2010-janbarmann-vs-Maso-G-748.html
           teilnehmer:
             - name: janbarmann
@@ -6743,7 +6743,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - VBT BEAT
-        '84':
+        "84":
           link: http://www.rappers.in/en/vbt_2010-Pate+74523-vs-GeeGranit-749.html
           teilnehmer:
             - name: Pate 74523
@@ -6766,7 +6766,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Pesem -  Freiheit rmx Beat
-        '85':
+        "85":
           link: >-
             http://www.rappers.in/en/vbt_2010-T.Housewarth-vs-MC+MENSCHENFEIND-750.html
           teilnehmer:
@@ -6790,7 +6790,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Sepsis - Kings der Stadt
-        '86':
+        "86":
           link: http://www.rappers.in/en/vbt_2010-E-Age-vs-Bash.-751.html
           teilnehmer:
             - name: E-Age
@@ -6813,7 +6813,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Veni, Vedi, Vici
-        '87':
+        "87":
           link: http://www.rappers.in/en/vbt_2010-AnDist-vs-Sweed-752.html
           teilnehmer:
             - name: AnDist
@@ -6836,7 +6836,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PaCe - VBT 2010
-        '88':
+        "88":
           link: >-
             http://www.rappers.in/en/vbt_2010-Lance+Butters-vs-Splint+aka.+Spt-753.html
           teilnehmer:
@@ -6855,7 +6855,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/bjlGahRx2fk
                       original: true
-        '89':
+        "89":
           link: http://www.rappers.in/en/vbt_2010-i.rim-vs-SpliffTastiC-754.html
           teilnehmer:
             - name: i.rim
@@ -6882,7 +6882,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '90':
+        "90":
           link: http://www.rappers.in/en/vbt_2010-GeeNaro-vs-QQQQ.retrosexual-755.html
           teilnehmer:
             - name: GeeNaro
@@ -6901,7 +6901,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/zZUvXiONiuo
                       original: true
-        '91':
+        "91":
           link: http://www.rappers.in/en/vbt_2010-Primus23-vs-EnemyOne67-756.html
           teilnehmer:
             - name: Primus23
@@ -6913,7 +6913,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/00UYLQKke1c
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: EnemyOne67
               punkte: 1
               runden:
@@ -6923,8 +6923,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/snHzOEFtB4Y
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '92':
+                    - name: "shizofred - dre style/battle "
+        "92":
           link: >-
             http://www.rappers.in/en/vbt_2010-Tom+Cruised-vs-Luie-Die-Nadel-757.html
           teilnehmer:
@@ -6944,7 +6944,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ri4G4ekgY4A
                       original: true
-        '93':
+        "93":
           link: http://www.rappers.in/en/vbt_2010-Narut0-vs-Raderbiatch-758.html
           teilnehmer:
             - name: Narut0
@@ -6962,7 +6962,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/gvxV_pt5Hoo
                       original: true
-        '94':
+        "94":
           link: http://www.rappers.in/en/vbt_2010-Chester-vs-Scotch08-759.html
           teilnehmer:
             - name: Chester
@@ -6985,7 +6985,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: El Farmer - Flucht_aus_Absolom
-        '95':
+        "95":
           link: http://www.rappers.in/en/vbt_2010-M+G+Style-vs-Kay-Mc-760.html
           teilnehmer:
             - name: M G Style
@@ -7008,7 +7008,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Egoistic - Battle Beat
-        '96':
+        "96":
           link: http://www.rappers.in/en/vbt_2010-cosa123-vs-d0p3-761.html
           teilnehmer:
             - name: cosa123
@@ -7020,8 +7020,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/zLOHIE6xz64
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '97':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "97":
           link: http://www.rappers.in/en/vbt_2010-Lil+Die-vs-ReaPaMusic-762.html
           teilnehmer:
             - name: Lil Die
@@ -7032,9 +7032,9 @@ vbt2010:
                     - url: http://www.youtube.com/embed/xXQtLzQ_5ok
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: ReaPaMusic
-        '98':
+        "98":
           link: http://www.rappers.in/en/vbt_2010-Tabun-vs-Reasonderking-763.html
           teilnehmer:
             - name: Tabun
@@ -7057,7 +7057,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred - kabooombanger dings
-        '99':
+        "99":
           link: http://www.rappers.in/en/vbt_2010-PrideRAP-vs-Fensterscheibe-764.html
           teilnehmer:
             - name: PrideRAP
@@ -7076,7 +7076,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/iBJ7WKypA80
                       original: true
-        '100':
+        "100":
           link: http://www.rappers.in/en/vbt_2010-Xdogg-vs-C+e+r+t-765.html
           teilnehmer:
             - name: Xdogg
@@ -7098,7 +7098,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: AKZ-Beatz - Albino
-        '101':
+        "101":
           link: http://www.rappers.in/en/vbt_2010-StriddyCent-vs-Conglomerate-766.html
           teilnehmer:
             - name: StriddyCent
@@ -7111,7 +7111,7 @@ vbt2010:
                   beats:
                     - name: Moretime Productions - Zu tight
             - name: Conglomerate
-        '102':
+        "102":
           link: http://www.rappers.in/en/vbt_2010-Noz-vs-SnIggediSnIx-767.html
           teilnehmer:
             - name: Noz
@@ -7124,7 +7124,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Violincrime  - Sacred (Beatelite)
-        '103':
+        "103":
           link: http://www.rappers.in/en/vbt_2010-DynamiteDLX-vs-Swizzad-768.html
           teilnehmer:
             - name: DynamiteDLX
@@ -7142,7 +7142,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/kEYjAmFaNvY
                       original: true
-        '104':
+        "104":
           link: http://www.rappers.in/en/vbt_2010-dash%60-vs-Credo-769.html
           teilnehmer:
             - name: dash`
@@ -7165,7 +7165,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ice Diamond - VBT10 Exclusive
-        '105':
+        "105":
           link: http://www.rappers.in/en/vbt_2010-ZipZip-vs-Bs+Crime+Katona-770.html
           teilnehmer:
             - name: ZipZip
@@ -7178,7 +7178,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Bozz !!
-        '106':
+        "106":
           link: http://www.rappers.in/en/vbt_2010-Sickbo-vs-Bonzenboys-771.html
           teilnehmer:
             - name: Sickbo
@@ -7200,7 +7200,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Miks - in Berlin
-        '107':
+        "107":
           link: >-
             http://www.rappers.in/en/vbt_2010-Jim+Carrol-vs-Fakt-KleinStadtJunge-772.html
           teilnehmer:
@@ -7218,7 +7218,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/hk6kFeX_Lik
                       original: true
-        '108':
+        "108":
           link: http://www.rappers.in/en/vbt_2010-EreZ-vs-A.G.O.N-773.html
           teilnehmer:
             - name: EreZ
@@ -7241,7 +7241,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Pesem -  Freiheit rmx Beat
-        '109':
+        "109":
           link: http://www.rappers.in/en/vbt_2010-Manurro-vs-Trex0r-774.html
           teilnehmer:
             - name: Manurro
@@ -7254,7 +7254,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '110':
+        "110":
           link: >-
             http://www.rappers.in/en/vbt_2010-ProRipper-vs-KSD_HeadbangEnt.-775.html
           teilnehmer:
@@ -7274,7 +7274,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/h5po0UrUT70
                       original: true
-        '111':
+        "111":
           link: http://www.rappers.in/en/vbt_2010-Algasoro2009-vs-CockTail-776.html
           teilnehmer:
             - name: Algasoro2009
@@ -7297,7 +7297,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Xdogg Beatz - The Murdarah
-        '112':
+        "112":
           link: http://www.rappers.in/en/vbt_2010-Mr.Waks-vs-ZaP-777.html
           teilnehmer:
             - name: Mr.Waks
@@ -7310,7 +7310,7 @@ vbt2010:
                   beats:
                     - name: Joao - Mephistos revenge
             - name: ZaP
-        '113':
+        "113":
           link: http://www.rappers.in/en/vbt_2010-Loewenfront-vs-killakid-one-780.html
           teilnehmer:
             - name: Loewenfront
@@ -7329,7 +7329,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/BuWk3fF6kKo
                       original: true
-        '114':
+        "114":
           link: http://www.rappers.in/en/vbt_2010-LTeck-vs-GoldenLineZ+2009-781.html
           teilnehmer:
             - name: LTeck
@@ -7340,7 +7340,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/3MdLnO0-JiQ
                       original: true
             - name: GoldenLineZ 2009
-        '115':
+        "115":
           link: http://www.rappers.in/en/vbt_2010-Donetasy-vs-PrimeMuzik-782.html
           teilnehmer:
             - name: Donetasy
@@ -7359,7 +7359,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/93nK3NYOcfE
                       original: true
-        '116':
+        "116":
           link: http://www.rappers.in/en/vbt_2010-Smoke+M-vs-Rouby%26Robox-783.html
           teilnehmer:
             - name: Smoke M
@@ -7378,7 +7378,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/-MQzzrYKcJw
                       original: true
-        '117':
+        "117":
           link: http://www.rappers.in/en/vbt_2010-complex-vs-Crazy+Soul-784.html
           teilnehmer:
             - name: complex
@@ -7400,7 +7400,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '118':
+        "118":
           link: http://www.rappers.in/en/vbt_2010-Koma-Gun-vs-Invalid26-785.html
           teilnehmer:
             - name: Koma-Gun
@@ -7423,7 +7423,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - Bozz !!
-        '119':
+        "119":
           link: http://www.rappers.in/en/vbt_2010-Taishu-vs-SideOne-786.html
           teilnehmer:
             - name: Taishu
@@ -7436,7 +7436,7 @@ vbt2010:
                   beats:
                     - name: Moretime Productions - Arschtritt (VBT 10)
             - name: SideOne
-        '120':
+        "120":
           link: http://www.rappers.in/en/vbt_2010-nash%21-vs-PxX-788.html
           teilnehmer:
             - name: nash!
@@ -7458,7 +7458,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Royal Salute Re-up
-        '121':
+        "121":
           link: http://www.rappers.in/en/vbt_2010-esistderhesse-vs-Crank+D-789.html
           teilnehmer:
             - name: esistderhesse
@@ -7477,7 +7477,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/fy8EjHt6_0c
                       original: true
-        '122':
+        "122":
           link: http://www.rappers.in/en/vbt_2010-Kico-vs-Lefiz-790.html
           teilnehmer:
             - name: Kico
@@ -7499,7 +7499,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - El Mortimo
-        '123':
+        "123":
           link: http://www.rappers.in/en/vbt_2010-Drisherx-vs-Seriuz-One-791.html
           teilnehmer:
             - name: Drisherx
@@ -7510,7 +7510,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/kiNx1pjxLCo
                       original: true
-        '124':
+        "124":
           link: http://www.rappers.in/en/vbt_2010-Sinnflow-vs-Kritix-792.html
           teilnehmer:
             - name: Sinnflow
@@ -7533,7 +7533,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats  -  exclusiv for rappers.in
-        '125':
+        "125":
           link: http://www.rappers.in/en/vbt_2010-K%F6hn+93-vs-Shakyar-793.html
           teilnehmer:
             - name: Köhn 93
@@ -7544,7 +7544,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/pLA5xaESzk0
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: Shakyar
               punkte: 5
               runden:
@@ -7554,8 +7554,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/7Fh1VdaZn6c
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '126':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "126":
           link: http://www.rappers.in/en/vbt_2010-KOKAofficial-vs-msserious-794.html
           teilnehmer:
             - name: KOKAofficial
@@ -7577,7 +7577,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: TA-Beatz - double violine
-        '127':
+        "127":
           link: http://www.rappers.in/en/vbt_2010-Gora%21-vs-Scratchi-795.html
           teilnehmer:
             - name: Gora!
@@ -7596,7 +7596,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/4CWbJeq9oTI
                       original: true
-        '128':
+        "128":
           link: http://www.rappers.in/en/vbt_2010-ideahl-vs-DeeLah-796.html
           teilnehmer:
             - name: ideahl
@@ -7607,7 +7607,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/zzeynV59-1c
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: DeeLah
               punkte: 4
               runden:
@@ -7617,8 +7617,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/Om_LEoKBzb4
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '129':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "129":
           link: http://www.rappers.in/en/vbt_2010-King+Marsmania-vs-Huzzla%21-797.html
           teilnehmer:
             - name: King Marsmania
@@ -7641,7 +7641,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PaCe - VBT 2010
-        '130':
+        "130":
           link: http://www.rappers.in/en/vbt_2010-Salzmensch-vs-Dizbro-798.html
           teilnehmer:
             - name: Salzmensch
@@ -7653,7 +7653,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/5lHvZ4SA0vk
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: Dizbro
               punkte: 4
               runden:
@@ -7663,8 +7663,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/mEcAH1NmXvo
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '131':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "131":
           link: http://www.rappers.in/en/vbt_2010-mzes-vs---Exitus---799.html
           teilnehmer:
             - name: mzes
@@ -7676,7 +7676,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-            - name: '--Exitus--'
+            - name: "--Exitus--"
               punkte: 3
               runden:
                 hr2:
@@ -7686,7 +7686,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '132':
+        "132":
           link: >-
             http://www.rappers.in/en/vbt_2010-LzumK_Music-vs-mc%22holy+voice%22-800.html
           teilnehmer:
@@ -7710,7 +7710,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - El Mortimo
-        '133':
+        "133":
           link: http://www.rappers.in/en/vbt_2010-MoaBITE-vs-Utz--801.html
           teilnehmer:
             - name: MoaBITE
@@ -7728,7 +7728,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/7hTzHGnjHGo
                       original: true
-        '134':
+        "134":
           link: http://www.rappers.in/en/vbt_2010-Rheiner+Zufall-vs-ZisaR-802.html
           teilnehmer:
             - name: Rheiner Zufall
@@ -7750,7 +7750,7 @@ vbt2010:
     zwischenrunde:
       name: Zwischenrunde
       battles:
-        '1':
+        "1":
           link: http://www.rappers.in/en/vbt_2010-LTeck-vs-369+AKA+KaOhEr-803.html
           teilnehmer:
             - name: LTeck
@@ -7763,7 +7763,7 @@ vbt2010:
                   beats:
                     - name: PraimenBeatz - Aussichtslos
             - name: 369 AKA KaOhEr
-        '2':
+        "2":
           link: http://www.rappers.in/en/vbt_2010-Mr.Waks-vs-Flob-804.html
           teilnehmer:
             - name: Mr.Waks
@@ -7789,7 +7789,7 @@ vbt2010:
                     - name: >-
                         MC Pint aka Danus Pintziatnuss - Creuzfeld & Jakob
                         (Widmung)
-        '3':
+        "3":
           link: http://www.rappers.in/en/vbt_2010-Bs+Crime+Katona-vs-Kenta-805.html
           teilnehmer:
             - name: Bs Crime Katona
@@ -7804,7 +7804,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '4':
+        "4":
           link: http://www.rappers.in/en/vbt_2010-StriddyCent-vs-Lil+Die-806.html
           teilnehmer:
             - name: StriddyCent
@@ -7823,7 +7823,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/nzEIwI_IzjI
                       original: true
-        '5':
+        "5":
           link: http://www.rappers.in/en/vbt_2010-DanZ-vs-Trex0r-807.html
           teilnehmer:
             - name: DanZ
@@ -7836,7 +7836,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats  -  exclusiv for rappers.in
-        '6':
+        "6":
           link: http://www.rappers.in/en/vbt_2010-juSativa-vs-Dee.-808.html
           teilnehmer:
             - name: juSativa
@@ -7849,7 +7849,7 @@ vbt2010:
                   beats:
                     - name: BHB - Real Hip Hop (16er)
             - name: Dee.
-        '7':
+        "7":
           link: http://www.rappers.in/en/vbt_2010-D-%24tyLe-vs-Ricordz-809.html
           teilnehmer:
             - name: D-$tyLe
@@ -7861,7 +7861,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/zVxJLq0Fd3w
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
+                    - name: "shizofred - reality "
             - name: Ricordz
               punkte: 4
               runden:
@@ -7871,8 +7871,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/l-rWKR1nDF4
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '8':
+                    - name: "shizofred - reality "
+        "8":
           link: http://www.rappers.in/en/vbt_2010-BoBoR-vs-MathiN+FoX-810.html
           teilnehmer:
             - name: BoBoR
@@ -7883,7 +7883,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/LPfgDYSgjzo
                       original: true
             - name: MathiN FoX
-        '9':
+        "9":
           link: http://www.rappers.in/en/vbt_2010-FloW-KiNG-vs-L-Z-A-811.html
           teilnehmer:
             - name: FloW-KiNG
@@ -7906,7 +7906,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: A!venho - Freebeat 05
-        '10':
+        "10":
           link: http://www.rappers.in/en/vbt_2010-Cas+One-vs-Sanic-812.html
           teilnehmer:
             - name: Cas One
@@ -7928,7 +7928,7 @@ vbt2010:
     64stel:
       name: 64stel
       battles:
-        '1':
+        "1":
           link: http://www.rappers.in/en/vbt_2010-LTeck-vs-Lil-Hopz-813.html
           teilnehmer:
             - name: LTeck
@@ -7951,7 +7951,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: FRL - halt dein maul!
-        '2':
+        "2":
           link: http://www.rappers.in/en/vbt_2010-Mr.Waks-vs-Don+Maxin-814.html
           teilnehmer:
             - name: Mr.Waks
@@ -7973,7 +7973,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Kinex - Pray
-        '3':
+        "3":
           link: http://www.rappers.in/en/vbt_2010-StriddyCent-vs-Dupash-815.html
           teilnehmer:
             - name: StriddyCent
@@ -7984,7 +7984,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/XggFwJBvsb8
                       original: true
-        '4':
+        "4":
           link: http://www.rappers.in/en/vbt_2010-juSativa-vs-NavyMC-816.html
           teilnehmer:
             - name: juSativa
@@ -7997,7 +7997,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Alex Alves - Der fröchlichste VBT
-        '5':
+        "5":
           link: http://www.rappers.in/en/vbt_2010-D-%24tyLe-vs-streetsoldyer-817.html
           teilnehmer:
             - name: D-$tyLe
@@ -8019,7 +8019,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '6':
+        "6":
           link: http://www.rappers.in/en/vbt_2010-BoBoR-vs-Sizi-Size-818.html
           teilnehmer:
             - name: BoBoR
@@ -8032,7 +8032,7 @@ vbt2010:
                   beats:
                     - name: Violincrime  - Sacred (Beatelite)
             - name: Sizi-Size
-        '7':
+        "7":
           link: http://www.rappers.in/en/vbt_2010-C-Jay+One-vs-GeOT-819.html
           teilnehmer:
             - name: C-Jay One
@@ -8054,7 +8054,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - VBT BEAT
-        '8':
+        "8":
           link: http://www.rappers.in/en/vbt_2010-Kenta-vs-Rytality-820.html
           teilnehmer:
             - name: Kenta
@@ -8077,7 +8077,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred nicht - noch ein vbt beat oO
-        '9':
+        "9":
           link: http://www.rappers.in/en/vbt_2010-Sanic-vs-Tamo-Flage-822.html
           teilnehmer:
             - name: Sanic
@@ -8088,7 +8088,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/qNKV99qN4mE
                       original: true
-        '10':
+        "10":
           link: http://www.rappers.in/en/vbt_2010-Monte-Rap-vs-clayne-823.html
           teilnehmer:
             - name: Monte-Rap
@@ -8101,7 +8101,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred\\\'s rechtschreib - ung suckt
-        '11':
+        "11":
           link: http://www.rappers.in/en/vbt_2010-whazzup-vs-Koalavoice-824.html
           teilnehmer:
             - name: whazzup
@@ -8124,7 +8124,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred nicht - noch ein vbt beat oO
-        '12':
+        "12":
           link: http://www.rappers.in/en/vbt_2010-Djin-vs-IceJunior-825.html
           teilnehmer:
             - name: Djin
@@ -8137,7 +8137,7 @@ vbt2010:
                   beats:
                     - name: shizofred nicht - noch ein vbt beat oO
             - name: IceJunior
-        '13':
+        "13":
           link: http://www.rappers.in/en/vbt_2010-Makillas-vs-KEF-826.html
           teilnehmer:
             - name: Makillas
@@ -8150,7 +8150,7 @@ vbt2010:
                   beats:
                     - name: 2 Diamond Beats - Blick auf die Street (Voten und Feeden)
             - name: KEF
-        '14':
+        "14":
           link: http://www.rappers.in/en/vbt_2010-Scotch08-vs-nizzo-827.html
           teilnehmer:
             - name: Scotch08
@@ -8161,7 +8161,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/cQJS1b7DNFI
                       original: true
             - name: nizzo
-        '15':
+        "15":
           link: http://www.rappers.in/en/vbt_2010-d0p3-vs-Punchdeinface-829.html
           teilnehmer:
             - name: d0p3
@@ -8182,7 +8182,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Royal Salute Re-up
-        '16':
+        "16":
           link: http://www.rappers.in/en/vbt_2010-Reasonderking-vs--HeadLine--830.html
           teilnehmer:
             - name: Reasonderking
@@ -8195,7 +8195,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Resident - VBT-Klatscher
-            - name: '-HeadLine-'
+            - name: "-HeadLine-"
               punkte: 2
               runden:
                 hr2:
@@ -8205,7 +8205,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Resident - VBT-Klatscher
-        '17':
+        "17":
           link: http://www.rappers.in/en/vbt_2010-Fensterscheibe-vs-Lucs-831.html
           teilnehmer:
             - name: Fensterscheibe
@@ -8231,7 +8231,7 @@ vbt2010:
                     - name: >-
                         Justus-Beatz  - ROCK / FEEDEN UND VOTEN NICHT VERGESSEN
                         SONST IST DAS DER LETZTE BEAT  DER HIER  REINKOMMT  ;)
-        '18':
+        "18":
           link: http://www.rappers.in/en/vbt_2010-SnIggediSnIx-vs-pascho-832.html
           teilnehmer:
             - name: SnIggediSnIx
@@ -8250,7 +8250,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/R4DHdWP3lu8
                       original: true
-        '19':
+        "19":
           link: http://www.rappers.in/en/vbt_2010-Swizzad-vs-Critt-833.html
           teilnehmer:
             - name: Swizzad
@@ -8273,7 +8273,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Royal Salute Re-up
-        '20':
+        "20":
           link: http://www.rappers.in/en/vbt_2010-Bonzenboys-vs-B-High-834.html
           teilnehmer:
             - name: Bonzenboys
@@ -8286,7 +8286,7 @@ vbt2010:
                   beats:
                     - name: DaDaDo - Wind im Herbst
             - name: B-High
-        '21':
+        "21":
           link: http://www.rappers.in/en/vbt_2010-A.G.O.N-vs-Jay-Ko-835.html
           teilnehmer:
             - name: A.G.O.N
@@ -8309,7 +8309,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: 2 Diamond Beats  -  exclusiv for rappers.in
-        '22':
+        "22":
           link: http://www.rappers.in/en/vbt_2010-KSD_HeadbangEnt.-vs-emco-836.html
           teilnehmer:
             - name: KSD_HeadbangEnt.
@@ -8324,7 +8324,7 @@ vbt2010:
                         Justus-Beatz  - ROCK / FEEDEN UND VOTEN NICHT VERGESSEN
                         SONST IST DAS DER LETZTE BEAT  DER HIER  REINKOMMT  ;)
             - name: emco
-        '23':
+        "23":
           link: http://www.rappers.in/en/vbt_2010-CockTail-vs-Scheffy+Scheff-837.html
           teilnehmer:
             - name: CockTail
@@ -8343,7 +8343,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/uto-Jf7KCRc
                       original: true
-        '24':
+        "24":
           link: http://www.rappers.in/en/vbt_2010-Kevnox-vs-HeeZee-838.html
           teilnehmer:
             - name: Kevnox
@@ -8356,7 +8356,7 @@ vbt2010:
                   beats:
                     - name: Moretime Productions - Arschtritt (VBT 10)
             - name: HeeZee
-        '25':
+        "25":
           link: http://www.rappers.in/en/vbt_2010-PrimeMuzik-vs-Enceo-839.html
           teilnehmer:
             - name: PrimeMuzik
@@ -8369,7 +8369,7 @@ vbt2010:
                   beats:
                     - name: Pesem - My
             - name: Enceo
-        '26':
+        "26":
           link: http://www.rappers.in/en/vbt_2010-Invalid26-vs-JoFLow-840.html
           teilnehmer:
             - name: Invalid26
@@ -8380,7 +8380,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/uehUf9b44P4
                       original: true
-        '27':
+        "27":
           link: http://www.rappers.in/en/vbt_2010-WoOdY666-vs-Kico-841.html
           teilnehmer:
             - name: WoOdY666
@@ -8398,7 +8398,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/e60RbbsH_h8
                       original: true
-        '28':
+        "28":
           link: http://www.rappers.in/en/vbt_2010-Maso-G-vs-Tripple-G-842.html
           teilnehmer:
             - name: Maso-G
@@ -8420,7 +8420,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: SilaZ - In der Hölle
-        '29':
+        "29":
           link: http://www.rappers.in/en/vbt_2010-GeeGranit-vs-eZ-Kay-843.html
           teilnehmer:
             - name: GeeGranit
@@ -8433,7 +8433,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Final
-        '30':
+        "30":
           link: http://www.rappers.in/en/vbt_2010-MC+MENSCHENFEIND-vs-Silus-844.html
           teilnehmer:
             - name: MC MENSCHENFEIND
@@ -8452,7 +8452,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/WAu3-L8bmWg
                       original: true
-        '31':
+        "31":
           link: http://www.rappers.in/en/vbt_2010-SpliffTastiC-vs-Tiza-845.html
           teilnehmer:
             - name: SpliffTastiC
@@ -8471,7 +8471,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ijKaCfDaH50
                       original: true
-        '32':
+        "32":
           link: http://www.rappers.in/en/vbt_2010-QQQQ.retrosexual-vs-G-Nite-846.html
           teilnehmer:
             - name: QQQQ.retrosexual
@@ -8483,7 +8483,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/jWvXcdFVmVk
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
+                    - name: "shizofred - dre style/battle "
             - name: G-Nite
               runden:
                 hr2:
@@ -8492,8 +8492,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/w2FBWTnrsJE
                       original: true
                   beats:
-                    - name: 'shizofred - dre style/battle '
-        '33':
+                    - name: "shizofred - dre style/battle "
+        "33":
           link: http://www.rappers.in/en/vbt_2010-Luie-Die-Nadel-vs-LeXuZ-847.html
           teilnehmer:
             - name: Luie-Die-Nadel
@@ -8512,7 +8512,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/kDJL2Eu7Iss
                       original: true
-        '34':
+        "34":
           link: http://www.rappers.in/en/vbt_2010-PxX-vs-SiDk-848.html
           teilnehmer:
             - name: PxX
@@ -8525,7 +8525,7 @@ vbt2010:
                   beats:
                     - name: Criizz-Beatz - Showtime / VBT Nr. 5
             - name: SiDk
-        '35':
+        "35":
           link: http://www.rappers.in/en/vbt_2010-Seriuz-One-vs-mck92-849.html
           teilnehmer:
             - name: Seriuz-One
@@ -8548,7 +8548,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Kranka Battle Shit
-        '36':
+        "36":
           link: http://www.rappers.in/en/vbt_2010-Shakyar-vs-Gladiac-850.html
           teilnehmer:
             - name: Shakyar
@@ -8567,7 +8567,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/jz8PxGQjJpg
                       original: true
-        '37':
+        "37":
           link: http://www.rappers.in/en/vbt_2010-DeeLah-vs-diRAPtor-851.html
           teilnehmer:
             - name: DeeLah
@@ -8590,7 +8590,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Rakulicious_Beatz - 2pac changes remix
-        '38':
+        "38":
           link: http://www.rappers.in/en/vbt_2010-Huzzla%21-vs-Hand-852.html
           teilnehmer:
             - name: Huzzla!
@@ -8603,7 +8603,7 @@ vbt2010:
                   beats:
                     - name: TA-Beatz - smw collab 2
             - name: Hand
-        '39':
+        "39":
           link: http://www.rappers.in/en/vbt_2010-Dizbro-vs-RaP2FaST-853.html
           teilnehmer:
             - name: Dizbro
@@ -8626,10 +8626,10 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mik-Star - Golden Silver
-        '40':
+        "40":
           link: http://www.rappers.in/en/vbt_2010---Exitus---vs-KJMaSaKkA-854.html
           teilnehmer:
-            - name: '--Exitus--'
+            - name: "--Exitus--"
               punkte: 6
               runden:
                 hr1:
@@ -8648,7 +8648,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Criizz-Beatz - Endlevel / VBT Nr. 3
-        '41':
+        "41":
           link: >-
             http://www.rappers.in/en/vbt_2010-mc%22holy+voice%22-vs-FloW-KiNG-855.html
           teilnehmer:
@@ -8674,7 +8674,7 @@ vbt2010:
                     - name: >-
                         shizofred - EXCLUSIVE!!!!---> HighQuality anhören saugen
                         feeden!
-        '42':
+        "42":
           link: http://www.rappers.in/en/vbt_2010-Utz--vs-coru-856.html
           teilnehmer:
             - name: Utz-
@@ -8696,7 +8696,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ice Diamond - The Originals
-        '43':
+        "43":
           link: http://www.rappers.in/en/vbt_2010-Suwhat-vs-K-Win-857.html
           teilnehmer:
             - name: Suwhat
@@ -8719,7 +8719,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PaCe - VBT 2010
-        '44':
+        "44":
           link: http://www.rappers.in/en/vbt_2010-Giegi-G-vs-Say-858.html
           teilnehmer:
             - name: Giegi-G
@@ -8737,7 +8737,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/2WrQt8wYPtQ
                       original: true
-        '45':
+        "45":
           link: http://www.rappers.in/en/vbt_2010-Duzoe-vs-kohma-one-859.html
           teilnehmer:
             - name: Duzoe
@@ -8760,7 +8760,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mik-Star - Golden Silver
-        '46':
+        "46":
           link: http://www.rappers.in/en/vbt_2010-FelyFe-vs-jabbo-860.html
           teilnehmer:
             - name: FelyFe
@@ -8779,7 +8779,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/d0PANiQI5_c
                       original: true
-        '47':
+        "47":
           link: http://www.rappers.in/en/vbt_2010-Toomb-vs-Pr%21MaR-861.html
           teilnehmer:
             - name: Toomb
@@ -8802,7 +8802,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Ker - Veni, Vedi, Vici
-        '48':
+        "48":
           link: http://www.rappers.in/en/vbt_2010-Ka-o-Peh-vs-Ti_Jay-862.html
           teilnehmer:
             - name: Ka-o-Peh
@@ -8815,7 +8815,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Criizz-Beatz - Champion / VBT Nr. 4
-        '49':
+        "49":
           link: http://www.rappers.in/en/vbt_2010-seekay93-vs-SicilianDon-863.html
           teilnehmer:
             - name: seekay93
@@ -8838,7 +8838,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred\\\'s rechtschreib - ung suckt
-        '50':
+        "50":
           link: http://www.rappers.in/en/vbt_2010-TimoseS-vs-Gat+Swagger-864.html
           teilnehmer:
             - name: TimoseS
@@ -8851,7 +8851,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Criizz-Beatz - Champion / VBT Nr. 4
-        '51':
+        "51":
           link: http://www.rappers.in/en/vbt_2010-Grisubeats-vs-Jay+aka+Hde-865.html
           teilnehmer:
             - name: Grisubeats
@@ -8864,7 +8864,7 @@ vbt2010:
                   beats:
                     - name: Ker - Kranka Battle Shit
             - name: Jay aka Hde
-        '52':
+        "52":
           link: http://www.rappers.in/en/vbt_2010-M.I.K.I-vs-DECIZE-866.html
           teilnehmer:
             - name: M.I.K.I
@@ -8883,7 +8883,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/uMa4BdTONU8
                       original: true
-        '53':
+        "53":
           link: http://www.rappers.in/en/vbt_2010-AnDist-vs-KanistyLez-867.html
           teilnehmer:
             - name: AnDist
@@ -8906,7 +8906,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: MicDon - Come Down
-        '54':
+        "54":
           link: http://www.rappers.in/en/vbt_2010-Lance+Butters-vs-Kay+Lynah-868.html
           teilnehmer:
             - name: Lance Butters
@@ -8929,7 +8929,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Tron - kazoom
-        '55':
+        "55":
           link: http://www.rappers.in/en/vbt_2010-Primus23-vs-E-Age-869.html
           teilnehmer:
             - name: Primus23
@@ -8941,8 +8941,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/D0RWmhYWsJA
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '56':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "56":
           link: http://www.rappers.in/en/vbt_2010-Narut0-vs-Loewenfront-870.html
           teilnehmer:
             - name: Narut0
@@ -8953,7 +8953,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/m40ECW75Vsg
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
+                    - name: "MC Pint Beatz - Battle Royal "
             - name: Loewenfront
               runden:
                 hr2:
@@ -8962,8 +8962,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/epc4fDlzCIg
                       original: true
                   beats:
-                    - name: 'MC Pint Beatz - Battle Royal '
-        '57':
+                    - name: "MC Pint Beatz - Battle Royal "
+        "57":
           link: http://www.rappers.in/en/vbt_2010-Xdogg-vs-Smoke+M-871.html
           teilnehmer:
             - name: Xdogg
@@ -8974,7 +8974,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/R7_uTDSMr_o
                       original: true
             - name: Smoke M
-        '58':
+        "58":
           link: http://www.rappers.in/en/vbt_2010-dash%60-vs-complex-872.html
           teilnehmer:
             - name: dash`
@@ -8987,7 +8987,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Taifun Beats - Gangsterjesus Re-up
-        '59':
+        "59":
           link: http://www.rappers.in/en/vbt_2010-Jim+Carrol-vs-Taishu-873.html
           teilnehmer:
             - name: Jim Carrol
@@ -9010,7 +9010,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Feel it
-        '60':
+        "60":
           link: http://www.rappers.in/en/vbt_2010-KOKAofficial-vs-Karano-875.html
           teilnehmer:
             - name: KOKAofficial
@@ -9021,7 +9021,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/ZwpdkJjhD1g
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
+                    - name: "shizofred - reality "
             - name: Karano
               punkte: 6
               runden:
@@ -9031,8 +9031,8 @@ vbt2010:
                     - url: http://www.youtube.com/embed/tE5ACJR5ZHE
                       original: true
                   beats:
-                    - name: 'shizofred - reality '
-        '61':
+                    - name: "shizofred - reality "
+        "61":
           link: http://www.rappers.in/en/vbt_2010-Gora%21-vs-Rheiner+Zufall-876.html
           teilnehmer:
             - name: Gora!
@@ -9058,7 +9058,7 @@ vbt2010:
     32stel:
       name: 32stel
       battles:
-        '1':
+        "1":
           link: http://www.rappers.in/en/vbt_2010-Dupash-vs-Karano-910.html
           teilnehmer:
             - name: Dupash
@@ -9077,7 +9077,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/k7133OVd1i8
                       original: true
-        '2':
+        "2":
           link: http://www.rappers.in/en/vbt_2010-NavyMC-vs-LTeck-911.html
           teilnehmer:
             - name: NavyMC
@@ -9096,7 +9096,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ByJWwosSlPI
                       original: true
-        '3':
+        "3":
           link: http://www.rappers.in/en/vbt_2010-streetsoldyer-vs-PrimeMuzik-912.html
           teilnehmer:
             - name: streetsoldyer
@@ -9109,7 +9109,7 @@ vbt2010:
                   beats:
                     - name: DJ Tank & Waynebeatzz - STOMP THE YARD
             - name: PrimeMuzik
-        '4':
+        "4":
           link: http://www.rappers.in/en/vbt_2010-GeOT-vs-BoBoR-913.html
           teilnehmer:
             - name: GeOT
@@ -9132,7 +9132,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Moretime Productions - Zu tight
-        '5':
+        "5":
           link: http://www.rappers.in/en/vbt_2010-.M.-vs-Huzzla%21-914.html
           teilnehmer:
             - name: .M.
@@ -9145,7 +9145,7 @@ vbt2010:
                   beats:
                     - name: TA-Beatz - piano and string
             - name: Huzzla!
-        '6':
+        "6":
           link: http://www.rappers.in/en/vbt_2010-Tamo-Flage-vs-Narut0-915.html
           teilnehmer:
             - name: Tamo-Flage
@@ -9164,7 +9164,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/o95uj0vtO_s
                       original: true
-        '7':
+        "7":
           link: http://www.rappers.in/en/vbt_2010-clayne-vs-Xdogg-916.html
           teilnehmer:
             - name: clayne
@@ -9187,7 +9187,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PEET - DEDEAUN DAN DABAM
-        '8':
+        "8":
           link: http://www.rappers.in/en/vbt_2010-Koalavoice-vs-Gora%21-917.html
           teilnehmer:
             - name: Koalavoice
@@ -9209,7 +9209,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Dj_MethMX - BEAT V
-        '9':
+        "9":
           link: http://www.rappers.in/en/vbt_2010-Lucs-vs-d0p3-918.html
           teilnehmer:
             - name: Lucs
@@ -9232,7 +9232,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: CreepaBeats - VBT BEAT
-        '10':
+        "10":
           link: >-
             http://www.rappers.in/en/vbt_2010-SpliffTastiC-vs-Punchdeinface-919.html
           teilnehmer:
@@ -9250,7 +9250,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/wLTt-vIj_sk
                       original: true
-        '11':
+        "11":
           link: http://www.rappers.in/en/vbt_2010-Jay-Ko-vs-Kevnox-920.html
           teilnehmer:
             - name: Jay-Ko
@@ -9273,7 +9273,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Criizz&MaxFresh; - Teamwork
-        '12':
+        "12":
           link: http://www.rappers.in/en/vbt_2010-Scheffy+Scheff-vs-Mr.Waks-921.html
           teilnehmer:
             - name: Scheffy Scheff
@@ -9292,7 +9292,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/2YELjexs_hQ
                       original: true
-        '13':
+        "13":
           link: http://www.rappers.in/en/vbt_2010-JoFLow-vs-MC+MENSCHENFEIND-922.html
           teilnehmer:
             - name: JoFLow
@@ -9315,7 +9315,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Kinex - Puncher
-        '14':
+        "14":
           link: http://www.rappers.in/en/vbt_2010-Kico-vs-pascho-923.html
           teilnehmer:
             - name: Kico
@@ -9338,7 +9338,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Boxxxer Muzik - VBT 2010 Beat
-        '15':
+        "15":
           link: >-
             http://www.rappers.in/en/vbt_2010-Tripple-G-vs-QQQQ.retrosexual-924.html
           teilnehmer:
@@ -9362,7 +9362,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Mpire - Final
-        '16':
+        "16":
           link: http://www.rappers.in/en/vbt_2010-eZ-Kay-vs-Luie-Die-Nadel-925.html
           teilnehmer:
             - name: eZ-Kay
@@ -9381,7 +9381,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/PS_Wnkbt5OU
                       original: true
-        '17':
+        "17":
           link: http://www.rappers.in/en/vbt_2010-Reasonderking-vs-PxX-926.html
           teilnehmer:
             - name: Reasonderking
@@ -9404,7 +9404,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: SilaZ - In der Hölle
-        '18':
+        "18":
           link: http://www.rappers.in/en/vbt_2010-FloW-KiNG-vs-Seriuz-One-927.html
           teilnehmer:
             - name: FloW-KiNG
@@ -9417,7 +9417,7 @@ vbt2010:
                   beats:
                     - name: Taifun Beats - Royal Salute Re-up
             - name: Seriuz-One
-        '19':
+        "19":
           link: http://www.rappers.in/en/vbt_2010-coru-vs-Shakyar-928.html
           teilnehmer:
             - name: coru
@@ -9428,7 +9428,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/JNLR2ju5NxQ
                       original: true
             - name: Shakyar
-        '20':
+        "20":
           link: http://www.rappers.in/en/vbt_2010-Say-vs-Lance+Butters-930.html
           teilnehmer:
             - name: Say
@@ -9450,7 +9450,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: shizofred nicht - noch ein vbt beat oO
-        '21':
+        "21":
           link: http://www.rappers.in/en/vbt_2010-kohma-one-vs---Exitus---931.html
           teilnehmer:
             - name: kohma-one
@@ -9460,14 +9460,14 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/U4bSPUO1oY8
                       original: true
-            - name: '--Exitus--'
+            - name: "--Exitus--"
               runden:
                 hr2:
                   name: HR2
                   links:
                     - url: http://www.youtube.com/embed/eCYBsPJsTFk
                       original: true
-        '22':
+        "22":
           link: http://www.rappers.in/en/vbt_2010-jabbo-vs-Toomb-932.html
           teilnehmer:
             - name: jabbo
@@ -9486,7 +9486,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ef3wznDtFKQ
                       original: true
-        '23':
+        "23":
           link: http://www.rappers.in/en/vbt_2010-Ti_Jay-vs-seekay93-933.html
           teilnehmer:
             - name: Ti_Jay
@@ -9505,7 +9505,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/8wDY1Aavuko
                       original: true
-        '24':
+        "24":
           link: http://www.rappers.in/en/vbt_2010-Gat+Swagger-vs-Grisubeats-934.html
           teilnehmer:
             - name: Gat Swagger
@@ -9528,7 +9528,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: BHB - Real Hip Hop (16er)
-        '25':
+        "25":
           link: http://www.rappers.in/en/vbt_2010-KanistyLez-vs-complex-935.html
           teilnehmer:
             - name: KanistyLez
@@ -9550,7 +9550,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Famix - Fetter Beat check ma
-        '26':
+        "26":
           link: http://www.rappers.in/en/vbt_2010-E-Age-vs-Kenta-936.html
           teilnehmer:
             - name: E-Age
@@ -9573,7 +9573,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Sepsis - Zu Breit Für\\\'n Club
-        '27':
+        "27":
           link: http://www.rappers.in/en/vbt_2010-M.I.K.I-vs-Djin-937.html
           teilnehmer:
             - name: M.I.K.I
@@ -9586,7 +9586,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Neologizmo - Angeldust
-        '28':
+        "28":
           link: http://www.rappers.in/en/vbt_2010-Taishu-vs-Makillas-938.html
           teilnehmer:
             - name: Taishu
@@ -9609,7 +9609,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: PraimenBeatz - Überflieger
-        '29':
+        "29":
           link: http://www.rappers.in/en/vbt_2010-RaP2FaST-vs-Scotch08-939.html
           teilnehmer:
             - name: RaP2FaST
@@ -9632,7 +9632,7 @@ vbt2010:
                       original: true
                   beats:
                     - name: Kinex - Puncher
-        '30':
+        "30":
           link: http://www.rappers.in/en/vbt_2010-Swizzad-vs-Kay-Mc-940.html
           teilnehmer:
             - name: Swizzad
@@ -9643,7 +9643,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ezrHOrKAEZc
                       original: true
-        '31':
+        "31":
           link: >-
             http://www.rappers.in/en/vbt_2010-Bonzenboys-vs-KSD_HeadbangEnt.-941.html
           teilnehmer:
@@ -9670,7 +9670,7 @@ vbt2010:
     16tel:
       name: 16tel
       battles:
-        '1':
+        "1":
           link: http://www.rappers.in/en/vbt_2010-Dupash-vs-Xdogg-942.html
           teilnehmer:
             - name: Dupash
@@ -9699,7 +9699,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/xsFbVAR6Aqs
                       original: true
-        '2':
+        "2":
           link: >-
             http://www.rappers.in/en/vbt_2010-streetsoldyer-vs-MC+MENSCHENFEIND-943.html
           teilnehmer:
@@ -9724,7 +9724,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/vH78vOt7WTU
                       original: true
-        '3':
+        "3":
           link: http://www.rappers.in/en/vbt_2010-GeOT-vs-Luie-Die-Nadel-944.html
           teilnehmer:
             - name: GeOT
@@ -9751,7 +9751,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/8IA5XZxW3HA
                       original: true
-        '4':
+        "4":
           link: http://www.rappers.in/en/vbt_2010-.M.-vs-Gat+Swagger-945.html
           teilnehmer:
             - name: .M.
@@ -9780,7 +9780,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/nNtvyz_WSFI
                       original: true
-        '5':
+        "5":
           link: http://www.rappers.in/en/vbt_2010-Tamo-Flage-vs-Lance+Butters-946.html
           teilnehmer:
             - name: Tamo-Flage
@@ -9807,7 +9807,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/ICqIkc5yaxY
                       original: true
-        '6':
+        "6":
           link: http://www.rappers.in/en/vbt_2010-Koalavoice-vs-Toomb-947.html
           teilnehmer:
             - name: Koalavoice
@@ -9836,7 +9836,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/hDS65XFa57g
                       original: true
-        '7':
+        "7":
           link: http://www.rappers.in/en/vbt_2010-Lucs-vs-complex-948.html
           teilnehmer:
             - name: Lucs
@@ -9865,7 +9865,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/RArK6RpPyOE
                       original: true
-        '8':
+        "8":
           link: http://www.rappers.in/en/vbt_2010-SpliffTastiC-vs-Kenta-949.html
           teilnehmer:
             - name: SpliffTastiC
@@ -9876,7 +9876,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/SdBwvTK5tjs
                       original: true
             - name: Kenta
-        '9':
+        "9":
           link: http://www.rappers.in/en/vbt_2010-Kico-vs-Makillas-950.html
           teilnehmer:
             - name: Kico
@@ -9904,7 +9904,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/KuiWxD4Tsu4
                       original: true
-        '10':
+        "10":
           link: http://www.rappers.in/en/vbt_2010-Tripple-G-vs-Scotch08-951.html
           teilnehmer:
             - name: Tripple-G
@@ -9933,7 +9933,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/jtLYifHWc34
                       original: true
-        '11':
+        "11":
           link: http://www.rappers.in/en/vbt_2010-FloW-KiNG-vs-Kevnox-952.html
           teilnehmer:
             - name: FloW-KiNG
@@ -9962,7 +9962,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/Ou3SsZ7ByuE
                       original: true
-        '12':
+        "12":
           link: http://www.rappers.in/en/vbt_2010-coru-vs-Mr.Waks-953.html
           teilnehmer:
             - name: coru
@@ -9991,7 +9991,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/QUU9Mb-_2jg
                       original: true
-        '13':
+        "13":
           link: http://www.rappers.in/en/vbt_2010-K-Win-vs-PxX-954.html
           teilnehmer:
             - name: K-Win
@@ -10020,7 +10020,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/6Ir-aovB0qk
                       original: true
-        '14':
+        "14":
           link: http://www.rappers.in/en/vbt_2010-kohma-one-vs-Ti_Jay-955.html
           teilnehmer:
             - name: kohma-one
@@ -10047,7 +10047,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/j7skLj4zvdo
                       original: true
-        '15':
+        "15":
           link: http://www.rappers.in/en/vbt_2010-LTeck-vs-Djin-956.html
           teilnehmer:
             - name: LTeck
@@ -10076,7 +10076,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/JrO6NuUUTt0
                       original: true
-        '16':
+        "16":
           link: http://www.rappers.in/en/vbt_2010-Kay-Mc-vs-KSD_HeadbangEnt.-957.html
           teilnehmer:
             - name: Kay-Mc
@@ -10101,7 +10101,7 @@ vbt2010:
     achtelfinale:
       name: Achtelfinale
       battles:
-        '1':
+        "1":
           link: http://www.rappers.in/en/vbt_2010-Dupash-vs-FloW-KiNG-975.html
           teilnehmer:
             - name: Dupash
@@ -10130,7 +10130,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/hQRk6JxJO1E
                       original: true
-        '2':
+        "2":
           link: http://www.rappers.in/en/vbt_2010-Djin-vs-coru-976.html
           teilnehmer:
             - name: Djin
@@ -10159,7 +10159,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/8GdCercUbRs
                       original: true
-        '3':
+        "3":
           link: >-
             http://www.rappers.in/en/vbt_2010-KSD_HeadbangEnt.-vs-SpliffTastiC-977.html
           teilnehmer:
@@ -10171,7 +10171,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/8OGKNQnTc0Y
                       original: true
-        '4':
+        "4":
           link: http://www.rappers.in/en/vbt_2010-Koalavoice-vs-.M.-978.html
           teilnehmer:
             - name: Koalavoice
@@ -10200,7 +10200,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/1s4LCIbAV-w
                       original: true
-        '5':
+        "5":
           link: http://www.rappers.in/en/vbt_2010-GeOT-vs-MC+MENSCHENFEIND-979.html
           teilnehmer:
             - name: GeOT
@@ -10227,7 +10227,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/iz3CYX-hBA8
                       original: true
-        '6':
+        "6":
           link: http://www.rappers.in/en/vbt_2010-Kico-vs-complex-980.html
           teilnehmer:
             - name: Kico
@@ -10256,7 +10256,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/J2KyPTg0KpI
                       original: true
-        '7':
+        "7":
           link: http://www.rappers.in/en/vbt_2010-Tamo-Flage-vs-Ti_Jay-981.html
           teilnehmer:
             - name: Tamo-Flage
@@ -10285,7 +10285,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/FJ6dAAUALyA
                       original: true
-        '8':
+        "8":
           link: http://www.rappers.in/en/vbt_2010-Scotch08-vs-K-Win-982.html
           teilnehmer:
             - name: Scotch08
@@ -10310,7 +10310,7 @@ vbt2010:
     viertelfinale:
       name: Viertelfinale
       battles:
-        '1':
+        "1":
           link: http://www.rappers.in/en/vbt_2010-Djin-vs-Kico-983.html
           teilnehmer:
             - name: Djin
@@ -10339,7 +10339,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/aZDtEtZfuNU
                       original: true
-        '2':
+        "2":
           link: http://www.rappers.in/en/vbt_2010-.M.-vs-SpliffTastiC-984.html
           teilnehmer:
             - name: .M.
@@ -10368,7 +10368,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/3wfiWpY0AgQ
                       original: true
-        '3':
+        "3":
           link: http://www.rappers.in/en/vbt_2010-Scotch08-vs-Ti_Jay-985.html
           teilnehmer:
             - name: Scotch08
@@ -10397,7 +10397,7 @@ vbt2010:
                   links:
                     - url: http://www.youtube.com/embed/7UrCjCIy57Y
                       original: true
-        '4':
+        "4":
           link: http://www.rappers.in/en/vbt_2010-GeOT-vs-FloW-KiNG-986.html
           teilnehmer:
             - name: GeOT
@@ -10429,7 +10429,7 @@ vbt2010:
     halbfinale:
       name: Halbfinale
       battles:
-        '1':
+        "1":
           link: http://www.rappers.in/en/vbt_2010-SpliffTastiC-vs-Djin-987.html
           teilnehmer:
             - name: SpliffTastiC
@@ -10440,7 +10440,7 @@ vbt2010:
                     - url: http://www.youtube.com/embed/PL0nlVKHdv8
                       original: true
             - name: Djin
-        '2':
+        "2":
           link: http://www.rappers.in/en/vbt_2010-Ti_Jay-vs-GeOT-988.html
           teilnehmer:
             - name: Ti_Jay
@@ -10472,7 +10472,7 @@ vbt2010:
     finale:
       name: Finale
       battles:
-        '1':
+        "1":
           link: http://www.rappers.in/en/vbt_2010-Djin-vs-GeOT-989.html
           teilnehmer:
             - name: Djin
