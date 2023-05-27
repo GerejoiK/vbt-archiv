@@ -12,7 +12,7 @@
 <dt>{name}</dt>
 {#each video as v}
 	<dd>
-		{#if ["www.youtube.com"].includes(v.url.hostname)}
+		{#if ["www.youtube.com", "youtu.be"].includes(v.url.hostname)}
 			<details>
 				<summary
 					><span title="Originalupload">{v.original ? "🌟" : ""}</span>
@@ -21,7 +21,7 @@
 				<iframe
 					width="540"
 					height="320"
-					src={v.url.href}
+					src={v.url.href.replace("https://youtu.be", "https://www.youtube.com/embed")}
 					title=""
 					frameborder="0"
 					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
