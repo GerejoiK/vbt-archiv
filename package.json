@@ -1,6 +1,7 @@
 {
-	"name": "vbt-archive",
+	"name": "vbt-archiv",
 	"version": "0.0.1",
+	"license": "Unlicense",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
