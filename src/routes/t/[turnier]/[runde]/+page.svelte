@@ -10,14 +10,13 @@
 		data: turniere,
 	});
 	const getColor = item => {
-		const diff = item.teilnehmer.reduce((a, b) => a - b.runden?.length || 0);
-		if (diff > 0 || (diff == 0 && item.teilnehmer[0].punkte) || 0 > item.teilnehmer[1].punkte || 0) {
+		const diff = item.teilnehmer.map(e => Object.values(e?.runden || {}).length).reduce((a, b) => a - b);
+		if (diff > 0 || (item.teilnehmer[0].punkte || 0) > (item.teilnehmer[1].punkte || 0)) {
 			return ["green", "red"];
-		} else if (diff < 0 || (diff == 0 && item.teilnehmer[0].punkte) || 0 < item.teilnehmer[1].punkte || 0) {
+		} else if (diff < 0 || (item.teilnehmer[0].punkte || 0) < (item.teilnehmer[1].punkte || 0)) {
 			return ["red", "green"];
-		} else {
-			return ["", ""];
 		}
+		return ["", ""];
 	};
 </script>
 
@@ -30,7 +29,7 @@
 				<td class={getColor(battle)[0]}
 					>{battle.teilnehmer[0].name}
 					<br />
-					{#if battle.teilnehmer[0].runden}
+					{#if battle.teilnehmer[0]?.runden}
 						{#each Object.values(battle.teilnehmer[0].runden) as runde}
 							<a href={runde.links[0].url}>{runde.name}</a>&nbsp;
 						{/each}
@@ -38,14 +37,14 @@
 				</td>
 				<td
 					><a href="/t/{$page.params.turnier}/{$page.params.runde}/{id}"
-						>vs.<br />{battle.teilnehmer.map(e => e.punkte || 0).join(":")}</a
+						>vs.<br />{battle.teilnehmer.map(e => e?.punkte || 0).join(":")}</a
 					></td
 				>
 				<td class={getColor(battle)[1]}
 					>{battle.teilnehmer[1].name}
 					<br />
-					{#if battle.teilnehmer[0].runden}
-						{#each Object.values(battle.teilnehmer[0].runden) as runde}
+					{#if battle.teilnehmer[1]?.runden}
+						{#each Object.values(battle.teilnehmer[1]?.runden) as runde}
 							<a href={runde.links[0].url}>{runde.name}</a>&nbsp;
 						{/each}
 					{/if}</td

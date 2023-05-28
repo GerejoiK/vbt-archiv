@@ -19,8 +19,8 @@
 					<a href={v.url.href}>{v.url.href}</a></summary
 				>
 				<iframe
-					width="540"
-					height="320"
+					width="640"
+					height="360"
 					src={v.url.href.replace("https://youtu.be", "https://www.youtube.com/embed")}
 					title=""
 					frameborder="0"
