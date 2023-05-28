@@ -1,0 +1,5664 @@
+vbt2009:
+  name: VBT 2009
+  veranstalter: rappers.in
+  runden:
+    vorrunde-1:
+      name: Vorrunde 1
+      battles:
+        "99":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=99
+          teilnehmer:
+            - name: "[DZ] Zee4"
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/E_vg88f9wI8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/9VlA8goGC5E
+                      original: true
+            - name: Baby-G
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Y9HSIKsMMHE
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/MHurVx65ikU
+                      original: true
+        "100":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=100
+          teilnehmer:
+            - name: Basta-Ace-K
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59199212&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59692404&type=video
+                      original: true
+            - name: B-Chris
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/nyNZM-8_dPs
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/PQpi2zE--5s
+                      original: true
+        "101":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=101
+          teilnehmer:
+            - name: D_LuX
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/GJ2lSR6tJbU
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/DPzu2zeNMs4
+                      original: true
+            - name: King Kariem
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Tqqo5QLty5Q
+                      original: true
+        "102":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=102
+          teilnehmer:
+            - name: KisoR
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59141395&type=video
+                      original: true
+            - name: Der_NeGro
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/jF176bRUKjQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/imYM8fAzAdI
+                      original: true
+        "103":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=103
+          teilnehmer:
+            - name: DirtyFlow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fWPRZPMgTLo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/gN28KxdJ8iM
+                      original: true
+            - name: Loki
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/qdPxlfFR-HI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6631882
+                      original: true
+        "104":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=104
+          teilnehmer:
+            - name: Offiziell-SSR
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6601931
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=5398520&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+            - name: RizeIt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/6gPhLHGqDzg
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/BtFOgP7hhMI
+                      original: true
+        "105":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=105
+          teilnehmer:
+            - name: Thyra
+            - name: Younxtaa
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/ucFkuC3bZko
+                      original: true
+        "106":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=106
+          teilnehmer:
+            - name: MC-BLYZZ-R
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=5261486&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+            - name: Nug
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/EPzEiEgO89c
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/-R__cqCwnto
+                      original: true
+        "107":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=107
+          teilnehmer:
+            - name: K.o.K
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/JD-aIapgvuA
+                      original: true
+            - name: M-O-D_Fat-Recordz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/Gljv64P3F_Y
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/TNOlXmOzRnA
+                      original: true
+        "108":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=108
+          teilnehmer:
+            - name: KuBiS
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2UZICI6rZck
+                      original: true
+            - name: Tabun
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59345706&type=video
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59747135&type=video
+                      original: true
+        "109":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=109
+          teilnehmer:
+            - name: W-Sac
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/b0Pn6RhkQqI
+                      original: true
+            - name: plow
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/h6kPJgYnElY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/baYxVMrAeNE
+                      original: true
+        "110":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=110
+          teilnehmer:
+            - name: RaP2FaST
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59201363&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59597095&type=video
+                      original: true
+            - name: Manurro
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59328984&type=video
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59677484&type=video
+                      original: true
+        "111":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=111
+          teilnehmer:
+            - name: NetOne
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/7SBuaVa2hzI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/XOh0mYBliD8
+                      original: true
+            - name: K-Win
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/ZA0JIL-YE40
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/Ab-DFvy8LBY
+                      original: true
+        "112":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=112
+          teilnehmer:
+            - name: JaimieS
+            - name: fgsz447
+              runden:
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/qPmho6OJwdE
+                      original: true
+        "113":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=113
+          teilnehmer:
+            - name: E.T.M Arts
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/vLWz2zNfVFo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/TM1vGu__54c
+                      original: true
+            - name: e-menz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/bS8JTw_wIes
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/U3yCk9d5htU
+                      original: true
+        "114":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=114
+          teilnehmer:
+            - name: Fayk
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ajii5l9senc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/syyMTTv2Efg
+                      original: true
+            - name: FlowRebell
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/w61mTbpVWaY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/vBIywavXFtI
+                      original: true
+        "115":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=115
+          teilnehmer:
+            - name: floW Levi
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YDAKxUsaiTQ
+                      original: true
+            - name: kingdestroyers
+        "116":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=116
+          teilnehmer:
+            - name: Pat Riot
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Km1EhebBXgs
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/9IPvl-tfgXI
+                      original: true
+            - name: P_masid
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/QU8qeP3sgvU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Q8lOCOajdhM
+                      original: true
+        "117":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=117
+          teilnehmer:
+            - name: Scheffy Scheff
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4LPttUiXkdc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/6UiKCQQ5gbk
+                      original: true
+            - name: "-->PePe<--"
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dyLp4od0rvo
+                      original: true
+        "118":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=118
+          teilnehmer:
+            - name: Westlid
+            - name: smoke a lot G-streetz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/uUuptI9e-XU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/2s8Nq7NjxlU
+                      original: true
+        "119":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=119
+          teilnehmer:
+            - name: PrinZ-DeKaR-SR
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/JDIDECXKD3s
+                      original: true
+            - name: MCI
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/6VdQu-qwFTI
+                      original: true
+        "120":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=120
+          teilnehmer:
+            - name: Luie-Die-Nadel
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59353943&type=video
+                      original: true
+            - name: KbjL
+        "121":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=121
+          teilnehmer:
+            - name: Jenomaticz
+            - name: Pacino-PlaySoulMusic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SfheXmgmulg
+                      original: true
+        "122":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=122
+          teilnehmer:
+            - name: ENJ
+            - name: $SheezY$
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ScyUG3eaj8U
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/RdzQMmp_AwA
+                      original: true
+        "123":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=123
+          teilnehmer:
+            - name: S-aN
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/NHWC7N_9m54
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/nFul3AC9XCE
+                      original: true
+            - name: streetsoldyer
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/jlhd9ZMVYjo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/f5HCpAq2PNo
+                      original: true
+        "124":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=124
+          teilnehmer:
+            - name: vini
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/sJsjX0TurS0
+                      original: true
+            - name: senselezz
+        "125":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=125
+          teilnehmer:
+            - name: Sichtwaise aka Masafakka
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/_85cNaKG9p4&
+                      original: true
+            - name: PawoGee
+        "126":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=126
+          teilnehmer:
+            - name: LTeck
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/z1JBbVkER9M
+                      original: true
+            - name: KerOne
+              runden:
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59460368&type=video
+                      original: true
+        "127":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=127
+          teilnehmer:
+            - name: king kaiser32
+            - name: MaygaStyle
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/otzMQPp2n3Q
+                      original: true
+        "128":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=128
+          teilnehmer:
+            - name: Odin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ufG5PqBugeA
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/QZAaeibjBDo
+                      original: true
+            - name: Soldierzz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/S-STKe7WIQY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/YbpQLdSEFMQ
+                      original: true
+        "129":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=129
+          teilnehmer:
+            - name: V!RUS90
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/8rG3YyNA5zE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/fOQIR6WQ7p0
+                      original: true
+            - name: snowboardboy
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/eCqsVGKTYtc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/A_XgtyZmh1E
+                      original: true
+        "130":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=130
+          teilnehmer:
+            - name: s3r!€$
+            - name: StReNgG
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZDzV2rTuc10
+                      original: true
+        "131":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=131
+          teilnehmer:
+            - name: Yohn Quezd
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/m48RIHA_gRY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/EHkGbLVlAZk
+                      original: true
+            - name: shortystyle
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_Q1zxFRsAnc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Yhe-KN_A-5Q
+                      original: true
+        "133":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=133
+          teilnehmer:
+            - name: PIERON-RAP
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/v3OXMvsCKaQ&fmt=18
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/fh73orwoncw
+                      original: true
+            - name: OnlyOneProduction
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/Iw2xal-JDNc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/-fFKz7m1hBw
+                      original: true
+        "134":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=134
+          teilnehmer:
+            - name: Sweed
+            - name: Straightluke
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/12L5LWideq0
+                      original: true
+        "135":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=135
+          teilnehmer:
+            - name: Wu-rax
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/T8ZAugcd_Kg
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/wJp_D1qjVSg
+                      original: true
+            - name: Sinnflow
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/bBMUQHRbAUQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/cszVC9Ijczk
+                      original: true
+        "136":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=136
+          teilnehmer:
+            - name: Prioritaet
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-FF3736aFA8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/NPC3fdes2u0
+                      original: true
+            - name: McCloud
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59462050&type=video
+                      original: true
+        "137":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=137
+          teilnehmer:
+            - name: MoDeeHoe
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6601596
+                      original: true
+            - name: Riplay
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/nm3HLPgCyac
+                      original: true
+        "138":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=138
+          teilnehmer:
+            - name: SnIggediSnIx
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59298300&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/ccsvQxrfaHw
+                      original: true
+            - name: UzumN
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=5234889&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=5366049&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+        "139":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=139
+          teilnehmer:
+            - name: Trai$
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eZgZebsXX6w
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/rgLZK_jUaoI
+                      original: true
+            - name: TchilleR
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/enyEVjaoZyI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/jMRD2DV7kBU
+                      original: true
+        "140":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=140
+          teilnehmer:
+            - name: Shizo-Genetik-Tyrann
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6605306
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59802940&type=video
+                      original: true
+            - name: RuFfY-D
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/K8xDZ6uUOtI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/bkj8V3x081c
+                      original: true
+        "141":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=141
+          teilnehmer:
+            - name: Rosh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/kw6zGgBEGJA
+                      original: true
+            - name: santana_69
+        "142":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=142
+          teilnehmer:
+            - name: Silus
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/dXEjB-0U0F8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/PtKg9kG2BpI
+                      original: true
+            - name: Grisubeats
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59190931&type=video
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59783647&type=video
+                      original: true
+        "143":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=143
+          teilnehmer:
+            - name: Tard-NDS
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-V1joqU5XiY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/S_JzRFTN5ro
+                      original: true
+            - name: MoooN
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/PY79ZJZwSPI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Ai4-uQ6lxk0
+                      original: true
+        "144":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=144
+          teilnehmer:
+            - name: Rulex
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YSMQaw7qMqc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/pOUU4XAmRos
+                      original: true
+            - name: RA!N
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/RBUqpl0KX7c
+                      original: true
+        "145":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=145
+          teilnehmer:
+            - name: Serpa
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59386469&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59753046&type=video
+                      original: true
+            - name: sHiZofRed
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/F6ZKCr8H1Xs
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/j4TKurxr_eM
+                      original: true
+        "146":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=146
+          teilnehmer:
+            - name: Senzo
+            - name: G.O!
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/mzzTA8_4SaI
+                      original: true
+        "147":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=147
+          teilnehmer:
+            - name: GeOT
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/s9j7wWp7LVU
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59785264&type=video
+                      original: true
+            - name: SelfmadeSavon
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/w2LBoleIMDk
+                      original: true
+        "148":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=148
+          teilnehmer:
+            - name: Sence
+            - name: Le Frog
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/MNUfsnaOPcA
+                      original: true
+        "149":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=149
+          teilnehmer:
+            - name: Machmut94
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/dyNf5ZmGpYc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/CPNbmAY0YQ0
+                      original: true
+            - name: SaliemTM
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/76LkzeBQuT8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/8JM7skrAIdA
+                      original: true
+        "150":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=150
+          teilnehmer:
+            - name: Sneaf
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/um1RLxcJJuo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Aa8mAt6-fYA
+                      original: true
+            - name: Djin
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ykOX0EzQ_SA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/tunoYXuFBqQ
+                      original: true
+        "151":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=151
+          teilnehmer:
+            - name: Roxaz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/zytCSNMHly8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/fQYXeNnwmm8
+                      original: true
+            - name: Remagin*
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/I-n8OdPGUc0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/_N4sagGwP0M
+                      original: true
+        "152":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=152
+          teilnehmer:
+            - name: dash`
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/mf63tp-9sgQ
+                      original: true
+            - name: "[email\_protected]"
+        "153":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=153
+          teilnehmer:
+            - name: Toxygen
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/aosgQRJ0Smk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/Ydm8Kh6CBgc
+                      original: true
+            - name: Kevnox
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/tr0lD6iOHoM
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/t69t-BGije8
+                      original: true
+        "154":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=154
+          teilnehmer:
+            - name: stfblade
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/t5RuMGTOWyg&feature=channel_page
+                      original: true
+            - name: SonixDBG
+        "155":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=155
+          teilnehmer:
+            - name: NatZ
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/afGpQSISM3w
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/j8OSLqUZRXg
+                      original: true
+            - name: Snowrash
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kd11CwROKbw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/WblSpuKjeqA
+                      original: true
+        "156":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=156
+          teilnehmer:
+            - name: what
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/d58v3_FhJfg
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/UiwWzgvE7nE
+                      original: true
+            - name: unknownKing
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ec03A77dCrw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/thoDOBHOVuM
+                      original: true
+        "157":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=157
+          teilnehmer:
+            - name: Taishu
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59446547&type=video
+                      original: true
+            - name: M1Co
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/iY2h5gc9xxU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/aAlgNKoPrw8
+                      original: true
+        "158":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=158
+          teilnehmer:
+            - name: mccaloo
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59197329&type=video
+                      original: true
+            - name: Vülcüm
+        "159":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=159
+          teilnehmer:
+            - name: M-Flame
+            - name: Pete Licious
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/0vWEs7ziZFQ
+                      original: true
+        "160":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=160
+          teilnehmer:
+            - name: Mighty Jackson
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/lKJGrQ8BHRE
+                      original: true
+            - name: Mc-D-Sasta
+        "161":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=161
+          teilnehmer:
+            - name: Prime
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/xDqUOmjqvzc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/TLfuphlOgG4
+                      original: true
+            - name: trasher22222
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/EaGYAmPNHqs
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/qrDfP5lPqfs
+                      original: true
+        "162":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=162
+          teilnehmer:
+            - name: Jonny-Joker
+            - name: Rec-Z
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/u591ZLHTPfg
+                      original: true
+        "163":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=163
+          teilnehmer:
+            - name: dreamz MC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ldgyLGHV7Lc
+                      original: true
+            - name: Chahoud
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/adc7Ul-juaI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/adc7Ul-juaI
+                      original: true
+        "164":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=164
+          teilnehmer:
+            - name: B-High
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Ezennb_CJ7s
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59791803&type=video
+                      original: true
+            - name: Buttox
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/H4eON9tY5N4
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/69GaGxyLqes
+                      original: true
+        "165":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=165
+          teilnehmer:
+            - name: cash!
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4HyqKMxPBDw
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/RA4rL4Mm-Q8
+                      original: true
+            - name: A-effect
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/n_boB-tRD5I
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/mY4SxH-q7Lg
+                      original: true
+        "166":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=166
+          teilnehmer:
+            - name: BeatSeptz
+            - name: DECIZE
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ODSEcyR299Y
+                      original: true
+        "167":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=167
+          teilnehmer:
+            - name: Damn One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fHl0vth-Atg
+                      original: true
+            - name: D - C R i M E
+        "168":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=168
+          teilnehmer:
+            - name: Crone*
+            - name: Pr!MaR
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kJe07NenWpE
+                      original: true
+        "169":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=169
+          teilnehmer:
+            - name: "*K!nG h.P.*"
+            - name: Beatkid_Rap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZlBCxT0xLvE
+                      original: true
+        "170":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=170
+          teilnehmer:
+            - name: Brave
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/09QlagTrRZw
+                      original: true
+            - name: Cehaes
+        "171":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=171
+          teilnehmer:
+            - name: ChrisFaction
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/lN0st2sglUs
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/0S-Cim3EawA&feature=channel_page
+                      original: true
+            - name: DerIlja
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/pYK2THXKvzk
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/43JUaYCH_dg
+                      original: true
+        "172":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=172
+          teilnehmer:
+            - name: clayne
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/FcdhMzxEZyE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/v4lMm2HykUY
+                      original: true
+            - name: Dexter the shit
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/LwAMH663Ds8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/_oLQKQZMXms
+                      original: true
+        "173":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=173
+          teilnehmer:
+            - name: Cmon
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/CmK30yfamPo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/m3_hxRGWu0M
+                      original: true
+            - name: dezO
+        "174":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=174
+          teilnehmer:
+            - name: CoolWhite
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/NSux_pPUWqI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/mTcD27hpnRU
+                      original: true
+            - name: diRAPtor
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/vYDd9lMhJWQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/lrRTO4X_ncQ
+                      original: true
+        "175":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=175
+          teilnehmer:
+            - name: Danex
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/97R74TyXPZY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/pGpVyLpYiKQ
+                      original: true
+            - name: Cr0c
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/LJ9FUVLvPqg
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/PsJxwibmUGA
+                      original: true
+        "176":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=176
+          teilnehmer:
+            - name: Dani
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/VpAfA5fvWsY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/UHq98yGzJL0
+                      original: true
+            - name: Crazy Soul
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/HBTnbJ2iTc8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/0ypdjNwBVFk
+                      original: true
+        "177":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=177
+          teilnehmer:
+            - name: BubbaCardi
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/cPpQS7Y7Vsw
+                      original: true
+            - name: CarLiToS-WaY
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kA7e4EGe4z0
+                      original: true
+        "178":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=178
+          teilnehmer:
+            - name: Buskapé
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/vVxMOWHXUQA
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/XIWskPIM7vs
+                      original: true
+            - name: Carlob1tch
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/5N46rlMXHB4
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/otn9oovKLiM
+                      original: true
+        "179":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=179
+          teilnehmer:
+            - name: Deep Law
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/e2jeUhQwgn8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/saDXwXnpJb8
+                      original: true
+            - name: Eazy
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/m4VO5h6_YQU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/m-lGCFAxe_E
+                      original: true
+        "180":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=180
+          teilnehmer:
+            - name: dekz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/OIkG5Tr3TJ8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/lF2QnHWAo3k
+                      original: true
+            - name: emco
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/FZ9ufPrD5i4
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/TUwBnUu-53Y
+                      original: true
+        "181":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=181
+          teilnehmer:
+            - name: FreeRymes
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/W5CAqzUxAFo
+                      original: true
+            - name: Alpha.D
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/NAw9xEGLyZ0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/VZC8bQ-HNtQ
+                      original: true
+        "182":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=182
+          teilnehmer:
+            - name: Freshix
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/bO4vR4sCn2s
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/fPVreovQUZE
+                      original: true
+            - name: Amok_Salva
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/3kOIAQuFdo8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/rZy3jX1H6bc
+                      original: true
+        "183":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=183
+          teilnehmer:
+            - name: C.A.A.G.E
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/nrh_oenbTZE
+                      original: true
+            - name: ~Uppel~
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/dz2nJAm4gH0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/-9zI1MvfiHM
+                      original: true
+        "185":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=185
+          teilnehmer:
+            - name: Sunzh1ne
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1g6HlVrwqB4
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/3UNWs93JocU
+                      original: true
+            - name: 2deep
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/OugP8JlUarg
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/H4T0KYPwLGs
+                      original: true
+        "186":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=186
+          teilnehmer:
+            - name: bazooka
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/VWhjNHU4PUI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/YO8xrDElN2w
+                      original: true
+            - name: coru
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/LEtiXLYIR7A
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/SGrrjqaq6eA
+                      original: true
+        "187":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=187
+          teilnehmer:
+            - name: bbcstylah
+              runden:
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6632010
+                      original: true
+            - name: d0p3
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6584068
+                      original: true
+        "188":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=188
+          teilnehmer:
+            - name: big size on air
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59336824&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/Y4gBrO0Uphw
+                      original: true
+            - name: D4rkSon1C
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/u_MZkys0P7E
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/u0u8vDLxfoQ
+                      original: true
+        "189":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=189
+          teilnehmer:
+            - name: Black Zero
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/u5wqdW3z0Cg
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/L39a09QfMAA
+                      original: true
+            - name: D-$tyLe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/z5Ur9qohF7A
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/5RO2_UAsuvk
+                      original: true
+        "190":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=190
+          teilnehmer:
+            - name: "--Exitus--"
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/9ipKjx1mLJA
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/hAJEBzoF2-Q
+                      original: true
+            - name: ideahl
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59142426&type=video
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59835722&type=video
+                      original: true
+        "191":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=191
+          teilnehmer:
+            - name: eZ-Kay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=5224535&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+            - name: J.Hover
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/QxVUykQiOZY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/qi8rAE1-jxg
+                      original: true
+        "192":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=192
+          teilnehmer:
+            - name: Kartoon
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/0LKcQhGbb5M
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/5f7oPEtGTGE
+                      original: true
+            - name: King Skihase One
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SzvlR93yzEA
+                      original: true
+        "193":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=193
+          teilnehmer:
+            - name: Kativo
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59400867&type=video
+                      original: true
+            - name: KingApex
+        "194":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=194
+          teilnehmer:
+            - name: kram26
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/d_foYJHwNwo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/pOTnd3oQRT4
+                      original: true
+            - name: dkone48
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/xnoafH8X3pE
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/VOaOzppCI54
+                      original: true
+        "195":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=195
+          teilnehmer:
+            - name: Krancck
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/vrjTk1-uvAE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/OcIFU7vLwOQ
+                      original: true
+            - name: DreamOne
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Lo6ND-EDp8Y
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/5LOlipbgWTk
+                      original: true
+        "196":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=196
+          teilnehmer:
+            - name: Dupash
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/pyLzkL3Oip8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/MGJYgmxu9CI
+                      original: true
+            - name: Klever
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/zwii805pYoc
+                      original: true
+        "197":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=197
+          teilnehmer:
+            - name: Duzoe
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fymwh_Ihf4s
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/cyUkl0keA6s
+                      original: true
+            - name: Koma-Gun
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/92hsXCGyeZE
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/PVDCteOSgi4
+                      original: true
+      "198":
+        link: http://www.rappers.in/de/vbt09_runden.php?battle=198
+        teilnehmer:
+          - name: L.MC.L
+            runden:
+              hr1:
+                name: HR1
+                links:
+                  - url: https://youtu.be/2kTNYZwd4OM
+                    original: true
+              rr2:
+                name: RR2
+                links:
+                  - url: https://youtu.be/wqk-HzEa5mw
+                    original: true
+          - name: G-Nite
+            runden:
+              hr2:
+                name: HR2
+                links:
+                  - url: https://youtu.be/wekmHbeybZI
+                    original: true
+              rr1:
+                name: RR1
+                links:
+                  - url: https://youtu.be/l97qmj2gE0E
+                    original: true
+        "201":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=201
+          teilnehmer:
+            - name: Ka-o-Peh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/MdT2F9TXKyY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/qjC6m4fXvpg
+                      original: true
+            - name: FelyFe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/qMVwVv3Y8Vc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/1WF27FZM_Ow
+                      original: true
+        "202":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=202
+          teilnehmer:
+            - name: H.Saad
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/n2aZg72X2FA
+                      original: true
+            - name: janbarmann
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/e71o-ugAY-E
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/00gyr-92vO4
+                      original: true
+        "203":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=203
+          teilnehmer:
+            - name: heynoo
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/NRx7aSI_rms
+                      original: true
+            - name: Jay Pi
+        "204":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=204
+          teilnehmer:
+            - name: Disaster
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6577815
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6625528
+                      original: true
+            - name: Chellah
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/oQkjM4AvpZ4
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/I7fmfKIVJuU&feature=channel_page
+                      original: true
+        "205":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=205
+          teilnehmer:
+            - name: Disk One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/pQx8H_c9ftA
+                      original: true
+            - name: chinoo
+        "206":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=206
+          teilnehmer:
+            - name: Becusa
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59401831&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=59391604&type=video
+                      original: true
+            - name: AZZIE
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/79fOLNfmBpU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/XDzNZ1U9e48
+                      original: true
+        "207":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=207
+          teilnehmer:
+            - name: Bekay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6605803
+                      original: true
+            - name: B zum O
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/l8UAQ8V7L1Q
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/QJv9I2J4orQ
+                      original: true
+        "208":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=208
+          teilnehmer:
+            - name: aking
+            - name: DasInsekt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SfJH61p7EpA
+                      original: true
+        "209":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=209
+          teilnehmer:
+            - name: Algasoro2009
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/yBssnJUCBMQ
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/-3Tny_d8dlY
+                      original: true
+            - name: "-de kaot-"
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/_0GFCvYflQE
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/Dtfn44EcUIA
+                      original: true
+        "210":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=210
+          teilnehmer:
+            - name: Gchi
+            - name: FloW-KiNG
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Cu4HdLjc3c4
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/KqpNnatsd0c
+                      original: true
+        "211":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=211
+          teilnehmer:
+            - name: Key-oZ
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/yQUYPRNIjzU
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/xq-VpH36sO8
+                      original: true
+            - name: lemon_rap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/gLIhLA1sNFA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/9FtMDDR5-wk
+                      original: true
+        "212":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=212
+          teilnehmer:
+            - name: Kico
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/WS1qUvxuvWE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/FSQ3Ti3SHHE&fmt=18
+                      original: true
+            - name: LeXuZ
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ccj_nj5TYWQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/_CBOLnGFt_o
+                      original: true
+        "213":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=213
+          teilnehmer:
+            - name: MathiN FoX
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/HEAw-dYiZz0
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/OOycmgg6USc
+                      original: true
+            - name: MPH
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/ZRwXLbU7X-s
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/oSwBzb_gkmo
+                      original: true
+        "214":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=214
+          teilnehmer:
+            - name: mayden
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6584742
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6631631
+                      original: true
+            - name: Mr. AliGelz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/d27iFEh3TQ0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/eyMpIc-LP5I
+                      original: true
+        "215":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=215
+          teilnehmer:
+            - name: nhc&moe;
+            - name: Plajer
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/i2HTPjppKtk
+                      original: true
+        "216":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=216
+          teilnehmer:
+            - name: Niun
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/femGUAXcLb8
+                      original: true
+            - name: Pate 74523
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/iU9VFkYb4hA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/uL9egEr8bZY
+                      original: true
+        "217":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=217
+          teilnehmer:
+            - name: OG Fresh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/pTfRUG621zc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/0hZ-vUfY7I8
+                      original: true
+            - name: N-Dei
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/k_oOP2gmKUg
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/eYzV46OFpo0
+                      original: true
+        "218":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=218
+          teilnehmer:
+            - name: Miks
+            - name: mcrainbo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/mdAspWl5EJ4
+                      original: true
+        "219":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=219
+          teilnehmer:
+            - name: M-G-K
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/wQCDnD4DF3Y
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/Th4GZyvFIdA
+                      original: true
+            - name: Lekxs
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/UUrqT_Dtdno
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/DJ1mgLDQcPA
+                      original: true
+        "220":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=220
+          teilnehmer:
+            - name: Magickzzz
+            - name: k-supreme
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/1JD3nPyi-7c
+                      original: true
+        "221":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=221
+          teilnehmer:
+            - name: Lozipper
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/b9fJsAwGTac
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/SLfCsijTU6U
+                      original: true
+            - name: Mabu
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/EERmzGBdMz4
+                      original: true
+        "223":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=223
+          teilnehmer:
+            - name: kingsegad
+            - name: KeTh
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/gMwikD8nGPQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/fJ3R35D5UWo
+                      original: true
+        "224":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=224
+          teilnehmer:
+            - name: Kermos aka King illy
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XnwTaOowbpI
+                      original: true
+            - name: Fid Al Bassrow
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/keopwPZejm8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/NIX8hnBVms8
+                      original: true
+        "225":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=225
+          teilnehmer:
+            - name: JoFLow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6600148
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Bg4DfLd_5ys
+                      original: true
+            - name: EnCore
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/84RWJSQlie0
+                      original: true
+        "226":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=226
+          teilnehmer:
+            - name: JPSpitter
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/h2up9cAIRLg
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/s-1eJwEaeKo
+                      original: true
+            - name: JayRed
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/5FI-GwA2hog
+                      original: true
+        "227":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=227
+          teilnehmer:
+            - name: Cybot Mc
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/p8nmsyRefvk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/asVGT1bJ1Iw
+                      original: true
+            - name: Cazimo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/wXrMU311dKk
+                      original: true
+        "228":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=228
+          teilnehmer:
+            - name: C.A. One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/OTlIcoOR46A
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/vv5uK05Nzpk
+                      original: true
+            - name: Big One R.D.
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/xTcXk8VL8_E
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/yCazxettDkE
+                      original: true
+        "229":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=229
+          teilnehmer:
+            - name: A.J.
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/DhZFzWmMw3Q
+                      original: true
+            - name: BaDeseD
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ug6erhEU_F8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/k9TOk0PzkKo
+                      original: true
+        "230":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=230
+          teilnehmer:
+            - name: abduladarula
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Fyy_oXbdKF8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/OYNdys1bVeU
+                      original: true
+            - name: BDD
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/AH4zPJNCKY8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/eiY5iZgX-Kk
+                      original: true
+        "231":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=231
+          teilnehmer:
+            - name: tmi
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/IcxicCjIP_o
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/aWu2hqlTsY4
+                      original: true
+            - name: Vilozoph
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/L-0qS87g4eY
+                      original: true
+        "232":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=232
+          teilnehmer:
+            - name: DaN
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/BUmWqR3ohfw
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/2rpO2EiXVxc
+                      original: true
+            - name: Suwhat
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SfEQeOpJM4U
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/WvOlbQhm290
+                      original: true
+        "233":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=233
+          teilnehmer:
+            - name: vlow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/mig4rec1T5c
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/iUvmItFKG6s
+                      original: true
+            - name: UnterSchichtOriginal
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/xVbdX-UBLk8
+                      original: true
+        "234":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=234
+          teilnehmer:
+            - name: Toomb
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6605157
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6632008
+                      original: true
+            - name: Tico-acustic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dr2vT1TFm9Y
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/GTnVRo_dtUE
+                      original: true
+        "235":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=235
+          teilnehmer:
+            - name: Spane
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/P4TnMJvNo1o
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/VFct7a8wkDo
+                      original: true
+            - name: Uncle_Benz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/mVNTfT4iiCA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/iroE3N33tTs
+                      original: true
+        "236":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=236
+          teilnehmer:
+            - name: 4ree
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/oJhg9IDAZj8
+                      original: true
+            - name: ~ShazeR~
+    vorrunde-2:
+      name: "Vorrunde 2"
+      battles:
+        "241":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=241
+          teilnehmer:
+            - name: vini
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6y2hN4kLJ2c
+                      original: true
+            - name: Riplay
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/IyvQj6RBCic
+                      original: true
+        "242":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=242
+          teilnehmer:
+            - name: StReNgG
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ymwz3EhpYLw
+                      original: true
+            - name: stfblade
+        "243":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=243
+          teilnehmer:
+            - name: Rulex
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/OyHiKInmjdU
+                      original: true
+            - name: plow
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/98p2t9fXMjY
+                      original: true
+        "244":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=244
+          teilnehmer:
+            - name: Pacino-PlaySoulMusic
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-9Q4jDD3du4
+                      original: true
+            - name: SpliffTastiC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=60361714&type=video
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=60693151&type=video
+                      original: true
+        "245":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=245
+          teilnehmer:
+            - name: Kartoon
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/bh_Fnd9yN84
+                      original: true
+            - name: floW Levi
+    64tel:
+      name: 64tel
+      battles:
+        "246":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=246
+          teilnehmer:
+            - name: Rosh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/Qt7I9WIF93I
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/6Fnu5TPv7ig
+                      original: true
+            - name: d0p3
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6737430
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6763867
+                      original: true
+        "247":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=247
+          teilnehmer:
+            - name: L1mit
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/8lTanHCJUtM
+                      original: true
+            - name: D_LuX
+        "248":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=248
+          teilnehmer:
+            - name: Rec-Z
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eDjdQ_mQ4uQ
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/3FXGOOwagtQ
+                      original: true
+            - name: Cybot Mc
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/eNLFCJ4ow64
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Eeut1YSUoWI
+                      original: true
+        "249":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=249
+          teilnehmer:
+            - name: Prioritaet
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/kJC6ulX9KUo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/52eZt4oA0d0
+                      original: true
+            - name: Cmon
+        "251":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=251
+          teilnehmer:
+            - name: Kartoon
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/euEx9wA2jUk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/u8O0NLK5Tus
+                      original: true
+            - name: Brave
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ioDV8zv2IjE
+                      original: true
+        "252":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=252
+          teilnehmer:
+            - name: Plajer
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/z3MtGqRFDOM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/4tHs1TS0Ggo
+                      original: true
+            - name: Beatkid_Rap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/abMYq9-ZCAk
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/Y2mvxdj9Rno
+                      original: true
+        "253":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=253
+          teilnehmer:
+            - name: Pete Licious
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/oXn-WV6t_fk
+                      original: true
+            - name: BaDeseD
+        "254":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=254
+          teilnehmer:
+            - name: Pate 74523
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/UPfmQ8KCWJQ
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/O1Wv5IttjP4
+                      original: true
+            - name: B zum O
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZAgeqmGiCME
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/mGobNQriIbg
+                      original: true
+        "255":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=255
+          teilnehmer:
+            - name: StReNgG
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/5X_61vgKl_g
+                      original: true
+            - name: Alpha.D
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/CXtWVnbW7R8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/E42yubJuQjk
+                      original: true
+        "256":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=256
+          teilnehmer:
+            - name: OnlyOneProduction
+            - name: 4ree
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/VPL6g_XF3Zc
+                      original: true
+        "257":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=257
+          teilnehmer:
+            - name: Nug
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/gSG76rVJdqg
+                      original: true
+            - name: ~Uppel~
+        "258":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=258
+          teilnehmer:
+            - name: M-O-D_Fat-Recordz
+            - name: $SheezY$
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/qqxGI7DAWzo
+                      original: true
+        "259":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=259
+          teilnehmer:
+            - name: Mighty Jackson
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61131060&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61455711&type=video
+                      original: true
+            - name: "[DZ] Zee4"
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/wTfAs8tNJkw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/ILVdf_8_MSw
+                      original: true
+        "260":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=260
+          teilnehmer:
+            - name: mcrainbo
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/i3zyRdWZ5JM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/8ZKyRCYpXyI
+                      original: true
+            - name: B-Chris
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/0F3fpKMcF98
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/J5SYbFqWvoY
+                      original: true
+        "262":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=262
+          teilnehmer:
+            - name: MaygaStyle
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/_XRR0-5jZpk
+                      original: true
+            - name: RizeIt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/lHCpa-vRPnw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/JSGbD-wZ_h0
+                      original: true
+        "263":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=263
+          teilnehmer:
+            - name: Mabu
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/KcdbWuQU0QA
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/dfmlbKZhkgs
+                      original: true
+            - name: RaP2FaST
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61068405&type=video
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61276738&type=video
+                      original: true
+        "264":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=264
+          teilnehmer:
+            - name: M1Co
+            - name: K-Win
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/UAA-pG0hDTE
+                      original: true
+        "265":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=265
+          teilnehmer:
+            - name: Luie-Die-Nadel
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61126625&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61463921&type=video
+                      original: true
+            - name: e-menz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/qGpqlIZ_O7U
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Z06iEOAA8R0
+                      original: true
+        "266":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=266
+          teilnehmer:
+            - name: LTeck
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/i6yR9nqs-2w
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/XNDxoW3GD-w
+                      original: true
+            - name: Fayk
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/KO_S0S_Nocg
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/hUHm4PVd1eA
+                      original: true
+        "267":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=267
+          teilnehmer:
+            - name: Le Frog
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XVUJc88LTAY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/0aiRU6koJxo
+                      original: true
+            - name: Pat Riot
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/zgcCNS5aiVo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/9-1Qsg52uDE
+                      original: true
+        "268":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=268
+          teilnehmer:
+            - name: k-supreme
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Uhb5wbVYiTY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/U5jPtV-7kIc
+                      original: true
+            - name: S-aN
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/PmpiMoj-k4M
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/YKFnsVQ-Sjc
+                      original: true
+        "269":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=269
+          teilnehmer:
+            - name: TchilleR
+            - name: Odin
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ixppwuajt0c
+                      original: true
+        "270":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=270
+          teilnehmer:
+            - name: RuFfY-D
+            - name: V!RUS90
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/6_eB8G5U_ac
+                      original: true
+        "271":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=271
+          teilnehmer:
+            - name: Silus
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eyN90jKGC4E
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/HY2t03FDGNQ&eur
+                      original: true
+            - name: shortystyle
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/wjS5CKK3VX0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/UJCTiiuD6fw
+                      original: true
+        "272":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=272
+          teilnehmer:
+            - name: Tard-NDS
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZNy4qrkAW9U
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Yk95bIIeiO8
+                      original: true
+            - name: Sinnflow
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/-UTszYeJz14
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/-UTszYeJz14
+                      original: true
+        "273":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=273
+          teilnehmer:
+            - name: sHiZofRed
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/9E-OvJufIiU
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/UHdjV3r4HyM
+                      original: true
+            - name: SnIggediSnIx
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/cXYpha6YSFI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61327530&type=video
+                      original: true
+        "274":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=274
+          teilnehmer:
+            - name: Machmut94
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/crLPnph3rPM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/0vsyOUSYAOI
+                      original: true
+            - name: UzumN
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=5767335&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=5886794&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+        "275":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=275
+          teilnehmer:
+            - name: Djin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/rwWg03U1JGs
+                      original: true
+            - name: D-$tyLe
+        "276":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=276
+          teilnehmer:
+            - name: Roxaz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eylePBoEsCU
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/OfGHr1PwsnY
+                      original: true
+            - name: Duzoe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/f_tkJWLqXHQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/K2a7AyC3_sk
+                      original: true
+        "277":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=277
+          teilnehmer:
+            - name: Kevnox
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/43MERnG-5nM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/kTWMkgFul7w
+                      original: true
+            - name: G-Nite
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/JBvviitLgnc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/dW3rqczhWPM
+                      original: true
+        "278":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=278
+          teilnehmer:
+            - name: NatZ
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/PAlsWbBqApo
+                      original: true
+            - name: Ka-o-Peh
+        "279":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=279
+          teilnehmer:
+            - name: what
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/j0d5RfFtbdg
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/HaNv0dXlDVA
+                      original: true
+            - name: Chellah
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/d8A-ZfKlNfA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/UN_vJ0UmJ0w
+                      original: true
+        "280":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=280
+          teilnehmer:
+            - name: Prime
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/g8n6EcE8E0M
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/2kx1ZGp8Suo
+                      original: true
+            - name: Becusa
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61121053&type=video
+                      original: true
+        "281":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=281
+          teilnehmer:
+            - name: trasher2222
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/JRTvP33Y5A4
+                      original: true
+            - name: Algasoro2009
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/1U67WnklsAs
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/jK4ImvEkVTA
+                      original: true
+        "282":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=282
+          teilnehmer:
+            - name: B-High
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/TbePQe4mlYs
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/c7ETHsTWU-I
+                      original: true
+            - name: lemon_rap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/TEt9UekMd6w
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Oo2Lacv-MQo
+                      original: true
+        "283":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=283
+          teilnehmer:
+            - name: cash!
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/EWcee13L1rI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/4iwZn2QrO0I
+                      original: true
+            - name: Kico
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/eRYD79cvsAM&fmt=18
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/-W5UekwAw1M&fmt=18
+                      original: true
+        "284":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=284
+          teilnehmer:
+            - name: ChrisFaction
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/bsbB2bStM98
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Hl2eWt1toG4
+                      original: true
+            - name: MPH
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/26MrBzaE1BU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/KOEmNoIKN7Y
+                      original: true
+        "285":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=285
+          teilnehmer:
+            - name: Dexter the shit
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/emdtBbjrSWg
+                      original: true
+            - name: mayden
+        "286":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=286
+          teilnehmer:
+            - name: diRAPtor
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/nSH93POcu4c
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Dm_9vfqNceg
+                      original: true
+            - name: N-Dei
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/7uYPXqGuuKw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/6q4YoRpXjGE
+                      original: true
+        "287":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=287
+          teilnehmer:
+            - name: Danex
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/iaObl5X49r4
+                      original: true
+            - name: Lekxs
+        "288":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=288
+          teilnehmer:
+            - name: Dani
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/sIdjhB6T-Ds
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/bFUcl42-tbA
+                      original: true
+            - name: C.A. One
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/5FIYDnEC014
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/1flnt7ZViZM
+                      original: true
+        "289":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=289
+          teilnehmer:
+            - name: Buskapé
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/HMoQthq0geQ
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/6EVPoKLCCi8
+                      original: true
+            - name: abduladarula
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/KEcIvvzi9fI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Ih8Vejr7iDI
+                      original: true
+        "290":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=290
+          teilnehmer:
+            - name: Eazy
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/RUdWfHAm-4I
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/S4eS3YhEbDU
+                      original: true
+            - name: DaN
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/7CagL_NYdtE
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/BMSh_aAJlG4
+                      original: true
+        "291":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=291
+          teilnehmer:
+            - name: dekz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/JTIQbASyzlE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/rIObvVg6fBU
+                      original: true
+            - name: Tico-acustic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/fKPtw-JYm1A
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/DaWWzlzmrcs
+                      original: true
+        "292":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=292
+          teilnehmer:
+            - name: Amok_Salva
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/SR1bwneDYlU
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/QFsj3pOxoGc
+                      original: true
+            - name: Uncle_Benz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/0wWK-xEAI-k
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/13Dta8w0lMo
+                      original: true
+        "293":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=293
+          teilnehmer:
+            - name: coru
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/44jgxWZwokI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/tlKUOi-fogg
+                      original: true
+            - name: big size on air
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ItvK4Arc6kk
+                      original: true
+        "294":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=294
+          teilnehmer:
+            - name: vlow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hfjKg4yQ0Bk
+                      original: true
+            - name: D4rkSon1C
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/j9QQMnYXCyM
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/20z0Cs4FGrM
+                      original: true
+        "295":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=295
+          teilnehmer:
+            - name: Tabun
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61020521&type=video
+                      original: true
+            - name: Younxtaa
+        "296":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=296
+          teilnehmer:
+            - name: Sunzh1ne
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/hQAI8qxQqKo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/qLdiOwmdNag
+                      original: true
+            - name: fedaLic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6738756
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6759331
+                      original: true
+        "297":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=297
+          teilnehmer:
+            - name: Straightluke
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/xdlBtexTTSw
+                      original: true
+            - name: kram26
+        "298":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=298
+          teilnehmer:
+            - name: Sichtwaise aka Masafakka
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://www.myvideo.de/movie/6726479
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6767607
+                      original: true
+            - name: KeTh
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZdW072l_Lls
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/IlgN-EwM8E8
+                      original: true
+        "299":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=299
+          teilnehmer:
+            - name: Scheffy Scheff
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/IwOT7Vpi0eQ
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/JjT4quCwp8k
+                      original: true
+            - name: Kativo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61128742&type=video
+                      original: true
+        "300":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=300
+          teilnehmer:
+            - name: Fid Al Bassrow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/kVHlV-zb23I
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/oX4mqV6nBpE
+                      original: true
+            - name: JPSpitter
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/y8xJlOTqtUA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/b-4E5CgzUN8
+                      original: true
+        "301":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=301
+          teilnehmer:
+            - name: fgsz447
+            - name: JoFLow
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/CeK_BiykoRQ
+                      original: true
+        "302":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=302
+          teilnehmer:
+            - name: eZ-Kay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=5776057&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+            - name: janbarmann
+        "303":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=303
+          teilnehmer:
+            - name: Dupash
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/j_kCZ9hnllc
+                      original: true
+            - name: heynoo
+        "304":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=304
+          teilnehmer:
+            - name: dreamz MC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1GaL0ei7OU0
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/yGBvpjs3fWY
+                      original: true
+            - name: GeOT
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/VrxYIneO1vc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61403373&type=video
+                      original: true
+        "305":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=305
+          teilnehmer:
+            - name: DreamOne
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/diWSWSVkVVk
+                      original: true
+            - name: G.O!
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/bKw5PU-EhP8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/0vwunLct_U4
+                      original: true
+        "306":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=306
+          teilnehmer:
+            - name: Disk One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/NYtfp_ENGOI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/agckI8c_GAU
+                      original: true
+            - name: FloW-KiNG
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/zxRDM-w3r1Y
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/usvvr77oay4
+                      original: true
+        "307":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=307
+          teilnehmer:
+            - name: Der_NeGro
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61036511&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61463015&type=video
+                      original: true
+            - name: SpliffTastiC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=61121243&type=video
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/YQGQx1umMFg
+                      original: true
+        "308":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=308
+          teilnehmer:
+            - name: DECIZE
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/5Q0QcP1ge5U
+                      original: true
+            - name: dash`
+        "309":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=309
+          teilnehmer:
+            - name: DasInsekt
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/K-Fxu-2tMas
+                      original: true
+            - name: Damn One
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/pupI_9Cmxac
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/_GRrNC4QObY
+                      original: true
+    32tel:
+      name: 32tel
+      battles:
+        "311":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=311
+          teilnehmer:
+            - name: Kartoon
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/DRkT37FjN0I
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/YPfo5-J_O_w
+                      original: true
+            - name: GeOT
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/rgCHvTtkYsA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/CxcHWQnlITw
+                      original: true
+        "312":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=312
+          teilnehmer:
+            - name: Algasoro2009
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/v-_cD4TK_p4
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/B5Bhm_pQk8w
+                      original: true
+            - name: FloW-KiNG
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/4IS7nUj0hTE
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/xv52UKiysGU
+                      original: true
+        "313":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=313
+          teilnehmer:
+            - name: Scheffy Scheff
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/gfg6rtQw-xQ
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/nRV1q3WKVvk
+                      original: true
+            - name: SpliffTastiC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/tUxy2PCfR6Y
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/v90vcO7dm6k
+                      original: true
+        "314":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=314
+          teilnehmer:
+            - name: Djin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/Tme19RMoptY
+                      original: true
+            - name: coru
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/MKBlGWOh65k
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/F-e0wITUq8A
+                      original: true
+        "315":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=315
+          teilnehmer:
+            - name: D4rkSon1C
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/BKXoP6FZoPU
+                      original: true
+            - name: B-Chris
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/xQCpAF8A0cw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/t6WrIYWoe74
+                      original: true
+        "316":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=316
+          teilnehmer:
+            - name: G.O!
+            - name: RaP2FaST
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=62165471&type=video
+                      original: true
+        "317":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=317
+          teilnehmer:
+            - name: Alpha.D
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/HUZpheb2Rao
+                      original: true
+            - name: Luie-Die-Nadel
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/XBKnHLlVzg4
+                      original: true
+        "318":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=318
+          teilnehmer:
+            - name: Prioritaet
+            - name: LTeck
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/g4q1Q4a1Aqo
+                      original: true
+        "319":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=319
+          teilnehmer:
+            - name: Pete Licious
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/_Tm3Cy--I18
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/w1sw-Wno_Z8
+                      original: true
+            - name: Tard-NDS
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_htwlrcemtg
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/byhgP6jP-kc
+                      original: true
+        "320":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=320
+          teilnehmer:
+            - name: JoFLow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/d6xEFfDdcGk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/TPoshqmC6nQ
+                      original: true
+            - name: k-supreme
+        "321":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=321
+          teilnehmer:
+            - name: Odin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/nVQVehZrn3w
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/krWHsOQQOhM
+                      original: true
+            - name: Kevnox
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/nuCkNa2yTqI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/RiR4gyFsgy8
+                      original: true
+        "322":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=322
+          teilnehmer:
+            - name: $SheezY$
+            - name: sHiZofRed
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/QceC2PaT_wk
+                      original: true
+        "323":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=323
+          teilnehmer:
+            - name: eZ-Kay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/K6sxTv6y6tc
+                      original: true
+            - name: Machmut94
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ytt4hzN-to0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/plvBNGIx4lo
+                      original: true
+        "324":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=324
+          teilnehmer:
+            - name: L1mit
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/iuDAW84paO4
+                      original: true
+            - name: Duzoe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/OViA_REKogY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/SXebdh3MgW4
+                      original: true
+        "325":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=325
+          teilnehmer:
+            - name: Dexter the shit
+            - name: Silus
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/yw5fTHhJo6g
+                      original: true
+        "326":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=326
+          teilnehmer:
+            - name: Dupash
+            - name: Chellah
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6842951
+                      original: true
+        "327":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=327
+          teilnehmer:
+            - name: 4ree
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/NSjYvCOPfSM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/XjVOBiYH_No
+                      original: true
+            - name: lemon_rap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/q4z00I3NgLY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Uyi9PC8hCGE
+                      original: true
+        "328":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=328
+          teilnehmer:
+            - name: Tabun
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=62320804&type=video
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=62591913&type=video
+                      original: true
+            - name: Kico
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SmxBVMIrk20&fmt=18
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/CVTCKLVN3nI&fmt=18
+                      original: true
+        "329":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=329
+          teilnehmer:
+            - name: NatZ
+            - name: diRAPtor
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/oSF3y480fZs
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/drM4rF4RJIk
+                      original: true
+        "330":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=330
+          teilnehmer:
+            - name: DECIZE
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/cYBC6SrfUpA
+                      original: true
+            - name: N-Dei
+        "331":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=331
+          teilnehmer:
+            - name: V!RUS90
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/X-PwPruKuBE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/pn5FnnAyH58
+                      original: true
+            - name: Damn One
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/_pIm85Hbu_g
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/qWUuaRs8JDM
+                      original: true
+        "332":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=332
+          teilnehmer:
+            - name: Rosh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/PEbOsRd9Sqc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vimeo.com/moogaloop.swf?clip_id=6360133&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                      original: true
+            - name: RizeIt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/uFl-wC0cEeM
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/E8WxIxczBCg
+                      original: true
+        "333":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=333
+          teilnehmer:
+            - name: Rec-Z
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/y3kov5ZCYDs
+                      original: true
+            - name: Prime
+        "334":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=334
+          teilnehmer:
+            - name: Beatkid_Rap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/g8RSHBA5MjI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/zqiUAgDJrfM
+                      original: true
+            - name: B zum O
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_qpQEjf11Fo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/vfSyugjQk1M
+                      original: true
+        "335":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=335
+          teilnehmer:
+            - name: MPH
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hYGyZkmfFSk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/8CapSgL2sqo
+                      original: true
+            - name: Danex
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/m2v-zvlgm3M
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/_dO6oHV25FM
+                      original: true
+        "336":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=336
+          teilnehmer:
+            - name: Buskapé
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/PeB-szWhcyk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/pKMvMQjNwOI
+                      original: true
+            - name: Nug
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ta-IX2i6ndA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/2brrqwXuZoU
+                      original: true
+        "337":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=337
+          teilnehmer:
+            - name: DaN
+            - name: Dani
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/ENL2mNUvPLI
+                      original: true
+        "338":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=338
+          teilnehmer:
+            - name: dekz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/L0pRqzZO-dQ
+                      original: true
+            - name: DasInsekt
+        "339":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=339
+          teilnehmer:
+            - name: Uncle_Benz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/pXdIMElZNIE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/0TiwAnNN__M
+                      original: true
+            - name: Pat Riot
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Qf6CVaATxUE
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/iPBnRRPef54
+                      original: true
+        "340":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=340
+          teilnehmer:
+            - name: fedaLic
+            - name: K-Win
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Z3C2G5Al_ew
+                      original: true
+        "341":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=341
+          teilnehmer:
+            - name: KeTh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Cw9Ap-BGerE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/WJ9vkKCtNqc
+                      original: true
+            - name: Straightluke
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/8Dm6Lf53ikw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/fLGShxKnwLk
+                      original: true
+        "342":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=342
+          teilnehmer:
+            - name: Fid Al Bassrow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZyMI6KxXEGM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/5K7i6ISloQI
+                      original: true
+            - name: Mighty Jackson
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/G57jvMWNtIM
+                      original: true
+    16tel:
+      name: 16tel
+      battles:
+        "344":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=344
+          teilnehmer:
+            - name: Fid Al Bassrow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/TSfgBA8PoCc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Cqs_xYGLz4k
+                      original: true
+            - name: GeOT
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=63193511&type=video
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/ll8X47tuMb0
+                      original: true
+        "345":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=345
+          teilnehmer:
+            - name: Straightluke
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XGzgFLSAaJM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/9d77bwTrSYQ
+                      original: true
+            - name: MPH
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Zv5BEGsWSl8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/X4joGBCRTZw
+                      original: true
+        "346":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=346
+          teilnehmer:
+            - name: Rec-Z
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eyUmWYH1Wl8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/fM_LST2K9RU
+                      original: true
+            - name: coru
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/bYjjWfIeMtY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/CfcUK6fIt64
+                      original: true
+        "347":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=347
+          teilnehmer:
+            - name: LTeck
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/mPzgvarffKM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/-IkuMctj8GM
+                      original: true
+            - name: 4ree
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/b_wjhknacK4
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/9dYVBRMbwBE
+                      original: true
+        "348":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=348
+          teilnehmer:
+            - name: dekz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Cjr7KLqzMxM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/p32af9plx20
+                      original: true
+            - name: Rosh
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/gK96Dg_L9s0&fmt=18
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/02FsUAby01E&fmt=18
+                      original: true
+        "349":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=349
+          teilnehmer:
+            - name: JoFLow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/HkDcU0-oUgY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/NJ38cEjcSM0
+                      original: true
+            - name: Kevnox
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/cukyntgNEAo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/ubNimviBr7g
+                      original: true
+        "350":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=350
+          teilnehmer:
+            - name: RaP2FaST
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=63032458&type=video
+                      original: true
+            - name: Uncle_Benz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/CdzQwSXqSRI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Ne4oKspIroQ
+                      original: true
+        "351":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=351
+          teilnehmer:
+            - name: diRAPtor
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4DYhr_PTMA8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/MBp50U_WFJI
+                      original: true
+            - name: FloW-KiNG
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/1haLlYLn4fU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/C76o7XH13bQ
+                      original: true
+        "352":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=352
+          teilnehmer:
+            - name: sHiZofRed
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/3wHlQpw_K9M
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/2JW_Uz45hnU
+                      original: true
+            - name: Duzoe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/zvXSVowAGxo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/aXnUTVYQqpQ
+                      original: true
+        "353":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=353
+          teilnehmer:
+            - name: DECIZE
+            - name: B-Chris
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/CbO5z4N7_hQ
+                      original: true
+        "354":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=354
+          teilnehmer:
+            - name: Dani
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/FI2LYiTzIRY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/0WzKIEeKFL8
+                      original: true
+            - name: Pete Licious
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/9mPtEn7v2zQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/zpMt82ifUyU
+                      original: true
+        "355":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=355
+          teilnehmer:
+            - name: Chellah
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://lads.myspace.com/videos/vplayer.swf?m=63193039&type=video
+                      original: true
+            - name: Silus
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/L3esOP397KI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/1zD1MQLFPYg
+                      original: true
+        "356":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=356
+          teilnehmer:
+            - name: SpliffTastiC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6z3y3suVYWE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/9OqFUNUn7-E
+                      original: true
+            - name: K-Win
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/e849m9fU1is
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Nl8xZG6KBmg
+                      original: true
+        "357":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=357
+          teilnehmer:
+            - name: Kico
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XsNgMP__k9I
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/eaoN4A1kNj4
+                      original: true
+            - name: Pat Riot
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/8muw6tXlGrk
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/jaGU_NVh5Vw
+                      original: true
+        "358":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=358
+          teilnehmer:
+            - name: V!RUS90
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Q5JsGPRRiRs
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://www.myvideo.de/movie/6945278
+                      original: true
+            - name: Machmut94
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/NXs0DAax95I
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/IntgO2q2JKY
+                      original: true
+        "359":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=359
+          teilnehmer:
+            - name: B zum O
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ceAxmyhABpQ
+                      original: true
+            - name: Nug
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/gTuGukxeVhA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/8uX3IyyRcTI
+                      original: true
+    achtelfinale:
+      name: Achtelfinale
+      battles:
+        "363":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=363
+          teilnehmer:
+            - name: Machmut94
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/zWJ081PxKSs
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/uLXPVFMGyPE
+                      original: true
+            - name: B-Chris
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Hjd793y1L0Q
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/FyPwjU3Yk7Y
+                      original: true
+        "364":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=364
+          teilnehmer:
+            - name: Uncle_Benz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/P7ic9Q6zPTo
+                      original: true
+            - name: Kico
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/HPXwU6ubyr0&fmt=18
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/jZR6wSh20Dg
+                      original: true
+        "365":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=365
+          teilnehmer:
+            - name: Nug
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/H-4M18P8LkE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/4SHPzPq2JPU
+                      original: true
+            - name: SpliffTastiC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/GtlnAfn3Pqk
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/6Iqs-CzIaTA
+                      original: true
+        "366":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=366
+          teilnehmer:
+            - name: Rosh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/W0Jq0s9JQIQ&fmt=18
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/8n5ZEc9sZOQ&fmt=18
+                      original: true
+            - name: Silus
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/hZvusADloOI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Y_5tfS-gFIc
+                      original: true
+        "367":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=367
+          teilnehmer:
+            - name: Fid Al Bassrow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1_AkQCVYUWk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/U9Q1eV39VDQ
+                      original: true
+            - name: coru
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/2kR1srW4wow
+                      original: true
+        "368":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=368
+          teilnehmer:
+            - name: MPH
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/NkySNKzMovA
+                      original: true
+            - name: Duzoe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/peJEuzOmcZ8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/U1vi6NiF_HA
+                      original: true
+        "369":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=369
+          teilnehmer:
+            - name: 4ree
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/82nsRzJdNh8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/ZkPrqJIBWA4
+                      original: true
+            - name: FloW-KiNG
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/BoDxm-tdDOc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/OO2ymPptRC0
+                      original: true
+        "370":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=370
+          teilnehmer:
+            - name: Kevnox
+            - name: Pete Licious
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/A9sTtnGmmHo
+                      original: true
+    viertelfinale:
+      name: Viertelfinale
+      battles:
+        "371":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=371
+          teilnehmer:
+            - name: B-Chris
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/RgqM6PZUOns
+                      original: true
+            - name: Kico
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/VIxbAheAylU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/piGBTF7JStg&fmt=18
+                      original: true
+        "372":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=372
+          teilnehmer:
+            - name: 4ree
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/h7k0p3clxjw
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/ua8cyLbTAOo
+                      original: true
+            - name: Pete Licious
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/q2r3GuNlqhE
+                      original: true
+        "373":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=373
+          teilnehmer:
+            - name: Nug
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.youtube.com/embed/fv0fEwjbGms
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.youtube.com/embed/5pEzj253u-o
+                      original: true
+            - name: Duzoe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/9IE-I2e9x1s
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.youtube.com/embed/bRd1Hq-Pw0U
+                      original: true
+        "374":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=374
+          teilnehmer:
+            - name: Silus
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/99uFTu9_Mdc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/0SSwelVojHw
+                      original: true
+            - name: Fid Al Bassrow
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/-Ph89NB9UP8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/mgQY_kH0TY8
+                      original: true
+    halbfinale:
+      name: Halbfinale
+      battles:
+        "375":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=375
+          teilnehmer:
+            - name: Nug
+            - name: Kico
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.youtube.com/embed/s6gZfRQcQGA&fmt=22
+                      original: true
+        "376":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=376
+          teilnehmer:
+            - name: Silus
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/5p7zAxcs1UM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/C1OnpwtCQu0
+                      original: true
+            - name: 4ree
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/jig66zjbTsY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/EqOg4n290ts
+                      original: true
+    finale:
+      name: Finale
+      battles:
+        "377":
+          link: http://www.rappers.in/en/vbt09_runden.php?battle=377
+          teilnehmer:
+            - name: 4ree
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/JgNc--fPbr4
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/_cE1pATynpI
+                      original: true
+            - name: Kico
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/iYF4Z4pjSVA
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/ChVbTFUoZTQ
+                      original: true
