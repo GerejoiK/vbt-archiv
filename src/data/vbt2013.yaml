@@ -18551,9 +18551,10 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/SkLFQ-id-n0 
-                        ?playlist=IaGuuDEOhYs&version=3
+                    - url: https://youtu.be/SkLFQ-id-n0
                       original: true
+                    - url: https://youtu.be/GVQRN0zuJgY
+                      notiz: Intro fehlt
             - name: Der Alki
               punkte: 11
               runden:
