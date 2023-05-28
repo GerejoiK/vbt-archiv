@@ -4,6 +4,7 @@ import adapter from "@sveltejs/adapter-static";
 const config = {
 	kit: {
 		adapter: adapter({
+			pages: "vbt-archiv",
 			fallback: "index.html",
 		}),
 		paths: {

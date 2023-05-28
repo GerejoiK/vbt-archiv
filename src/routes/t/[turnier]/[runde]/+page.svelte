@@ -2,6 +2,7 @@
 	import { page } from "$app/stores";
 	import turniere from "$lib/data";
 	import jq from "json-query";
+	import { base } from "$app/paths";
 
 	let battles = jq(`${$page.params.turnier}.runden.${$page.params.runde}.battles`, {
 		data: turniere,
@@ -36,7 +37,7 @@
 					{/if}
 				</td>
 				<td
-					><a href="/t/{$page.params.turnier}/{$page.params.runde}/{id}"
+					><a href="{base}/t/{$page.params.turnier}/{$page.params.runde}/{id}"
 						>vs.<br />{battle.teilnehmer.map(e => e?.punkte || 0).join(":")}</a
 					></td
 				>
