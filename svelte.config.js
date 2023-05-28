@@ -10,6 +10,7 @@ const config = {
 		paths: {
 			base: "/vbt-archiv",
 		},
+		appDir: "internal",
 	},
 };
 

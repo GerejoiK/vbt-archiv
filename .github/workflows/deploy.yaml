@@ -25,7 +25,6 @@ jobs:
       - name: Deploy
         run: |
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          touch vbt-archiv/.nojekyll
           npx gh-pages -b release -d vbt-archiv -u "github-actions-bot <support+actions@github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
