@@ -2,9 +2,6 @@
 	import "simpledotcss";
 	import { page } from "$app/stores";
 	import turniere from "$lib/data";
-
-	import validate from "../test/validateData.js";
-	validate();
 </script>
 
 <header>
