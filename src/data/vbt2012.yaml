@@ -12989,6 +12989,2812 @@ vbt2012:
                   links:
                     - url: https://youtu.be/m4frYchawCQ
                       original: true
+    vorrunde-3:
+      name: Vorrunde 3
+      battles:
+        "1631":
+          link: http://www.rappers.in/de/VBT2012_Flowsrap-vs-DAN_Battle_1631.html
+          teilnehmer:
+            - name: Flowsrap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/pal42GfOjQ0
+                      original: true
+              punkte: 1
+            - name: DAN
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/zR3HKPdMrlw
+                      original: true
+              punkte: 6
+        "1632":
+          link: http://www.rappers.in/de/VBT2012_Chris+Miles+-vs-enceo_Battle_1632.html
+          teilnehmer:
+            - name: "Chris Miles "
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1Y3iTqSL0_Y
+                      original: true
+              punkte: 4
+            - name: enceo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/vUxU5uJFpro
+                      original: true
+              punkte: 10
+        "1633":
+          link: http://www.rappers.in/de/VBT2012_PRESTONE-vs-Tanguy_Battle_1633.html
+          teilnehmer:
+            - name: PRESTONE
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/RbzZQ0WIPpo
+                      original: true
+              punkte: 8
+            - name: Tanguy
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/beb3nH-tkLA
+                      original: true
+              punkte: 4
+        "1634":
+          link: http://www.rappers.in/de/VBT2012_Lugom-vs-Geebizz_Battle_1634.html
+          teilnehmer:
+            - name: Lugom
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/PLgPyZgH00c
+                      original: true
+              punkte: 5
+            - name: Geebizz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/9xh8MhR8o24
+                      original: true
+              punkte: 8
+        "1635":
+          link: http://www.rappers.in/de/VBT2012_Prinzip-vs-Gio_Battle_1635.html
+          teilnehmer:
+            - name: Prinzip
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hJZoWo7TnhQ
+                      original: true
+              punkte: 1
+            - name: Gio
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/e9g7StUa9vU
+                      original: true
+              punkte: 9
+        "1636":
+          link: http://www.rappers.in/de/VBT2012_Pacy-vs-inspiration_Battle_1636.html
+          teilnehmer:
+            - name: Pacy
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/MORPD1wWhmQ
+                      original: true
+              punkte: 4
+            - name: inspiration
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/m9BSAtfJXig
+                      original: true
+              punkte: 7
+        "1637":
+          link: http://www.rappers.in/de/VBT2012_B.B.S-vs-EstA_Battle_1637.html
+          teilnehmer:
+            - name: B.B.S
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/bCBhR4p9ER4
+                      original: true
+            - name: EstA
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/b_xu4Gz_WyA
+                      original: true
+              punkte: 15
+        "1638":
+          link: http://www.rappers.in/de/VBT2012_Def-Joe-vs-Tony+Tones_Battle_1638.html
+          teilnehmer:
+            - name: Def-Joe
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/HdXS4DnO4Zw
+                      original: true
+              punkte: 2
+            - name: Tony Tones
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/bLu3lLzBLUU
+                      original: true
+              punkte: 6
+        "1639":
+          link: http://www.rappers.in/de/VBT2012_Rappetize-vs-Mr.Waks_Battle_1639.html
+          teilnehmer:
+            - name: Rappetize
+            - name: Mr.Waks
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/eM6b3kTZf7w
+                      original: true
+        "1640":
+          link: http://www.rappers.in/de/VBT2012_Dsch%E4nis-vs-Persteasy_Battle_1640.html
+          teilnehmer:
+            - name: Dschänis
+            - name: Persteasy
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/QqZCvRsIHKA
+                      original: true
+        "1641":
+          link: http://www.rappers.in/de/VBT2012_Pumpgun_WHV-vs-Emkay_Battle_1641.html
+          teilnehmer:
+            - name: Pumpgun_WHV
+            - name: Emkay
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: "https://youtu.be/DypC2aCo__0"
+                      original: true
+        "1642":
+          link: http://www.rappers.in/de/VBT2012_Exzellent-vs-Yash+aka+Aquila_Battle_1642.html
+          teilnehmer:
+            - name: Exzellent
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/geD58zVQPvk
+                      original: true
+            - name: Yash aka Aquila
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/P1t0rzuUlEI
+                      original: true
+              punkte: 12
+        "1643":
+          link: http://www.rappers.in/de/VBT2012_F-STYLEZ-vs-Calli_Battle_1643.html
+          teilnehmer:
+            - name: F-STYLEZ
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/HiVWIfEtycs
+                      original: true
+              punkte: 5
+            - name: Calli
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/8XpWRrYbxWY
+                      original: true
+              punkte: 5
+        "1644":
+          link: http://www.rappers.in/de/VBT2012_DiirAz-vs-B-H%21gh_Battle_1644.html
+          teilnehmer:
+            - name: DiirAz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/tocMDiACMrY
+                      original: true
+              punkte: 7
+            - name: B-H!gh
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/8BknZ1XtJLI
+                      original: true
+        "1645":
+          link: http://www.rappers.in/de/VBT2012_Noizee-vs-Dupash_Battle_1645.html
+          teilnehmer:
+            - name: Noizee
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/zg_ukIo9lww
+                      original: true
+              punkte: 5
+            - name: Dupash
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/V5prEnwFe0Q
+                      original: true
+              punkte: 7
+        "1646":
+          link: http://www.rappers.in/de/VBT2012_SponTanika-vs-Cosa_Battle_1646.html
+          teilnehmer:
+            - name: SponTanika
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/q09Ny4fKLh8
+                      original: true
+              punkte: 3
+            - name: Cosa
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kYH3KqsYfLo
+                      original: true
+              punkte: 9
+        "1647":
+          link: http://www.rappers.in/de/VBT2012_sera+one-vs-Taiboo_Battle_1647.html
+          teilnehmer:
+            - name: sera one
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/m6ZzqmfYrnM
+                      original: true
+              punkte: 5
+            - name: Taiboo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/EuzIrETsZ6U
+                      original: true
+              punkte: 4
+        "1648":
+          link: http://www.rappers.in/de/VBT2012_Syntax-Rap-vs-Das+W_Battle_1648.html
+          teilnehmer:
+            - name: Syntax-Rap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XvxGmpxTRI0
+                      original: true
+              punkte: 6
+            - name: Das W
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/OMHTuwMgUYM
+                      original: true
+              punkte: 10
+        "1649":
+          link: http://www.rappers.in/de/VBT2012_Olli+Flipp-vs-Luie-Die-Nadel_Battle_1649.html
+          teilnehmer:
+            - name: Olli Flipp
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/_KdpyE8xvY8
+                      original: true
+              punkte: 4
+            - name: Luie-Die-Nadel
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/0078xutTzRM
+                      original: true
+              punkte: 11
+        "1650":
+          link: http://www.rappers.in/de/VBT2012_TalhaMusik-vs-juneek_Battle_1650.html
+          teilnehmer:
+            - name: TalhaMusik
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/buiAAkmnkr8
+                      original: true
+              punkte: 7
+            - name: juneek
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kfXtSeNFk6Y
+                      original: true
+              punkte: 3
+        "1651":
+          link: http://www.rappers.in/de/VBT2012_Teef-vs-Serious+Musik+Crew_Battle_1651.html
+          teilnehmer:
+            - name: Teef
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/LzwryrS34YM
+                      original: true
+              punkte: 2
+            - name: Serious Musik Crew
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/UfNnHu4PBJU
+                      original: true
+              punkte: 5
+        "1652":
+          link: http://www.rappers.in/de/VBT2012_Nikzz-vs-Flo+bgs_Battle_1652.html
+          teilnehmer:
+            - name: Nikzz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/iE22vKnJ1hQ
+                      original: true
+              punkte: 1
+            - name: Flo bgs
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/OSJdIY656G8
+                      original: true
+              punkte: 6
+        "1653":
+          link: http://www.rappers.in/de/VBT2012_SCapade-vs-Pikkolo_Battle_1653.html
+          teilnehmer:
+            - name: SCapade
+            - name: Pikkolo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: "https://youtu.be/p_GEWmY5ykg"
+                      original: true
+        "1654":
+          link: http://www.rappers.in/de/VBT2012_eclipse-vs-CAZ_Battle_1654.html
+          teilnehmer:
+            - name: eclipse
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YjNc74VjopE
+                      original: true
+              punkte: 4
+            - name: CAZ
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/QeCYzWRGUO4
+                      original: true
+              punkte: 10
+        "1655":
+          link: http://www.rappers.in/de/VBT2012_n0Xx-vs-complex_Battle_1655.html
+          teilnehmer:
+            - name: n0Xx
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/KbNUPW8zIzA
+                      original: true
+              punkte: 2
+            - name: complex
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/gvltpCIw_QY
+                      original: true
+              punkte: 7
+        "1656":
+          link: http://www.rappers.in/de/VBT2012_Ph%E4nomEn-vs-Scotch_Battle_1656.html
+          teilnehmer:
+            - name: PhänomEn
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/NzyO-DzJheY
+                      original: true
+              punkte: 3
+            - name: Scotch
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/N37HnuulCps
+                      original: true
+              punkte: 14
+        "1657":
+          link: http://www.rappers.in/de/VBT2012_Traine+aka+Rapper+Nr+ONE-vs-kash_Battle_1657.html
+          teilnehmer:
+            - name: Traine aka Rapper Nr ONE
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hlEI8rle3Vg
+                      original: true
+            - name: kash
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/iCF2IaFNxBk
+                      original: true
+              punkte: 10
+        "1658":
+          link: http://www.rappers.in/de/VBT2012_NeoN+-GZ-vs-Cholic_Battle_1658.html
+          teilnehmer:
+            - name: NeoN -GZ
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/VoYaHedg9QM
+                      original: true
+              punkte: 3
+            - name: Cholic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/p3hz3wLf3_U
+                      original: true
+              punkte: 6
+        "1659":
+          link: http://www.rappers.in/de/VBT2012_Mysterious+Mofucka-vs-Tripple-G_Battle_1659.html
+          teilnehmer:
+            - name: Mysterious Mofucka
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/nC9vP0BWdEE
+                      original: true
+              punkte: 3
+            - name: Tripple-G
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kjZXZgVzE5s
+                      original: true
+              punkte: 3
+        "1660":
+          link: http://www.rappers.in/de/VBT2012_Brian+Diamond-vs-coru_Battle_1660.html
+          teilnehmer:
+            - name: Brian Diamond
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/xUeQsGGglJk
+                      original: true
+              punkte: 6
+            - name: coru
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/iml5tJzkUUk
+                      original: true
+              punkte: 4
+        "1661":
+          link: http://www.rappers.in/de/VBT2012_Jott-Ha-vs-Der+GV_Battle_1661.html
+          teilnehmer:
+            - name: Jott-Ha
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XfOUtNZF0Mw
+                      original: true
+              punkte: 3
+            - name: Der GV
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_FfY3QtEdbs
+                      original: true
+              punkte: 9
+        "1662":
+          link: http://www.rappers.in/de/VBT2012_Pol%E4-vs-Pimf_Battle_1662.html
+          teilnehmer:
+            - name: Polä
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/_gqXmi7k7fM
+                      original: true
+            - name: Pimf
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/X9bbXKOOXlo
+                      original: true
+              punkte: 15
+        "1663":
+          link: http://www.rappers.in/de/VBT2012_Jackpot+2.0-vs-Fucking+Freddy_Battle_1663.html
+          teilnehmer:
+            - name: Jackpot 2.0
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/scL6RCj6LDg
+                      original: true
+              punkte: 2
+            - name: Fucking Freddy
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/RnGNPsBtUHs
+                      original: true
+              punkte: 6
+        "1664":
+          link: http://www.rappers.in/de/VBT2012_BYSER01-vs-PzumX_Battle_1664.html
+          teilnehmer:
+            - name: BYSER01
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/b3IPTMjvWc4
+                      original: true
+            - name: PzumX
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/CtD4eBfiCdk
+                      original: true
+              punkte: 13
+        "1665":
+          link: http://www.rappers.in/de/VBT2012_...dezat%21-vs-eMPi_Battle_1665.html
+          teilnehmer:
+            - name: ...dezat!
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/SqSm0HGvIhQ
+                      original: true
+              punkte: 8
+            - name: eMPi
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/4M7EZbyHoGE
+                      original: true
+              punkte: 6
+        "1666":
+          link: http://www.rappers.in/de/VBT2012_The+Ji-vs-Mikzn70_Battle_1666.html
+          teilnehmer:
+            - name: The Ji
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/3D8LXqxpHbg
+                      original: true
+              punkte: 2
+            - name: Mikzn70
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/wLMMn73Z6z0
+                      original: true
+              punkte: 10
+        "1667":
+          link: http://www.rappers.in/de/VBT2012_trickzZ-vs-SpliffTastic_Battle_1667.html
+          teilnehmer:
+            - name: trickzZ
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/majkCbN81gU
+                      original: true
+            - name: SpliffTastic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/jqmyBNf0wC0
+                      original: true
+              punkte: 9
+        "1668":
+          link: http://www.rappers.in/de/VBT2012_H%21cks96-vs-Tom+Cruised_Battle_1668.html
+          teilnehmer:
+            - name: H!cks96
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/7q0R97KADtY
+                      original: true
+              punkte: 1
+            - name: Tom Cruised
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/5ly7K7NT6u8
+                      original: true
+              punkte: 11
+        "1669":
+          link: http://www.rappers.in/de/VBT2012_MC+Grinch-vs-Syntheciser_Battle_1669.html
+          teilnehmer:
+            - name: MC Grinch
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Dm6L6sBFfrc
+                      original: true
+              punkte: 4
+            - name: Syntheciser
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Ty87YsrWpG4
+                      original: true
+              punkte: 11
+        "1670":
+          link: http://www.rappers.in/de/VBT2012_FAU-vs-ME-L+Techrap_Battle_1670.html
+          teilnehmer:
+            - name: FAU
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1llef0l63pE
+                      original: true
+            - name: ME-L Techrap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/VDWGV6C9vZs
+                      original: true
+              punkte: 9
+        "1671":
+          link: http://www.rappers.in/de/VBT2012_DerRome-vs-Smoke+T_Battle_1671.html
+          teilnehmer:
+            - name: DerRome
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/FvMGTh0X41E
+                      original: true
+              punkte: 2
+            - name: Smoke T
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/GTRBQI-bw4I
+                      original: true
+              punkte: 6
+        "1672":
+          link: http://www.rappers.in/de/VBT2012_Ashokarap-vs-RolfRoyce_Battle_1672.html
+          teilnehmer:
+            - name: Ashokarap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/tBs97xOXaY4
+                      original: true
+            - name: RolfRoyce
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/0yv_SLOZif0
+                      original: true
+              punkte: 9
+        "1673":
+          link: http://www.rappers.in/de/VBT2012_Key-vs-iFate_Battle_1673.html
+          teilnehmer:
+            - name: Key
+            - name: iFate
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: "https://youtu.be/YXOCyjVTd4c"
+                      original: true
+        "1674":
+          link: http://www.rappers.in/de/VBT2012_Leo+Nerd-vs-Tumor+der+Atze_Battle_1674.html
+          teilnehmer:
+            - name: Leo Nerd
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Qsco-CI0k7o
+                      original: true
+              punkte: 6
+            - name: Tumor der Atze
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/c4QTJkyu_yM
+                      original: true
+              punkte: 3
+        "1675":
+          link: http://www.rappers.in/de/VBT2012_SmockOne-vs-KiAS_Battle_1675.html
+          teilnehmer:
+            - name: SmockOne
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/l-JtX389aCE
+                      original: true
+              punkte: 2
+            - name: KiAS
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/u1JfKCdH9qw
+                      original: true
+              punkte: 5
+        "1676":
+          link: http://www.rappers.in/de/VBT2012_Antrue-vs-Pr%21MaR_Battle_1676.html
+          teilnehmer:
+            - name: Antrue
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/7daxKoMTjH0
+                      original: true
+              punkte: 1
+            - name: Pr!MaR
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/eD53MHfHGaA
+                      original: true
+              punkte: 8
+        "1677":
+          link: http://www.rappers.in/de/VBT2012_Kennyzle-vs-Jix_Battle_1677.html
+          teilnehmer:
+            - name: Kennyzle
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/H0f96HkLlAY
+                      original: true
+            - name: Jix
+        "1678":
+          link: http://www.rappers.in/de/VBT2012_%40_Ultra-vs-Ca-Va_Battle_1678.html
+          teilnehmer:
+            - name: "@_Ultra"
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6SkrYgJqxuE
+                      original: true
+              punkte: 1
+            - name: Ca-Va
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/x8dotIQ1nSc
+                      original: true
+              punkte: 9
+        "1679":
+          link: http://www.rappers.in/de/VBT2012_Jute+Gang-vs-Ti+Jay_Battle_1679.html
+          teilnehmer:
+            - name: Jute Gang
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/SevGsvLoOD8
+                      original: true
+              punkte: 2
+            - name: Ti Jay
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/xIp_blSlzlc
+                      original: true
+              punkte: 8
+        "1680":
+          link: http://www.rappers.in/de/VBT2012_ezZit-vs-Kico_Battle_1680.html
+          teilnehmer:
+            - name: ezZit
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/gd4byaQOyN8
+                      original: true
+            - name: Kico
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/oIeb_aCsgv8
+                      original: true
+              punkte: 11
+        "1681":
+          link: http://www.rappers.in/de/VBT2012_Tyra-vs-Matsche_Battle_1681.html
+          teilnehmer:
+            - name: Tyra
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6SSA_NoQRsI
+                      original: true
+              punkte: 7
+            - name: Matsche
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/zn_uwFFAI-0
+                      original: true
+              punkte: 10
+        "1682":
+          link: http://www.rappers.in/de/VBT2012_McWheelchair-vs-Atte187_Battle_1682.html
+          teilnehmer:
+            - name: McWheelchair
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/aYSB54b8xX0
+                      original: true
+            - name: Atte187
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/U9sf_cCh1pQ
+                      original: true
+              punkte: 9
+        "1683":
+          link: http://www.rappers.in/de/VBT2012_K.O.N.G.-vs-d0p3_Battle_1683.html
+          teilnehmer:
+            - name: K.O.N.G.
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Lmu2T6rtkww
+                      original: true
+              punkte: 7
+            - name: d0p3
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/b1kk8blatco
+                      original: true
+              punkte: 9
+        "1684":
+          link: http://www.rappers.in/de/VBT2012_Elm%E4x-vs-Enem_Battle_1684.html
+          teilnehmer:
+            - name: Elmäx
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eZQcw7a8Ajw
+                      original: true
+            - name: Enem
+        "1685":
+          link: http://www.rappers.in/de/VBT2012_Sentice-vs-Nark_Battle_1685.html
+          teilnehmer:
+            - name: Sentice
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/KCrZcGCdfAI
+                      original: true
+              punkte: 1
+            - name: Nark
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/X7G8m9NtVHk
+                      original: true
+              punkte: 10
+        "1686":
+          link: http://www.rappers.in/de/VBT2012_Crash+Bundy-vs--LUkE-_Battle_1686.html
+          teilnehmer:
+            - name: Crash Bundy
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/sgwia7TziC4
+                      original: true
+              punkte: 2
+            - name: "-LUkE-"
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/UEy5b33WD-o
+                      original: true
+              punkte: 12
+        "1687":
+          link: http://www.rappers.in/de/VBT2012_KIZMO-vs-derdobbo_Battle_1687.html
+          teilnehmer:
+            - name: KIZMO
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/D9BcFOwVi-k
+                      original: true
+              punkte: 1
+            - name: derdobbo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/PpU75JR1tBg
+                      original: true
+              punkte: 9
+        "1688":
+          link: http://www.rappers.in/de/VBT2012_Eype-vs-MoooN_Battle_1688.html
+          teilnehmer:
+            - name: Eype
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZN-YVsk7yNk
+                      original: true
+              punkte: 5
+            - name: MoooN
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/eNbQDWm894g
+                      original: true
+              punkte: 11
+        "1689":
+          link: http://www.rappers.in/de/VBT2012_WOiZ-vs-Dr.+Lucs_Battle_1689.html
+          teilnehmer:
+            - name: WOiZ
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4Z5LyMQQWLY
+                      original: true
+              punkte: 1
+            - name: Dr. Lucs
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/mcDKkiU1cmg
+                      original: true
+              punkte: 11
+        "1690":
+          link: http://www.rappers.in/de/VBT2012_feddi-vs-Ariouzo_Battle_1690.html
+          teilnehmer:
+            - name: feddi
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-imyG89IDso
+                      original: true
+              punkte: 11
+            - name: Ariouzo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/b7CWvaYvjeo
+                      original: true
+              punkte: 2
+        "1691":
+          link: http://www.rappers.in/de/VBT2012_Clancy-vs-Maso-G_Battle_1691.html
+          teilnehmer:
+            - name: Clancy
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/krWtO6f8VLg
+                      original: true
+              punkte: 1
+            - name: Maso-G
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/1n_96C97rWA
+                      original: true
+              punkte: 8
+        "1692":
+          link: http://www.rappers.in/de/VBT2012_NuKay-vs-GladiacOneSix_Battle_1692.html
+          teilnehmer:
+            - name: NuKay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/CKx1LpguP_Y
+                      original: true
+            - name: GladiacOneSix
+        "1693":
+          link: http://www.rappers.in/de/VBT2012_LKR-vs-FidRizz_Battle_1693.html
+          teilnehmer:
+            - name: LKR
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/DGEdwEUSusc
+                      original: true
+              punkte: 8
+            - name: FidRizz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/-Ozve5yxFqI
+                      original: true
+              punkte: 6
+        "1694":
+          link: http://www.rappers.in/de/VBT2012_Tom+Thaler-vs-Fu%DFballmann_Battle_1694.html
+          teilnehmer:
+            - name: Tom Thaler
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/44dnx4_bh0o
+                      original: true
+              punkte: 5
+            - name: Fußballmann
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/wFKjfOr3tso
+                      original: true
+              punkte: 8
+        "1695":
+          link: http://www.rappers.in/de/VBT2012_Haze89-vs-Rifletik_Battle_1695.html
+          teilnehmer:
+            - name: Haze89
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/xbEqLB6sYZI
+                      original: true
+            - name: Rifletik
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/T9MuTJdxLbY
+                      original: true
+              punkte: 7
+        "1696":
+          link: http://www.rappers.in/de/VBT2012_LockzudemD-vs-Der+Kolibri_Battle_1696.html
+          teilnehmer:
+            - name: LockzudemD
+            - name: Der Kolibri
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: "https://youtu.be/JtUCDYdvVJw"
+                      original: true
+        "1697":
+          link: http://www.rappers.in/de/VBT2012_Chromerap-vs-PunchArogunz111_Battle_1697.html
+          teilnehmer:
+            - name: Chromerap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eU3i9fiNAF8
+                      original: true
+            - name: PunchArogunz111
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kqQEL6ufe48
+                      original: true
+              punkte: 7
+        "1698":
+          link: http://www.rappers.in/de/VBT2012_Taifun+Beats-vs-Mikz_Battle_1698.html
+          teilnehmer:
+            - name: Taifun Beats
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/nQLKvSSXkv0
+                      original: true
+              punkte: 1
+            - name: Mikz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/jinKJQp2-sk
+                      original: true
+              punkte: 12
+        "1699":
+          link: http://www.rappers.in/de/VBT2012_Spello-vs-4tune_Battle_1699.html
+          teilnehmer:
+            - name: Spello
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/VEbKV0-qbg0
+                      original: true
+              punkte: 3
+            - name: 4tune
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/D44OlMe0yVQ
+                      original: true
+              punkte: 12
+        "1700":
+          link: http://www.rappers.in/de/VBT2012_Plural-vs-Toomb_Battle_1700.html
+          teilnehmer:
+            - name: Plural
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/X6R-ATrfqjo
+                      original: true
+              punkte: 2
+            - name: Toomb
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SSvVzUZXl9A
+                      original: true
+              punkte: 11
+        "1701":
+          link: http://www.rappers.in/de/VBT2012_Zayd-vs-DieterGriffin_Battle_1701.html
+          teilnehmer:
+            - name: Zayd
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/OI2Wyj3gO8M
+                      original: true
+              punkte: 1
+            - name: DieterGriffin
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/i4H3uEqyJcg
+                      original: true
+              punkte: 10
+        "1702":
+          link: http://www.rappers.in/de/VBT2012_P-Stail-vs-akne_Battle_1702.html
+          teilnehmer:
+            - name: P-Stail
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/qhi7qYXSEwk
+                      original: true
+              punkte: 1
+            - name: akne
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/RqvqPjQpOzI
+                      original: true
+              punkte: 7
+        "1703":
+          link: http://www.rappers.in/de/VBT2012_Pewee-vs-Cream_Battle_1703.html
+          teilnehmer:
+            - name: Pewee
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/t2KRTPfliNs
+                      original: true
+            - name: Cream
+        "1704":
+          link: http://www.rappers.in/de/VBT2012_Klaus+Bukkake-vs-Sindbad_Battle_1704.html
+          teilnehmer:
+            - name: Klaus Bukkake
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YLMs1XCXRcs
+                      original: true
+              punkte: 7
+            - name: Sindbad
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/VsqKDsDDRPk
+                      original: true
+              punkte: 2
+        "1705":
+          link: http://www.rappers.in/de/VBT2012_Antik-vs-Siriuz_Battle_1705.html
+          teilnehmer:
+            - name: Antik
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/BwqBUJpJwB4
+                      original: true
+              punkte: 10
+            - name: Siriuz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/T4CbtE7wKXU
+                      original: true
+              punkte: 5
+        "1706":
+          link: http://www.rappers.in/de/VBT2012_BasisBurghardt-vs-maiko_Battle_1706.html
+          teilnehmer:
+            - name: BasisBurghardt
+            - name: maiko
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: "https://youtu.be/5ryAXIHdYns"
+                      original: true
+        "1707":
+          link: http://www.rappers.in/de/VBT2012_SepsisBeatz-vs-Vitality+Rap_Battle_1707.html
+          teilnehmer:
+            - name: SepsisBeatz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/5mnsNgg97gg
+                      original: true
+              punkte: 6
+            - name: Vitality Rap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/efa1-1D_03Y
+                      original: true
+              punkte: 5
+        "1708":
+          link: http://www.rappers.in/de/VBT2012_BrunoMarc-vs-Pa%21n_OnE_Battle_1708.html
+          teilnehmer:
+            - name: BrunoMarc
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/l3dCMZoc4zY
+                      original: true
+              punkte: 8
+            - name: Pa!n_OnE
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/LQexYn7Fv6Q
+                      original: true
+              punkte: 2
+        "1709":
+          link: http://www.rappers.in/de/VBT2012_Incomplete-vs-Crek_Battle_1709.html
+          teilnehmer:
+            - name: Incomplete
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2AQqm1sUjk8
+                      original: true
+              punkte: 7
+            - name: Crek
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ybXPozRCQVg
+                      original: true
+              punkte: 3
+        "1710":
+          link: http://www.rappers.in/de/VBT2012_Mavgic-vs-249Hoodwatch_Battle_1710.html
+          teilnehmer:
+            - name: Mavgic
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/PN7yt4gaXFk
+                      original: true
+              punkte: 4
+            - name: 249Hoodwatch
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/tVRGHkb_ZuY
+                      original: true
+              punkte: 4
+        "1711":
+          link: http://www.rappers.in/de/VBT2012_ProRipper-vs-m4nKo_Battle_1711.html
+          teilnehmer:
+            - name: ProRipper
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/dBdKDGzWHJQ
+                      original: true
+              punkte: 11
+            - name: m4nKo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/3GxEQLN5s4I
+                      original: true
+              punkte: 2
+        "1712":
+          link: http://www.rappers.in/de/VBT2012_derechtedima-vs-PrinceT_Battle_1712.html
+          teilnehmer:
+            - name: derechtedima
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/duBx4m6xfVM
+                      original: true
+              punkte: 4
+            - name: PrinceT
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/YJxHSNFjLFQ
+                      original: true
+              punkte: 7
+        "1713":
+          link: http://www.rappers.in/de/VBT2012_meelman-vs-KingYouBiatch_Battle_1713.html
+          teilnehmer:
+            - name: meelman
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/HNRTLeQBCOA
+                      original: true
+              punkte: 4
+            - name: KingYouBiatch
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dVydvmc2D24?hd=1
+                      original: true
+              punkte: 6
+        "1714":
+          link: http://www.rappers.in/de/VBT2012_Ride+One-vs-Cripe_Battle_1714.html
+          teilnehmer:
+            - name: Ride One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-gMdcg4dDwI
+                      original: true
+              punkte: 3
+            - name: Cripe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Ck377HPEtKQ
+                      original: true
+              punkte: 5
+        "1715":
+          link: http://www.rappers.in/de/VBT2012_Sykon%21-vs-Ron_the_Don+_Battle_1715.html
+          teilnehmer:
+            - name: Sykon!
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/G2V-S6YwxkU
+                      original: true
+              punkte: 6
+            - name: "Ron_the_Don "
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/t9-peRlk1Fc
+                      original: true
+              punkte: 6
+        "1716":
+          link: http://www.rappers.in/de/VBT2012_oRion-vs-Raka+87_Battle_1716.html
+          teilnehmer:
+            - name: oRion
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/VUVWtSVIYWE
+                      original: true
+              punkte: 3
+            - name: Raka 87
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/cZvLE38yszQ
+                      original: true
+              punkte: 10
+        "1717":
+          link: http://www.rappers.in/de/VBT2012_Ghodd-vs-Prof.Dr.HengZt_Battle_1717.html
+          teilnehmer:
+            - name: Ghodd
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/anXCGLoNLWU
+                      original: true
+              punkte: 9
+            - name: Prof.Dr.HengZt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/3OuvC_6t-jk
+                      original: true
+              punkte: 3
+        "1718":
+          link: http://www.rappers.in/de/VBT2012_Serious-M-vs-Sickless_Battle_1718.html
+          teilnehmer:
+            - name: Serious-M
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/bYPDHETwb7M
+                      original: true
+              punkte: 4
+            - name: Sickless
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/JDJXDvvIn9E
+                      original: true
+              punkte: 12
+        "1719":
+          link: http://www.rappers.in/de/VBT2012_Madson-vs-Cleptomatic_Battle_1719.html
+          teilnehmer:
+            - name: Madson
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2mbzOfuHFmY
+                      original: true
+              punkte: 6
+            - name: Cleptomatic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/IpB0ut74uso
+                      original: true
+              punkte: 7
+        "1720":
+          link: http://www.rappers.in/de/VBT2012_ToMiBriX-vs-Aemokay_Battle_1720.html
+          teilnehmer:
+            - name: ToMiBriX
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Bq01eE4fc6U
+                      original: true
+            - name: Aemokay
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/tVrAZ-tCRoA
+                      original: true
+              punkte: 11
+        "1721":
+          link: http://www.rappers.in/de/VBT2012_%C9smaticx-vs-JanniX_Battle_1721.html
+          teilnehmer:
+            - name: Ésmaticx
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hjUX8R6p4j0
+                      original: true
+              punkte: 8
+            - name: JanniX
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/5juhlv-dpRs
+                      original: true
+              punkte: 4
+        "1722":
+          link: http://www.rappers.in/de/VBT2012_Oatis-vs-Itztrue_Battle_1722.html
+          teilnehmer:
+            - name: Oatis
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/DdeuYXQP1YM
+                      original: true
+              punkte: 8
+            - name: Itztrue
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/UZEoI4Rus4U
+                      original: true
+              punkte: 2
+        "1723":
+          link: http://www.rappers.in/de/VBT2012_bobyuwe-vs-R-Ves_Battle_1723.html
+          teilnehmer:
+            - name: bobyuwe
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6IHwlbltuu8
+                      original: true
+              punkte: 7
+            - name: R-Ves
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/VslqDtYnpbs
+                      original: true
+              punkte: 3
+        "1724":
+          link: http://www.rappers.in/de/VBT2012_Vendett-vs-Leram+_Battle_1724.html
+          teilnehmer:
+            - name: Vendett
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/VUfmbB_u0ms
+                      original: true
+              punkte: 1
+            - name: "Leram "
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/u5dioxbz
+                      original: true
+              punkte: 8
+        "1725":
+          link: http://www.rappers.in/de/VBT2012_jmb-vs-DeeLah_Battle_1725.html
+          teilnehmer:
+            - name: jmb
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/uQzvFWSGkPk
+                      original: true
+              punkte: 3
+            - name: DeeLah
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dZPtieuM6dA
+                      original: true
+              punkte: 5
+        "1726":
+          link: http://www.rappers.in/de/VBT2012_Le+Nerd-vs-exeL_Battle_1726.html
+          teilnehmer:
+            - name: Le Nerd
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eelqxFnBGb4
+                      original: true
+              punkte: 3
+            - name: exeL
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/OZalYNNlf5g
+                      original: true
+              punkte: 7
+        "1727":
+          link: http://www.rappers.in/de/VBT2012_louhis-vs-Hydrogen_Battle_1727.html
+          teilnehmer:
+            - name: louhis
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/MNRQZJri2vA
+                      original: true
+              punkte: 43
+            - name: Hydrogen
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/RWWcfijFIVE
+                      original: true
+              punkte: 20
+        "1728":
+          link: http://www.rappers.in/de/VBT2012_Aczess-vs-AlanP+MC_Battle_1728.html
+          teilnehmer:
+            - name: Aczess
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1LfBHI-MYZw
+                      original: true
+              punkte: 3
+            - name: AlanP MC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/http://www.youtube.com/watch?feature=player_embedded
+                      original: true
+              punkte: 6
+        "1729":
+          link: http://www.rappers.in/de/VBT2012_C+M+C-vs-Morpheus+SMB_Battle_1729.html
+          teilnehmer:
+            - name: C M C
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/LGjwU78n30M
+                      original: true
+              punkte: 9
+            - name: Morpheus SMB
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/lsa5jcJDvcA
+                      original: true
+              punkte: 1
+        "1730":
+          link: http://www.rappers.in/de/VBT2012_Cas-vs-edmond+vinyl_Battle_1730.html
+          teilnehmer:
+            - name: Cas
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/H3edalDti9E
+                      original: true
+              punkte: 3
+            - name: edmond vinyl
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/P73Cy2qKSNM
+                      original: true
+              punkte: 7
+        "1731":
+          link: http://www.rappers.in/de/VBT2012_Sinet-vs-E_Woolv_Battle_1731.html
+          teilnehmer:
+            - name: Sinet
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/9PxL0gU9Los
+                      original: true
+              punkte: 1
+            - name: E_Woolv
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/wVOD7hDsp_E
+                      original: true
+              punkte: 8
+        "1732":
+          link: http://www.rappers.in/de/VBT2012_KOKAofficial-vs-Monte-Rap_Battle_1732.html
+          teilnehmer:
+            - name: KOKAofficial
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YRwq4oAI8-k
+                      original: true
+              punkte: 3
+            - name: Monte-Rap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/IbMbzOKL4kc
+                      original: true
+              punkte: 7
+        "1733":
+          link: http://www.rappers.in/de/VBT2012_j1mbojones-vs-Sichel_Battle_1733.html
+          teilnehmer:
+            - name: j1mbojones
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/z0IX7U-nq3g
+                      original: true
+              punkte: 1
+            - name: Sichel
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/keL4oXkTlLg
+                      original: true
+              punkte: 8
+        "1734":
+          link: http://www.rappers.in/de/VBT2012_Ossi_Eastborn-vs-PrimeMuzik_Battle_1734.html
+          teilnehmer:
+            - name: Ossi_Eastborn
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/VWRdC8C783Q
+                      original: true
+              punkte: 8
+            - name: PrimeMuzik
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/GGVTtf7ppgQ
+                      original: true
+              punkte: 7
+        "1735":
+          link: http://www.rappers.in/de/VBT2012_Nico+Glyzerin-vs-einzthebigone_Battle_1735.html
+          teilnehmer:
+            - name: Nico Glyzerin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/o7qCbRcX8Xs
+                      original: true
+              punkte: 13
+            - name: einzthebigone
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/An24uaPXpI0
+                      original: true
+        "1736":
+          link: http://www.rappers.in/de/VBT2012_Fely+Fe-vs-Pawleak_Battle_1736.html
+          teilnehmer:
+            - name: Fely Fe
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eclzVLqaaZ8
+                      original: true
+              punkte: 8
+            - name: Pawleak
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/J3-sbjCw2fQ
+                      original: true
+              punkte: 4
+        "1737":
+          link: http://www.rappers.in/de/VBT2012_Satire-vs-Woomer_Battle_1737.html
+          teilnehmer:
+            - name: Satire
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-ML87396XpU
+                      original: true
+              punkte: 8
+            - name: Woomer
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/2Ws6aRrx4Vg
+                      original: true
+              punkte: 4
+        "1738":
+          link: http://www.rappers.in/de/VBT2012_Rick-vs-Lyric+Dan_Battle_1738.html
+          teilnehmer:
+            - name: Rick
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/wBzBbuBKPxM
+                      original: true
+              punkte: 2
+            - name: Lyric Dan
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/K0Dipen5WZM
+                      original: true
+              punkte: 6
+        "1739":
+          link: http://www.rappers.in/de/VBT2012_DeeKay-vs-kose45_Battle_1739.html
+          teilnehmer:
+            - name: DeeKay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ppkJ7gc8cc8?hd=1
+                      original: true
+              punkte: 5
+            - name: kose45
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Hgo40Iitqsc
+                      original: true
+              punkte: 4
+        "1740":
+          link: http://www.rappers.in/de/VBT2012_Nanoo%28rap%29-vs-Oby_Battle_1740.html
+          teilnehmer:
+            - name: Nanoo(rap)
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2Xs09Yqy5Ms
+                      original: true
+              punkte: 2
+            - name: Oby
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/mnzdk8oHQ1I
+                      original: true
+              punkte: 6
+        "1741":
+          link: http://www.rappers.in/de/VBT2012_DOHR-vs-Multi_Battle_1741.html
+          teilnehmer:
+            - name: DOHR
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/z2VsIRC4Y7s
+                      original: true
+              punkte: 1
+            - name: Multi
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Awr1YZtKFXQ
+                      original: true
+              punkte: 6
+        "1742":
+          link: http://www.rappers.in/de/VBT2012_Fate+One-vs-paper_Battle_1742.html
+          teilnehmer:
+            - name: Fate One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/J9JFqdb0RnM
+                      original: true
+              punkte: 5
+            - name: paper
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/YBdx6Kqy0dE
+                      original: true
+              punkte: 5
+        "1743":
+          link: http://www.rappers.in/de/VBT2012_Huzzla%21-vs-maxwellrap_Battle_1743.html
+          teilnehmer:
+            - name: Huzzla!
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZljmANVN_iw
+                      original: true
+              punkte: 9
+            - name: maxwellrap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/BXEIXcZYHH4
+                      original: true
+        "1744":
+          link: http://www.rappers.in/de/VBT2012_DollarJohn-vs-FEEL.ikx_Battle_1744.html
+          teilnehmer:
+            - name: DollarJohn
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/U_WHPoVIdOs
+                      original: true
+            - name: FEEL.ikx
+        "1745":
+          link: http://www.rappers.in/de/VBT2012_G-DAN-vs-SedoRap_Battle_1745.html
+          teilnehmer:
+            - name: G-DAN
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/dKdAwuvLA-s
+                      original: true
+              punkte: 8
+            - name: SedoRap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/XjKgjbqtecg
+                      original: true
+              punkte: 5
+        "1746":
+          link: http://www.rappers.in/de/VBT2012_Typlez-vs-alphaprinzZ_Battle_1746.html
+          teilnehmer:
+            - name: Typlez
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/wTRFW8eHqI4
+                      original: true
+              punkte: 7
+            - name: alphaprinzZ
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dcOUiuCN55c
+                      original: true
+              punkte: 1
+        "1747":
+          link: http://www.rappers.in/de/VBT2012_CompazzZwiebel-vs-A+zum+O_Battle_1747.html
+          teilnehmer:
+            - name: CompazzZwiebel
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/y8QsbQvosTQ
+                      original: true
+              punkte: 9
+            - name: A zum O
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/2dqr44zaBc4
+                      original: true
+              punkte: 7
+        "1748":
+          link: http://www.rappers.in/de/VBT2012_O.G.LuC-vs-rian_Battle_1748.html
+          teilnehmer:
+            - name: O.G.LuC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/0OmMrEkUVgY
+                      original: true
+              punkte: 4
+            - name: rian
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/RMr_-YfUz5o
+                      original: true
+              punkte: 9
+        "1749":
+          link: http://www.rappers.in/de/VBT2012_Arrow-vs-streetsoldyer_Battle_1749.html
+          teilnehmer:
+            - name: Arrow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/SzF8mM-3dvo
+                      original: true
+              punkte: 6
+            - name: streetsoldyer
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/f_-bPz18AiM
+                      original: true
+              punkte: 5
+        "1750":
+          link: http://www.rappers.in/de/VBT2012_ShiZo733-vs-B-Prey_Battle_1750.html
+          teilnehmer:
+            - name: ShiZo733
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/v7hoYyFdZ4M
+                      original: true
+            - name: B-Prey
+        "1751":
+          link: http://www.rappers.in/de/VBT2012_Benizio-vs-Phoenix%28Gold-Muzik%29_Battle_1751.html
+          teilnehmer:
+            - name: Benizio
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-6-2P3FXbtY
+                      original: true
+              punkte: 4
+            - name: Phoenix(Gold-Muzik)
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_VvqEp_FTdY
+                      original: true
+              punkte: 3
+        "1752":
+          link: http://www.rappers.in/de/VBT2012_Suicidal+Slade-vs-AmmO_Battle_1752.html
+          teilnehmer:
+            - name: Suicidal Slade
+            - name: AmmO
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: "https://youtu.be/9uJP9kbQJM8"
+                      original: true
+        "1753":
+          link: http://www.rappers.in/de/VBT2012_Zonologic+akt.-vs-Sichtwaise_Battle_1753.html
+          teilnehmer:
+            - name: Zonologic akt.
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/p7j5-zP3oYU
+                      original: true
+              punkte: 3
+            - name: Sichtwaise
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/fTklbuL3t30
+                      original: true
+              punkte: 5
+        "1754":
+          link: http://www.rappers.in/de/VBT2012_J.C.+61+aka+YpsilBong-vs-SouleK_94_Battle_1754.html
+          teilnehmer:
+            - name: J.C. 61 aka YpsilBong
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fy7wWNpycA4
+                      original: true
+              punkte: 3
+            - name: SouleK_94
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/9jRWABA0t8o
+                      original: true
+              punkte: 9
+        "1755":
+          link: http://www.rappers.in/de/VBT2012_KnG-vs-Acou_Battle_1755.html
+          teilnehmer:
+            - name: KnG
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/3q1xnmbwJ70
+                      original: true
+              punkte: 4
+            - name: Acou
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ehQnf1VDdcU
+                      original: true
+              punkte: 5
+        "1756":
+          link: http://www.rappers.in/de/VBT2012_DENNnahuj-vs-NERD%B2_Battle_1756.html
+          teilnehmer:
+            - name: DENNnahuj
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/vAtz_wJlyAo
+                      original: true
+              punkte: 1
+            - name: NERD²
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/wIl0qNBzoZo
+                      original: true
+              punkte: 9
+        "1757":
+          link: http://www.rappers.in/de/VBT2012_DasInsekt-vs-Ironic88_Battle_1757.html
+          teilnehmer:
+            - name: DasInsekt
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/leX1g_B2EVg
+                      original: true
+              punkte: 2
+            - name: Ironic88
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/bS68JPKdyrM
+                      original: true
+              punkte: 9
+        "1758":
+          link: http://www.rappers.in/de/VBT2012_Der+Alki-vs-EL-RAY_Battle_1758.html
+          teilnehmer:
+            - name: Der Alki
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/chKSzYpmsS4
+                      original: true
+              punkte: 6
+            - name: EL-RAY
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/eX-KWm5Soq0
+                      original: true
+              punkte: 5
+        "1759":
+          link: http://www.rappers.in/de/VBT2012_Nikepa-vs-ZaP_Battle_1759.html
+          teilnehmer:
+            - name: Nikepa
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/SQEqwd8hIuA
+                      original: true
+              punkte: 7
+            - name: ZaP
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/f01zJDHT33E
+                      original: true
+              punkte: 3
+        "1760":
+          link: http://www.rappers.in/de/VBT2012_Nikiz-vs-Secref_Battle_1760.html
+          teilnehmer:
+            - name: Nikiz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/_MfhFl6eTgs
+                      original: true
+              punkte: 5
+            - name: Secref
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Rdzoj0dfXD4
+                      original: true
+              punkte: 3
+        "1761":
+          link: http://www.rappers.in/de/VBT2012_Kaart%40D47-vs-Lefiz_Battle_1761.html
+          teilnehmer:
+            - name: Kaart@D47
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/cuiJHjXpzR4
+                      original: true
+              punkte: 3
+            - name: Lefiz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/n6itNErtKUg
+                      original: true
+              punkte: 7
+        "1762":
+          link: http://www.rappers.in/de/VBT2012_bQ1-vs-LZA_Battle_1762.html
+          teilnehmer:
+            - name: bQ1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/jc-Sh6Uu3Mk
+                      original: true
+            - name: LZA
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Rv4NiOae85A
+                      original: true
+              punkte: 8
+        "1763":
+          link: http://www.rappers.in/de/VBT2012_Mio+Mao-vs-Ricordz_Battle_1763.html
+          teilnehmer:
+            - name: Mio Mao
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/CPD19wBXArk
+                      original: true
+              punkte: 11
+            - name: Ricordz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZfoI0bV7-eA
+                      original: true
+              punkte: 3
+        "1764":
+          link: http://www.rappers.in/de/VBT2012_Mojo-vs-Kontra+aka.+Petro_Battle_1764.html
+          teilnehmer:
+            - name: Mojo
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/jJFtzlJdNus
+                      original: true
+              punkte: 1
+            - name: Kontra aka. Petro
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/d4gEla_vAJ0
+                      original: true
+              punkte: 9
+        "1765":
+          link: http://www.rappers.in/de/VBT2012_TRasH-Music-vs-Rellativ_Battle_1765.html
+          teilnehmer:
+            - name: TRasH-Music
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/mPo1nss4qpw
+                      original: true
+              punkte: 2
+            - name: Rellativ
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/i71nplf4FJ8
+                      original: true
+              punkte: 6
+        "1766":
+          link: http://www.rappers.in/de/VBT2012_Mc+Bengio-vs-Mr.1Take_Battle_1766.html
+          teilnehmer:
+            - name: Mc Bengio
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/reFJ24Rh3aw
+                      original: true
+              punkte: 3
+            - name: Mr.1Take
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/74tGYvn4eTE
+                      original: true
+              punkte: 3
+        "1767":
+          link: http://www.rappers.in/de/VBT2012_chazZter-vs-Mzu+demA_Battle_1767.html
+          teilnehmer:
+            - name: chazZter
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6CXAoUny950
+                      original: true
+              punkte: 2
+            - name: Mzu demA
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/z9-Kpjct0zg
+                      original: true
+              punkte: 4
+        "1768":
+          link: http://www.rappers.in/de/VBT2012_Camino-vs-Are%24_STR_Battle_1768.html
+          teilnehmer:
+            - name: Camino
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/TC0uNR-JHhw
+                      original: true
+            - name: Are$_STR
+        "1769":
+          link: http://www.rappers.in/de/VBT2012_BulldosA-vs-BeatBoy_Battle_1769.html
+          teilnehmer:
+            - name: BulldosA
+            - name: BeatBoy
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZcQVd4cHoy4
+                      original: true
+        "1770":
+          link: http://www.rappers.in/de/VBT2012_Mave%21-vs-Kawenzmann_Battle_1770.html
+          teilnehmer:
+            - name: Mave!
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/uX3sjGYuIfU
+                      original: true
+              punkte: 9
+            - name: Kawenzmann
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_yhzjr2i3vE
+                      original: true
+              punkte: 4
+        "1771":
+          link: http://www.rappers.in/de/VBT2012_PadoppelT-vs-Tone-E_Battle_1771.html
+          teilnehmer:
+            - name: PadoppelT
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/tVn-TNWJVlg
+                      original: true
+              punkte: 6
+            - name: Tone-E
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/2E3e2G2sTgU
+                      original: true
+              punkte: 2
+        "1772":
+          link: http://www.rappers.in/de/VBT2012_Aimaxrap-vs-J.Differ%E4nt_Battle_1772.html
+          teilnehmer:
+            - name: Aimaxrap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6tRYGe4LQho
+                      original: true
+              punkte: 2
+            - name: J.Differänt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/thSK0FAlgHg
+                      original: true
+              punkte: 11
+        "1773":
+          link: http://www.rappers.in/de/VBT2012_k.e.v-vs-Donez_Battle_1773.html
+          teilnehmer:
+            - name: k.e.v
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ettuPdEuzOo
+                      original: true
+              punkte: 11
+            - name: Donez
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/0x5ZRAVXxr8
+                      original: true
+              punkte: 1
+        "1774":
+          link: http://www.rappers.in/de/VBT2012_C.A.-vs-JayKa_Battle_1774.html
+          teilnehmer:
+            - name: C.A.
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/OyMscJCOR1Y
+                      original: true
+              punkte: 4
+            - name: JayKa
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/AZU7Rw3VDeg
+                      original: true
+              punkte: 7
+        "1775":
+          link: http://www.rappers.in/de/VBT2012_NavyMC-vs-HappyBeckmann_Battle_1775.html
+          teilnehmer:
+            - name: NavyMC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/0ruv7zwVKv0
+                      original: true
+              punkte: 1
+            - name: HappyBeckmann
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Ac8ABtmPe0g
+                      original: true
+              punkte: 6
+        "1776":
+          link: http://www.rappers.in/de/VBT2012_Chril-vs-Zisar_Battle_1776.html
+          teilnehmer:
+            - name: Chril
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1ezsqRqnbm8
+                      original: true
+            - name: Zisar
+        "1777":
+          link: http://www.rappers.in/de/VBT2012_8Bit-vs-Geist_Battle_1777.html
+          teilnehmer:
+            - name: 8Bit
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/E3_zIn-7oyg
+                      original: true
+              punkte: 1
+            - name: Geist
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/3TPvTLxxhEc
+                      original: true
+              punkte: 12
+        "1778":
+          link: http://www.rappers.in/de/VBT2012_SchwabachSound-vs-Sycess_Battle_1778.html
+          teilnehmer:
+            - name: SchwabachSound
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XJjYYD4jpBg
+                      original: true
+              punkte: 8
+            - name: Sycess
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/6Vfh8_b3Hho
+                      original: true
+              punkte: 3
+        "1779":
+          link: http://www.rappers.in/de/VBT2012_Maestr0-vs-Chahid_Battle_1779.html
+          teilnehmer:
+            - name: Maestr0
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/OKsv1FwFK90
+                      original: true
+            - name: Chahid
+        "1780":
+          link: http://www.rappers.in/de/VBT2012_C-Rider-vs-Kryzzon_Battle_1780.html
+          teilnehmer:
+            - name: C-Rider
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/anXCGLoNLWU
+                      original: true
+              punkte: 7
+            - name: Kryzzon
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Ig7mUtg9o-A
+                      original: true
+              punkte: 4
+        "1781":
+          link: http://www.rappers.in/de/VBT2012_Htodaone-vs-TK+Flow_Battle_1781.html
+          teilnehmer:
+            - name: Htodaone
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4rEErG0QHfo
+                      original: true
+              punkte: 7
+            - name: TK Flow
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/YIek5XDlghc
+                      original: true
+              punkte: 5
+        "1782":
+          link: http://www.rappers.in/de/VBT2012_Da.Niko-vs-Rainer+Nikker_Battle_1782.html
+          teilnehmer:
+            - name: Da.Niko
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/X1RcTBL_q6w
+                      original: true
+              punkte: 6
+            - name: Rainer Nikker
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Qy7Rf-meKBM
+                      original: true
+              punkte: 3
+        "1783":
+          link: http://www.rappers.in/de/VBT2012_ISSOBespoke-vs-Toxygen_Battle_1783.html
+          teilnehmer:
+            - name: ISSOBespoke
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Hslgz6IFMmU
+                      original: true
+              punkte: 6
+            - name: Toxygen
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/y3Kz3Ekeeuk
+                      original: true
+              punkte: 4
+        "1784":
+          link: http://www.rappers.in/de/VBT2012_Stony+Steiner-vs-MC+FaiT_Battle_1784.html
+          teilnehmer:
+            - name: Stony Steiner
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/TFflRae9ebE
+                      original: true
+              punkte: 3
+            - name: MC FaiT
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_UUMtSXd0nM
+                      original: true
+              punkte: 5
+        "1785":
+          link: http://www.rappers.in/de/VBT2012_King+Blizzard-vs-Instead_Battle_1785.html
+          teilnehmer:
+            - name: King Blizzard
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6rlkHGLwTmA
+                      original: true
+              punkte: 1
+            - name: Instead
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/eLLx5z7qmGw
+                      original: true
+              punkte: 11
+        "1786":
+          link: http://www.rappers.in/de/VBT2012_FloW-KinG-vs-Nikolas+Haze_Battle_1786.html
+          teilnehmer:
+            - name: FloW-KinG
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/FCsHy8zt0-w
+                      original: true
+              punkte: 4
+            - name: Nikolas Haze
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/8QR3bH7Qn34
+                      original: true
+              punkte: 8
     zwischenrunde:
       name: Zwischenrunde
       battles:
