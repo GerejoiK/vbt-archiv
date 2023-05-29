@@ -15790,6 +15790,3372 @@ vbt2013:
               punkte: 9
             - name: Balkano
               punkte: 1
+    vorrunde-3:
+      name: Vorrunde 3
+      battles:
+        "5614":
+          link: http://www.rappers.in/de/VBT2013_Duzoe-vs-%24aiko_Battle_5614.html
+          teilnehmer:
+            - name: Duzoe
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/WhpJzIn8WRk
+                      original: true
+              punkte: 12
+            - name: $aiko
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Z5vIrmbwtXA
+                      original: true
+        "5615":
+          link: http://www.rappers.in/de/VBT2013_SpliffTastic-vs-A+zum+O_Battle_5615.html
+          teilnehmer:
+            - name: SpliffTastic
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/sD5u0dJ8mVU
+                      original: true
+              punkte: 12
+            - name: A zum O
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/KxhCWKqBzRw
+                      original: true
+              punkte: 1
+        "5616":
+          link: http://www.rappers.in/de/VBT2013_DirtyMaulwurf-vs-Basssex_Battle_5616.html
+          teilnehmer:
+            - name: DirtyMaulwurf
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4UD4zlVxNTQ
+                      original: true
+              punkte: 8
+            - name: Basssex
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/WIFutS7xwp4
+                      original: true
+              punkte: 1
+        "5617":
+          link: http://www.rappers.in/de/VBT2013_Gio-vs-Cassiel_Battle_5617.html
+          teilnehmer:
+            - name: Gio
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/K8ImKLkJ1co?playlist=yatZe0WQ72g&version=3
+                      original: true
+            - name: Cassiel
+        "5618":
+          link: http://www.rappers.in/de/VBT2013_MczudemTwist-vs-Draw_Battle_5618.html
+          teilnehmer:
+            - name: MczudemTwist
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/pXvb4yBZKoE
+                      original: true
+              punkte: 12
+            - name: Draw
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/xnpEYf9rweY
+                      original: true
+              punkte: 1
+        "5619":
+          link: http://www.rappers.in/de/VBT2013_greeen-vs-lloydsimcoe_Battle_5619.html
+          teilnehmer:
+            - name: greeen
+            - name: lloydsimcoe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: ""
+                      original: true
+        "5620":
+          link: http://www.rappers.in/de/VBT2013_SenseSation-vs-Marcy__Heart_Battle_5620.html
+          teilnehmer:
+            - name: SenseSation
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/QW1yaBKY6z8
+                      original: true
+              punkte: 7
+            - name: Marcy__Heart
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/B9zxrJ-ICwo
+                      original: true
+              punkte: 5
+        "5621":
+          link: http://www.rappers.in/de/VBT2013_PwiePilz-vs-SPNR_Battle_5621.html
+          teilnehmer:
+            - name: PwiePilz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-WaQIE6QeRY
+                      original: true
+              punkte: 12
+            - name: SPNR
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/bILcWNWOSto
+                      original: true
+        "5622":
+          link: http://www.rappers.in/de/VBT2013_249Hoodwatch-vs-SymPath_Battle_5622.html
+          teilnehmer:
+            - name: 249Hoodwatch
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/st8GZJ4_aog
+                      original: true
+              punkte: 7
+            - name: SymPath
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/TEUlDk5HZXA
+                      original: true
+              punkte: 3
+        "5623":
+          link: http://www.rappers.in/de/VBT2013_Winin-vs-100inch_Battle_5623.html
+          teilnehmer:
+            - name: Winin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/GhIO1NKTEwk
+                      original: true
+              punkte: 12
+            - name: 100inch
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/9xDdrWLQ05I
+                      original: true
+              punkte: 2
+        "5624":
+          link: http://www.rappers.in/de/VBT2013_Mave%21-vs-BuLLeTrapmusic_Battle_5624.html
+          teilnehmer:
+            - name: Mave!
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Y-xt8m1qWoM
+                      original: true
+              punkte: 9
+            - name: BuLLeTrapmusic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/3bker0X37co
+                      original: true
+              punkte: 1
+        "5625":
+          link: http://www.rappers.in/de/VBT2013_-LUkE--vs-Castor_Troy_Battle_5625.html
+          teilnehmer:
+            - name: "-LUkE-"
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/tYzHniKwwuk
+                      original: true
+              punkte: 12
+            - name: Castor_Troy
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/CZLeB_xa4iA
+                      original: true
+              punkte: 1
+        "5626":
+          link: http://www.rappers.in/de/VBT2013_Ca%24hIsClay-vs-Einklang_Battle_5626.html
+          teilnehmer:
+            - name: Ca$hIsClay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/MQLP7a7suiY?playlist=sSSF6L8kT0o&version=3
+                      original: true
+            - name: Einklang
+        "5627":
+          link: http://www.rappers.in/de/VBT2013_MoooN-vs-FEEL.ikx_Battle_5627.html
+          teilnehmer:
+            - name: MoooN
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/avMzvIHfPvc?playlist=QsVlEBeWaRs&version=3
+                      original: true
+            - name: FEEL.ikx
+        "5628":
+          link: http://www.rappers.in/de/VBT2013_ME-L+Techrap-vs-KingFrezz1_Battle_5628.html
+          teilnehmer:
+            - name: ME-L Techrap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/vkFGBvo4TZQ
+                      original: true
+              punkte: 11
+            - name: KingFrezz1
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ogUOAZt9CHA
+                      original: true
+        "5629":
+          link: http://www.rappers.in/de/VBT2013_Akfone-vs-Mo+Dizzle_Battle_5629.html
+          teilnehmer:
+            - name: Akfone
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/uXBHTfcXRbo
+                      original: true
+            - name: Mo Dizzle
+        "5630":
+          link: http://www.rappers.in/de/VBT2013_Dima+Richman+-vs-NailaZumPaip_Battle_5630.html
+          teilnehmer:
+            - name: "Dima Richman "
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/zHsUHVXDvms
+                      original: true
+              punkte: 11
+            - name: NailaZumPaip
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/LHLgu11cYVM
+                      original: true
+              punkte: 2
+        "5631":
+          link: http://www.rappers.in/de/VBT2013_GeOT-vs-Nik+Kingston_Battle_5631.html
+          teilnehmer:
+            - name: GeOT
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hAe7mHvUu48
+                      original: true
+              punkte: 10
+            - name: Nik Kingston
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/3I3TZ9ii7gI
+                      original: true
+              punkte: 3
+        "5632":
+          link: http://www.rappers.in/de/VBT2013_Calli-vs-Private+Max_Battle_5632.html
+          teilnehmer:
+            - name: Calli
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/O-lBcHpZ3nE
+                      original: true
+              punkte: 13
+            - name: Private Max
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_I7gpBDaszQ
+                      original: true
+              punkte: 1
+        "5633":
+          link: http://www.rappers.in/de/VBT2013_PRESTONE-vs-P%E4dob%E4rMC_Battle_5633.html
+          teilnehmer:
+            - name: PRESTONE
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hjcdE5vs-a0?playlist=&version=3
+                      original: true
+            - name: P�dob�rMC
+        "5634":
+          link: http://www.rappers.in/de/VBT2013_derdobbo-vs-RapV_Battle_5634.html
+          teilnehmer:
+            - name: derdobbo
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/kucpsmi2DLA
+                      original: true
+              punkte: 14
+            - name: RapV
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Tm7gPhj-2tk
+                      original: true
+        "5635":
+          link: http://www.rappers.in/de/VBT2013_DieterGriffin-vs-RaviX_Battle_5635.html
+          teilnehmer:
+            - name: DieterGriffin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/97Y8Bzzfl5s
+                      original: true
+              punkte: 7
+            - name: RaviX
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/nJH59fzX130
+                      original: true
+        "5636":
+          link: http://www.rappers.in/de/VBT2013_Koma-Jack-vs-Rigo_Battle_5636.html
+          teilnehmer:
+            - name: Koma-Jack
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Hdv3HHLVXb0
+                      original: true
+            - name: Rigo
+        "5637":
+          link: http://www.rappers.in/de/VBT2013_JanniX-vs-Sokaa_Battle_5637.html
+          teilnehmer:
+            - name: JanniX
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/mop3dt9PNTo
+                      original: true
+              punkte: 13
+            - name: Sokaa
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/RzSEpwFG7n0
+                      original: true
+        "5638":
+          link: http://www.rappers.in/de/VBT2013_Beyla-vs-T.G.-Style_Battle_5638.html
+          teilnehmer:
+            - name: Beyla
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/IrAxjApUMZ0
+                      original: true
+              punkte: 8
+            - name: T.G.-Style
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/KQduzv6M1xY
+                      original: true
+              punkte: 3
+        "5639":
+          link: http://www.rappers.in/de/VBT2013_JWGoethe-vs-Aero___Battle_5639.html
+          teilnehmer:
+            - name: JWGoethe
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/D1fz-6WOeOI?playlist=Lx8pgb4praI&version=3
+                      original: true
+            - name: Aero__
+        "5640":
+          link: http://www.rappers.in/de/VBT2013_Vitality+Rap-vs-Azitakkt_Battle_5640.html
+          teilnehmer:
+            - name: Vitality Rap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/78ai4bYU__4
+                      original: true
+              punkte: 7
+            - name: Azitakkt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/XkjfvXtrQPc
+                      original: true
+              punkte: 2
+        "5641":
+          link: http://www.rappers.in/de/VBT2013_Spike__-vs-BulldosA_Battle_5641.html
+          teilnehmer:
+            - name: Spike__
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ybaT73WjlDo
+                      original: true
+            - name: BulldosA
+        "5642":
+          link: http://www.rappers.in/de/VBT2013_Luie-Die-Nadel-vs-C-Jay+One_Battle_5642.html
+          teilnehmer:
+            - name: Luie-Die-Nadel
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/g5HxKEIvtmw
+                      original: true
+              punkte: 9
+            - name: C-Jay One
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/IsMbl16OuXQ
+                      original: true
+        "5643":
+          link: http://www.rappers.in/de/VBT2013_JayKa-vs-Dezz_Battle_5643.html
+          teilnehmer:
+            - name: JayKa
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/0EwEC3nhx6g
+                      original: true
+              punkte: 6
+            - name: Dezz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/PQ42oJYxYlQ
+                      original: true
+              punkte: 7
+        "5644":
+          link: http://www.rappers.in/de/VBT2013_mcd-vs-Dow_Battle_5644.html
+          teilnehmer:
+            - name: mcd
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/v0SguXhKeWY?playlist=8_AQkUjhFaA&version=3
+                      original: true
+            - name: Dow
+        "5645":
+          link: http://www.rappers.in/de/VBT2013_PerpleXX23-vs-Jonnny_Battle_5645.html
+          teilnehmer:
+            - name: PerpleXX23
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ahcVKwSdOis
+                      original: true
+              punkte: 10
+            - name: Jonnny
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/0wTEx2YKC3Q
+                      original: true
+              punkte: 1
+        "5646":
+          link: http://www.rappers.in/de/VBT2013_J.Differ%E4nt-vs-Kaart_Battle_5646.html
+          teilnehmer:
+            - name: J.Differ�nt
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/nuHhH43BMmU
+                      original: true
+              punkte: 14
+            - name: Kaart
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/v0rPuGMOdOI
+                      original: true
+              punkte: 2
+        "5647":
+          link: http://www.rappers.in/de/VBT2013_James+Cook-vs-Kontext_Battle_5647.html
+          teilnehmer:
+            - name: James Cook
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Kontext
+        "5648":
+          link: http://www.rappers.in/de/VBT2013_zartelust-vs-LNB_Battle_5648.html
+          teilnehmer:
+            - name: zartelust
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/FU3FUKE_VMs
+                      original: true
+              punkte: 10
+            - name: LNB
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/a8EtKrKrykQ
+                      original: true
+              punkte: 1
+        "5649":
+          link: http://www.rappers.in/de/VBT2013_KoalaTF-vs-Mc+Dynamic_Battle_5649.html
+          teilnehmer:
+            - name: KoalaTF
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/54dYWA1LtYo
+                      original: true
+              punkte: 9
+            - name: Mc Dynamic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/mXLeu4bzrxo
+                      original: true
+              punkte: 3
+        "5650":
+          link: http://www.rappers.in/de/VBT2013_Graf++Fidi-vs-Mr.Dork_Battle_5650.html
+          teilnehmer:
+            - name: Graf  Fidi
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/mtC9lupBxa0
+                      original: true
+              punkte: 9
+            - name: Mr.Dork
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dlXs4qqpttM
+                      original: true
+              punkte: 7
+        "5651":
+          link: http://www.rappers.in/de/VBT2013_kayayinn-vs-Music_by_Mosaik_Battle_5651.html
+          teilnehmer:
+            - name: kayayinn
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/o1YdxofigRo
+                      original: true
+              punkte: 12
+            - name: Music_by_Mosaik
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/iRyYgbIXYwA
+                      original: true
+        "5652":
+          link: http://www.rappers.in/de/VBT2013_Cengiz-vs-NaizoHFSC_Battle_5652.html
+          teilnehmer:
+            - name: Cengiz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/xAwx2tYr7o0
+                      original: true
+              punkte: 13
+            - name: NaizoHFSC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/JOoasXFt5pg
+                      original: true
+        "5653":
+          link: http://www.rappers.in/de/VBT2013_Casarap-vs-NuKay_Battle_5653.html
+          teilnehmer:
+            - name: Casarap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ICAAoOaSpWM
+                      original: true
+              punkte: 11
+            - name: NuKay
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/lFz_6woUdB0
+                      original: true
+        "5654":
+          link: http://www.rappers.in/de/VBT2013_Tom+Cruised-vs-Pure46_Battle_5654.html
+          teilnehmer:
+            - name: Tom Cruised
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/3SyKCNAeSoU
+                      original: true
+            - name: Pure46
+        "5655":
+          link: http://www.rappers.in/de/VBT2013_EnteTainment-vs-Rap-Tor_Battle_5655.html
+          teilnehmer:
+            - name: EnteTainment
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Rap-Tor
+        "5656":
+          link: http://www.rappers.in/de/VBT2013_Der+SiR++-vs-Raykoe_Battle_5656.html
+          teilnehmer:
+            - name: "Der SiR  "
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/o2LLQB8IcT8
+                      original: true
+              punkte: 12
+            - name: Raykoe
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_0fGmAtMt6g
+                      original: true
+        "5657":
+          link: http://www.rappers.in/de/VBT2013_SouleK_94-vs-SintoX_Battle_5657.html
+          teilnehmer:
+            - name: SouleK_94
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/NViuuCzBUhw
+                      original: true
+              punkte: 12
+            - name: SintoX
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/EAEEE0I8wwQ
+                      original: true
+              punkte: 3
+        "5658":
+          link: http://www.rappers.in/de/VBT2013_Mavel-vs-Souljahs_Battle_5658.html
+          teilnehmer:
+            - name: Mavel
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/h-d6ebqZpKc
+                      original: true
+              punkte: 12
+            - name: Souljahs
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/vEhF_imx18Y
+                      original: true
+              punkte: 2
+        "5659":
+          link: http://www.rappers.in/de/VBT2013_btoung-vs-SPITT-ARR_Battle_5659.html
+          teilnehmer:
+            - name: btoung
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/0N_E1FdEZQA
+                      original: true
+              punkte: 11
+            - name: SPITT-ARR
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/OI1P0PJj2yk
+                      original: true
+              punkte: 4
+        "5660":
+          link: http://www.rappers.in/de/VBT2013_moky-monkey-vs-Syos_Battle_5660.html
+          teilnehmer:
+            - name: moky-monkey
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZI_6TJFN-WA?playlist=RAY2UXMw4m8&version=3
+                      original: true
+            - name: Syos
+        "5661":
+          link: http://www.rappers.in/de/VBT2013_Marc+M%FCller-vs-TraceOffiziell_Battle_5661.html
+          teilnehmer:
+            - name: Marc M�ller
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/JOR-KW8kfbo
+                      original: true
+              punkte: 3
+            - name: TraceOffiziell
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/HQIXCA75IAE
+                      original: true
+              punkte: 5
+        "5662":
+          link: http://www.rappers.in/de/VBT2013_Acou-vs-96SnAi_Battle_5662.html
+          teilnehmer:
+            - name: Acou
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/bpxUz4LTZ7E
+                      original: true
+              punkte: 7
+            - name: 96SnAi
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/G6giVjyhn1I
+                      original: true
+              punkte: 5
+        "5663":
+          link: http://www.rappers.in/de/VBT2013_rian-vs-Aze-TRZ_Battle_5663.html
+          teilnehmer:
+            - name: rian
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4IastUBxhws
+                      original: true
+              punkte: 10
+            - name: Aze-TRZ
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SKg8v_nouqk
+                      original: true
+              punkte: 3
+        "5664":
+          link: http://www.rappers.in/de/VBT2013_Spello-vs-bezudemk_Battle_5664.html
+          teilnehmer:
+            - name: Spello
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/wNCz1TUdX9o
+                      original: true
+              punkte: 7
+            - name: bezudemk
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Up4dDno7rZc
+                      original: true
+              punkte: 8
+        "5665":
+          link: http://www.rappers.in/de/VBT2013_Diverse-vs-Cap+Fluxx_Battle_5665.html
+          teilnehmer:
+            - name: Diverse
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZFbgisWVvgU
+                      original: true
+              punkte: 8
+            - name: Cap Fluxx
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Ym1KR4UfIBM
+                      original: true
+              punkte: 5
+        "5666":
+          link: http://www.rappers.in/de/VBT2013_Altana-vs-Chris+Braun_Battle_5666.html
+          teilnehmer:
+            - name: Altana
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/LAUvUR2QzWY
+                      original: true
+              punkte: 9
+            - name: Chris Braun
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/yADTu09_dmE
+                      original: true
+              punkte: 2
+        "5667":
+          link: http://www.rappers.in/de/VBT2013_Nikiz-vs-CzumH_Battle_5667.html
+          teilnehmer:
+            - name: Nikiz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/76kGcAtPKyU
+                      original: true
+              punkte: 10
+            - name: CzumH
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/B2rM8RZRL7U
+                      original: true
+              punkte: 3
+        "5668":
+          link: http://www.rappers.in/de/VBT2013_MC-Kroete-vs-DefektRap_Battle_5668.html
+          teilnehmer:
+            - name: MC-Kroete
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/rUuxmKgbZ_Q
+                      original: true
+              punkte: 3
+            - name: DefektRap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/vVbPVPa6030
+                      original: true
+              punkte: 3
+        "5669":
+          link: http://www.rappers.in/de/VBT2013_Leram+-vs-Dieser+Ivory_Battle_5669.html
+          teilnehmer:
+            - name: "Leram "
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/NKCxOXsyBFs
+                      original: true
+              punkte: 11
+            - name: Dieser Ivory
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/valBMDzo5_A
+                      original: true
+              punkte: 5
+        "5670":
+          link: http://www.rappers.in/de/VBT2013_Toomb-vs-eMPi_Battle_5670.html
+          teilnehmer:
+            - name: Toomb
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Kkn93vwyI0k
+                      original: true
+              punkte: 8
+            - name: eMPi
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/UWi0TinXUOI
+                      original: true
+              punkte: 3
+        "5671":
+          link: http://www.rappers.in/de/VBT2013_DLG-vs-Fehler11_Battle_5671.html
+          teilnehmer:
+            - name: DLG
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eeaJP4pzBTw
+                      original: true
+              punkte: 9
+            - name: Fehler11
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/906FZhll7fQ
+                      original: true
+              punkte: 3
+        "5672":
+          link: http://www.rappers.in/de/VBT2013_Mr.Waks-vs-FloW-KinG_Battle_5672.html
+          teilnehmer:
+            - name: Mr.Waks
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: FloW-KinG
+        "5673":
+          link: http://www.rappers.in/de/VBT2013_Mikz-vs-Gary+Washington_Battle_5673.html
+          teilnehmer:
+            - name: Mikz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/24q7tJWNXOw
+                      original: true
+              punkte: 8
+            - name: Gary Washington
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Qj5FbwU1Vi8
+                      original: true
+              punkte: 11
+        "5674":
+          link: http://www.rappers.in/de/VBT2013_Tyra-vs-hazelnuss_Battle_5674.html
+          teilnehmer:
+            - name: Tyra
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YuyNxcJpmR8
+                      original: true
+              punkte: 6
+            - name: hazelnuss
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/gd3z1AOPRcg
+                      original: true
+              punkte: 5
+        "5675":
+          link: http://www.rappers.in/de/VBT2013_Aemokay-vs-Huzzla%21_Battle_5675.html
+          teilnehmer:
+            - name: Aemokay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/wnNfklBRHjo
+                      original: true
+              punkte: 10
+            - name: Huzzla!
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZXq50J02SRk
+                      original: true
+              punkte: 2
+        "5676":
+          link: http://www.rappers.in/de/VBT2013_Fuu-vs-Kein+Held_Battle_5676.html
+          teilnehmer:
+            - name: Fuu
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/mg_bBbtqzJM
+                      original: true
+              punkte: 7
+            - name: Kein Held
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/FgC5nBQT5PQ
+                      original: true
+              punkte: 4
+        "5677":
+          link: http://www.rappers.in/de/VBT2013_Fate+One-vs-Le+Hombre_Battle_5677.html
+          teilnehmer:
+            - name: Fate One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ckN_qE12sPw
+                      original: true
+              punkte: 12
+            - name: Le Hombre
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/s8tDyCiHPAU
+                      original: true
+              punkte: 1
+        "5678":
+          link: http://www.rappers.in/de/VBT2013_T-Pri-vs-Lugom_Battle_5678.html
+          teilnehmer:
+            - name: T-Pri
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/r06huxocgmo
+                      original: true
+              punkte: 3
+            - name: Lugom
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/bUMdLa6XLdk
+                      original: true
+              punkte: 5
+        "5679":
+          link: http://www.rappers.in/de/VBT2013_RaMioNRW-vs-Max+Tesla_Battle_5679.html
+          teilnehmer:
+            - name: RaMioNRW
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Max Tesla
+        "5680":
+          link: http://www.rappers.in/de/VBT2013_ProRipper-vs-Merby_Battle_5680.html
+          teilnehmer:
+            - name: ProRipper
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Merby
+        "5681":
+          link: http://www.rappers.in/de/VBT2013_P+TriX-vs-MusicAlban_Battle_5681.html
+          teilnehmer:
+            - name: P TriX
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ozhmJnE26Fc
+                      original: true
+              punkte: 6
+            - name: MusicAlban
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/FKRjVEvpU4U
+                      original: true
+              punkte: 2
+        "5682":
+          link: http://www.rappers.in/de/VBT2013_LZA-vs-NoiyZ_Battle_5682.html
+          teilnehmer:
+            - name: LZA
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: NoiyZ
+        "5683":
+          link: http://www.rappers.in/de/VBT2013_Hendrik+Lamar-vs-oRion_Battle_5683.html
+          teilnehmer:
+            - name: Hendrik Lamar
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: oRion
+        "5684":
+          link: http://www.rappers.in/de/VBT2013_E_Woolv-vs-Plano+Cebo_Battle_5684.html
+          teilnehmer:
+            - name: E_Woolv
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/i8-noPfuVts
+                      original: true
+              punkte: 6
+            - name: Plano Cebo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/vdrxNDxxSTg
+                      original: true
+              punkte: 5
+        "5685":
+          link: http://www.rappers.in/de/VBT2013_SlySer-vs-PRINCEOLLIWHITE_Battle_5685.html
+          teilnehmer:
+            - name: SlySer
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/P3zz9qfsQLQ
+                      original: true
+              punkte: 11
+            - name: PRINCEOLLIWHITE
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/rK5lgnGsl0A
+                      original: true
+              punkte: 1
+        "5686":
+          link: http://www.rappers.in/de/VBT2013_DAN-vs-Qshit_Battle_5686.html
+          teilnehmer:
+            - name: DAN
+            - name: Qshit
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: ""
+                      original: true
+        "5687":
+          link: http://www.rappers.in/de/VBT2013_J.C.+61+aka+YpsilBong-vs-Sener_Battle_5687.html
+          teilnehmer:
+            - name: J.C. 61 aka YpsilBong
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YljtdwPZc2w
+                      original: true
+              punkte: 11
+            - name: Sener
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/hoZN-QRm91c
+                      original: true
+              punkte: 4
+        "5688":
+          link: http://www.rappers.in/de/VBT2013_Toner-vs-Skor1_Battle_5688.html
+          teilnehmer:
+            - name: Toner
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/DDmUx8EXDLI?playlist=R12JSIR38gk&version=3
+                      original: true
+            - name: Skor1
+        "5689":
+          link: http://www.rappers.in/de/VBT2013_Antik-vs-V%E9rit%E9_Battle_5689.html
+          teilnehmer:
+            - name: Antik
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Ia0Xva5wCVo
+                      original: true
+              punkte: 10
+            - name: V�rit�
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/gtFvp1Xnr-8
+                      original: true
+              punkte: 2
+        "5690":
+          link: http://www.rappers.in/de/VBT2013_TODES_RAP-vs-Volkume_Battle_5690.html
+          teilnehmer:
+            - name: TODES_RAP
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/iywF_N6GV2g?playlist=W6qJhG_SnqY&version=3
+                      original: true
+            - name: Volkume
+        "5691":
+          link: http://www.rappers.in/de/VBT2013_Kim+Jong+MoeR-vs-%2AA.V%2A_Battle_5691.html
+          teilnehmer:
+            - name: Kim Jong MoeR
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/R53ah6hpMTE
+                      original: true
+              punkte: 4
+            - name: "*A.V*"
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/-oZ4wuiO0GU
+                      original: true
+              punkte: 7
+        "5692":
+          link: http://www.rappers.in/de/VBT2013_HerrHackschmier2.0-vs-Silas_Battle_5692.html
+          teilnehmer:
+            - name: HerrHackschmier2.0
+            - name: Silas
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: ""
+                      original: true
+        "5693":
+          link: http://www.rappers.in/de/VBT2013_Mavgic-vs-Acis+Daaam+Right_Battle_5693.html
+          teilnehmer:
+            - name: Mavgic
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/MDVcdNOvRRs
+                      original: true
+              punkte: 11
+            - name: Acis Daaam Right
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/GfoYAdrBEdg
+                      original: true
+        "5694":
+          link: http://www.rappers.in/de/VBT2013_Madson-vs-Barracuda_Battle_5694.html
+          teilnehmer:
+            - name: Madson
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/H4bKJ9s76Wg
+                      original: true
+              punkte: 11
+            - name: Barracuda
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/FkNhVT-wkbA
+                      original: true
+              punkte: 4
+        "5695":
+          link: http://www.rappers.in/de/VBT2013_H%F6rflug-vs-Castjel_Battle_5695.html
+          teilnehmer:
+            - name: H�rflug
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2KKOf1ZutMw
+                      original: true
+              punkte: 7
+            - name: Castjel
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/GmClY1y201w
+                      original: true
+        "5696":
+          link: http://www.rappers.in/de/VBT2013_Monte-Rap-vs-Catto_Battle_5696.html
+          teilnehmer:
+            - name: Monte-Rap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/pe-4wzS2m2M
+                      original: true
+              punkte: 10
+            - name: Catto
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/MkUuJ655iIc
+                      original: true
+        "5697":
+          link: http://www.rappers.in/de/VBT2013_McWheelchair-vs-Chrisco%B0_Battle_5697.html
+          teilnehmer:
+            - name: McWheelchair
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/K8V5AkVmuEk
+                      original: true
+              punkte: 10
+            - name: Chrisco�
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/-HLOAkNz4MA
+                      original: true
+              punkte: 4
+        "5698":
+          link: http://www.rappers.in/de/VBT2013_Raptumor-vs-D-fine_Battle_5698.html
+          teilnehmer:
+            - name: Raptumor
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4OZHZgbKLHI
+                      original: true
+              punkte: 10
+            - name: D-fine
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/5gV7fYCTPDE
+                      original: true
+              punkte: 2
+        "5699":
+          link: http://www.rappers.in/de/VBT2013_Erasik-vs-DDS+%28Deutsch+Deformiert+Skurril%29_Battle_5699.html
+          teilnehmer:
+            - name: Erasik
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ncxkTdyRjYc
+                      original: true
+              punkte: 6
+            - name: DDS (Deutsch Deformiert Skurril)
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/oCTkd7JaghE
+                      original: true
+              punkte: 4
+        "5700":
+          link: http://www.rappers.in/de/VBT2013_Zwiebelmusik-vs-Dokkma_Battle_5700.html
+          teilnehmer:
+            - name: Zwiebelmusik
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/u5fF2Euvngs
+                      original: true
+              punkte: 12
+            - name: Dokkma
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/HeYXDrWWirg
+                      original: true
+              punkte: 1
+        "5701":
+          link: http://www.rappers.in/de/VBT2013_Ideal.-vs-E.D.U_Battle_5701.html
+          teilnehmer:
+            - name: Ideal.
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fNEbxo8hTSQ?playlist=xxhIW918EM0&version=3
+                      original: true
+            - name: E.D.U
+        "5702":
+          link: http://www.rappers.in/de/VBT2013_GladiacOneSix-vs-flibmaekk+jermainjones_Battle_5702.html
+          teilnehmer:
+            - name: GladiacOneSix
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: flibmaekk jermainjones
+        "5703":
+          link: http://www.rappers.in/de/VBT2013_FoRD+NoX-vs-Hades_Battle_5703.html
+          teilnehmer:
+            - name: FoRD NoX
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Kh_AtB__AYE
+                      original: true
+              punkte: 4
+            - name: Hades
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/http://m.youtube.com/#/watch?v=9jlapMJo0_g
+                      original: true
+              punkte: 5
+        "5704":
+          link: http://www.rappers.in/de/VBT2013_Oby-vs-HauptsacheMC_Battle_5704.html
+          teilnehmer:
+            - name: Oby
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/sskeZzNqqSk
+                      original: true
+              punkte: 3
+            - name: HauptsacheMC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/l68Ffvl_u4E
+                      original: true
+              punkte: 9
+        "5705":
+          link: http://www.rappers.in/de/VBT2013_EySeven-vs-Jix_Battle_5705.html
+          teilnehmer:
+            - name: EySeven
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/m9Yordw4nHc
+                      original: true
+              punkte: 8
+            - name: Jix
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_daOb4c60Ew
+                      original: true
+              punkte: 3
+        "5706":
+          link: http://www.rappers.in/de/VBT2013_-Sly--vs-kose45_Battle_5706.html
+          teilnehmer:
+            - name: "-Sly-"
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/wmhAkWEsOdY
+                      original: true
+              punkte: 3
+            - name: kose45
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/e7JwOOMtZSI
+                      original: true
+              punkte: 4
+        "5707":
+          link: http://www.rappers.in/de/VBT2013_%21Niemand%21-vs-Leo+Nerd_Battle_5707.html
+          teilnehmer:
+            - name: "!Niemand!"
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/O1la-UClpxk
+                      original: true
+              punkte: 7
+            - name: Leo Nerd
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/pAvp8PHNbBw
+                      original: true
+              punkte: 6
+        "5708":
+          link: http://www.rappers.in/de/VBT2013_wiedu1-vs-mcmike_Battle_5708.html
+          teilnehmer:
+            - name: wiedu1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1XEssoYow-4
+                      original: true
+              punkte: 8
+            - name: mcmike
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/JVW0gbioK6w
+                      original: true
+              punkte: 3
+        "5709":
+          link: http://www.rappers.in/de/VBT2013_opty-vs-MeitiMike_Battle_5709.html
+          teilnehmer:
+            - name: opty
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/xnJGSSHw2yk?playlist=i2nD-tFwSaw&version=3
+                      original: true
+            - name: MeitiMike
+        "5710":
+          link: http://www.rappers.in/de/VBT2013_Kontra+aka.+Kaon-vs-NicE389_Battle_5710.html
+          teilnehmer:
+            - name: Kontra aka. Kaon
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/W6Y6o9PgTW4
+                      original: true
+              punkte: 8
+            - name: NicE389
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/laj4fPSsHAc
+                      original: true
+              punkte: 5
+        "5711":
+          link: http://www.rappers.in/de/VBT2013_sepsis-vs-Nico.Tin_Battle_5711.html
+          teilnehmer:
+            - name: sepsis
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/wgy0PIYbo_o?playlist=0Iu40AxFHEI&version=3
+                      original: true
+            - name: Nico.Tin
+        "5712":
+          link: http://www.rappers.in/de/VBT2013_Syntax-Rap-vs-P-Fist_Battle_5712.html
+          teilnehmer:
+            - name: Syntax-Rap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2k4ulRVoaIY
+                      original: true
+              punkte: 8
+            - name: P-Fist
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/MA2QC61m-GY
+                      original: true
+              punkte: 1
+        "5713":
+          link: http://www.rappers.in/de/VBT2013_Schote_yoa-vs-Prinzip_Battle_5713.html
+          teilnehmer:
+            - name: Schote_yoa
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Yz_M1KK0ofk
+                      original: true
+              punkte: 9
+            - name: Prinzip
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/_c7uVB25OAc
+                      original: true
+              punkte: 5
+        "5714":
+          link: http://www.rappers.in/de/VBT2013_Na+Heast-vs-Rainer+Nikker_Battle_5714.html
+          teilnehmer:
+            - name: Na Heast
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YO5K5U0M8Sg
+                      original: true
+            - name: Rainer Nikker
+        "5715":
+          link: http://www.rappers.in/de/VBT2013_Kennyzle-vs-RaPiT+93_Battle_5715.html
+          teilnehmer:
+            - name: Kennyzle
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/0H7MglbkL-M
+                      original: true
+              punkte: 11
+            - name: RaPiT 93
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/CNkNvGZspYI
+                      original: true
+              punkte: 2
+        "5716":
+          link: http://www.rappers.in/de/VBT2013_k.e.v-vs-Real-K_Battle_5716.html
+          teilnehmer:
+            - name: k.e.v
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/D0NP0MUHCCE?playlist=dvxOhQI0IuQ&version=3
+                      original: true
+            - name: Real-K
+        "5717":
+          link: http://www.rappers.in/de/VBT2013_iFate-vs-Rizep_Battle_5717.html
+          teilnehmer:
+            - name: iFate
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ADYs_R6y5tQ
+                      original: true
+              punkte: 4
+            - name: Rizep
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/1o-YzRMsWiY
+                      original: true
+              punkte: 9
+        "5718":
+          link: http://www.rappers.in/de/VBT2013_Charlie+Sheenbein-vs-Schwedensupport_Battle_5718.html
+          teilnehmer:
+            - name: Charlie Sheenbein
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/i7bNj7_DHNE
+                      original: true
+              punkte: 3
+            - name: Schwedensupport
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/qLvYvQZOnZI
+                      original: true
+              punkte: 9
+        "5719":
+          link: http://www.rappers.in/de/VBT2013_Brian+Diamond-vs-SoundBrettFactory_Battle_5719.html
+          teilnehmer:
+            - name: Brian Diamond
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fExKeNzmKdw
+                      original: true
+            - name: SoundBrettFactory
+        "5720":
+          link: http://www.rappers.in/de/VBT2013_Varit-vs-Tarms_Battle_5720.html
+          teilnehmer:
+            - name: Varit
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Tarms
+        "5721":
+          link: http://www.rappers.in/de/VBT2013_Slevin-vs-TNTDeluxe_Battle_5721.html
+          teilnehmer:
+            - name: Slevin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: TNTDeluxe
+        "5722":
+          link: http://www.rappers.in/de/VBT2013_PrinceT-vs-WhiteOut_Battle_5722.html
+          teilnehmer:
+            - name: PrinceT
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YaDpDqqj03M
+                      original: true
+              punkte: 10
+            - name: WhiteOut
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/m0H6i_HVNQA
+                      original: true
+              punkte: 2
+        "5723":
+          link: http://www.rappers.in/de/VBT2013_MCee+Donald-vs-_white_Battle_5723.html
+          teilnehmer:
+            - name: MCee Donald
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hC7d42J8PE8
+                      original: true
+              punkte: 5
+            - name: _white
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/TsJdASwruOA
+                      original: true
+              punkte: 2
+        "5724":
+          link: http://www.rappers.in/de/VBT2013_DeeLah-vs-...dezat%21_Battle_5724.html
+          teilnehmer:
+            - name: DeeLah
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2S_mOG6h37Q
+                      original: true
+              punkte: 9
+            - name: ...dezat!
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/lSUmDMulN0Q
+                      original: true
+              punkte: 6
+        "5725":
+          link: http://www.rappers.in/de/VBT2013_USO-vs-Avenger_Battle_5725.html
+          teilnehmer:
+            - name: USO
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/M4HgA_l65VM
+                      original: true
+            - name: Avenger
+        "5726":
+          link: http://www.rappers.in/de/VBT2013_JoeL-B-vs-Bugen_Battle_5726.html
+          teilnehmer:
+            - name: JoeL-B
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Bugen
+        "5727":
+          link: http://www.rappers.in/de/VBT2013_jakobi-vs-c.Kretz_Battle_5727.html
+          teilnehmer:
+            - name: jakobi
+            - name: c.Kretz
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: ""
+                      original: true
+        "5728":
+          link: http://www.rappers.in/de/VBT2013_Clean+Maulwurf-vs-Famous._Battle_5728.html
+          teilnehmer:
+            - name: Clean Maulwurf
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/kMd6oFi6Y_E
+                      original: true
+            - name: Famous.
+        "5729":
+          link: http://www.rappers.in/de/VBT2013_Aytee-vs-Frikka_Battle_5729.html
+          teilnehmer:
+            - name: Aytee
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/T7NBv8QPXTs
+                      original: true
+              punkte: 6
+            - name: Frikka
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/7L8rZsHDplk
+                      original: true
+              punkte: 4
+        "5730":
+          link: http://www.rappers.in/de/VBT2013_Yash+aka+Aquila-vs-FRS+aka+Fortis_Battle_5730.html
+          teilnehmer:
+            - name: Yash aka Aquila
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/_MH9WlsnuNg?playlist=FCmWkmmRiSg&version=3
+                      original: true
+            - name: FRS aka Fortis
+        "5731":
+          link: http://www.rappers.in/de/VBT2013_Siriuz-vs-Instead_Battle_5731.html
+          teilnehmer:
+            - name: Siriuz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/vvVc_zaOsJc
+                      original: true
+              punkte: 2
+            - name: Instead
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/EPcZasMIYIk
+                      original: true
+              punkte: 6
+        "5732":
+          link: http://www.rappers.in/de/VBT2013_Porta+One-vs-JohnnyTao_Battle_5732.html
+          teilnehmer:
+            - name: Porta One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/FUdPFDDUe1g
+                      original: true
+              punkte: 10
+            - name: JohnnyTao
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/A8DHp923aa0
+                      original: true
+              punkte: 1
+        "5733":
+          link: http://www.rappers.in/de/VBT2013_Cleptomatic-vs-L-Event_Battle_5733.html
+          teilnehmer:
+            - name: Cleptomatic
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/8CzywmxmDsk
+                      original: true
+              punkte: 9
+            - name: L-Event
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/i-eNq8OMnu4
+                      original: true
+              punkte: 1
+        "5734":
+          link: http://www.rappers.in/de/VBT2013_KOKAofficial-vs-Later+U_Battle_5734.html
+          teilnehmer:
+            - name: KOKAofficial
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Later U
+        "5735":
+          link: http://www.rappers.in/de/VBT2013_K+Win-vs-louhis_Battle_5735.html
+          teilnehmer:
+            - name: K Win
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/B9izbDSUC0E
+                      original: true
+              punkte: 10
+            - name: louhis
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/588SCMydNbc
+                      original: true
+              punkte: 1
+        "5736":
+          link: http://www.rappers.in/de/VBT2013_HuskyOfficial-vs-mr.+duke_Battle_5736.html
+          teilnehmer:
+            - name: HuskyOfficial
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: mr. duke
+        "5737":
+          link: http://www.rappers.in/de/VBT2013_C+M+C-vs-Mr.Kovacs_Battle_5737.html
+          teilnehmer:
+            - name: C M C
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/BvDYTUA2Qtk?playlist=RRIKQ20aBjo&version=3
+                      original: true
+            - name: Mr.Kovacs
+        "5738":
+          link: http://www.rappers.in/de/VBT2013_TALI_JAJAJAOHJA-vs-MtotheC_Battle_5738.html
+          teilnehmer:
+            - name: TALI_JAJAJAOHJA
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/CZCpS3CaA9c
+                      original: true
+              punkte: 4
+            - name: MtotheC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/QlpO8oglRWo
+                      original: true
+              punkte: 4
+        "5739":
+          link: http://www.rappers.in/de/VBT2013_Skitmuzik-vs-Officer+S._Battle_5739.html
+          teilnehmer:
+            - name: Skitmuzik
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Officer S.
+        "5740":
+          link: http://www.rappers.in/de/VBT2013_Plazma-vs-PunchoMusic_Battle_5740.html
+          teilnehmer:
+            - name: Plazma
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2tLTuGAYmlk
+                      original: true
+              punkte: 6
+            - name: PunchoMusic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SqgILrcgwFw
+                      original: true
+              punkte: 5
+        "5741":
+          link: http://www.rappers.in/de/VBT2013_Peat+Pandora+%5BDSK%5D-vs-Sadomoto_Battle_5741.html
+          teilnehmer:
+            - name: Peat Pandora [DSK]
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Sadomoto
+        "5742":
+          link: http://www.rappers.in/de/VBT2013_Mc+Pint-vs-SamsonSimpson_Battle_5742.html
+          teilnehmer:
+            - name: Mc Pint
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/T87jD07S83E
+                      original: true
+              punkte: 8
+            - name: SamsonSimpson
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/U71TWYoVVgg
+                      original: true
+              punkte: 9
+        "5743":
+          link: http://www.rappers.in/de/VBT2013_k%E4ptn+kiste-vs-ScreamVision_Battle_5743.html
+          teilnehmer:
+            - name: k�ptn kiste
+            - name: ScreamVision
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: ""
+                      original: true
+        "5744":
+          link: http://www.rappers.in/de/VBT2013_kex+kuhl-vs-Serious-M_Battle_5744.html
+          teilnehmer:
+            - name: kex kuhl
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/nrMZVGkvEDg?playlist=atBZnm4bsrM&version=3
+                      original: true
+            - name: Serious-M
+        "5745":
+          link: http://www.rappers.in/de/VBT2013_Kennedy-vs-Sin_Battle_5745.html
+          teilnehmer:
+            - name: Kennedy
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hu1QDtT0KDQ
+                      original: true
+            - name: Sin
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/WQPpwtpkOjs
+                      original: true
+              punkte: 9
+        "5746":
+          link: http://www.rappers.in/de/VBT2013_Jenemy.-vs-Skippie_Battle_5746.html
+          teilnehmer:
+            - name: Jenemy.
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Skippie
+        "5747":
+          link: http://www.rappers.in/de/VBT2013_F%FCffi-vs-Teylan_Battle_5747.html
+          teilnehmer:
+            - name: F�ffi
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/kKxnuQcUdag
+                      original: true
+              punkte: 12
+            - name: Teylan
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/rpcykg2FTWw
+                      original: true
+              punkte: 2
+        "5748":
+          link: http://www.rappers.in/de/VBT2013_FlowBird-vs-Warren+Peace_Battle_5748.html
+          teilnehmer:
+            - name: FlowBird
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Warren Peace
+        "5749":
+          link: http://www.rappers.in/de/VBT2013_BlaDesa-vs-AK+Martello_Battle_5749.html
+          teilnehmer:
+            - name: BlaDesa
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: AK Martello
+        "5750":
+          link: http://www.rappers.in/de/VBT2013_bestermann-vs-AlfA_Battle_5750.html
+          teilnehmer:
+            - name: bestermann
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/yzOzwZO_aLk
+                      original: true
+              punkte: 8
+            - name: AlfA
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/zQmlC3TDvcE
+                      original: true
+              punkte: 9
+        "5751":
+          link: http://www.rappers.in/de/VBT2013_TIZE263xo-vs-AnDist_Battle_5751.html
+          teilnehmer:
+            - name: TIZE263xo
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Y2Mj_N8iJdA
+                      original: true
+              punkte: 5
+            - name: AnDist
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/t3jHvY_pVdU
+                      original: true
+              punkte: 4
+        "5752":
+          link: http://www.rappers.in/de/VBT2013_scumgod-vs-Chavez_Battle_5752.html
+          teilnehmer:
+            - name: scumgod
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/i1V7zR7p_0w
+                      original: true
+            - name: Chavez
+        "5753":
+          link: http://www.rappers.in/de/VBT2013_PDH636-vs-DaShit_Battle_5753.html
+          teilnehmer:
+            - name: PDH636
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/AP54dEd_f_s
+                      original: true
+              punkte: 5
+            - name: DaShit
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/6T4e2ivM4b4
+                      original: true
+              punkte: 2
+        "5754":
+          link: http://www.rappers.in/de/VBT2013_e-SAC-e-vs-Dirtysanchez_Battle_5754.html
+          teilnehmer:
+            - name: e-SAC-e
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Dirtysanchez
+        "5755":
+          link: http://www.rappers.in/de/VBT2013_DJ+Marsiv-vs-EinfachMarc_Battle_5755.html
+          teilnehmer:
+            - name: DJ Marsiv
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/H_XNt_XHKD0
+                      original: true
+              punkte: 1
+            - name: EinfachMarc
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Fe6uY6zxRws
+                      original: true
+              punkte: 12
+        "5756":
+          link: http://www.rappers.in/de/VBT2013_Der+Alki-vs-ferrahfowler_Battle_5756.html
+          teilnehmer:
+            - name: Der Alki
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fCDVroNBAE4
+                      original: true
+              punkte: 5
+            - name: ferrahfowler
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/fINPz-JLWQE
+                      original: true
+              punkte: 1
+        "5757":
+          link: http://www.rappers.in/de/VBT2013_chazZter-vs-Fortrackz_Battle_5757.html
+          teilnehmer:
+            - name: chazZter
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/PZYq9yc-2vA
+                      original: true
+            - name: Fortrackz
+        "5758":
+          link: http://www.rappers.in/de/VBT2013_Ceno+Limit-vs-Grizzlee91_Battle_5758.html
+          teilnehmer:
+            - name: Ceno Limit
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/DMgXO6LZSQs
+                      original: true
+            - name: Grizzlee91
+        "5759":
+          link: http://www.rappers.in/de/VBT2013_Under+%28Evaze%29-vs-H%E2msik_Battle_5759.html
+          teilnehmer:
+            - name: Under (Evaze)
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: H�msik
+        "5760":
+          link: http://www.rappers.in/de/VBT2013_sOn1c-One-vs-KeinRaeppa_Battle_5760.html
+          teilnehmer:
+            - name: sOn1c-One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/dTXwOCg9sWU
+                      original: true
+            - name: KeinRaeppa
+        "5761":
+          link: http://www.rappers.in/de/VBT2013_MC+Grinch-vs-Keyvell_Battle_5761.html
+          teilnehmer:
+            - name: MC Grinch
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/WMWiRrbWR1w
+                      original: true
+              punkte: 11
+            - name: Keyvell
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/HL1sD6azq84
+                      original: true
+              punkte: 1
+        "5762":
+          link: http://www.rappers.in/de/VBT2013_Craiso-vs-Killer+Instinkt_Battle_5762.html
+          teilnehmer:
+            - name: Craiso
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2aB1e8Z14gg
+                      original: true
+              punkte: 2
+            - name: Killer Instinkt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/BIjFlVx-wEM
+                      original: true
+              punkte: 7
+        "5763":
+          link: http://www.rappers.in/de/VBT2013_Style.Z-vs-LKR_Battle_5763.html
+          teilnehmer:
+            - name: Style.Z
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/DLz_4CJQfmg
+                      original: true
+              punkte: 9
+            - name: LKR
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/uJutu7cWzHI
+                      original: true
+              punkte: 1
+        "5764":
+          link: http://www.rappers.in/de/VBT2013_Sherlock-vs-Maroo_Battle_5764.html
+          teilnehmer:
+            - name: Sherlock
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/A4npYKjVDPQ
+                      original: true
+              punkte: 6
+            - name: Maroo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/BafGai2ZbP4
+                      original: true
+        "5765":
+          link: http://www.rappers.in/de/VBT2013_Ryot-vs-Mefisto_Battle_5765.html
+          teilnehmer:
+            - name: Ryot
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/3YXKDveb4W0?playlist=b00kBE7Qrkk&version=3
+                      original: true
+            - name: Mefisto
+        "5766":
+          link: http://www.rappers.in/de/VBT2013_PaPa+TR-vs-Nazib_Battle_5766.html
+          teilnehmer:
+            - name: PaPa TR
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/5nWZamWDIC4
+                      original: true
+              punkte: 6
+            - name: Nazib
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/gYMs740xDpM
+                      original: true
+              punkte: 4
+        "5767":
+          link: http://www.rappers.in/de/VBT2013_MarkSign-vs-Nikepa_Battle_5767.html
+          teilnehmer:
+            - name: MarkSign
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Nikepa
+        "5768":
+          link: http://www.rappers.in/de/VBT2013_Jott-Ha-vs-P-Rhyme_Battle_5768.html
+          teilnehmer:
+            - name: Jott-Ha
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Z2OVug6t5AY
+                      original: true
+              punkte: 6
+            - name: P-Rhyme
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/1zWBuzPKiy0
+                      original: true
+              punkte: 6
+        "5769":
+          link: http://www.rappers.in/de/VBT2013_DeeKay-vs-Pacy_Battle_5769.html
+          teilnehmer:
+            - name: DeeKay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2C9YVgxKfbI
+                      original: true
+              punkte: 12
+            - name: Pacy
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/MED6Zaayvmk
+                      original: true
+              punkte: 2
+        "5770":
+          link: http://www.rappers.in/de/VBT2013_D+Tokz-vs-Pol%E4_Battle_5770.html
+          teilnehmer:
+            - name: D Tokz
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/LIHgyWLzMtY
+                      original: true
+              punkte: 5
+            - name: Pol�
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/7YLMm96Wx0U
+                      original: true
+              punkte: 8
+        "5771":
+          link: http://www.rappers.in/de/VBT2013_Cin-vs-Psyman_Battle_5771.html
+          teilnehmer:
+            - name: Cin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/K9NwNbVPPH0?playlist=R7Gt1FJF4lo&version=3
+                      original: true
+            - name: Psyman
+        "5772":
+          link: http://www.rappers.in/de/VBT2013_Chromerap-vs-Raka+87_Battle_5772.html
+          teilnehmer:
+            - name: Chromerap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/E_pWOci7cGU
+                      original: true
+              punkte: 5
+            - name: Raka 87
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/sMhwA3UQjhQ
+                      original: true
+              punkte: 10
+        "5773":
+          link: http://www.rappers.in/de/VBT2013_Big+D+der+King-vs-Rhynir_Battle_5773.html
+          teilnehmer:
+            - name: Big D der King
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/RTDuscagNPc
+                      original: true
+              punkte: 9
+            - name: Rhynir
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SqCWcwi7BiM
+                      original: true
+        "5774":
+          link: http://www.rappers.in/de/VBT2013_Atte187-vs-SwipeMuzik_Battle_5774.html
+          teilnehmer:
+            - name: Atte187
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/p-fc2MERW24
+                      original: true
+              punkte: 12
+            - name: SwipeMuzik
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/5x5Gn1vjVQg
+                      original: true
+              punkte: 5
+        "5775":
+          link: http://www.rappers.in/de/VBT2013_Traube-vs-Vynlash_Battle_5775.html
+          teilnehmer:
+            - name: Traube
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XF1FJJ5zamk
+                      original: true
+              punkte: 8
+            - name: Vynlash
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/wGodJGxOM8Y
+                      original: true
+              punkte: 11
+        "5776":
+          link: http://www.rappers.in/de/VBT2013_Sindbad-vs-Zekktor_Battle_5776.html
+          teilnehmer:
+            - name: Sindbad
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/X7qg1becAbE?playlist=edJSC6IVBS0&version=3
+                      original: true
+            - name: Zekktor
+        "5777":
+          link: http://www.rappers.in/de/VBT2013_Sichel-vs-Zeuge_Battle_5777.html
+          teilnehmer:
+            - name: Sichel
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Zeuge
+        "5778":
+          link: http://www.rappers.in/de/VBT2013_Secref-vs-AlanP+MC_Battle_5778.html
+          teilnehmer:
+            - name: Secref
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/OWCVRdulBbg?playlist=6djd0XpE6xo&version=3
+                      original: true
+            - name: AlanP MC
+        "5779":
+          link: http://www.rappers.in/de/VBT2013_Schierer-vs-Audienzz_Battle_5779.html
+          teilnehmer:
+            - name: Schierer
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Is3qhN3FOTk?playlist=GNzn0XpUqBo&version=3
+                      original: true
+            - name: Audienzz
+        "5780":
+          link: http://www.rappers.in/de/VBT2013_Plural-vs-backi_Battle_5780.html
+          teilnehmer:
+            - name: Plural
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: backi
+        "5781":
+          link: http://www.rappers.in/de/VBT2013_PiMP+T-vs-Blood+G_Battle_5781.html
+          teilnehmer:
+            - name: PiMP T
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Blood G
+        "5782":
+          link: http://www.rappers.in/de/VBT2013_Philipp+Quh-vs-Cripe_Battle_5782.html
+          teilnehmer:
+            - name: Philipp Quh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/FZzojo3G41k?playlist=6Cjojl23_Jg&version=3
+                      original: true
+            - name: Cripe
+        "5783":
+          link: http://www.rappers.in/de/VBT2013_Mysterious+Mofucka-vs-Dare+Devin_Battle_5783.html
+          teilnehmer:
+            - name: Mysterious Mofucka
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/faLOkZabKo4
+                      original: true
+              punkte: 9
+            - name: Dare Devin
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/GDAvfZyDfW8
+                      original: true
+              punkte: 6
+        "5784":
+          link: http://www.rappers.in/de/VBT2013_Henker-vs-DasInsekt_Battle_5784.html
+          teilnehmer:
+            - name: Henker
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/o1mediDmgCE
+                      original: true
+              punkte: 4
+            - name: DasInsekt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/G1Jc6HhtVN0
+                      original: true
+              punkte: 5
+        "5785":
+          link: http://www.rappers.in/de/VBT2013_Ganjirap-vs-Dopplereffekt_Battle_5785.html
+          teilnehmer:
+            - name: Ganjirap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/g_VeQbxyJPM
+                      original: true
+              punkte: 6
+            - name: Dopplereffekt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/853PmMttUoY
+                      original: true
+              punkte: 3
+        "5786":
+          link: http://www.rappers.in/de/VBT2013_Dan+Dutcher-vs-Ek_HeaD_Battle_5786.html
+          teilnehmer:
+            - name: Dan Dutcher
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Ek_HeaD
+        "5787":
+          link: http://www.rappers.in/de/VBT2013_CPE328-vs-Exit_Battle_5787.html
+          teilnehmer:
+            - name: CPE328
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Exit
+        "5788":
+          link: http://www.rappers.in/de/VBT2013_ChroniC-vs-Gro%DFstadtKoalas_Battle_5788.html
+          teilnehmer:
+            - name: ChroniC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZQCoiq6fgXQ?playlist=pUX9ZHGtvJI&version=3
+                      original: true
+            - name: Gro�stadtKoalas
+        "5789":
+          link: http://www.rappers.in/de/VBT2013_Bubblez%B0-vs-Hans+P_Battle_5789.html
+          teilnehmer:
+            - name: Bubblez�
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/oY-Cl2W-vQ0
+                      original: true
+              punkte: 4
+            - name: Hans P
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/yzP_wknuxE8
+                      original: true
+              punkte: 5
+        "5790":
+          link: http://www.rappers.in/de/VBT2013__TJ_-vs-Hira+C_Battle_5790.html
+          teilnehmer:
+            - name: _TJ_
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/LLnr-iBnbg0?playlist=61PnRdp1JVM&version=3
+                      original: true
+            - name: Hira C
+        "5791":
+          link: http://www.rappers.in/de/VBT2013_VLow-vs-IcKeLinHo_Battle_5791.html
+          teilnehmer:
+            - name: VLow
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/TblJO7PiiYo
+                      original: true
+              punkte: 4
+            - name: IcKeLinHo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZJEjU-6rAtA
+                      original: true
+              punkte: 8
+        "5792":
+          link: http://www.rappers.in/de/VBT2013_TalhaMusik-vs-inGAME.rap_Battle_5792.html
+          teilnehmer:
+            - name: TalhaMusik
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/dEVDDxW3AqY
+                      original: true
+              punkte: 8
+            - name: inGAME.rap
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/-15nGkuGlFU
+                      original: true
+        "5793":
+          link: http://www.rappers.in/de/VBT2013_Skudi+One-vs-Jahkuna+Matata_Battle_5793.html
+          teilnehmer:
+            - name: Skudi One
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Er8Xuw73Ck4
+                      original: true
+              punkte: 3
+            - name: Jahkuna Matata
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Tw7EMKottWM
+                      original: true
+              punkte: 9
+        "5794":
+          link: http://www.rappers.in/de/VBT2013_Sinny-vs-Ji-Zi_Battle_5794.html
+          teilnehmer:
+            - name: Sinny
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/oQJP-C8qVyM
+                      original: true
+              punkte: 8
+            - name: Ji-Zi
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dxckM6A74MQ
+                      original: true
+              punkte: 5
+        "5795":
+          link: http://www.rappers.in/de/VBT2013_Pettersson-vs-Kermos_Battle_5795.html
+          teilnehmer:
+            - name: Pettersson
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/GzoQbeMEcww
+                      original: true
+              punkte: 4
+            - name: Kermos
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/J_urBK9BMes
+                      original: true
+              punkte: 6
+        "5796":
+          link: http://www.rappers.in/de/VBT2013_KennyKansas-vs-Killah-D_Battle_5796.html
+          teilnehmer:
+            - name: KennyKansas
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/RvXxB2HO9ys
+                      original: true
+              punkte: 12
+            - name: Killah-D
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/UGMdEsQo5-Q
+                      original: true
+              punkte: 3
+        "5797":
+          link: http://www.rappers.in/de/VBT2013_K-Fly-vs-KingTrack%21_Battle_5797.html
+          teilnehmer:
+            - name: K-Fly
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/L_MWXb6Cd68
+                      original: true
+              punkte: 1
+            - name: KingTrack!
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/wB2j23emWeY
+                      original: true
+              punkte: 8
+        "5798":
+          link: http://www.rappers.in/de/VBT2013_Joe+Zilla-vs-KIZMO_Battle_5798.html
+          teilnehmer:
+            - name: Joe Zilla
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZaEyVAAQTTc
+                      original: true
+              punkte: 8
+            - name: KIZMO
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/-o-UbVLG6xo
+                      original: true
+              punkte: 2
+        "5799":
+          link: http://www.rappers.in/de/VBT2013_Dunkin-vs-KurtCocaine_Battle_5799.html
+          teilnehmer:
+            - name: Dunkin
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/l2geLqZQ6fw
+                      original: true
+              punkte: 6
+            - name: KurtCocaine
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/U3PRjRLOIyI
+                      original: true
+              punkte: 2
+        "5800":
+          link: http://www.rappers.in/de/VBT2013_Donez-vs-LEKofficial_Battle_5800.html
+          teilnehmer:
+            - name: Donez
+            - name: LEKofficial
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: ""
+                      original: true
+        "5801":
+          link: http://www.rappers.in/de/VBT2013_BobbyProto-vs-Nilles_Battle_5801.html
+          teilnehmer:
+            - name: BobbyProto
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/vpMEhhqqKhc
+                      original: true
+              punkte: 3
+            - name: Nilles
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/PzaleTSnrro
+                      original: true
+              punkte: 11
+        "5802":
+          link: http://www.rappers.in/de/VBT2013_Bernd+ohne+Namen-vs-Ossi_Eastborn_Battle_5802.html
+          teilnehmer:
+            - name: Bernd ohne Namen
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/dK5I2AQU0TQ
+                      original: true
+              punkte: 8
+            - name: Ossi_Eastborn
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/x-zJKtWYDQc
+                      original: true
+              punkte: 2
+        "5803":
+          link: http://www.rappers.in/de/VBT2013_B-H%21gh-vs-royaL-_Battle_5803.html
+          teilnehmer:
+            - name: B-H!gh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/89nTnBaOgxQ
+                      original: true
+              punkte: 6
+            - name: royaL-
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/O9G384cncQY
+                      original: true
+              punkte: 5
+        "5804":
+          link: http://www.rappers.in/de/VBT2013_Zufall-vs-ShadowderChabo_Battle_5804.html
+          teilnehmer:
+            - name: Zufall
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/KNCX-T9EB7w
+                      original: true
+              punkte: 3
+            - name: ShadowderChabo
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/FwlxyS3UiJA
+                      original: true
+              punkte: 7
+        "5805":
+          link: http://www.rappers.in/de/VBT2013_trickzZ-vs-SmoothMC_Battle_5805.html
+          teilnehmer:
+            - name: trickzZ
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/afj4GE6-twA?playlist=rWxC4sSiP4U&version=3
+                      original: true
+            - name: SmoothMC
+        "5806":
+          link: http://www.rappers.in/de/VBT2013_Spotlyte-vs-Arrow+S._Battle_5806.html
+          teilnehmer:
+            - name: Spotlyte
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/clmuhtrHJI0
+                      original: true
+            - name: Arrow S.
+        "5807":
+          link: http://www.rappers.in/de/VBT2013_Slender+Man-vs-Besyeah_Battle_5807.html
+          teilnehmer:
+            - name: Slender Man
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: ""
+                      original: true
+            - name: Besyeah
+        "5808":
+          link: http://www.rappers.in/de/VBT2013_SaN-vs-Chrilson_Battle_5808.html
+          teilnehmer:
+            - name: SaN
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6VjZNn8_1Oo
+                      original: true
+              punkte: 2
+            - name: Chrilson
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/oDwhFHCV-fs
+                      original: true
+              punkte: 8
+        "5809":
+          link: http://www.rappers.in/de/VBT2013_pablo01-vs-Cris+Kotzen_Battle_5809.html
+          teilnehmer:
+            - name: pablo01
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6dc8SaH7dBo
+                      original: true
+              punkte: 4
+            - name: Cris Kotzen
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/G5y4v0iBRwU
+                      original: true
+              punkte: 6
+        "5810":
+          link: http://www.rappers.in/de/VBT2013_Mustang-vs-Diodean_Battle_5810.html
+          teilnehmer:
+            - name: Mustang
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/BLFj4XxmPbE
+                      original: true
+            - name: Diodean
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ajX1grPPlCg
+                      original: true
+              punkte: 8
+        "5811":
+          link: http://www.rappers.in/de/VBT2013_Mr+Jake+Jones-vs-FAU_Battle_5811.html
+          teilnehmer:
+            - name: Mr Jake Jones
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Gh-poxezJQs
+                      original: true
+              punkte: 10
+            - name: FAU
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/6YTrPNlaNKg
+                      original: true
+              punkte: 2
+        "5812":
+          link: http://www.rappers.in/de/VBT2013_Mori-vs-Immanuel+Cunt_Battle_5812.html
+          teilnehmer:
+            - name: Mori
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ydf2BAWpRxo
+                      original: true
+              punkte: 4
+            - name: Immanuel Cunt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ePf_RbZSwoE
+                      original: true
+              punkte: 3
+        "5813":
+          link: http://www.rappers.in/de/VBT2013_meelman-vs-juicy+mc_Battle_5813.html
+          teilnehmer:
+            - name: meelman
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/lVKlNG3AkJI
+                      original: true
+              punkte: 8
+            - name: juicy mc
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/E1sQwNR1Kwk
+                      original: true
+              punkte: 9
+        "5814":
+          link: http://www.rappers.in/de/VBT2013_ISSOBespoke-vs-Mick+McMastiff_Battle_5814.html
+          teilnehmer:
+            - name: ISSOBespoke
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Oe3Hq8rbyg8
+                      original: true
+              punkte: 4
+            - name: Mick McMastiff
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/c9Lsk2jooZ8
+                      original: true
+              punkte: 4
+        "5815":
+          link: http://www.rappers.in/de/VBT2013_Incomplete-vs-Micz_Battle_5815.html
+          teilnehmer:
+            - name: Incomplete
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/47hLWywM9sg?playlist=ukDY8EKgiaE&version=3
+                      original: true
+            - name: Micz
+        "5816":
+          link: http://www.rappers.in/de/VBT2013_FzudemOX-vs-MisterOneTake_Battle_5816.html
+          teilnehmer:
+            - name: FzudemOX
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/cEbrcLh0eYc
+                      original: true
+              punkte: 5
+            - name: MisterOneTake
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/WWbakiUGx1o
+                      original: true
+              punkte: 4
+        "5817":
+          link: http://www.rappers.in/de/VBT2013_Eso-vs-Ph%E4nomEn_Battle_5817.html
+          teilnehmer:
+            - name: Eso
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/BJZIZFEhkgY
+                      original: true
+              punkte: 7
+            - name: Ph�nomEn
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/A-5Pg6taBf0
+                      original: true
+              punkte: 8
+        "5818":
+          link: http://www.rappers.in/de/VBT2013_djxcz-vs-rus-t_Battle_5818.html
+          teilnehmer:
+            - name: djxcz
+            - name: rus-t
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: ""
+                      original: true
+        "5819":
+          link: http://www.rappers.in/de/VBT2013_DieserMason-vs-skinny+fit_Battle_5819.html
+          teilnehmer:
+            - name: DieserMason
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/MPRT9TJU9Aw?playlist=eQEpolVDeN8&version=3
+                      original: true
+            - name: skinny fit
+        "5820":
+          link: http://www.rappers.in/de/VBT2013_Castellum-vs-Apoplex_Battle_5820.html
+          teilnehmer:
+            - name: Castellum
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/xjMMnJm2GnI
+                      original: true
+              punkte: 6
+            - name: Apoplex
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Wolag2Kv2hA
+                      original: true
+              punkte: 4
+        "5821":
+          link: http://www.rappers.in/de/VBT2013_Casper+Hight-vs-Ariouzo_Battle_5821.html
+          teilnehmer:
+            - name: Casper Hight
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Zy7Mw6i4sjs?playlist=NoSqGLOXcuQ&version=3
+                      original: true
+            - name: Ariouzo
+        "5822":
+          link: http://www.rappers.in/de/VBT2013_BumB+Le+Petuna-vs-Armando_Battle_5822.html
+          teilnehmer:
+            - name: BumB Le Petuna
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4FM_DUrjnVU
+                      original: true
+              punkte: 13
+            - name: Armando
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/MmLu0Ri9ajc
+                      original: true
+              punkte: 4
+        "5823":
+          link: http://www.rappers.in/de/VBT2013_Benny+Bennson-vs-Artlyrix_Battle_5823.html
+          teilnehmer:
+            - name: Benny Bennson
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/GszI38P9oZM?playlist=paNZoKzVyjc&version=3
+                      original: true
+            - name: Artlyrix
     zwischenrunde:
       name: Zwischenrunde
       battles:
@@ -17321,2952 +20687,6 @@ vbt2013:
                   links:
                     - url: https://youtu.be/6g1oC8PCduQ
                       original: true
-    vorrunde-3:
-      name: Vorrunde 3
-      battles:
-        "5614":
-          - name: Duzoe
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/WhpJzIn8WRk
-                  original: true
-            punkte: 12
-          - name: $aiko
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/Z5vIrmbwtXA
-                  original: true
-        "5615":
-          - name: SpliffTastic
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/sD5u0dJ8mVU
-                  original: true
-            punkte: 12
-          - name: A zum O
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/KxhCWKqBzRw
-                  original: true
-            punkte: 1
-        "5616":
-          - name: DirtyMaulwurf
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/4UD4zlVxNTQ
-                  original: true
-            punkte: 8
-          - name: Basssex
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/WIFutS7xwp4
-                  original: true
-            punkte: 1
-        "5617":
-          - name: Gio
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/K8ImKLkJ1co?playlist=yatZe0WQ72g&version=3
-                  original: true
-          - name: Cassiel
-        "5618":
-          - name: MczudemTwist
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/pXvb4yBZKoE
-                  original: true
-            punkte: 12
-          - name: Draw
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/xnpEYf9rweY
-                  original: true
-            punkte: 1
-        "5619":
-          - name: greeen
-          - name: lloydsimcoe
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: ""
-                  original: true
-        "5620":
-          - name: SenseSation
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/QW1yaBKY6z8
-                  original: true
-            punkte: 7
-          - name: Marcy__Heart
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/B9zxrJ-ICwo
-                  original: true
-            punkte: 5
-        "5621":
-          - name: PwiePilz
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/-WaQIE6QeRY
-                  original: true
-            punkte: 12
-          - name: SPNR
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/bILcWNWOSto
-                  original: true
-        "5622":
-          - name: 249Hoodwatch
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/st8GZJ4_aog
-                  original: true
-            punkte: 7
-          - name: SymPath
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/TEUlDk5HZXA
-                  original: true
-            punkte: 3
-        "5623":
-          - name: Winin
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/GhIO1NKTEwk
-                  original: true
-            punkte: 12
-          - name: 100inch
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/9xDdrWLQ05I
-                  original: true
-            punkte: 2
-        "5624":
-          - name: Mave!
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Y-xt8m1qWoM
-                  original: true
-            punkte: 9
-          - name: BuLLeTrapmusic
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/3bker0X37co
-                  original: true
-            punkte: 1
-        "5625":
-          - name: "-LUkE-"
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/tYzHniKwwuk
-                  original: true
-            punkte: 12
-          - name: Castor_Troy
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/CZLeB_xa4iA
-                  original: true
-            punkte: 1
-        "5626":
-          - name: Ca$hIsClay
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/MQLP7a7suiY?playlist=sSSF6L8kT0o&version=3
-                  original: true
-          - name: Einklang
-        "5627":
-          - name: MoooN
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/avMzvIHfPvc?playlist=QsVlEBeWaRs&version=3
-                  original: true
-          - name: FEEL.ikx
-        "5628":
-          - name: ME-L Techrap
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/vkFGBvo4TZQ
-                  original: true
-            punkte: 11
-          - name: KingFrezz1
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/ogUOAZt9CHA
-                  original: true
-        "5629":
-          - name: Akfone
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/uXBHTfcXRbo
-                  original: true
-          - name: Mo Dizzle
-        "5630":
-          - name: "Dima Richman "
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/zHsUHVXDvms
-                  original: true
-            punkte: 11
-          - name: NailaZumPaip
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/LHLgu11cYVM
-                  original: true
-            punkte: 2
-        "5631":
-          - name: GeOT
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/hAe7mHvUu48
-                  original: true
-            punkte: 10
-          - name: Nik Kingston
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/3I3TZ9ii7gI
-                  original: true
-            punkte: 3
-        "5632":
-          - name: Calli
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/O-lBcHpZ3nE
-                  original: true
-            punkte: 13
-          - name: Private Max
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/_I7gpBDaszQ
-                  original: true
-            punkte: 1
-        "5633":
-          - name: PRESTONE
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/hjcdE5vs-a0?playlist=&version=3
-                  original: true
-          - name: PädobärMC
-        "5634":
-          - name: derdobbo
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/kucpsmi2DLA
-                  original: true
-            punkte: 14
-          - name: RapV
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/Tm7gPhj-2tk
-                  original: true
-        "5635":
-          - name: DieterGriffin
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/97Y8Bzzfl5s
-                  original: true
-            punkte: 7
-          - name: RaviX
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/nJH59fzX130
-                  original: true
-        "5636":
-          - name: Koma-Jack
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Hdv3HHLVXb0
-                  original: true
-          - name: Rigo
-        "5637":
-          - name: JanniX
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/mop3dt9PNTo
-                  original: true
-            punkte: 13
-          - name: Sokaa
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/RzSEpwFG7n0
-                  original: true
-        "5638":
-          - name: Beyla
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/IrAxjApUMZ0
-                  original: true
-            punkte: 8
-          - name: T.G.-Style
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/KQduzv6M1xY
-                  original: true
-            punkte: 3
-        "5639":
-          - name: JWGoethe
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/D1fz-6WOeOI?playlist=Lx8pgb4praI&version=3
-                  original: true
-          - name: Aero__
-        "5640":
-          - name: Vitality Rap
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/78ai4bYU__4
-                  original: true
-            punkte: 7
-          - name: Azitakkt
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/XkjfvXtrQPc
-                  original: true
-            punkte: 2
-        "5641":
-          - name: Spike__
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ybaT73WjlDo
-                  original: true
-          - name: BulldosA
-        "5642":
-          - name: Luie-Die-Nadel
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/g5HxKEIvtmw
-                  original: true
-            punkte: 9
-          - name: C-Jay One
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/IsMbl16OuXQ
-                  original: true
-        "5643":
-          - name: JayKa
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/0EwEC3nhx6g
-                  original: true
-            punkte: 6
-          - name: Dezz
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/PQ42oJYxYlQ
-                  original: true
-            punkte: 7
-        "5644":
-          - name: mcd
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/v0SguXhKeWY?playlist=8_AQkUjhFaA&version=3
-                  original: true
-          - name: Dow
-        "5645":
-          - name: PerpleXX23
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ahcVKwSdOis
-                  original: true
-            punkte: 10
-          - name: Jonnny
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/0wTEx2YKC3Q
-                  original: true
-            punkte: 1
-        "5646":
-          - name: J.Differänt
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/nuHhH43BMmU
-                  original: true
-            punkte: 14
-          - name: Kaart
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/v0rPuGMOdOI
-                  original: true
-            punkte: 2
-        "5647":
-          - name: James Cook
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Kontext
-        "5648":
-          - name: zartelust
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/FU3FUKE_VMs
-                  original: true
-            punkte: 10
-          - name: LNB
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/a8EtKrKrykQ
-                  original: true
-            punkte: 1
-        "5649":
-          - name: KoalaTF
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/54dYWA1LtYo
-                  original: true
-            punkte: 9
-          - name: Mc Dynamic
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/mXLeu4bzrxo
-                  original: true
-            punkte: 3
-        "5650":
-          - name: Graf  Fidi
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/mtC9lupBxa0
-                  original: true
-            punkte: 9
-          - name: Mr.Dork
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/dlXs4qqpttM
-                  original: true
-            punkte: 7
-        "5651":
-          - name: kayayinn
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/o1YdxofigRo
-                  original: true
-            punkte: 12
-          - name: Music_by_Mosaik
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/iRyYgbIXYwA
-                  original: true
-        "5652":
-          - name: Cengiz
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/xAwx2tYr7o0
-                  original: true
-            punkte: 13
-          - name: NaizoHFSC
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/JOoasXFt5pg
-                  original: true
-        "5653":
-          - name: Casarap
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ICAAoOaSpWM
-                  original: true
-            punkte: 11
-          - name: NuKay
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/lFz_6woUdB0
-                  original: true
-        "5654":
-          - name: Tom Cruised
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/3SyKCNAeSoU
-                  original: true
-          - name: Pure46
-        "5655":
-          - name: EnteTainment
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Rap-Tor
-        "5656":
-          - name: "Der SiR  "
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/o2LLQB8IcT8
-                  original: true
-            punkte: 12
-          - name: Raykoe
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/_0fGmAtMt6g
-                  original: true
-        "5657":
-          - name: SouleK_94
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/NViuuCzBUhw
-                  original: true
-            punkte: 12
-          - name: SintoX
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/EAEEE0I8wwQ
-                  original: true
-            punkte: 3
-        "5658":
-          - name: Mavel
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/h-d6ebqZpKc
-                  original: true
-            punkte: 12
-          - name: Souljahs
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/vEhF_imx18Y
-                  original: true
-            punkte: 2
-        "5659":
-          - name: btoung
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/0N_E1FdEZQA
-                  original: true
-            punkte: 11
-          - name: SPITT-ARR
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/OI1P0PJj2yk
-                  original: true
-            punkte: 4
-        "5660":
-          - name: moky-monkey
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ZI_6TJFN-WA?playlist=RAY2UXMw4m8&version=3
-                  original: true
-          - name: Syos
-        "5661":
-          - name: Marc Müller
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/JOR-KW8kfbo
-                  original: true
-            punkte: 3
-          - name: TraceOffiziell
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/HQIXCA75IAE
-                  original: true
-            punkte: 5
-        "5662":
-          - name: Acou
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/bpxUz4LTZ7E
-                  original: true
-            punkte: 7
-          - name: 96SnAi
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/G6giVjyhn1I
-                  original: true
-            punkte: 5
-        "5663":
-          - name: rian
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/4IastUBxhws
-                  original: true
-            punkte: 10
-          - name: Aze-TRZ
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/SKg8v_nouqk
-                  original: true
-            punkte: 3
-        "5664":
-          - name: Spello
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/wNCz1TUdX9o
-                  original: true
-            punkte: 7
-          - name: bezudemk
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/Up4dDno7rZc
-                  original: true
-            punkte: 8
-        "5665":
-          - name: Diverse
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ZFbgisWVvgU
-                  original: true
-            punkte: 8
-          - name: Cap Fluxx
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/Ym1KR4UfIBM
-                  original: true
-            punkte: 5
-        "5666":
-          - name: Altana
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/LAUvUR2QzWY
-                  original: true
-            punkte: 9
-          - name: Chris Braun
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/yADTu09_dmE
-                  original: true
-            punkte: 2
-        "5667":
-          - name: Nikiz
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/76kGcAtPKyU
-                  original: true
-            punkte: 10
-          - name: CzumH
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/B2rM8RZRL7U
-                  original: true
-            punkte: 3
-        "5668":
-          - name: MC-Kroete
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/rUuxmKgbZ_Q
-                  original: true
-            punkte: 3
-          - name: DefektRap
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/vVbPVPa6030
-                  original: true
-            punkte: 3
-        "5669":
-          - name: "Leram "
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/NKCxOXsyBFs
-                  original: true
-            punkte: 11
-          - name: Dieser Ivory
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/valBMDzo5_A
-                  original: true
-            punkte: 5
-        "5670":
-          - name: Toomb
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Kkn93vwyI0k
-                  original: true
-            punkte: 8
-          - name: eMPi
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/UWi0TinXUOI
-                  original: true
-            punkte: 3
-        "5671":
-          - name: DLG
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/eeaJP4pzBTw
-                  original: true
-            punkte: 9
-          - name: Fehler11
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/906FZhll7fQ
-                  original: true
-            punkte: 3
-        "5672":
-          - name: Mr.Waks
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: FloW-KinG
-        "5673":
-          - name: Mikz
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/24q7tJWNXOw
-                  original: true
-            punkte: 8
-          - name: Gary Washington
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/Qj5FbwU1Vi8
-                  original: true
-            punkte: 11
-        "5674":
-          - name: Tyra
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/YuyNxcJpmR8
-                  original: true
-            punkte: 6
-          - name: hazelnuss
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/gd3z1AOPRcg
-                  original: true
-            punkte: 5
-        "5675":
-          - name: Aemokay
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/wnNfklBRHjo
-                  original: true
-            punkte: 10
-          - name: Huzzla!
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/ZXq50J02SRk
-                  original: true
-            punkte: 2
-        "5676":
-          - name: Fuu
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/mg_bBbtqzJM
-                  original: true
-            punkte: 7
-          - name: Kein Held
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/FgC5nBQT5PQ
-                  original: true
-            punkte: 4
-        "5677":
-          - name: Fate One
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ckN_qE12sPw
-                  original: true
-            punkte: 12
-          - name: Le Hombre
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/s8tDyCiHPAU
-                  original: true
-            punkte: 1
-        "5678":
-          - name: T-Pri
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/r06huxocgmo
-                  original: true
-            punkte: 3
-          - name: Lugom
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/bUMdLa6XLdk
-                  original: true
-            punkte: 5
-        "5679":
-          - name: RaMioNRW
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Max Tesla
-        "5680":
-          - name: ProRipper
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Merby
-        "5681":
-          - name: P TriX
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ozhmJnE26Fc
-                  original: true
-            punkte: 6
-          - name: MusicAlban
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/FKRjVEvpU4U
-                  original: true
-            punkte: 2
-        "5682":
-          - name: LZA
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: NoiyZ
-        "5683":
-          - name: Hendrik Lamar
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: oRion
-        "5684":
-          - name: E_Woolv
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/i8-noPfuVts
-                  original: true
-            punkte: 6
-          - name: Plano Cebo
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/vdrxNDxxSTg
-                  original: true
-            punkte: 5
-        "5685":
-          - name: SlySer
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/P3zz9qfsQLQ
-                  original: true
-            punkte: 11
-          - name: PRINCEOLLIWHITE
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/rK5lgnGsl0A
-                  original: true
-            punkte: 1
-        "5686":
-          - name: DAN
-          - name: Qshit
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: ""
-                  original: true
-        "5687":
-          - name: J.C. 61 aka YpsilBong
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/YljtdwPZc2w
-                  original: true
-            punkte: 11
-          - name: Sener
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/hoZN-QRm91c
-                  original: true
-            punkte: 4
-        "5688":
-          - name: Toner
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/DDmUx8EXDLI?playlist=R12JSIR38gk&version=3
-                  original: true
-          - name: Skor1
-        "5689":
-          - name: Antik
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Ia0Xva5wCVo
-                  original: true
-            punkte: 10
-          - name: Vérité
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/gtFvp1Xnr-8
-                  original: true
-            punkte: 2
-        "5690":
-          - name: TODES_RAP
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/iywF_N6GV2g?playlist=W6qJhG_SnqY&version=3
-                  original: true
-          - name: Volkume
-        "5691":
-          - name: Kim Jong MoeR
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/R53ah6hpMTE
-                  original: true
-            punkte: 4
-          - name: "*A.V*"
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/-oZ4wuiO0GU
-                  original: true
-            punkte: 7
-        "5692":
-          - name: HerrHackschmier2.0
-          - name: Silas
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: ""
-                  original: true
-        "5693":
-          - name: Mavgic
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/MDVcdNOvRRs
-                  original: true
-            punkte: 11
-          - name: Acis Daaam Right
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/GfoYAdrBEdg
-                  original: true
-        "5694":
-          - name: Madson
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/H4bKJ9s76Wg
-                  original: true
-            punkte: 11
-          - name: Barracuda
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/FkNhVT-wkbA
-                  original: true
-            punkte: 4
-        "5695":
-          - name: Hörflug
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/2KKOf1ZutMw
-                  original: true
-            punkte: 7
-          - name: Castjel
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/GmClY1y201w
-                  original: true
-        "5696":
-          - name: Monte-Rap
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/pe-4wzS2m2M
-                  original: true
-            punkte: 10
-          - name: Catto
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/MkUuJ655iIc
-                  original: true
-        "5697":
-          - name: McWheelchair
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/K8V5AkVmuEk
-                  original: true
-            punkte: 10
-          - name: Chrisco°
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/-HLOAkNz4MA
-                  original: true
-            punkte: 4
-        "5698":
-          - name: Raptumor
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/4OZHZgbKLHI
-                  original: true
-            punkte: 10
-          - name: D-fine
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/5gV7fYCTPDE
-                  original: true
-            punkte: 2
-        "5699":
-          - name: Erasik
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ncxkTdyRjYc
-                  original: true
-            punkte: 6
-          - name: DDS (Deutsch Deformiert Skurril)
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/oCTkd7JaghE
-                  original: true
-            punkte: 4
-        "5700":
-          - name: Zwiebelmusik
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/u5fF2Euvngs
-                  original: true
-            punkte: 12
-          - name: Dokkma
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/HeYXDrWWirg
-                  original: true
-            punkte: 1
-        "5701":
-          - name: Ideal.
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/fNEbxo8hTSQ?playlist=xxhIW918EM0&version=3
-                  original: true
-          - name: E.D.U
-        "5702":
-          - name: GladiacOneSix
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: flibmaekk jermainjones
-        "5703":
-          - name: FoRD NoX
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Kh_AtB__AYE
-                  original: true
-            punkte: 4
-          - name: Hades
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/http://m.youtube.com/#/watch?v=9jlapMJo0_g
-                  original: true
-            punkte: 5
-        "5704":
-          - name: Oby
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/sskeZzNqqSk
-                  original: true
-            punkte: 3
-          - name: HauptsacheMC
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/l68Ffvl_u4E
-                  original: true
-            punkte: 9
-        "5705":
-          - name: EySeven
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/m9Yordw4nHc
-                  original: true
-            punkte: 8
-          - name: Jix
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/_daOb4c60Ew
-                  original: true
-            punkte: 3
-        "5706":
-          - name: "-Sly-"
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/wmhAkWEsOdY
-                  original: true
-            punkte: 3
-          - name: kose45
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/e7JwOOMtZSI
-                  original: true
-            punkte: 4
-        "5707":
-          - name: "!Niemand!"
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/O1la-UClpxk
-                  original: true
-            punkte: 7
-          - name: Leo Nerd
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/pAvp8PHNbBw
-                  original: true
-            punkte: 6
-        "5708":
-          - name: wiedu1
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/1XEssoYow-4
-                  original: true
-            punkte: 8
-          - name: mcmike
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/JVW0gbioK6w
-                  original: true
-            punkte: 3
-        "5709":
-          - name: opty
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/xnJGSSHw2yk?playlist=i2nD-tFwSaw&version=3
-                  original: true
-          - name: MeitiMike
-        "5710":
-          - name: Kontra aka. Kaon
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/W6Y6o9PgTW4
-                  original: true
-            punkte: 8
-          - name: NicE389
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/laj4fPSsHAc
-                  original: true
-            punkte: 5
-        "5711":
-          - name: sepsis
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/wgy0PIYbo_o?playlist=0Iu40AxFHEI&version=3
-                  original: true
-          - name: Nico.Tin
-        "5712":
-          - name: Syntax-Rap
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/2k4ulRVoaIY
-                  original: true
-            punkte: 8
-          - name: P-Fist
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/MA2QC61m-GY
-                  original: true
-            punkte: 1
-        "5713":
-          - name: Schote_yoa
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Yz_M1KK0ofk
-                  original: true
-            punkte: 9
-          - name: Prinzip
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/_c7uVB25OAc
-                  original: true
-            punkte: 5
-        "5714":
-          - name: Na Heast
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/YO5K5U0M8Sg
-                  original: true
-          - name: Rainer Nikker
-        "5715":
-          - name: Kennyzle
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/0H7MglbkL-M
-                  original: true
-            punkte: 11
-          - name: RaPiT 93
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/CNkNvGZspYI
-                  original: true
-            punkte: 2
-        "5716":
-          - name: k.e.v
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/D0NP0MUHCCE?playlist=dvxOhQI0IuQ&version=3
-                  original: true
-          - name: Real-K
-        "5717":
-          - name: iFate
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ADYs_R6y5tQ
-                  original: true
-            punkte: 4
-          - name: Rizep
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/1o-YzRMsWiY
-                  original: true
-            punkte: 9
-        "5718":
-          - name: Charlie Sheenbein
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/i7bNj7_DHNE
-                  original: true
-            punkte: 3
-          - name: Schwedensupport
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/qLvYvQZOnZI
-                  original: true
-            punkte: 9
-        "5719":
-          - name: Brian Diamond
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/fExKeNzmKdw
-                  original: true
-          - name: SoundBrettFactory
-        "5720":
-          - name: Varit
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Tarms
-        "5721":
-          - name: Slevin
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: TNTDeluxe
-        "5722":
-          - name: PrinceT
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/YaDpDqqj03M
-                  original: true
-            punkte: 10
-          - name: WhiteOut
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/m0H6i_HVNQA
-                  original: true
-            punkte: 2
-        "5723":
-          - name: MCee Donald
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/hC7d42J8PE8
-                  original: true
-            punkte: 5
-          - name: _white
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/TsJdASwruOA
-                  original: true
-            punkte: 2
-        "5724":
-          - name: DeeLah
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/2S_mOG6h37Q
-                  original: true
-            punkte: 9
-          - name: ...dezat!
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/lSUmDMulN0Q
-                  original: true
-            punkte: 6
-        "5725":
-          - name: USO
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/M4HgA_l65VM
-                  original: true
-          - name: Avenger
-        "5726":
-          - name: JoeL-B
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Bugen
-        "5727":
-          - name: jakobi
-          - name: c.Kretz
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: ""
-                  original: true
-        "5728":
-          - name: Clean Maulwurf
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/kMd6oFi6Y_E
-                  original: true
-          - name: Famous.
-        "5729":
-          - name: Aytee
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/T7NBv8QPXTs
-                  original: true
-            punkte: 6
-          - name: Frikka
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/7L8rZsHDplk
-                  original: true
-            punkte: 4
-        "5730":
-          - name: Yash aka Aquila
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/_MH9WlsnuNg?playlist=FCmWkmmRiSg&version=3
-                  original: true
-          - name: FRS aka Fortis
-        "5731":
-          - name: Siriuz
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/vvVc_zaOsJc
-                  original: true
-            punkte: 2
-          - name: Instead
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/EPcZasMIYIk
-                  original: true
-            punkte: 6
-        "5732":
-          - name: Porta One
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/FUdPFDDUe1g
-                  original: true
-            punkte: 10
-          - name: JohnnyTao
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/A8DHp923aa0
-                  original: true
-            punkte: 1
-        "5733":
-          - name: Cleptomatic
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/8CzywmxmDsk
-                  original: true
-            punkte: 9
-          - name: L-Event
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/i-eNq8OMnu4
-                  original: true
-            punkte: 1
-        "5734":
-          - name: KOKAofficial
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Later U
-        "5735":
-          - name: K Win
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/B9izbDSUC0E
-                  original: true
-            punkte: 10
-          - name: louhis
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/588SCMydNbc
-                  original: true
-            punkte: 1
-        "5736":
-          - name: HuskyOfficial
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: mr. duke
-        "5737":
-          - name: C M C
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/BvDYTUA2Qtk?playlist=RRIKQ20aBjo&version=3
-                  original: true
-          - name: Mr.Kovacs
-        "5738":
-          - name: TALI_JAJAJAOHJA
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/CZCpS3CaA9c
-                  original: true
-            punkte: 4
-          - name: MtotheC
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/QlpO8oglRWo
-                  original: true
-            punkte: 4
-        "5739":
-          - name: Skitmuzik
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Officer S.
-        "5740":
-          - name: Plazma
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/2tLTuGAYmlk
-                  original: true
-            punkte: 6
-          - name: PunchoMusic
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/SqgILrcgwFw
-                  original: true
-            punkte: 5
-        "5741":
-          - name: Peat Pandora [DSK]
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Sadomoto
-        "5742":
-          - name: Mc Pint
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/T87jD07S83E
-                  original: true
-            punkte: 8
-          - name: SamsonSimpson
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/U71TWYoVVgg
-                  original: true
-            punkte: 9
-        "5743":
-          - name: käptn kiste
-          - name: ScreamVision
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: ""
-                  original: true
-        "5744":
-          - name: kex kuhl
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/nrMZVGkvEDg?playlist=atBZnm4bsrM&version=3
-                  original: true
-          - name: Serious-M
-        "5745":
-          - name: Kennedy
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/hu1QDtT0KDQ
-                  original: true
-          - name: Sin
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/WQPpwtpkOjs
-                  original: true
-            punkte: 9
-        "5746":
-          - name: Jenemy.
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Skippie
-        "5747":
-          - name: Füffi
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/kKxnuQcUdag
-                  original: true
-            punkte: 12
-          - name: Teylan
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/rpcykg2FTWw
-                  original: true
-            punkte: 2
-        "5748":
-          - name: FlowBird
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Warren Peace
-        "5749":
-          - name: BlaDesa
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: AK Martello
-        "5750":
-          - name: bestermann
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/yzOzwZO_aLk
-                  original: true
-            punkte: 8
-          - name: AlfA
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/zQmlC3TDvcE
-                  original: true
-            punkte: 9
-        "5751":
-          - name: TIZE263xo
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Y2Mj_N8iJdA
-                  original: true
-            punkte: 5
-          - name: AnDist
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/t3jHvY_pVdU
-                  original: true
-            punkte: 4
-        "5752":
-          - name: scumgod
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/i1V7zR7p_0w
-                  original: true
-          - name: Chavez
-        "5753":
-          - name: PDH636
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/AP54dEd_f_s
-                  original: true
-            punkte: 5
-          - name: DaShit
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/6T4e2ivM4b4
-                  original: true
-            punkte: 2
-        "5754":
-          - name: e-SAC-e
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Dirtysanchez
-        "5755":
-          - name: DJ Marsiv
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/H_XNt_XHKD0
-                  original: true
-            punkte: 1
-          - name: EinfachMarc
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/Fe6uY6zxRws
-                  original: true
-            punkte: 12
-        "5756":
-          - name: Der Alki
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/fCDVroNBAE4
-                  original: true
-            punkte: 5
-          - name: ferrahfowler
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/fINPz-JLWQE
-                  original: true
-            punkte: 1
-        "5757":
-          - name: chazZter
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/PZYq9yc-2vA
-                  original: true
-          - name: Fortrackz
-        "5758":
-          - name: Ceno Limit
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/DMgXO6LZSQs
-                  original: true
-          - name: Grizzlee91
-        "5759":
-          - name: Under (Evaze)
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Hâmsik
-        "5760":
-          - name: sOn1c-One
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/dTXwOCg9sWU
-                  original: true
-          - name: KeinRaeppa
-        "5761":
-          - name: MC Grinch
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/WMWiRrbWR1w
-                  original: true
-            punkte: 11
-          - name: Keyvell
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/HL1sD6azq84
-                  original: true
-            punkte: 1
-        "5762":
-          - name: Craiso
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/2aB1e8Z14gg
-                  original: true
-            punkte: 2
-          - name: Killer Instinkt
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/BIjFlVx-wEM
-                  original: true
-            punkte: 7
-        "5763":
-          - name: Style.Z
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/DLz_4CJQfmg
-                  original: true
-            punkte: 9
-          - name: LKR
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/uJutu7cWzHI
-                  original: true
-            punkte: 1
-        "5764":
-          - name: Sherlock
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/A4npYKjVDPQ
-                  original: true
-            punkte: 6
-          - name: Maroo
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/BafGai2ZbP4
-                  original: true
-        "5765":
-          - name: Ryot
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/3YXKDveb4W0?playlist=b00kBE7Qrkk&version=3
-                  original: true
-          - name: Mefisto
-        "5766":
-          - name: PaPa TR
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/5nWZamWDIC4
-                  original: true
-            punkte: 6
-          - name: Nazib
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/gYMs740xDpM
-                  original: true
-            punkte: 4
-        "5767":
-          - name: MarkSign
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Nikepa
-        "5768":
-          - name: Jott-Ha
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Z2OVug6t5AY
-                  original: true
-            punkte: 6
-          - name: P-Rhyme
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/1zWBuzPKiy0
-                  original: true
-            punkte: 6
-        "5769":
-          - name: DeeKay
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/2C9YVgxKfbI
-                  original: true
-            punkte: 12
-          - name: Pacy
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/MED6Zaayvmk
-                  original: true
-            punkte: 2
-        "5770":
-          - name: D Tokz
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/LIHgyWLzMtY
-                  original: true
-            punkte: 5
-          - name: Polä
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/7YLMm96Wx0U
-                  original: true
-            punkte: 8
-        "5771":
-          - name: Cin
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/K9NwNbVPPH0?playlist=R7Gt1FJF4lo&version=3
-                  original: true
-          - name: Psyman
-        "5772":
-          - name: Chromerap
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/E_pWOci7cGU
-                  original: true
-            punkte: 5
-          - name: Raka 87
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/sMhwA3UQjhQ
-                  original: true
-            punkte: 10
-        "5773":
-          - name: Big D der King
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/RTDuscagNPc
-                  original: true
-            punkte: 9
-          - name: Rhynir
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/SqCWcwi7BiM
-                  original: true
-        "5774":
-          - name: Atte187
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/p-fc2MERW24
-                  original: true
-            punkte: 12
-          - name: SwipeMuzik
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/5x5Gn1vjVQg
-                  original: true
-            punkte: 5
-        "5775":
-          - name: Traube
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/XF1FJJ5zamk
-                  original: true
-            punkte: 8
-          - name: Vynlash
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/wGodJGxOM8Y
-                  original: true
-            punkte: 11
-        "5776":
-          - name: Sindbad
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/X7qg1becAbE?playlist=edJSC6IVBS0&version=3
-                  original: true
-          - name: Zekktor
-        "5777":
-          - name: Sichel
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Zeuge
-        "5778":
-          - name: Secref
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/OWCVRdulBbg?playlist=6djd0XpE6xo&version=3
-                  original: true
-          - name: AlanP MC
-        "5779":
-          - name: Schierer
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Is3qhN3FOTk?playlist=GNzn0XpUqBo&version=3
-                  original: true
-          - name: Audienzz
-        "5780":
-          - name: Plural
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: backi
-        "5781":
-          - name: PiMP T
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Blood G
-        "5782":
-          - name: Philipp Quh
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/FZzojo3G41k?playlist=6Cjojl23_Jg&version=3
-                  original: true
-          - name: Cripe
-        "5783":
-          - name: Mysterious Mofucka
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/faLOkZabKo4
-                  original: true
-            punkte: 9
-          - name: Dare Devin
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/GDAvfZyDfW8
-                  original: true
-            punkte: 6
-        "5784":
-          - name: Henker
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/o1mediDmgCE
-                  original: true
-            punkte: 4
-          - name: DasInsekt
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/G1Jc6HhtVN0
-                  original: true
-            punkte: 5
-        "5785":
-          - name: Ganjirap
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/g_VeQbxyJPM
-                  original: true
-            punkte: 6
-          - name: Dopplereffekt
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/853PmMttUoY
-                  original: true
-            punkte: 3
-        "5786":
-          - name: Dan Dutcher
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Ek_HeaD
-        "5787":
-          - name: CPE328
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Exit
-        "5788":
-          - name: ChroniC
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ZQCoiq6fgXQ?playlist=pUX9ZHGtvJI&version=3
-                  original: true
-          - name: GroßstadtKoalas
-        "5789":
-          - name: Bubblez°
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/oY-Cl2W-vQ0
-                  original: true
-            punkte: 4
-          - name: Hans P
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/yzP_wknuxE8
-                  original: true
-            punkte: 5
-        "5790":
-          - name: _TJ_
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/LLnr-iBnbg0?playlist=61PnRdp1JVM&version=3
-                  original: true
-          - name: Hira C
-        "5791":
-          - name: VLow
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/TblJO7PiiYo
-                  original: true
-            punkte: 4
-          - name: IcKeLinHo
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/ZJEjU-6rAtA
-                  original: true
-            punkte: 8
-        "5792":
-          - name: TalhaMusik
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/dEVDDxW3AqY
-                  original: true
-            punkte: 8
-          - name: inGAME.rap
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/-15nGkuGlFU
-                  original: true
-        "5793":
-          - name: Skudi One
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Er8Xuw73Ck4
-                  original: true
-            punkte: 3
-          - name: Jahkuna Matata
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/Tw7EMKottWM
-                  original: true
-            punkte: 9
-        "5794":
-          - name: Sinny
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/oQJP-C8qVyM
-                  original: true
-            punkte: 8
-          - name: Ji-Zi
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/dxckM6A74MQ
-                  original: true
-            punkte: 5
-        "5795":
-          - name: Pettersson
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/GzoQbeMEcww
-                  original: true
-            punkte: 4
-          - name: Kermos
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/J_urBK9BMes
-                  original: true
-            punkte: 6
-        "5796":
-          - name: KennyKansas
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/RvXxB2HO9ys
-                  original: true
-            punkte: 12
-          - name: Killah-D
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/UGMdEsQo5-Q
-                  original: true
-            punkte: 3
-        "5797":
-          - name: K-Fly
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/L_MWXb6Cd68
-                  original: true
-            punkte: 1
-          - name: KingTrack!
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/wB2j23emWeY
-                  original: true
-            punkte: 8
-        "5798":
-          - name: Joe Zilla
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ZaEyVAAQTTc
-                  original: true
-            punkte: 8
-          - name: KIZMO
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/-o-UbVLG6xo
-                  original: true
-            punkte: 2
-        "5799":
-          - name: Dunkin
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/l2geLqZQ6fw
-                  original: true
-            punkte: 6
-          - name: KurtCocaine
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/U3PRjRLOIyI
-                  original: true
-            punkte: 2
-        "5800":
-          - name: Donez
-          - name: LEKofficial
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: ""
-                  original: true
-        "5801":
-          - name: BobbyProto
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/vpMEhhqqKhc
-                  original: true
-            punkte: 3
-          - name: Nilles
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/PzaleTSnrro
-                  original: true
-            punkte: 11
-        "5802":
-          - name: Bernd ohne Namen
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/dK5I2AQU0TQ
-                  original: true
-            punkte: 8
-          - name: Ossi_Eastborn
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/x-zJKtWYDQc
-                  original: true
-            punkte: 2
-        "5803":
-          - name: B-H!gh
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/89nTnBaOgxQ
-                  original: true
-            punkte: 6
-          - name: royaL-
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/O9G384cncQY
-                  original: true
-            punkte: 5
-        "5804":
-          - name: Zufall
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/KNCX-T9EB7w
-                  original: true
-            punkte: 3
-          - name: ShadowderChabo
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/FwlxyS3UiJA
-                  original: true
-            punkte: 7
-        "5805":
-          - name: trickzZ
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/afj4GE6-twA?playlist=rWxC4sSiP4U&version=3
-                  original: true
-          - name: SmoothMC
-        "5806":
-          - name: Spotlyte
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/clmuhtrHJI0
-                  original: true
-          - name: Arrow S.
-        "5807":
-          - name: Slender Man
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: ""
-                  original: true
-          - name: Besyeah
-        "5808":
-          - name: SaN
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/6VjZNn8_1Oo
-                  original: true
-            punkte: 2
-          - name: Chrilson
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/oDwhFHCV-fs
-                  original: true
-            punkte: 8
-        "5809":
-          - name: pablo01
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/6dc8SaH7dBo
-                  original: true
-            punkte: 4
-          - name: Cris Kotzen
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/G5y4v0iBRwU
-                  original: true
-            punkte: 6
-        "5810":
-          - name: Mustang
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/BLFj4XxmPbE
-                  original: true
-          - name: Diodean
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/ajX1grPPlCg
-                  original: true
-            punkte: 8
-        "5811":
-          - name: Mr Jake Jones
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Gh-poxezJQs
-                  original: true
-            punkte: 10
-          - name: FAU
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/6YTrPNlaNKg
-                  original: true
-            punkte: 2
-        "5812":
-          - name: Mori
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/ydf2BAWpRxo
-                  original: true
-            punkte: 4
-          - name: Immanuel Cunt
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/ePf_RbZSwoE
-                  original: true
-            punkte: 3
-        "5813":
-          - name: meelman
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/lVKlNG3AkJI
-                  original: true
-            punkte: 8
-          - name: juicy mc
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/E1sQwNR1Kwk
-                  original: true
-            punkte: 9
-        "5814":
-          - name: ISSOBespoke
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Oe3Hq8rbyg8
-                  original: true
-            punkte: 4
-          - name: Mick McMastiff
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/c9Lsk2jooZ8
-                  original: true
-            punkte: 4
-        "5815":
-          - name: Incomplete
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/47hLWywM9sg?playlist=ukDY8EKgiaE&version=3
-                  original: true
-          - name: Micz
-        "5816":
-          - name: FzudemOX
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/cEbrcLh0eYc
-                  original: true
-            punkte: 5
-          - name: MisterOneTake
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/WWbakiUGx1o
-                  original: true
-            punkte: 4
-        "5817":
-          - name: Eso
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/BJZIZFEhkgY
-                  original: true
-            punkte: 7
-          - name: PhänomEn
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/A-5Pg6taBf0
-                  original: true
-            punkte: 8
-        "5818":
-          - name: djxcz
-          - name: rus-t
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: ""
-                  original: true
-        "5819":
-          - name: DieserMason
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/MPRT9TJU9Aw?playlist=eQEpolVDeN8&version=3
-                  original: true
-          - name: skinny fit
-        "5820":
-          - name: Castellum
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/xjMMnJm2GnI
-                  original: true
-            punkte: 6
-          - name: Apoplex
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/Wolag2Kv2hA
-                  original: true
-            punkte: 4
-        "5821":
-          - name: Casper Hight
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/Zy7Mw6i4sjs?playlist=NoSqGLOXcuQ&version=3
-                  original: true
-          - name: Ariouzo
-        "5822":
-          - name: BumB Le Petuna
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/4FM_DUrjnVU
-                  original: true
-            punkte: 13
-          - name: Armando
-            runden:
-              hr2:
-                name: HR2
-                links:
-                  url: https://youtu.be/MmLu0Ri9ajc
-                  original: true
-            punkte: 4
-        "5823":
-          - name: Benny Bennson
-            runden:
-              hr1:
-                name: HR1
-                links:
-                  url: https://youtu.be/GszI38P9oZM?playlist=paNZoKzVyjc&version=3
-                  original: true
-          - name: Artlyrix
     64stel:
       name: 64stel
       battles:
