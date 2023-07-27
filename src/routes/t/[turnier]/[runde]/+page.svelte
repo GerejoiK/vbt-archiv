@@ -64,8 +64,12 @@
 
 	table {
 		width: 100%;
+		table-layout: fixed;
 	}
 	td {
 		text-align: center;
+	}
+	td:nth-child(2) {
+		width: 20%;
 	}
 </style>
