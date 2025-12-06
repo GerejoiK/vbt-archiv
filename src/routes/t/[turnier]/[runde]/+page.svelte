@@ -24,33 +24,35 @@
 <h1>{battles.parents.at(-1).value.name}</h1>
 <nav>
 	<table>
-		{#each Object.entries(battles.value) as [id, battle]}
-			<tr>
-				<td class={getColor(battle)[0]}
-					>{battle.teilnehmer[0].name}
-					<br />
-					{#if battle.teilnehmer[0]?.runden}
-						{#each Object.values(battle.teilnehmer[0].runden) as runde}
-							<a href={runde.links[0].url}>{runde.name}</a>&nbsp;
-						{/each}
-					{/if}
-				</td>
-				<td
-					><a href="/t/{$page.params.turnier}/{$page.params.runde}/{id}"
-						>vs.<br />{battle.teilnehmer.map(e => e?.punkte || 0).join(":")}</a
-					></td
-				>
-				<td class={getColor(battle)[1]}
-					>{battle.teilnehmer[1].name}
-					<br />
-					{#if battle.teilnehmer[1]?.runden}
-						{#each Object.values(battle.teilnehmer[1]?.runden) as runde}
-							<a href={runde.links[0].url}>{runde.name}</a>&nbsp;
-						{/each}
-					{/if}</td
-				>
-			</tr>
-		{/each}
+		<tbody>
+			{#each Object.entries(battles.value) as [id, battle]}
+				<tr>
+					<td class={getColor(battle)[0]}
+						>{battle.teilnehmer[0].name}
+						<br />
+						{#if battle.teilnehmer[0]?.runden}
+							{#each Object.values(battle.teilnehmer[0].runden) as runde}
+								<a href={runde.links[0].url}>{runde.name}</a>&nbsp;
+							{/each}
+						{/if}
+					</td>
+					<td
+						><a href="/t/{$page.params.turnier}/{$page.params.runde}/{id}"
+							>vs.<br />{battle.teilnehmer.map(e => e?.punkte || 0).join(":")}</a
+						></td
+					>
+					<td class={getColor(battle)[1]}
+						>{battle.teilnehmer[1].name}
+						<br />
+						{#if battle.teilnehmer[1]?.runden}
+							{#each Object.values(battle.teilnehmer[1]?.runden) as runde}
+								<a href={runde.links[0].url}>{runde.name}</a>&nbsp;
+							{/each}
+						{/if}</td
+					>
+				</tr>
+			{/each}
+		</tbody>
 	</table>
 </nav>
 

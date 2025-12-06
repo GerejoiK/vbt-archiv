@@ -11,9 +11,3 @@
 		<img alt="GitHub" src="/github.svg" />
 	</a>
 </p>
-<p>
-	Entwickelt mit:<br />
-	<a href="https://kit.svelte.dev/">
-		<img alt="SvelteKit" src="/sveltekit.svg" />
-	</a>
-</p>

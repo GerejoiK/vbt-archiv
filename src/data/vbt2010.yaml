@@ -1066,7 +1066,7 @@ vbt2010:
                   name: HR2
                   links:
                     - url: >-
-                        https://youtu.be/cUNP79PE7XM&playnext_from=TL&videos=2isXtYmXq8E&feature=recentu
+                        https://youtu.be/cUNP79PE7XM&playnext_from=TL&videos=2isXtYmXq8E
                       original: true
                   beats:
                     - name: >-
@@ -1213,7 +1213,7 @@ vbt2010:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/_tLadWR9h_8&fmt=22
+                    - url: https://youtu.be/_tLadWR9h_8
                       original: true
                   beats:
                     - name: SpecialBeatForce - StreetLife (16 Bars)
@@ -2629,7 +2629,7 @@ vbt2010:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/cWsmly81fBo&feature=channel
+                    - url: https://youtu.be/cWsmly81fBo
                       original: true
                   beats:
                     - name: >-
@@ -7025,7 +7025,7 @@ vbt2010:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/bga3KiUmoag&fmt=22
+                    - url: https://youtu.be/bga3KiUmoag
                       original: true
                   beats:
                     - name: shizofred - kabooombanger dings
@@ -7652,7 +7652,7 @@ vbt2010:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/7YvP5IaKI_Y&fmt=18
+                    - url: https://youtu.be/7YvP5IaKI_Y
                       original: true
                   beats:
                     - name: Mpire - Feel it
@@ -8604,7 +8604,7 @@ vbt2010:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/eCYBsPJsTFk&fmt=18
+                    - url: https://youtu.be/eCYBsPJsTFk
                       original: true
                   beats:
                     - name: Criizz-Beatz - Endlevel / VBT Nr. 3
@@ -10377,7 +10377,7 @@ vbt2010:
                 rr2:
                   name: RR2
                   links:
-                    - url: https://youtu.be/-eStElfaeVI&feature=recentu
+                    - url: https://youtu.be/-eStElfaeVI
                       original: true
             - name: FloW-KiNG
               punkte: 6
@@ -10420,7 +10420,7 @@ vbt2010:
                 rr2:
                   name: RR2
                   links:
-                    - url: https://youtu.be/OUXeYDrwvfA&feature=channel
+                    - url: https://youtu.be/OUXeYDrwvfA
                       original: true
             - name: GeOT
               punkte: 31
