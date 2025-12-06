@@ -1,6 +1,6 @@
 <p>Ein nach Vollständigkeit strebendes Archiv aller Videobattleturniere.</p>
 <p>
-	Der Quellcode ist frei verfügbar und Pubilc Domain.<br />
+	Der Quellcode ist frei verfügbar und Public Domain.<br />
 	<a href="https://github.com/gerejoik/vbt-archiv/blob/master/LICENSE">
 		<img alt="Unlicense" src="/license.svg" />
 	</a>
