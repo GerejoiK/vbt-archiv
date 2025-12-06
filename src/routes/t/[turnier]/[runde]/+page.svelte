@@ -38,7 +38,9 @@
 					</td>
 					<td
 						><a href="/t/{$page.params.turnier}/{$page.params.runde}/{id}"
-							>vs.<br />{battle.teilnehmer.map(e => e?.punkte || 0).join(":")}</a
+							>vs.<br />{battle.teilnehmer.map(e => e?.punkte || 0).join(":") !== "0:0"
+								? battle.teilnehmer.map(e => e?.punkte || 0).join(":")
+								: ""}</a
 						></td
 					>
 					<td class={getColor(battle)[1]}

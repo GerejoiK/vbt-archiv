@@ -1,0 +1,391 @@
+vcb2012:
+  name: VCB 2012
+  veranstalter: Stoney Styles
+  runden:
+    achtelfinale:
+      name: Achtelfinale
+      battles:
+        1:
+          teilnehmer:
+            - name: Rosa Rand Gang
+              punkte: 1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/QX5o2V_5lfc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/cTQQwbxUjQQ
+                      original: true
+            - name: SML
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Sk5Vp-UwthM
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/B4KC2WvWQcY
+                      original: true
+        2:
+          link: http://www.stoney-styles.de/vcb/8tel_plot_tf.htm
+          teilnehmer:
+            - name: Der Plot
+              punkte: 510
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/yELTra0HjN8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/5ViOGBoNp5g
+                      original: true
+            - name: Trill Fingaz
+              punkte: 268
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/QwAh74ts5Uo
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/8bZFUCpbCmM
+                      original: true
+        3:
+          link: http://www.stoney-styles.de/vcb/8tel_bvt_esta.htm
+          teilnehmer:
+            - name: Bestes von Town (BVT)
+              punkte: 329
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/5waRdlGzxuM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/TbtSJuooSzQ
+                      original: true
+            - name: EstA & MCTwist
+              punkte: 315
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kTEJzPbqqZE
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/cP1Sq0ovwaU
+                      original: true
+        4:
+          link: http://www.stoney-styles.de/vcb/8tel_gws_rf.htm
+          teilnehmer:
+            - name: Geil Wie Sau Entertainment
+              punkte: 384
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/KGNEpzH28g4
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Dek5bPy4XCk
+                      original: true
+            - name: Royal Family
+              punkte: 449
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/y1SrrRRB6IM
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/lyao9c8cgHc
+                      original: true
+        5:
+          teilnehmer:
+            - name: Smoove Attack
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/aYPFB3LV_RY
+                      original: true
+            - name: nark & klomann
+        6:
+          link: http://www.stoney-styles.de/vcb/8tel_wvpb_ct.htm
+          teilnehmer:
+            - name: Wir vom Prenzlauer Berg
+              punkte: 349
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/RsT0-5zo9o8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/spHa1D6Cha0
+                      original: true
+            - name: complex & toomb
+              punkte: 342
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/5KTZfS_G1hM
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/692wuI6QmVY
+                      original: true
+        7:
+          teilnehmer:
+            - name: Underdogs
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/9ckeKo-RduY
+                      original: true
+            - name: eypro
+        8:
+          link: http://www.stoney-styles.de/vcb/8tel_msmd_rb.htm
+          teilnehmer:
+            - name: Monkey See Monkey Do
+              punkte: 228
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/H-QQtw0jyqo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/GIir5Hd1LuA
+                      original: true
+            - name: Reimebude
+              punkte: 272
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/JRi0nKmtCUs
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/T9R5kzje_Tc
+                      original: true
+    viertelfinale:
+      name: Viertelfinale
+      battles:
+        1:
+          link: http://www.stoney-styles.de/vcb/4tel_rrg_bvt.htm
+          teilnehmer:
+            - name: Bestes von Town (BVT)
+              punkte: 407
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fju1xACfg-4
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/UjHSEixnfmk
+                      original: true
+            - name: Rosa Rand Gang
+              punkte: 468
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kJFxUzYKeOQ
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/vVh7jOygqqc
+                      original: true
+        2:
+          link: http://www.stoney-styles.de/vcb/4tel_plot_rb.htm
+          teilnehmer:
+            - name: Der Plot
+              punkte: 684
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Rk5BRvOQUq8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/OWwm19zBwdE
+                      original: true
+            - name: Reimebude
+              punkte: 535
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/n6HegLE1Els
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/or9hwvXPMAk
+                      original: true
+        3:
+          link: http://www.stoney-styles.de/vcb/4tel_underdogs_rf.htm
+          teilnehmer:
+            - name: Royal Family
+              punkte: 598
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/GFZKE4tX7ds
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/5Kbwzq_dcJE
+                      original: true
+            - name: Underdogs
+              punkte: 223
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/qDkrFyDXfPk
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/PteECpygYjk
+                      original: true
+        4:
+          link: http://www.stoney-styles.de/vcb/4tel_smove_wvpb.htm
+          teilnehmer:
+            - name: Wir vom Prenzlauer Berg
+              punkte: 454
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/fGwq3Zn1hHk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/tChxI7itG0g
+                      original: true
+            - name: Smoove Attack
+              punkte: 327
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Cbf7st3_CpM
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/nFxTKnIUzAU
+                      original: true
+    halbfinale:
+      name: Halbfinale
+      battles:
+        1:
+          link: http://www.stoney-styles.de/vcb/hf_plot_rrg.htm
+          teilnehmer:
+            - name: Der Plot
+              punkte: 574
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/UmKPeGKE5o0
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/lCaf8WfC_sQ
+                      original: true
+            - name: Rosa Rand Gang
+              punkte: 471
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Lg8CFxUNAuA
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/nuLOrc0jBiI
+                      original: true
+        2:
+          teilnehmer:
+            - name: Royal Family
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/95zDuBf_oIk
+                      original: true
+            - name: Wir vom Prenzlauer Berg
+    finale:
+      name: Finale
+      battles:
+        1:
+          teilnehmer:
+            - name: Der Plot
+              punkte: 797
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/X-Ycoont61w
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/9AagZ_h5adU
+                      original: true
+            - name: Royal Family
+              punkte: 712
+              runden:
+                hr1:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/TZz92a5BfJE
+                      original: true
+                rr2:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/x8zFEdznwKU
+                      original: true
