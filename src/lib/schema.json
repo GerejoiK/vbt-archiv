@@ -37,7 +37,11 @@
 									"additionalProperties": false,
 									"properties": {
 										"link": {
-											"description": "Offizieller Link zu dem Battle",
+											"description": "Offizieller Link zum Battle",
+											"type": "string"
+										},
+										"thread": {
+											"description": "Offizieller Thread zum Battle",
 											"type": "string"
 										},
 										"teilnehmer": {

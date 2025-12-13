@@ -1,0 +1,1969 @@
+vbt2008:
+  name: VBT 2008
+  veranstalter: rappers.in
+  runden:
+    vorrunde:
+      name: Vorrunde
+      battles:
+        49727:
+          thread: https://forum.rappers.in/index.php?thread/49727-vbt08-vr-ly-vs-cashonly/
+          teilnehmer:
+            - name: $ly
+            - name: CashOnly
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/-PWlSO_oLfg
+                      original: true
+        49728:
+          thread: https://forum.rappers.in/index.php?thread/49728-vbt08-vr-coretex-vs-pumpking/
+          teilnehmer:
+            - name: CoreteX
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/btVAkxd14tE
+                      original: true
+            - name: Pumpking
+        49729:
+          thread: https://forum.rappers.in/index.php?thread/49729-vbt08-vr-chellah-vs-dez-t/
+          teilnehmer:
+            - name: Chellah
+            - name: DeZ-T
+              punkte: -1
+        49730:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=4
+          thread: https://forum.rappers.in/index.php?thread/49730-vbt08-vr-bigbeer-vs-heynoo/
+          teilnehmer:
+            - name: BigBeer
+              punkte: 3
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4339962
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4395541
+                      original: true
+            - name: heynoo
+              punkte: 7
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/4ANtsbn_gxc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/l0dWk_z0wyE
+                      original: true
+        49731:
+          thread: https://forum.rappers.in/index.php?thread/49731-vbt08-vr-erkan-dychfyzten-vs-kah-ihh-ess-ohh-err/
+          teilnehmer:
+            - name: Erkan Dychfyzten
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ZQutpjSKdhU
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/9wn3HmIvKDg
+                      original: true
+            - name: Kah-ihh-ess-ohh-err
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/6qgkABVOUSU
+                      original: true
+        49733:
+          thread: https://forum.rappers.in/index.php?thread/49733-vbt08-vr-introvertiert-vs-kevka/
+          teilnehmer:
+            - name: IntroVertiert
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/HRtJKNVMpoY
+                      original: true
+            - name: Kevka
+        49734:
+          thread: https://forum.rappers.in/index.php?thread/49734-vbt08-vr-desr-vs-key-oz/
+          teilnehmer:
+            - name: Desr
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4348403
+                      original: true
+            - name: Key-oZ
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4311061
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/0Lk4GsxHthA
+                      original: true
+        49735:
+          thread: https://forum.rappers.in/index.php?thread/49735-vbt08-vr-h-saad-vs-king-snipa/
+          teilnehmer:
+            - name: H.Saad
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4340271
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4395137
+                      original: true
+            - name: King snipa
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/urPBxrAcbTA
+                      original: true
+        49736:
+          thread: https://forum.rappers.in/index.php?thread/49736-vbt08-vr-aeroxplaya-vs-krefeldbesterkrieger/
+          teilnehmer:
+            - name: aeroxplaya
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4342665
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4395360
+                      original: true
+            - name: krefeldbesterkrieger
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4312593
+                      original: true
+        49739:
+          thread: https://forum.rappers.in/index.php?thread/49739-vbt08-vr-m-flame-vs-rizeit/
+          teilnehmer:
+            - name: M-Flame
+              punkte: -1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4313040
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4400876
+                      original: true
+            - name: RizeIt
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/UYHikJaO3rE
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/RA-rEvWgmaU
+                      original: true
+        49740:
+          thread: https://forum.rappers.in/index.php?thread/49740-vbt08-vr-bigbukay-vs-madwlad/
+          teilnehmer:
+            - name: BigBukay
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/pFkqYXE-Rj0
+                      original: true
+            - name: MadWlad
+        49741:
+          thread: https://forum.rappers.in/index.php?thread/49741-vbt08-vr-k-supreme-vs-mafuba/
+          teilnehmer:
+            - name: k-supreme
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/mRAF64Ud2dw
+                      original: true
+            - name: MaFuBa
+        49742:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=21
+          thread: https://forum.rappers.in/index.php?thread/49742-vbt08-vr-g-hunt-vs-mc-titte/
+          teilnehmer:
+            - name: G-Hunt
+              punkte: 4
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1bKaz_hqcqE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/of32L7GNaFo
+                      original: true
+            - name: MC Titte
+              punkte: 2
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4348159
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/lmffzjszNHg
+                      original: true
+        49743:
+          thread: https://forum.rappers.in/index.php?thread/49743-vbt08-vr-d-0ne-vs-mikamc/
+          teilnehmer:
+            - name: D.0ne
+              punkte: -1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4347984
+                      original: true
+            - name: MikaMc
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4328339
+                      original: true
+        49745:
+          thread: https://forum.rappers.in/index.php?thread/49745-vbt08-vr-kazuya-one-vs-mike/
+          teilnehmer:
+            - name: Kazuya-one
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4347844
+                      original: true
+            - name: mike
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4316567
+                      original: true
+        49746:
+          thread: https://forum.rappers.in/index.php?thread/49746-vbt08-vr-mitl%C3%A4ufer-vs-rocka/
+          teilnehmer:
+            - name: Mitläufer
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/kMxFl5RWMJQ
+                      original: true
+            - name: Rocka
+        49747:
+          thread: https://forum.rappers.in/index.php?thread/49747-vbt08-vr-king-snipes-vs-mochone/
+          teilnehmer:
+            - name: KING SNIPES
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4327716
+                      original: true
+            - name: Mochone
+        49748:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=26
+          thread: https://forum.rappers.in/index.php?thread/49748-vbt08-vr-loto-vs-rap2fast/
+          teilnehmer:
+            - name: Loto
+              punkte: 7
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/YpmgV-M74NI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/qm8BRuRXX_E
+                      original: true
+            - name: RaP2FaST
+              punkte: 6
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dw3bbaMtGG4
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/HP_E36DXZBE
+                      original: true
+        49749:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=27
+          thread: https://forum.rappers.in/index.php?thread/49749-vbt08-vr-le-frog-vs-s-a-t/
+          teilnehmer:
+            - name: Le Frog
+              punkte: 12
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/1kbD5MMwvSU
+                      original: true
+                    - url: https://youtu.be/G4M4GQxqbhQ
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/2GNfUIXquWg
+                      original: true
+                    - url: https://youtu.be/I2YUMIQWaxQ
+            - name: S.a.T
+              punkte: 1
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/86Xc7hfP2j0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/IrPhH5OiNog
+                      original: true
+        49750:
+          thread: https://forum.rappers.in/index.php?thread/49750-vbt08-vr-sniggedisnix-vs-senselezz/
+          teilnehmer:
+            - name: SnIggediSnIx
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/p2MeNfY9-sk
+                      original: true
+            - name: senselezz
+              punkte: -1
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/M0gMHrerwlc
+                      original: true
+        49751:
+          thread: https://forum.rappers.in/index.php?thread/49751-vbt08-vr-sm0gy-vs-threal/
+          teilnehmer:
+            - name: Sm0gY
+            - name: Threal
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ZCpYurlmALo
+                      original: true
+        49752:
+          thread: https://forum.rappers.in/index.php?thread/49752-vbt08-vr-jay-pi-vs-suito/
+          teilnehmer:
+            - name: Jay Pi
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/z-DKHawLF1c
+                      original: true
+            - name: suito
+        49753:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=31
+          thread: https://forum.rappers.in/index.php?thread/49753-vbt08-vr-kevnox-vs-tchiller/
+          teilnehmer:
+            - name: Kevnox
+              punkte: 12
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4tRXrMfhQoE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/rkBTHZEaMa4
+                      original: true
+            - name: TchilleR
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/exSiK-REOtU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/v4Pe23Cv2Vg
+                      original: true
+        49754:
+          thread: https://forum.rappers.in/index.php?thread/49754-vbt08-vr-deadly-spin-vs-twizzstar/
+          teilnehmer:
+            - name: Deadly-Spin
+            - name: Twizzstar
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/hjfsQq7SOZc
+                      original: true
+    32tel:
+      name: 32tel
+      battles:
+        51495:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=35
+          thread: https://forum.rappers.in/index.php?thread/51495-vbt08-32tel-a-effect-vs-scheide/
+          teilnehmer:
+            - name: A-effect
+              punkte: 3
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/LLxFF9j3RKw
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/H_ZfOnuYtdo
+                      original: true
+            - name: scheide
+              punkte: 2
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dhsoHiUtxXo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/TZjiElOA34o
+                      original: true
+        51496:
+          thread: https://forum.rappers.in/index.php?thread/51496-vbt08-32tel-abduladarula-vs-bigbeer/
+          teilnehmer:
+            - name: abduladarula
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/cKhwOkc-jys
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/4OSeyLhrXFc
+                      original: true
+            - name: BigBeer
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4495779
+                      original: true
+        51497:
+          thread: https://forum.rappers.in/index.php?thread/51497-vbt-08-32tel-akfone-vs-s-a-t/
+          teilnehmer:
+            - name: Akfone
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4-Kmqqorauk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=37302222
+                      original: true
+            - name: s.a.t.
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/dojCqEwwMyE
+                      original: true
+        51498:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=38
+          thread: https://forum.rappers.in/index.php?thread/51498-vbt-08-32tel-bdd-vs-le-frog/
+          teilnehmer:
+            - name: BDD
+              punkte: 2
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/o_cProEgfoc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/dYGDZ57uoj0
+                      original: true
+            - name: Le Frog
+              punkte: 9
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/i9aYhHaJrFk
+                      original: true
+                    - url: https://youtu.be/VQHkyM5eD5M
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/J8q9TPKArWM
+                      original: true
+        51499:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=39
+          thread: https://forum.rappers.in/index.php?thread/51499-vbt-08-32tel-c-a-one-vs-erkan-dychfyzten/
+          teilnehmer:
+            - name: C.A. One
+              punkte: 3
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/6VBUAhT6Dz0
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/HVB52hvpCdQ
+                      original: true
+            - name: Erkan Dychfyzten
+              punkte: 4
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/pXKRAjraDLs
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/3t1ba6wmKZM
+                      original: true
+        51501:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=40
+          thread: https://forum.rappers.in/index.php?thread/51501-vbt-08-32tel-cfgfo69-vs-be-high/
+          teilnehmer:
+            - name: CFGFO69
+              punkte: 1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/RzdeGojCT-k
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/TaPjBSGPTu4
+                      original: true
+            - name: Be-High
+              punkte: 6
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/UpOcO999WuI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/AiH7mlq7gM4
+                      original: true
+        51502:
+          thread: https://forum.rappers.in/index.php?thread/51502-vbt-08-32tel-chaina-vs-bigbukay/
+          teilnehmer:
+            - name: Chaina
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4496291
+                      original: true
+            - name: BigBukay
+        51503:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=42
+          thread: https://forum.rappers.in/index.php?thread/51503-vbt-08-32tel-core-vs-rizeit/
+          teilnehmer:
+            - name: Core
+              punkte: 2
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/obEFMTwlVwk
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/6BS5S7-u2uU
+                      original: true
+                    - url: https://youtu.be/3C0i5gJ4GZk
+            - name: RizeIt
+              punkte: 4
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/qYEIZD3hY68
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/ibZGkOhcU0Y
+                      original: true
+        51504:
+          thread: https://forum.rappers.in/index.php?thread/51504-vbt-08-32tel-corss-vs-sniggedisnix/
+          teilnehmer:
+            - name: CorSS
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Kd9-L7djnAI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/cho-q06PmUw
+                      original: true
+            - name: SnIggediSnIx
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/iu31TUBl3SM
+                      original: true
+        51505:
+          thread: https://forum.rappers.in/index.php?thread/51505-vbt-08-32tel-dapurty-vs-ka-o-peh/
+          teilnehmer:
+            - name: DaPurty
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4495734
+                      original: true
+            - name: Ka-o-Peh
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/taGGS8yGbWk
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/dWays_fZnbg
+                      original: true
+        51506:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=45
+          thread: https://forum.rappers.in/index.php?thread/51506-vbt-08-32tel-ebola-vs-mitl%C3%A4ufer/
+          teilnehmer:
+            - name: EbOlA
+              punkte: 2
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/MhCR-k796O8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/GFfd9biQ0jU
+                      original: true
+            - name: Mitläufer
+              punkte: 5
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/vwl-rzu9lA4
+                      original: true
+                    - url: https://youtu.be/RaWWfLjEGPo
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/kPAUQOHQoVA
+                      original: true
+        51507:
+          thread: https://forum.rappers.in/index.php?thread/51507-vbt-08-32tel-esskage-vs-threal/
+          teilnehmer:
+            - name: esskage
+              punkte: -1
+            - name: Threal
+        51508:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=47
+          thread: https://forum.rappers.in/index.php?thread/51508-vbt-08-32tel-fedalic-vs-pr-mar/
+          teilnehmer:
+            - name: fedaLic
+              punkte: 4
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/8PYQ8XMMdzY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/-5PIa1EHNsA
+                      original: true
+            - name: Pr!mar
+              punkte: 9
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/L43L3wDdYYo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/fFgwptgpb10
+                      original: true
+        51509:
+          thread: https://forum.rappers.in/index.php?thread/51509-vbt-08-32tel-geot-vs-dasinsekt/
+          teilnehmer:
+            - name: GeOT
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/-mUra79-VNs
+                      original: true
+            - name: DasInsekt
+              punkte: -1
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/PQ0fVgP0gSM
+        51510:
+          thread: https://forum.rappers.in/index.php?thread/51510-vbt-08-32tel-kah-ohh-beh-vs-kico/
+          teilnehmer:
+            - name: Kah-Ohh-Beh
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Alic9eFPsfQ
+                      original: true
+            - name: Kico
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/SBeBvKfoQ8w
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/s5c5H_yUElk
+                      original: true
+        51512:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=50
+          thread: https://forum.rappers.in/index.php?thread/51512-vbt-08-32tel-meins-vs-key-oz/
+          teilnehmer:
+            - name: meins
+              punkte: 8
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/X9IBipZQ6vY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/iI9BpKg4-9s
+                      original: true
+            - name: Key-oZ
+              punkte: 1
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/aGDUPkuwhis
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/h9xm66BwHPQ
+                      original: true
+        51513:
+          thread: https://forum.rappers.in/index.php?thread/51513-vbt-08-32tel-milo1-vs-kevnox/
+          teilnehmer:
+            - name: Milo1
+            - name: Kevnox
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/jwNBWqL1nv0
+                      original: true
+        51514:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=52
+          thread: https://forum.rappers.in/index.php?thread/51514-vbt-08-32tel-most-vs-aeroxplaya/
+          teilnehmer:
+            - name: MOST
+              punkte: 6
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/sgmWsvvr9Vw
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/NfRN9rx0UGQ
+                      original: true
+            - name: aeroxplaya
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4500595
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4555452
+                      original: true
+        51515:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=53
+          thread: https://forum.rappers.in/index.php?thread/51515-vbt-08-32tel-natz-vs-tchiller/
+          teilnehmer:
+            - name: Natz
+              punkte: 8
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hqqkCA5fUjs
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/ezCnhm9LAvk
+                      original: true
+            - name: Tchiller
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/EZB2-bTSPYo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Oo34FQ-eFEM
+                      original: true
+        51516:
+          thread: https://forum.rappers.in/index.php?thread/51516-vbt-08-32tel-nekro-vs-g-hunt/
+          teilnehmer:
+            - name: NeKrO
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/OYa9LZbiXZ0
+                      original: true
+            - name: G-Hunt
+        51517:
+          thread: https://forum.rappers.in/index.php?thread/51517-vbt-08-32tel-perstil-vs-cashonly/
+          teilnehmer:
+            - name: Perstil
+              punkte: -1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/SSOppyuG2Vo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/L-so0UsmCm0
+                      original: true
+            - name: CashOnly
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/9dKbBEQqci4
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/4ffCFgTXN0M
+                      original: true
+        51518:
+          thread: https://forum.rappers.in/index.php?thread/51518-vbt-08-32tel-rec-z-vs-k-supreme/
+          teilnehmer:
+            - name: Rec-Z
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/eBGhngmoWwg
+                      original: true
+                    - url: https://youtu.be/awRZN9qpp90
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=38307496
+                      original: true
+                    - url: https://youtu.be/3eIeGRjQcD4
+            - name: k-supreme
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/WlGYBIOH2CY
+                      original: true
+        51519:
+          thread: https://forum.rappers.in/index.php?thread/51519-vbt-08-32tel-rian-vs-twizzstar/
+          teilnehmer:
+            - name: Rian
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4495424
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4545950
+                      original: true
+            - name: Twizzstar
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/Y6Hu48c7ohk
+                      original: true
+        51520:
+          thread: https://forum.rappers.in/index.php?thread/51520-vbt-08-32tel-rob-vs-h-saad/
+          teilnehmer:
+            - name: Rob
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/O1GU8rxDqWE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/focPH-IZvCo
+                      original: true
+            - name: H.Saad
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4492936
+                      original: true
+                    - url: https://youtu.be/a9BwSo1QYS8
+        51521:
+          thread: https://forum.rappers.in/index.php?thread/51521-vbt-08-32tel-s-an-vs-king-snipes/
+          teilnehmer:
+            - name: S-aN
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/3CE5ADHK9h4
+                      original: true
+            - name: KING SNIPES
+        51522:
+          thread: https://forum.rappers.in/index.php?thread/51522-vbt-08-32tel-splifftastic-vs-coretex/
+          teilnehmer:
+            - name: SpliffTastiC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/0EXmEEL-HKc
+                      original: true
+            - name: CoreteX
+        51523:
+          thread: https://forum.rappers.in/index.php?thread/51523-vbt-08-32tel-t-style-vs-cleptomatic/
+          teilnehmer:
+            - name: T-Style
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/4qZGqEa5b44
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/ozycDvr678I
+                      original: true
+            - name: Cleptomatic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/mRlYH_MCxic
+                      original: true
+        51524:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=62
+          thread: https://forum.rappers.in/index.php?thread/51524-vbt-08-32tel-taishu-vs-jay-pi/
+          teilnehmer:
+            - name: Taishu
+              punkte: 6
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=36694458
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=37279361
+                      original: true
+            - name: Jay Pi
+              punkte: 3
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/geNEOXoldKQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/HXkmc_2huCU
+                      original: true
+        51525:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=63
+          thread: https://forum.rappers.in/index.php?thread/51525-vbt-08-32tel-unknownking-vs-luie-die-nadel/
+          teilnehmer:
+            - name: unknownKing
+              punkte: 4
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/EHvEWaPD0Bw
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/z85x661IiQk
+                      original: true
+            - name: Luie-Die-Nadel
+              punkte: 5
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/6lYtf1_iqOc
+                      original: true
+                    - url: https://youtu.be/JfW4q0R5qOI
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=37285644
+                      original: true
+        51526:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=64
+          thread: https://forum.rappers.in/index.php?thread/51526-vbt-08-32el-xxx-raptik-xxx-vs-heynoo/
+          teilnehmer:
+            - name: xXx Raptik xXx
+              punkte: 2
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/jQyBhXRUxLs
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/GVlLJ07G0QI
+                      original: true
+            - name: Heynoo
+              punkte: 5
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/09GZpBh2LKc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/LbSkKK_Tolg
+                      original: true
+        51527:
+          thread: https://forum.rappers.in/index.php?thread/51527-vbt-08-32tel-zap-vs-suito/
+          teilnehmer:
+            - name: Zap
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/73XwEuNhWm4
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/BKxYcbRiLMc
+                      original: true
+            - name: suito
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/XLhmok8e0_4
+                      original: true
+        51528:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=66
+          thread: https://forum.rappers.in/index.php?thread/51528-vbt-08-32tel-ols-supremat-vs-introvertiert/
+          teilnehmer:
+            - name: "[OLS] Supremat"
+              punkte: 6
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4486856
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4554109
+                      original: true
+            - name: IntroVertiert
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/NZQyCWhl6Eg
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/buKggCcFB0s
+                      original: true
+    16tel:
+      name: 16tel
+      battles:
+        54152:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=67
+          thread: https://forum.rappers.in/index.php?thread/54152-vbt-08-16tel-t-style-vs-le-frog/
+          teilnehmer:
+            - name: T-Style
+              punkte: 15
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/2mZNcQ7vkbY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/DzrWkJ_xxvM
+                      original: true
+            - name: Le Frog
+              punkte: 5
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/J8q9TPKArWM
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/YOLPxRfrxJA
+                      original: true
+                    - url: https://youtu.be/IwCxGrAG2Cc
+        54153:
+          thread: https://forum.rappers.in/index.php?thread/54153-vbt-08-16tel-cashonly-vs-natz/
+          teilnehmer:
+            - name: CashOnly
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/17HVLFv2fFU
+                      original: true
+            - name: NatZ
+        54154:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=69
+          thread: https://forum.rappers.in/index.php?thread/54154-vbt-08-16tel-rec-z-vs-abduladarula/
+          teilnehmer:
+            - name: Rec-Z
+              punkte: 12
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=38307496
+                      original: true
+                    - url: https://youtu.be/PASF08e9-CQ
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=38663904
+                      original: true
+                    - url: https://youtu.be/jhEFBmwLEjY
+            - name: abduladarula
+              punkte: 10
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/4OSeyLhrXFc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=39088199
+                      original: true
+                    - url: https://youtu.be/SKqOOiL0uKQ
+        54155:
+          thread: https://forum.rappers.in/index.php?thread/54155-vbt-08-16tel-zap-vs-rob/
+          teilnehmer:
+            - name: ZaP
+            - name: Rob
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/focPH-IZvCo
+                      original: true
+        54156:
+          thread: https://forum.rappers.in/index.php?thread/54156-vbt-08-16tel-s-an-vs-rian/
+          teilnehmer:
+            - name: S-aN
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/ODQ4srgpuBE
+                      original: true
+            - name: Rian
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/K-qxpTOi9bU
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4730857
+                      original: true
+        54157:
+          thread: https://forum.rappers.in/index.php?thread/54157-vbt-08-16tel-meins-vs-ols-supremat/
+          teilnehmer:
+            - name: meins
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/IKUB675d_iE
+                      original: true
+            - name: "[OLS] Supremat"
+        54158:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=73
+          thread: https://forum.rappers.in/index.php?thread/54158-vbt-08-16tel-ka-o-peh-vs-erkan-dychfyzten/
+          teilnehmer:
+            - name: Ka-o-Peh
+              punkte: 11
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/hjlXA3KYw4M
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/s7X6efyG5Vw
+                      original: true
+            - name: Erkan Dychfyzten
+              punkte: 8
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/9QENO29fQNY
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/h2UkSSHoS5k
+                      original: true
+        54159:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=74
+          thread: https://forum.rappers.in/index.php?thread/54159-vbt-08-16tel-kevnox-vs-most/
+          teilnehmer:
+            - name: Kevnox
+              punkte: 10
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/5AB66MMxHKs
+                      original: true
+                    - url: https://youtu.be/7BP2r8Qupic
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/ot15rtlcXj8
+                      original: true
+            - name: MOST
+              punkte: 10.5
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/5UuGBvrjc9g
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/UZZKEfDFkyY
+                      original: true
+        54160:
+          thread: https://forum.rappers.in/index.php?thread/54160-vbt-08-16tel-corss-rfc-vs-kico/
+          teilnehmer:
+            - name: CorSS RfC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40479776
+                      original: true
+                    - url: https://youtu.be/FLAzKOu5IPM
+                    - url: https://youtu.be/sW3DxQDMYWk
+            - name: Kico
+        54161:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=76
+          thread: https://forum.rappers.in/index.php?thread/54161-vbt-08-16tel-geot-vs-heynoo/
+          teilnehmer:
+            - name: GeOT
+              punkte: 15
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/U0ah6mOOpDI
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=ihC2RCc1Ocw
+                      original: true
+            - name: Heynoo
+              punkte: 4
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/hc8EGvlaqf8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/afveD_b6frI
+                      original: true
+        54162:
+          thread: https://forum.rappers.in/index.php?thread/54162-vbt-08-16tel-threal-vs-nekro/
+          teilnehmer:
+            - name: Threal
+            - name: NekrO
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/HSZDvYGOK7A
+                      original: true
+        54164:
+          thread: https://forum.rappers.in/index.php?thread/54164-vbt-08-16tel-a-effect-vs-chaina/
+          teilnehmer:
+            - name: A-effect
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/dtm9JByw7Wg
+                      original: true
+            - name: Chaina
+        54165:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=79
+          thread: https://forum.rappers.in/index.php?thread/54165-vbt-08-16tel-be-high-vs-akfone/
+          teilnehmer:
+            - name: Be-High
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Yt4R16DlibY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=39245486
+                      original: true
+            - name: Akfone
+              punkte: 12
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=38788023
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=39329795
+                      original: true
+        54166:
+          thread: https://forum.rappers.in/index.php?thread/54166-vbt-08-16tel-rizeit-vs-taishu/
+          teilnehmer:
+            - name: RizeIt
+              punkte: 7
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/JMoZweTlnes
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/pGrUFg2kMpA
+                      original: true
+            - name: Taishu
+              punkte: 9
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=38779242
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=39432343
+                      original: true
+        54167:
+          thread: https://forum.rappers.in/index.php?thread/54167-vbt-08-16tel-mitl%C3%A4ufer-vs-splifftastic/
+          teilnehmer:
+            - name: Mitläufer
+            - name: SpliffTastiC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=38604660
+                      original: true
+                    - url: https://youtu.be/afSk9ySUU-8
+        54169:
+          thread: https://forum.rappers.in/index.php?thread/54169-vbt-08-16tel-mikamc-vs-luie-die-nadel/
+          teilnehmer:
+            - name: MikaMc
+              punkte: 4
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4700027
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/dlfvp5tIw_Y
+                      original: true
+            - name: Luie-Die-Nadel
+              punkte: 8
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=38804558
+                      original: true
+                    - url: https://youtu.be/UMhYlsSuW60
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4759088
+                      original: true
+    achtelfinale:
+      name: Achtelfinale
+      battles:
+        58124:
+          thread: https://forum.rappers.in/index.php?thread/58124-vbt-08-achtelfinale-rian-vs-most/
+          teilnehmer:
+            - name: Rian
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://www.myvideo.de/movie/4836923
+                      original: true
+            - name: MOST
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ju6NmSevweI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/e5EyDZb1ueY
+                      original: true
+        58125:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=84
+          thread: https://forum.rappers.in/index.php?thread/58125-vbt-08-achtelfinale-corss-rfc-vs-ka-o-peh/
+          teilnehmer:
+            - name: CorSS RfC
+              punkte: 9
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40479776
+                      original: true
+                    - url: https://youtu.be/zWY-lnQD91Q
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40882664
+                      original: true
+            - name: Ka-o-Peh
+              punkte: 2
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/kKJGDx5gxAo
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/4hrvxRAU_Ls
+                      original: true
+        58126:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=85
+          thread: https://forum.rappers.in/index.php?thread/58126-vbt-08-achtelfinale-rob-vs-t-style/
+          teilnehmer:
+            - name: Rob
+              punkte: 4
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Gtekf5iHDwE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/bbQt5x2IYyk
+                      original: true
+            - name: T-Style
+              punkte: 8
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/D-TslBsW8BQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/4VQFukQfqIM
+                      original: true
+        58127:
+          thread: https://forum.rappers.in/index.php?thread/58127-vbt-08-achtelfinale-rec-z-vs-akfone/
+          teilnehmer:
+            - name: Rec-Z
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40477501
+                      original: true
+                    - url: https://youtu.be/B-ihVPxn5BA
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40899068
+                      original: true
+                    - url: https://youtu.be/A23nnuup9SU
+            - name: Akfone
+              punkte: -1
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40479929
+                      original: true
+                    - url: https://youtu.be/tE-uyUnuQAs
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=
+                      original: true
+        58128:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=87
+          thread: https://forum.rappers.in/index.php?thread/58128-vbt-08-achtelfinale-luie-die-nadel-vs-taishu/
+          teilnehmer:
+            - name: Luie-Die-Nadel
+              punkte: 5
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40437717
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://www.myvideo.de/movie/4903458
+                      original: true
+            - name: Taishu
+              punkte: 3
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40479225
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40767032
+                      original: true
+        58129:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=88
+          thread: https://forum.rappers.in/index.php?thread/58129-vbt-08-achtelfinale-nekro-vs-cashonly/
+          teilnehmer:
+            - name: NekrO
+              punkte: 1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/TG5nHkEzoHo
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/iRHtkGyX3dw
+                      original: true
+            - name: CashOnly
+              punkte: 11
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/FmBafzSSO5c
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/Wf6MmB-Q_J8
+                      original: true
+        58130:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=89
+          thread: https://forum.rappers.in/index.php?thread/58130-vbt-08-achtelfinale-a-effect-vs-geot/
+          teilnehmer:
+            - name: A-effect
+              punkte: 1
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/H1S7DyuzHtQ
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/R102sNez-Sg
+                      original: true
+            - name: GeOT
+              punkte: 9
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/ihC2RCc1Ocw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/lLUkVLZSyyg
+                      original: true
+        58131:
+          thread: https://forum.rappers.in/index.php?thread/58131-vbt-08-achtelfinale-meins-vs-splifftastic/
+          teilnehmer:
+            - name: meins
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/0xGG68GEM7Q
+                      original: true
+            - name: SpliffTastiC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40420397
+                      original: true
+                    - url: https://youtu.be/JSZB0QLPSe0
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40921878
+                      original: true
+                    - url: https://youtu.be/aCtLD33Apes
+    viertelfinale:
+      name: Viertelfinale
+      battles:
+        61314:
+          thread: https://forum.rappers.in/index.php?thread/61314-vbt-08-viertelfinale-splifftastic-vs-corss-rfc/
+          teilnehmer:
+            - name: SpliffTastiC
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=41911970
+                      original: true
+                    - url: https://youtu.be/Ye_NoTCXbCk
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=42360852
+                      original: true
+                    - url: https://youtu.be/SJ7gkZiW61s
+            - name: CorSS RfC
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=41979682
+                      original: true
+        61315:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=92
+          thread: https://forum.rappers.in/index.php?thread/61315-vbt-08-viertelfinale-t-style-vs-geot/
+          teilnehmer:
+            - name: T-Style
+              punkte: 9
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XLmNhjqtZ3Q
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/9LbdEoYrJCw
+                      original: true
+            - name: GeOT
+              punkte: 10
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=41971609
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=42358402
+                      original: true
+        61317:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=93
+          thread: https://forum.rappers.in/index.php?thread/61317-vbt-08-viertelfinale-cashonly-vs-most/
+          teilnehmer:
+            - name: CashOnly
+              punkte: 6
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/Wf6MmB-Q_J8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=42430236
+                      original: true
+            - name: MOST
+              punkte: 14
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/YkdFumZ4PAQ
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/fbsaWcEvAKM
+                      original: true
+        61318:
+          thread: https://forum.rappers.in/index.php?thread/61318-vbt-08-viertelfinale-rec-z-vs-luie-die-nadel/
+          teilnehmer:
+            - name: Rec-Z
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=41910533
+                      original: true
+                    - url: https://youtu.be/24kPmRCyq1M
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43170550
+                      original: true
+            - name: Luie-Die-Nadel
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://www.speedyshare.com/135666240.html
+                      original: true
+    halbfinale:
+      name: Halbfinale
+      battles:
+        63774:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=96
+          thread: https://forum.rappers.in/index.php?thread/63774-vbt-08-halbfinale-splifftastic-vs-geot/
+          teilnehmer:
+            - name: SpliffTastiC
+              punkte: 8
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43201726
+                      original: true
+                    - url: https://youtu.be/epDHpJlSii0
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=44458487
+                      original: true
+                    - url: https://youtu.be/Dv9Y1X31038
+            - name: GeOT
+              punkte: 6
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43251413
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43693381
+                      original: true
+        63775:
+          thread: https://forum.rappers.in/index.php?thread/63775-vbt-08-halbfinale-most-vs-rec-z/
+          teilnehmer:
+            - name: MOST
+            - name: Rec-Z
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43170550
+                      original: true
+                    - url: https://youtu.be/yjjc9nW6Q9w
+    finale:
+      name: Finale
+      battles:
+        66267:
+          link: http://www.rappers.in/vbt08_bewertungen.php?battle=97
+          thread: https://forum.rappers.in/index.php?thread/66267-vbt-08-finale-rec-z-vs-splifftastic/
+          teilnehmer:
+            - name: Rec-Z
+              punkte: 8
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43201726
+                      original: true
+                    - url: https://youtu.be/SBJ7KDoaG3o
+                rr2:
+                  name: RR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=44458487
+                      original: true
+                    - url: https://youtu.be/yY_neQeQ8R4
+            - name: SpliffTastiC
+              punkte: 13
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43251413
+                      original: true
+                    - url: https://youtu.be/bbiFpBRZ3PQ
+                rr1:
+                  name: RR1
+                  links:
+                    - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43693381
+                      original: true
+                    - url: https://youtu.be/O-jtR9uBynE
