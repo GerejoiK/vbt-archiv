@@ -1065,8 +1065,7 @@ vbt2010:
                 hr2:
                   name: HR2
                   links:
-                    - url: >-
-                        https://youtu.be/cUNP79PE7XM&playnext_from=TL&videos=2isXtYmXq8E
+                    - url: https://youtu.be/cUNP79PE7XM&playnext_from=TL&videos=2isXtYmXq8E
                       original: true
                   beats:
                     - name: >-

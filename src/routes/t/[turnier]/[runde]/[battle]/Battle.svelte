@@ -29,6 +29,9 @@
 					loading="lazy"
 				></iframe>
 			</details>
+		{:else if v.url.hostname.includes("myspace") || v.url.hostname.includes("myvideo")}
+			<span title="Originalupload">{v.original ? "🌟" : ""}</span>
+			<a href={v.url.href}>{v.url.hostname}</a>
 		{:else}
 			<span title="Originalupload">{v.original ? "🌟" : ""}</span>
 			<a href={v.url.href}>{v.url.href}</a>
