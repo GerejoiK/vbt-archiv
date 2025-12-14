@@ -42,7 +42,7 @@
 										},
 										"thread": {
 											"description": "Offizieller Thread zum Battle",
-											"type": "string"
+											"type": "number"
 										},
 										"teilnehmer": {
 											"description": "Teilnehmer an dem Battle",
