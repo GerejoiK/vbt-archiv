@@ -6,7 +6,7 @@ vbt2009:
       name: Vorrunde 1
       battles:
         "99":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=99
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=99
           teilnehmer:
             - name: "[DZ] Zee4"
               runden:
@@ -20,6 +20,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/9VlA8goGC5E
                       original: true
+              punkte: 7
             - name: Baby-G
               runden:
                 hr2:
@@ -32,8 +33,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/MHurVx65ikU
                       original: true
+              punkte: 1
+          thread: 108514
         "100":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=100
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=100
           teilnehmer:
             - name: Basta-Ace-K
               runden:
@@ -59,8 +62,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/PQpi2zE--5s
                       original: true
+              punkte: 16
+          thread: 107666
         "101":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=101
+          link: http://www.rappers.in/vbt09_runden.php?battle=101
           teilnehmer:
             - name: D_LuX
               runden:
@@ -81,8 +86,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Tqqo5QLty5Q
                       original: true
+          thread: 107987
         "102":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=102
+          link: http://www.rappers.in/vbt09_runden.php?battle=102
           teilnehmer:
             - name: KisoR
               runden:
@@ -103,8 +109,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/imYM8fAzAdI
                       original: true
+          thread: 107528
         "103":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=103
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=103
           teilnehmer:
             - name: DirtyFlow
               runden:
@@ -118,6 +125,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/gN28KxdJ8iM
                       original: true
+              punkte: 6
             - name: Loki
               runden:
                 hr2:
@@ -130,8 +138,10 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6631882
                       original: true
+              punkte: 5
+          thread: 107861
         "104":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=104
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=104
           teilnehmer:
             - name: Offiziell-SSR
               runden:
@@ -145,6 +155,7 @@ vbt2009:
                   links:
                     - url: http://vimeo.com/moogaloop.swf?clip_id=5398520&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
                       original: true
+              punkte: 5
             - name: RizeIt
               runden:
                 hr2:
@@ -157,8 +168,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/BtFOgP7hhMI
                       original: true
+              punkte: 6
+          thread: 108284
         "105":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=105
+          link: http://www.rappers.in/vbt09_runden.php?battle=105
           teilnehmer:
             - name: Thyra
             - name: Younxtaa
@@ -168,8 +181,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ucFkuC3bZko
                       original: true
+          thread: 108090
         "106":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=106
+          link: http://www.rappers.in/vbt09_runden.php?battle=106
           teilnehmer:
             - name: MC-BLYZZ-R
               runden:
@@ -190,8 +204,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/-R__cqCwnto
                       original: true
+          thread: 108213
         "107":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=107
+          link: http://www.rappers.in/vbt09_runden.php?battle=107
           teilnehmer:
             - name: K.o.K
               runden:
@@ -212,8 +227,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/TNOlXmOzRnA
                       original: true
+          thread: 108099
         "108":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=108
+          link: http://www.rappers.in/vbt09_runden.php?battle=108
           teilnehmer:
             - name: KuBiS
               runden:
@@ -234,8 +250,9 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59747135&type=video
                       original: true
+          thread: 108103
         "109":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=109
+          link: http://www.rappers.in/vbt09_runden.php?battle=109
           teilnehmer:
             - name: W-Sac
               runden:
@@ -256,10 +273,12 @@ vbt2009:
                   links:
                     - url: https://youtu.be/baYxVMrAeNE
                       original: true
+          thread: 108117
         "110":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=110
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=110
           teilnehmer:
             - name: RaP2FaST
+              punkte: 11
               runden:
                 hr1:
                   name: HR1
@@ -283,8 +302,9 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59677484&type=video
                       original: true
+          thread: 107669
         "111":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=111
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=111
           teilnehmer:
             - name: NetOne
               runden:
@@ -298,6 +318,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/XOh0mYBliD8
                       original: true
+              punkte: 4
             - name: K-Win
               runden:
                 hr2:
@@ -310,8 +331,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Ab-DFvy8LBY
                       original: true
+              punkte: 13
+          thread: 108115
         "112":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=112
+          link: http://www.rappers.in/vbt09_runden.php?battle=112
           teilnehmer:
             - name: JaimieS
             - name: fgsz447
@@ -321,8 +344,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/qPmho6OJwdE
                       original: true
+          thread: 108040
         "113":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=113
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=113
           teilnehmer:
             - name: E.T.M Arts
               runden:
@@ -348,8 +372,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/U3yCk9d5htU
                       original: true
+              punkte: 18
+          thread: 107631
         "114":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=114
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=114
           teilnehmer:
             - name: Fayk
               runden:
@@ -363,6 +389,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/syyMTTv2Efg
                       original: true
+              punkte: 6
             - name: FlowRebell
               runden:
                 hr2:
@@ -375,8 +402,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/vBIywavXFtI
                       original: true
+          thread: 107904
         "115":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=115
+          link: http://www.rappers.in/vbt09_runden.php?battle=115
           teilnehmer:
             - name: floW Levi
               runden:
@@ -386,10 +414,12 @@ vbt2009:
                     - url: https://youtu.be/YDAKxUsaiTQ
                       original: true
             - name: kingdestroyers
+          thread: 108259
         "116":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=116
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=116
           teilnehmer:
             - name: Pat Riot
+              punkte: 12
               runden:
                 hr1:
                   name: HR1
@@ -402,6 +432,7 @@ vbt2009:
                     - url: https://youtu.be/9IPvl-tfgXI
                       original: true
             - name: P_masid
+              punkte: 3
               runden:
                 hr2:
                   name: HR2
@@ -413,8 +444,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Q8lOCOajdhM
                       original: true
+          thread: 107700
         "117":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=117
+          link: http://www.rappers.in/vbt09_runden.php?battle=117
+          thread: 108033
           teilnehmer:
             - name: Scheffy Scheff
               runden:
@@ -436,7 +469,7 @@ vbt2009:
                     - url: https://youtu.be/dyLp4od0rvo
                       original: true
         "118":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=118
+          link: http://www.rappers.in/vbt09_runden.php?battle=118
           teilnehmer:
             - name: Westlid
             - name: smoke a lot G-streetz
@@ -451,8 +484,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/2s8Nq7NjxlU
                       original: true
+          thread: 108411
         "119":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=119
+          link: http://www.rappers.in/vbt09_runden.php?battle=119
           teilnehmer:
             - name: PrinZ-DeKaR-SR
               runden:
@@ -468,8 +502,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/6VdQu-qwFTI
                       original: true
+          thread: 107975
         "120":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=120
+          link: http://www.rappers.in/vbt09_runden.php?battle=120
           teilnehmer:
             - name: Luie-Die-Nadel
               runden:
@@ -479,8 +514,9 @@ vbt2009:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59353943&type=video
                       original: true
             - name: KbjL
+          thread: 108151
         "121":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=121
+          link: http://www.rappers.in/vbt09_runden.php?battle=121
           teilnehmer:
             - name: Jenomaticz
             - name: Pacino-PlaySoulMusic
@@ -490,8 +526,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/SfheXmgmulg
                       original: true
+          thread: 108440
         "122":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=122
+          link: http://www.rappers.in/vbt09_runden.php?battle=122
           teilnehmer:
             - name: ENJ
             - name: $SheezY$
@@ -506,8 +543,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/RdzQMmp_AwA
                       original: true
+          thread: 107553
         "123":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=123
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=123
           teilnehmer:
             - name: S-aN
               runden:
@@ -521,6 +559,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/nFul3AC9XCE
                       original: true
+              punkte: 8
             - name: streetsoldyer
               runden:
                 hr2:
@@ -533,8 +572,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/f5HCpAq2PNo
                       original: true
+              punkte: 5
+          thread: 108525
         "124":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=124
+          link: http://www.rappers.in/vbt09_runden.php?battle=124
           teilnehmer:
             - name: vini
               runden:
@@ -544,8 +585,9 @@ vbt2009:
                     - url: https://youtu.be/sJsjX0TurS0
                       original: true
             - name: senselezz
+          thread: 108029
         "125":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=125
+          link: http://www.rappers.in/vbt09_runden.php?battle=125
           teilnehmer:
             - name: Sichtwaise aka Masafakka
               runden:
@@ -555,8 +597,9 @@ vbt2009:
                     - url: https://youtu.be/_85cNaKG9p4&
                       original: true
             - name: PawoGee
+          thread: 107664
         "126":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=126
+          link: http://www.rappers.in/vbt09_runden.php?battle=126
           teilnehmer:
             - name: LTeck
               runden:
@@ -566,14 +609,16 @@ vbt2009:
                     - url: https://youtu.be/z1JBbVkER9M
                       original: true
             - name: KerOne
+              punkte: -1
               runden:
                 rr1:
                   name: RR1
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59460368&type=video
                       original: true
+          thread: 107890
         "127":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=127
+          link: http://www.rappers.in/vbt09_runden.php?battle=127
           teilnehmer:
             - name: king kaiser32
             - name: MaygaStyle
@@ -583,10 +628,12 @@ vbt2009:
                   links:
                     - url: https://youtu.be/otzMQPp2n3Q
                       original: true
+          thread: 108346
         "128":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=128
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=128
           teilnehmer:
             - name: Odin
+              punkte: 8
               runden:
                 hr1:
                   name: HR1
@@ -599,6 +646,7 @@ vbt2009:
                     - url: https://youtu.be/QZAaeibjBDo
                       original: true
             - name: Soldierzz
+              punkte: 3
               runden:
                 hr2:
                   name: HR2
@@ -610,8 +658,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/YbpQLdSEFMQ
                       original: true
+          thread: 107746
         "129":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=129
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=129
           teilnehmer:
             - name: V!RUS90
               runden:
@@ -625,6 +674,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/fOQIR6WQ7p0
                       original: true
+              punkte: 12
             - name: snowboardboy
               runden:
                 hr2:
@@ -637,8 +687,11 @@ vbt2009:
                   links:
                     - url: https://youtu.be/A_XgtyZmh1E
                       original: true
+              punkte: 3
+          thread: 108021
         "130":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=130
+          link: http://www.rappers.in/vbt09_runden.php?battle=130
+          thread: 108495
           teilnehmer:
             - name: s3r!€$
             - name: StReNgG
@@ -649,7 +702,7 @@ vbt2009:
                     - url: https://youtu.be/ZDzV2rTuc10
                       original: true
         "131":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=131
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=131
           teilnehmer:
             - name: Yohn Quezd
               runden:
@@ -663,6 +716,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/EHkGbLVlAZk
                       original: true
+              punkte: 4
             - name: shortystyle
               runden:
                 hr2:
@@ -675,8 +729,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Yhe-KN_A-5Q
                       original: true
+              punkte: 9
+          thread: 107545
         "133":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=133
+          link: http://www.rappers.in/vbt09_runden.php?battle=133
           teilnehmer:
             - name: PIERON-RAP
               runden:
@@ -690,6 +746,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/fh73orwoncw
                       original: true
+              punkte: -1
             - name: OnlyOneProduction
               runden:
                 hr2:
@@ -702,8 +759,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/-fFKz7m1hBw
                       original: true
+          thread: 107995
         "134":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=134
+          link: http://www.rappers.in/vbt09_runden.php?battle=134
           teilnehmer:
             - name: Sweed
             - name: Straightluke
@@ -713,8 +771,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/12L5LWideq0
                       original: true
+          thread: 107830
         "135":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=135
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=135
           teilnehmer:
             - name: Wu-rax
               runden:
@@ -728,6 +787,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/wJp_D1qjVSg
                       original: true
+              punkte: 2
             - name: Sinnflow
               runden:
                 hr2:
@@ -740,8 +800,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/cszVC9Ijczk
                       original: true
+              punkte: 10
+          thread: 107833
         "136":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=136
+          link: http://www.rappers.in/vbt09_runden.php?battle=136
           teilnehmer:
             - name: Prioritaet
               runden:
@@ -762,8 +824,9 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59462050&type=video
                       original: true
+          thread: 108468
         "137":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=137
+          link: http://www.rappers.in/vbt09_runden.php?battle=137
           teilnehmer:
             - name: MoDeeHoe
               runden:
@@ -779,8 +842,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/nm3HLPgCyac
                       original: true
+          thread: 108450
         "138":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=138
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=138
           teilnehmer:
             - name: SnIggediSnIx
               runden:
@@ -794,6 +858,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ccsvQxrfaHw
                       original: true
+              punkte: 8
             - name: UzumN
               runden:
                 hr2:
@@ -806,8 +871,10 @@ vbt2009:
                   links:
                     - url: http://vimeo.com/moogaloop.swf?clip_id=5366049&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
                       original: true
+              punkte: 8
+          thread: 107762
         "139":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=139
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=139
           teilnehmer:
             - name: Trai$
               runden:
@@ -821,6 +888,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/rgLZK_jUaoI
                       original: true
+              punkte: 3
             - name: TchilleR
               runden:
                 hr2:
@@ -833,8 +901,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/jMRD2DV7kBU
                       original: true
+              punkte: 5
+          thread: 108474
         "140":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=140
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=140
           teilnehmer:
             - name: Shizo-Genetik-Tyrann
               runden:
@@ -848,6 +918,7 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59802940&type=video
                       original: true
+              punkte: 2
             - name: RuFfY-D
               runden:
                 hr2:
@@ -860,8 +931,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/bkj8V3x081c
                       original: true
+              punkte: 12
+          thread: 108452
         "141":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=141
+          link: http://www.rappers.in/vbt09_runden.php?battle=141
           teilnehmer:
             - name: Rosh
               runden:
@@ -871,8 +944,9 @@ vbt2009:
                     - url: https://youtu.be/kw6zGgBEGJA
                       original: true
             - name: santana_69
+          thread: 108244
         "142":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=142
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=142
           teilnehmer:
             - name: Silus
               runden:
@@ -886,6 +960,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/PtKg9kG2BpI
                       original: true
+              punkte: 8
             - name: Grisubeats
               runden:
                 hr2:
@@ -898,8 +973,10 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59783647&type=video
                       original: true
+              punkte: 3
+          thread: 107634
         "143":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=143
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=143
           teilnehmer:
             - name: Tard-NDS
               runden:
@@ -913,6 +990,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/S_JzRFTN5ro
                       original: true
+              punkte: 14
             - name: MoooN
               runden:
                 hr2:
@@ -925,8 +1003,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Ai4-uQ6lxk0
                       original: true
+              punkte: 5
+          thread: 108082
         "144":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=144
+          link: http://www.rappers.in/vbt09_runden.php?battle=144
           teilnehmer:
             - name: Rulex
               runden:
@@ -947,8 +1027,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/RBUqpl0KX7c
                       original: true
+          thread: 108052
         "145":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=145
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=145
           teilnehmer:
             - name: Serpa
               runden:
@@ -962,6 +1043,7 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59753046&type=video
                       original: true
+              punkte: 3
             - name: sHiZofRed
               runden:
                 hr2:
@@ -974,8 +1056,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/j4TKurxr_eM
                       original: true
+              punkte: 11
+          thread: 107891
         "146":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=146
+          link: http://www.rappers.in/vbt09_runden.php?battle=146
           teilnehmer:
             - name: Senzo
             - name: G.O!
@@ -985,8 +1069,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/mzzTA8_4SaI
                       original: true
+          thread: 108003
         "147":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=147
+          link: http://www.rappers.in/vbt09_runden.php?battle=147
           teilnehmer:
             - name: GeOT
               runden:
@@ -1007,8 +1092,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/w2LBoleIMDk
                       original: true
+          thread: 108461
         "148":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=148
+          link: http://www.rappers.in/vbt09_runden.php?battle=148
           teilnehmer:
             - name: Sence
             - name: Le Frog
@@ -1018,8 +1104,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/MNUfsnaOPcA
                       original: true
+          thread: 108199
         "149":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=149
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=149
           teilnehmer:
             - name: Machmut94
               runden:
@@ -1033,6 +1120,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/CPNbmAY0YQ0
                       original: true
+              punkte: 13
             - name: SaliemTM
               runden:
                 hr2:
@@ -1045,8 +1133,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/8JM7skrAIdA
                       original: true
+              punkte: 2
+          thread: 107562
         "150":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=150
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=150
           teilnehmer:
             - name: Sneaf
               runden:
@@ -1060,6 +1150,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Aa8mAt6-fYA
                       original: true
+              punkte: 2
             - name: Djin
               runden:
                 hr2:
@@ -1072,8 +1163,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/tunoYXuFBqQ
                       original: true
+              punkte: 9
+          thread: 108156
         "151":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=151
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=151
           teilnehmer:
             - name: Roxaz
               runden:
@@ -1087,6 +1180,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/fQYXeNnwmm8
                       original: true
+              punkte: 9
             - name: Remagin*
               runden:
                 hr2:
@@ -1099,8 +1193,11 @@ vbt2009:
                   links:
                     - url: https://youtu.be/_N4sagGwP0M
                       original: true
+              punkte: 7
+          thread: 108464
         "152":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=152
+          link: http://www.rappers.in/vbt09_runden.php?battle=152
+          thread: 108315
           teilnehmer:
             - name: dash`
               runden:
@@ -1111,7 +1208,7 @@ vbt2009:
                       original: true
             - name: "[email\_protected]"
         "153":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=153
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=153
           teilnehmer:
             - name: Toxygen
               runden:
@@ -1125,6 +1222,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Ydm8Kh6CBgc
                       original: true
+              punkte: 9
             - name: Kevnox
               runden:
                 hr2:
@@ -1137,8 +1235,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/t69t-BGije8
                       original: true
+              punkte: 12
+          thread: 107799
         "154":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=154
+          link: http://www.rappers.in/vbt09_runden.php?battle=154
           teilnehmer:
             - name: stfblade
               runden:
@@ -1148,8 +1248,9 @@ vbt2009:
                     - url: https://youtu.be/t5RuMGTOWyg
                       original: true
             - name: SonixDBG
+          thread: 107884
         "155":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=155
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=155
           teilnehmer:
             - name: NatZ
               runden:
@@ -1163,6 +1264,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/j8OSLqUZRXg
                       original: true
+              punkte: 14
             - name: Snowrash
               runden:
                 hr2:
@@ -1175,8 +1277,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/WblSpuKjeqA
                       original: true
+          thread: 108471
         "156":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=156
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=156
           teilnehmer:
             - name: what
               runden:
@@ -1190,6 +1293,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/UiwWzgvE7nE
                       original: true
+              punkte: 6
             - name: unknownKing
               runden:
                 hr2:
@@ -1202,8 +1306,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/thoDOBHOVuM
                       original: true
+              punkte: 5
+          thread: 108063
         "157":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=157
+          link: http://www.rappers.in/vbt09_runden.php?battle=157
           teilnehmer:
             - name: Taishu
               runden:
@@ -1224,8 +1330,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/aAlgNKoPrw8
                       original: true
+          thread: 107993
         "158":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=158
+          link: http://www.rappers.in/vbt09_runden.php?battle=158
+          thread: 107655
           teilnehmer:
             - name: mccaloo
               runden:
@@ -1236,7 +1344,7 @@ vbt2009:
                       original: true
             - name: Vülcüm
         "159":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=159
+          link: http://www.rappers.in/vbt09_runden.php?battle=159
           teilnehmer:
             - name: M-Flame
             - name: Pete Licious
@@ -1246,8 +1354,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0vWEs7ziZFQ
                       original: true
+          thread: 108498
         "160":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=160
+          link: http://www.rappers.in/vbt09_runden.php?battle=160
           teilnehmer:
             - name: Mighty Jackson
               runden:
@@ -1257,8 +1366,9 @@ vbt2009:
                     - url: https://youtu.be/lKJGrQ8BHRE
                       original: true
             - name: Mc-D-Sasta
+          thread: 108487
         "161":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=161
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=161
           teilnehmer:
             - name: Prime
               runden:
@@ -1272,6 +1382,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/TLfuphlOgG4
                       original: true
+              punkte: 5
             - name: trasher22222
               runden:
                 hr2:
@@ -1284,8 +1395,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/qrDfP5lPqfs
                       original: true
+              punkte: 5
+          thread: 107782
         "162":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=162
+          link: http://www.rappers.in/vbt09_runden.php?battle=162
           teilnehmer:
             - name: Jonny-Joker
             - name: Rec-Z
@@ -1295,8 +1408,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/u591ZLHTPfg
                       original: true
+          thread: 108146
         "163":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=163
+          link: http://www.rappers.in/vbt09_runden.php?battle=163
           teilnehmer:
             - name: dreamz MC
               runden:
@@ -1317,8 +1431,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/adc7Ul-juaI
                       original: true
+          thread: 107755
         "164":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=164
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=164
           teilnehmer:
             - name: B-High
               runden:
@@ -1332,6 +1447,7 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59791803&type=video
                       original: true
+              punkte: 9
             - name: Buttox
               runden:
                 hr2:
@@ -1344,8 +1460,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/69GaGxyLqes
                       original: true
+              punkte: 3
+          thread: 107846
         "165":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=165
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=165
           teilnehmer:
             - name: cash!
               runden:
@@ -1359,6 +1477,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/RA4rL4Mm-Q8
                       original: true
+              punkte: 14
             - name: A-effect
               runden:
                 hr2:
@@ -1371,8 +1490,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/mY4SxH-q7Lg
                       original: true
+              punkte: 4
+          thread: 108011
         "166":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=166
+          link: http://www.rappers.in/vbt09_runden.php?battle=166
           teilnehmer:
             - name: BeatSeptz
             - name: DECIZE
@@ -1382,8 +1503,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ODSEcyR299Y
                       original: true
+          thread: 107740
         "167":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=167
+          link: http://www.rappers.in/vbt09_runden.php?battle=167
           teilnehmer:
             - name: Damn One
               runden:
@@ -1393,8 +1515,9 @@ vbt2009:
                     - url: https://youtu.be/fHl0vth-Atg
                       original: true
             - name: D - C R i M E
+          thread: 107766
         "168":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=168
+          link: http://www.rappers.in/vbt09_runden.php?battle=168
           teilnehmer:
             - name: Crone*
             - name: Pr!MaR
@@ -1404,8 +1527,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/kJe07NenWpE
                       original: true
+          thread: 108367
         "169":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=169
+          link: http://www.rappers.in/vbt09_runden.php?battle=169
           teilnehmer:
             - name: "*K!nG h.P.*"
             - name: Beatkid_Rap
@@ -1415,8 +1539,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ZlBCxT0xLvE
                       original: true
+          thread: 108107
         "170":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=170
+          link: http://www.rappers.in/vbt09_runden.php?battle=170
           teilnehmer:
             - name: Brave
               runden:
@@ -1426,8 +1551,9 @@ vbt2009:
                     - url: https://youtu.be/09QlagTrRZw
                       original: true
             - name: Cehaes
+          thread: 107752
         "171":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=171
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=171
           teilnehmer:
             - name: ChrisFaction
               runden:
@@ -1441,6 +1567,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0S-Cim3EawA
                       original: true
+              punkte: 5
             - name: DerIlja
               runden:
                 hr2:
@@ -1453,8 +1580,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/43JUaYCH_dg
                       original: true
+              punkte: 3
+          thread: 107805
         "172":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=172
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=172
           teilnehmer:
             - name: clayne
               runden:
@@ -1468,6 +1597,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/v4lMm2HykUY
                       original: true
+              punkte: 7
             - name: Dexter the shit
               runden:
                 hr2:
@@ -1480,8 +1610,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/_oLQKQZMXms
                       original: true
+              punkte: 8
+          thread: 108484
         "173":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=173
+          link: http://www.rappers.in/vbt09_runden.php?battle=173
           teilnehmer:
             - name: Cmon
               runden:
@@ -1496,8 +1628,9 @@ vbt2009:
                     - url: https://youtu.be/m3_hxRGWu0M
                       original: true
             - name: dezO
+          thread: 108526
         "174":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=174
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=174
           teilnehmer:
             - name: CoolWhite
               runden:
@@ -1511,6 +1644,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/mTcD27hpnRU
                       original: true
+              punkte: 1
             - name: diRAPtor
               runden:
                 hr2:
@@ -1523,8 +1657,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/lrRTO4X_ncQ
                       original: true
+              punkte: 6
+          thread: 108268
         "175":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=175
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=175
           teilnehmer:
             - name: Danex
               runden:
@@ -1538,6 +1674,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/pGpVyLpYiKQ
                       original: true
+              punkte: 11
             - name: Cr0c
               runden:
                 hr2:
@@ -1550,8 +1687,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/PsJxwibmUGA
                       original: true
+              punkte: 9
+          thread: 107662
         "176":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=176
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=176
           teilnehmer:
             - name: Dani
               runden:
@@ -1565,6 +1704,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/UHq98yGzJL0
                       original: true
+              punkte: 13
             - name: Crazy Soul
               runden:
                 hr2:
@@ -1577,8 +1717,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0ypdjNwBVFk
                       original: true
+          thread: 107760
         "177":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=177
+          link: http://www.rappers.in/vbt09_runden.php?battle=177
           teilnehmer:
             - name: BubbaCardi
               runden:
@@ -1594,8 +1735,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/kA7e4EGe4z0
                       original: true
+          thread: 107854
         "178":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=178
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=178
+          thread: 108079
           teilnehmer:
             - name: Buskapé
               runden:
@@ -1609,6 +1752,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/XIWskPIM7vs
                       original: true
+              punkte: 12
             - name: Carlob1tch
               runden:
                 hr2:
@@ -1622,7 +1766,7 @@ vbt2009:
                     - url: https://youtu.be/otn9oovKLiM
                       original: true
         "179":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=179
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=179
           teilnehmer:
             - name: Deep Law
               runden:
@@ -1636,6 +1780,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/saDXwXnpJb8
                       original: true
+              punkte: 1
             - name: Eazy
               runden:
                 hr2:
@@ -1648,8 +1793,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/m-lGCFAxe_E
                       original: true
+              punkte: 13
+          thread: 108389
         "180":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=180
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=180
           teilnehmer:
             - name: dekz
               runden:
@@ -1663,6 +1810,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/lF2QnHWAo3k
                       original: true
+              punkte: 12
             - name: emco
               runden:
                 hr2:
@@ -1675,8 +1823,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/TUwBnUu-53Y
                       original: true
+              punkte: 2
+          thread: 108374
         "181":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=181
+          link: http://www.rappers.in/vbt09_runden.php?battle=181
           teilnehmer:
             - name: FreeRymes
               runden:
@@ -1697,8 +1847,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/VZC8bQ-HNtQ
                       original: true
+          thread: 108328
         "182":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=182
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=182
           teilnehmer:
             - name: Freshix
               runden:
@@ -1712,6 +1863,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/fPVreovQUZE
                       original: true
+              punkte: 3
             - name: Amok_Salva
               runden:
                 hr2:
@@ -1724,8 +1876,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/rZy3jX1H6bc
                       original: true
+              punkte: 10
+          thread: 108038
         "183":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=183
+          link: http://www.rappers.in/vbt09_runden.php?battle=183
           teilnehmer:
             - name: C.A.A.G.E
               runden:
@@ -1746,8 +1900,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/-9zI1MvfiHM
                       original: true
+          thread: 107814
         "185":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=185
+          link: http://www.rappers.in/vbt09_runden.php?battle=185
           teilnehmer:
             - name: Sunzh1ne
               runden:
@@ -1773,8 +1928,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/H4T0KYPwLGs
                       original: true
+              punkte: -1
+          thread: 108467
         "186":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=186
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=186
           teilnehmer:
             - name: bazooka
               runden:
@@ -1788,6 +1945,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/YO8xrDElN2w
                       original: true
+              punkte: 3
             - name: coru
               runden:
                 hr2:
@@ -1800,8 +1958,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/SGrrjqaq6eA
                       original: true
+              punkte: 7
+          thread: 108288
         "187":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=187
+          link: http://www.rappers.in/vbt09_runden.php?battle=187
           teilnehmer:
             - name: bbcstylah
               runden:
@@ -1810,6 +1970,7 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6632010
                       original: true
+              punkte: -1
             - name: d0p3
               runden:
                 hr2:
@@ -1817,8 +1978,9 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6584068
                       original: true
+          thread: 107694
         "188":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=188
+          link: http://www.rappers.in/vbt09_runden.php?battle=188
           teilnehmer:
             - name: big size on air
               runden:
@@ -1832,6 +1994,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Y4gBrO0Uphw
                       original: true
+              punkte: -1
             - name: D4rkSon1C
               runden:
                 hr2:
@@ -1844,8 +2007,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/u0u8vDLxfoQ
                       original: true
+          thread: 107977
         "189":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=189
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=189
           teilnehmer:
             - name: Black Zero
               runden:
@@ -1859,6 +2023,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/L39a09QfMAA
                       original: true
+              punkte: 4
             - name: D-$tyLe
               runden:
                 hr2:
@@ -1871,8 +2036,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/5RO2_UAsuvk
                       original: true
+              punkte: 15
+          thread: 107851
         "190":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=190
+          link: http://www.rappers.in/vbt09_runden.php?battle=190
           teilnehmer:
             - name: "--Exitus--"
               runden:
@@ -1898,8 +2065,9 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59835722&type=video
                       original: true
+          thread: 107530
         "191":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=191
+          link: http://www.rappers.in/vbt09_runden.php?battle=191
           teilnehmer:
             - name: eZ-Kay
               runden:
@@ -1920,8 +2088,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/qi8rAE1-jxg
                       original: true
+          thread: 107687
         "192":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=192
+          link: http://www.rappers.in/vbt09_runden.php?battle=192
           teilnehmer:
             - name: Kartoon
               runden:
@@ -1942,8 +2111,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/SzvlR93yzEA
                       original: true
+          thread: 108493
         "193":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=193
+          link: http://www.rappers.in/vbt09_runden.php?battle=193
           teilnehmer:
             - name: Kativo
               runden:
@@ -1953,8 +2123,9 @@ vbt2009:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59400867&type=video
                       original: true
             - name: KingApex
+          thread: 108355
         "194":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=194
+          link: http://www.rappers.in/vbt09_runden.php?battle=194
           teilnehmer:
             - name: kram26
               runden:
@@ -1980,8 +2151,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/VOaOzppCI54
                       original: true
+              punkte: -1
+          thread: 108391
         "195":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=195
+          link: http://www.rappers.in/vbt09_runden.php?battle=195
           teilnehmer:
             - name: Krancck
               runden:
@@ -1995,6 +2168,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/OcIFU7vLwOQ
                       original: true
+              punkte: -1
             - name: DreamOne
               runden:
                 hr2:
@@ -2007,8 +2181,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/5LOlipbgWTk
                       original: true
+          thread: 108520
         "196":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=196
+          link: http://www.rappers.in/vbt09_runden.php?battle=196
           teilnehmer:
             - name: Dupash
               runden:
@@ -2029,8 +2204,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/zwii805pYoc
                       original: true
+          thread: 107557
         "197":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=197
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=197
           teilnehmer:
             - name: Duzoe
               runden:
@@ -2044,6 +2220,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/cyUkl0keA6s
                       original: true
+              punkte: 12
             - name: Koma-Gun
               runden:
                 hr2:
@@ -2056,8 +2233,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/PVDCteOSgi4
                       original: true
+              punkte: 3
+          thread: 108412
         "198":
-          link: http://www.rappers.in/de/vbt09_runden.php?battle=198
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=198
           teilnehmer:
             - name: L.MC.L
               runden:
@@ -2071,6 +2250,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/wqk-HzEa5mw
                       original: true
+              punkte: 3
             - name: G-Nite
               runden:
                 hr2:
@@ -2083,8 +2263,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/l97qmj2gE0E
                       original: true
+              punkte: 8
+          thread: 108282
         "201":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=201
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=201
           teilnehmer:
             - name: Ka-o-Peh
               runden:
@@ -2098,6 +2280,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/qjC6m4fXvpg
                       original: true
+              punkte: 5
             - name: FelyFe
               runden:
                 hr2:
@@ -2110,8 +2293,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/1WF27FZM_Ow
                       original: true
+              punkte: 4
+          thread: 107858
         "202":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=202
+          link: http://www.rappers.in/vbt09_runden.php?battle=202
           teilnehmer:
             - name: H.Saad
               runden:
@@ -2132,8 +2317,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/00gyr-92vO4
                       original: true
+          thread: 108308
         "203":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=203
+          link: http://www.rappers.in/vbt09_runden.php?battle=203
           teilnehmer:
             - name: heynoo
               runden:
@@ -2143,8 +2329,9 @@ vbt2009:
                     - url: https://youtu.be/NRx7aSI_rms
                       original: true
             - name: Jay Pi
+          thread: 108477
         "204":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=204
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=204
           teilnehmer:
             - name: Disaster
               runden:
@@ -2158,6 +2345,7 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6625528
                       original: true
+              punkte: 2
             - name: Chellah
               runden:
                 hr2:
@@ -2170,8 +2358,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/I7fmfKIVJuU
                       original: true
+              punkte: 11
+          thread: 107514
         "205":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=205
+          link: http://www.rappers.in/vbt09_runden.php?battle=205
           teilnehmer:
             - name: Disk One
               runden:
@@ -2181,8 +2371,9 @@ vbt2009:
                     - url: https://youtu.be/pQx8H_c9ftA
                       original: true
             - name: chinoo
+          thread: 107713
         "206":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=206
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=206
           teilnehmer:
             - name: Becusa
               runden:
@@ -2196,6 +2387,7 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=59391604&type=video
                       original: true
+              punkte: 10
             - name: AZZIE
               runden:
                 hr2:
@@ -2208,8 +2400,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/XDzNZ1U9e48
                       original: true
+              punkte: 4
+          thread: 108295
         "207":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=207
+          link: http://www.rappers.in/vbt09_runden.php?battle=207
           teilnehmer:
             - name: Bekay
               runden:
@@ -2230,8 +2424,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/QJv9I2J4orQ
                       original: true
+          thread: 107953
         "208":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=208
+          link: http://www.rappers.in/vbt09_runden.php?battle=208
           teilnehmer:
             - name: aking
             - name: DasInsekt
@@ -2241,8 +2436,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/SfJH61p7EpA
                       original: true
+          thread: 108303
         "209":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=209
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=209
           teilnehmer:
             - name: Algasoro2009
               runden:
@@ -2256,6 +2452,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/-3Tny_d8dlY
                       original: true
+              punkte: 13
             - name: "-de kaot-"
               runden:
                 hr2:
@@ -2268,8 +2465,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Dtfn44EcUIA
                       original: true
+              punkte: 2
+          thread: 107697
         "210":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=210
+          link: http://www.rappers.in/vbt09_runden.php?battle=210
           teilnehmer:
             - name: Gchi
             - name: FloW-KiNG
@@ -2284,8 +2483,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/KqpNnatsd0c
                       original: true
+          thread: 108510
         "211":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=211
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=211
           teilnehmer:
             - name: Key-oZ
               runden:
@@ -2299,6 +2499,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/xq-VpH36sO8
                       original: true
+              punkte: 7
             - name: lemon_rap
               runden:
                 hr2:
@@ -2311,8 +2512,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/9FtMDDR5-wk
                       original: true
+              punkte: 10
+          thread: 107944
         "212":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=212
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=212
           teilnehmer:
             - name: Kico
               runden:
@@ -2326,6 +2529,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/FSQ3Ti3SHHE
                       original: true
+              punkte: 10
             - name: LeXuZ
               runden:
                 hr2:
@@ -2338,8 +2542,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/_CBOLnGFt_o
                       original: true
+              punkte: 1
+          thread: 107900
         "213":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=213
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=213
           teilnehmer:
             - name: MathiN FoX
               runden:
@@ -2353,6 +2559,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/OOycmgg6USc
                       original: true
+              punkte: 1
             - name: MPH
               runden:
                 hr2:
@@ -2365,8 +2572,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/oSwBzb_gkmo
                       original: true
+              punkte: 11
+          thread: 108241
         "214":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=214
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=214
           teilnehmer:
             - name: mayden
               runden:
@@ -2380,6 +2589,7 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6631631
                       original: true
+              punkte: 9
             - name: Mr. AliGelz
               runden:
                 hr2:
@@ -2392,8 +2602,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/eyMpIc-LP5I
                       original: true
+          thread: 107712
         "215":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=215
+          link: http://www.rappers.in/vbt09_runden.php?battle=215
+          thread: 108519
           teilnehmer:
             - name: nhc&moe;
             - name: Plajer
@@ -2404,7 +2616,7 @@ vbt2009:
                     - url: https://youtu.be/i2HTPjppKtk
                       original: true
         "216":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=216
+          link: http://www.rappers.in/vbt09_runden.php?battle=216
           teilnehmer:
             - name: Niun
               runden:
@@ -2425,8 +2637,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/uL9egEr8bZY
                       original: true
+          thread: 107504
         "217":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=217
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=217
           teilnehmer:
             - name: OG Fresh
               runden:
@@ -2440,6 +2653,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0hZ-vUfY7I8
                       original: true
+              punkte: 1
             - name: N-Dei
               runden:
                 hr2:
@@ -2452,8 +2666,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/eYzV46OFpo0
                       original: true
+              punkte: 18
+          thread: 107674
         "218":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=218
+          link: http://www.rappers.in/vbt09_runden.php?battle=218
           teilnehmer:
             - name: Miks
             - name: mcrainbo
@@ -2463,8 +2679,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/mdAspWl5EJ4
                       original: true
+          thread: 108055
         "219":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=219
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=219
           teilnehmer:
             - name: M-G-K
               runden:
@@ -2490,8 +2707,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/DJ1mgLDQcPA
                       original: true
+              punkte: 18
+          thread: 107771
         "220":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=220
+          link: http://www.rappers.in/vbt09_runden.php?battle=220
           teilnehmer:
             - name: Magickzzz
             - name: k-supreme
@@ -2501,8 +2720,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/1JD3nPyi-7c
                       original: true
+          thread: 108377
         "221":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=221
+          link: http://www.rappers.in/vbt09_runden.php?battle=221
           teilnehmer:
             - name: Lozipper
               runden:
@@ -2523,8 +2743,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/EERmzGBdMz4
                       original: true
+          thread: 108356
         "223":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=223
+          link: http://www.rappers.in/vbt09_runden.php?battle=223
           teilnehmer:
             - name: kingsegad
             - name: KeTh
@@ -2539,8 +2760,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/fJ3R35D5UWo
                       original: true
+          thread: 108170
         "224":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=224
+          link: http://www.rappers.in/vbt09_runden.php?battle=224
           teilnehmer:
             - name: Kermos aka King illy
               runden:
@@ -2561,8 +2783,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/NIX8hnBVms8
                       original: true
+          thread: 107751
         "225":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=225
+          link: http://www.rappers.in/vbt09_runden.php?battle=225
           teilnehmer:
             - name: JoFLow
               runden:
@@ -2583,8 +2806,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/84RWJSQlie0
                       original: true
+          thread: 107685
         "226":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=226
+          link: http://www.rappers.in/vbt09_runden.php?battle=226
           teilnehmer:
             - name: JPSpitter
               runden:
@@ -2605,8 +2829,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/5FI-GwA2hog
                       original: true
+          thread: 108492
         "227":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=227
+          link: http://www.rappers.in/vbt09_runden.php?battle=227
           teilnehmer:
             - name: Cybot Mc
               runden:
@@ -2627,8 +2852,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/wXrMU311dKk
                       original: true
+          thread: 107658
         "228":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=228
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=228
           teilnehmer:
             - name: C.A. One
               runden:
@@ -2642,6 +2868,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/vv5uK05Nzpk
                       original: true
+              punkte: 6
             - name: Big One R.D.
               runden:
                 hr2:
@@ -2654,8 +2881,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/yCazxettDkE
                       original: true
+          thread: 107955
         "229":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=229
+          link: http://www.rappers.in/vbt09_runden.php?battle=229
           teilnehmer:
             - name: A.J.
               runden:
@@ -2676,8 +2904,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/k9TOk0PzkKo
                       original: true
+          thread: 108300
         "230":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=230
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=230
           teilnehmer:
             - name: abduladarula
               runden:
@@ -2691,6 +2920,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/OYNdys1bVeU
                       original: true
+              punkte: 11
             - name: BDD
               runden:
                 hr2:
@@ -2703,8 +2933,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/eiY5iZgX-Kk
                       original: true
+              punkte: 2
+          thread: 108062
         "231":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=231
+          link: http://www.rappers.in/vbt09_runden.php?battle=231
           teilnehmer:
             - name: tmi
               runden:
@@ -2725,8 +2957,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/L-0qS87g4eY
                       original: true
+          thread: 107950
         "232":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=232
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=232
           teilnehmer:
             - name: DaN
               runden:
@@ -2740,6 +2973,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/2rpO2EiXVxc
                       original: true
+              punkte: 13
             - name: Suwhat
               runden:
                 hr2:
@@ -2752,8 +2986,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/WvOlbQhm290
                       original: true
+              punkte: 3
         "233":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=233
+          link: http://www.rappers.in/vbt09_runden.php?battle=233
           teilnehmer:
             - name: vlow
               runden:
@@ -2774,8 +3009,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/xVbdX-UBLk8
                       original: true
+          thread: 108036
         "234":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=234
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=234
           teilnehmer:
             - name: Toomb
               runden:
@@ -2789,6 +3025,7 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6632008
                       original: true
+              punkte: 5
             - name: Tico-acustic
               runden:
                 hr2:
@@ -2801,8 +3038,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/GTnVRo_dtUE
                       original: true
+              punkte: 7
+          thread: 108490
         "235":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=235
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=235
           teilnehmer:
             - name: Spane
               runden:
@@ -2816,6 +3055,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/VFct7a8wkDo
                       original: true
+              punkte: 2
             - name: Uncle_Benz
               runden:
                 hr2:
@@ -2828,8 +3068,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/iroE3N33tTs
                       original: true
+              punkte: 13
+          thread: 107670
         "236":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=236
+          link: http://www.rappers.in/vbt09_runden.php?battle=236
           teilnehmer:
             - name: 4ree
               runden:
@@ -2839,11 +3081,12 @@ vbt2009:
                     - url: https://youtu.be/oJhg9IDAZj8
                       original: true
             - name: ~ShazeR~
+          thread: 108496
     vorrunde-2:
-      name: "Vorrunde 2"
+      name: Vorrunde 2
       battles:
         "241":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=241
+          link: http://www.rappers.in/vbt09_runden.php?battle=241
           teilnehmer:
             - name: vini
               runden:
@@ -2859,8 +3102,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/IyvQj6RBCic
                       original: true
+          thread: 111000
         "242":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=242
+          link: http://www.rappers.in/vbt09_runden.php?battle=242
           teilnehmer:
             - name: StReNgG
               runden:
@@ -2870,8 +3114,9 @@ vbt2009:
                     - url: https://youtu.be/ymwz3EhpYLw
                       original: true
             - name: stfblade
+          thread: 111115
         "243":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=243
+          link: http://www.rappers.in/vbt09_runden.php?battle=243
           teilnehmer:
             - name: Rulex
               runden:
@@ -2887,8 +3132,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/98p2t9fXMjY
                       original: true
+          thread: 111094
         "244":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=244
+          link: http://www.rappers.in/vbt09_runden.php?battle=244
           teilnehmer:
             - name: Pacino-PlaySoulMusic
               runden:
@@ -2909,8 +3155,9 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=60693151&type=video
                       original: true
+          thread: 110676
         "245":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=245
+          link: http://www.rappers.in/vbt09_runden.php?battle=245
           teilnehmer:
             - name: Kartoon
               runden:
@@ -2920,11 +3167,12 @@ vbt2009:
                     - url: https://youtu.be/bh_Fnd9yN84
                       original: true
             - name: floW Levi
+          thread: 111129
     64tel:
       name: 64tel
       battles:
         "246":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=246
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=246
           teilnehmer:
             - name: Rosh
               runden:
@@ -2938,6 +3186,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/6Fnu5TPv7ig
                       original: true
+              punkte: 9
             - name: d0p3
               runden:
                 hr2:
@@ -2950,8 +3199,10 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6763867
                       original: true
+              punkte: 6
+          thread: 112512
         "247":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=247
+          link: http://www.rappers.in/vbt09_runden.php?battle=247
           teilnehmer:
             - name: L1mit
               runden:
@@ -2961,8 +3212,9 @@ vbt2009:
                     - url: https://youtu.be/8lTanHCJUtM
                       original: true
             - name: D_LuX
+          thread: 112603
         "248":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=248
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=248
           teilnehmer:
             - name: Rec-Z
               runden:
@@ -2976,6 +3228,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/3FXGOOwagtQ
                       original: true
+              punkte: 18
             - name: Cybot Mc
               runden:
                 hr2:
@@ -2988,8 +3241,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Eeut1YSUoWI
                       original: true
+          thread: 112474
         "249":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=249
+          link: http://www.rappers.in/vbt09_runden.php?battle=249
           teilnehmer:
             - name: Prioritaet
               runden:
@@ -3004,8 +3258,9 @@ vbt2009:
                     - url: https://youtu.be/52eZt4oA0d0
                       original: true
             - name: Cmon
+          thread: 112569
         "251":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=251
+          link: http://www.rappers.in/vbt09_runden.php?battle=251
           teilnehmer:
             - name: Kartoon
               runden:
@@ -3026,8 +3281,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ioDV8zv2IjE
                       original: true
+          thread: 112507
         "252":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=252
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=252
           teilnehmer:
             - name: Plajer
               runden:
@@ -3041,6 +3297,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/4tHs1TS0Ggo
                       original: true
+              punkte: 1
             - name: Beatkid_Rap
               runden:
                 hr2:
@@ -3053,8 +3310,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Y2mvxdj9Rno
                       original: true
+              punkte: 11
+          thread: 112492
         "253":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=253
+          link: http://www.rappers.in/vbt09_runden.php?battle=253
           teilnehmer:
             - name: Pete Licious
               runden:
@@ -3064,8 +3323,9 @@ vbt2009:
                     - url: https://youtu.be/oXn-WV6t_fk
                       original: true
             - name: BaDeseD
+          thread: 112599
         "254":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=254
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=254
           teilnehmer:
             - name: Pate 74523
               runden:
@@ -3079,6 +3339,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/O1Wv5IttjP4
                       original: true
+              punkte: 3
             - name: B zum O
               runden:
                 hr2:
@@ -3091,8 +3352,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/mGobNQriIbg
                       original: true
+              punkte: 4
+          thread: 111971
         "255":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=255
+          link: http://www.rappers.in/vbt09_runden.php?battle=255
           teilnehmer:
             - name: StReNgG
               runden:
@@ -3113,8 +3376,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/E42yubJuQjk
                       original: true
+          thread: 112477
         "256":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=256
+          link: http://www.rappers.in/vbt09_runden.php?battle=256
           teilnehmer:
             - name: OnlyOneProduction
             - name: 4ree
@@ -3124,8 +3388,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/VPL6g_XF3Zc
                       original: true
+          thread: 112469
         "257":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=257
+          link: http://www.rappers.in/vbt09_runden.php?battle=257
           teilnehmer:
             - name: Nug
               runden:
@@ -3135,8 +3400,9 @@ vbt2009:
                     - url: https://youtu.be/gSG76rVJdqg
                       original: true
             - name: ~Uppel~
+          thread: 112520
         "258":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=258
+          link: http://www.rappers.in/vbt09_runden.php?battle=258
           teilnehmer:
             - name: M-O-D_Fat-Recordz
             - name: $SheezY$
@@ -3146,8 +3412,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/qqxGI7DAWzo
                       original: true
+          thread: 112589
         "259":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=259
+          link: http://www.rappers.in/vbt09_runden.php?battle=259
           teilnehmer:
             - name: Mighty Jackson
               runden:
@@ -3162,6 +3429,7 @@ vbt2009:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61455711&type=video
                       original: true
             - name: "[DZ] Zee4"
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -3173,8 +3441,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ILVdf_8_MSw
                       original: true
+          thread: 112605
         "260":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=260
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=260
           teilnehmer:
             - name: mcrainbo
               runden:
@@ -3188,6 +3457,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/8ZKyRCYpXyI
                       original: true
+              punkte: 2
             - name: B-Chris
               runden:
                 hr2:
@@ -3200,8 +3470,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/J5SYbFqWvoY
                       original: true
+              punkte: 16
+          thread: 112381
         "262":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=262
+          link: http://www.rappers.in/vbt09_runden.php?battle=262
           teilnehmer:
             - name: MaygaStyle
               runden:
@@ -3222,8 +3494,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/JSGbD-wZ_h0
                       original: true
+          thread: 112534
         "263":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=263
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=263
           teilnehmer:
             - name: Mabu
               runden:
@@ -3237,6 +3510,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/dfmlbKZhkgs
                       original: true
+              punkte: 3
             - name: RaP2FaST
               runden:
                 hr2:
@@ -3249,8 +3523,10 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61276738&type=video
                       original: true
+              punkte: 6
+          thread: 112305
         "264":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=264
+          link: http://www.rappers.in/vbt09_runden.php?battle=264
           teilnehmer:
             - name: M1Co
             - name: K-Win
@@ -3260,8 +3536,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/UAA-pG0hDTE
                       original: true
+          thread: 112609
         "265":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=265
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=265
           teilnehmer:
             - name: Luie-Die-Nadel
               runden:
@@ -3275,6 +3552,7 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61463921&type=video
                       original: true
+              punkte: 8
             - name: e-menz
               runden:
                 hr2:
@@ -3287,8 +3565,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Z06iEOAA8R0
                       original: true
+              punkte: 5
+          thread: 112586
         "266":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=266
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=266
           teilnehmer:
             - name: LTeck
               runden:
@@ -3302,6 +3582,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/XNDxoW3GD-w
                       original: true
+              punkte: 6
             - name: Fayk
               runden:
                 hr2:
@@ -3314,8 +3595,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/hUHm4PVd1eA
                       original: true
+              punkte: 3
+          thread: 112522
         "267":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=267
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=267
           teilnehmer:
             - name: Le Frog
               runden:
@@ -3329,6 +3612,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0aiRU6koJxo
                       original: true
+              punkte: 4
             - name: Pat Riot
               runden:
                 hr2:
@@ -3341,8 +3625,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/9-1Qsg52uDE
                       original: true
+              punkte: 6
+          thread: 112513
         "268":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=268
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=268
           teilnehmer:
             - name: k-supreme
               runden:
@@ -3356,6 +3642,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/U5jPtV-7kIc
                       original: true
+              punkte: 8
             - name: S-aN
               runden:
                 hr2:
@@ -3368,8 +3655,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/YKFnsVQ-Sjc
                       original: true
+              punkte: 7
+          thread: 112374
         "269":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=269
+          link: http://www.rappers.in/vbt09_runden.php?battle=269
           teilnehmer:
             - name: TchilleR
             - name: Odin
@@ -3379,8 +3668,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ixppwuajt0c
                       original: true
+          thread: 112547
         "270":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=270
+          link: http://www.rappers.in/vbt09_runden.php?battle=270
           teilnehmer:
             - name: RuFfY-D
             - name: V!RUS90
@@ -3390,8 +3680,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/6_eB8G5U_ac
                       original: true
+          thread: 112341
         "271":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=271
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=271
           teilnehmer:
             - name: Silus
               runden:
@@ -3405,6 +3696,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/HY2t03FDGNQ&eur
                       original: true
+              punkte: 10
             - name: shortystyle
               runden:
                 hr2:
@@ -3417,8 +3709,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/UJCTiiuD6fw
                       original: true
+              punkte: 2
+          thread: 112382
         "272":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=272
+          link: http://www.rappers.in/vbt09_runden.php?battle=272
           teilnehmer:
             - name: Tard-NDS
               runden:
@@ -3439,13 +3733,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/-UTszYeJz14
                       original: true
-                rr1:
-                  name: RR1
-                  links:
-                    - url: https://youtu.be/-UTszYeJz14
-                      original: true
+          thread: 112468
         "273":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=273
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=273
           teilnehmer:
             - name: sHiZofRed
               runden:
@@ -3459,6 +3749,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/UHdjV3r4HyM
                       original: true
+              punkte: 6
             - name: SnIggediSnIx
               runden:
                 hr2:
@@ -3471,8 +3762,10 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61327530&type=video
                       original: true
+              punkte: 3
+          thread: 112585
         "274":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=274
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=274
           teilnehmer:
             - name: Machmut94
               runden:
@@ -3486,6 +3779,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0vsyOUSYAOI
                       original: true
+              punkte: 10
             - name: UzumN
               runden:
                 hr2:
@@ -3498,8 +3792,10 @@ vbt2009:
                   links:
                     - url: http://vimeo.com/moogaloop.swf?clip_id=5886794&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
                       original: true
+              punkte: 3
+          thread: 112388
         "275":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=275
+          link: http://www.rappers.in/vbt09_runden.php?battle=275
           teilnehmer:
             - name: Djin
               runden:
@@ -3509,8 +3805,9 @@ vbt2009:
                     - url: https://youtu.be/rwWg03U1JGs
                       original: true
             - name: D-$tyLe
+          thread: 112518
         "276":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=276
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=276
           teilnehmer:
             - name: Roxaz
               runden:
@@ -3524,6 +3821,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/OfGHr1PwsnY
                       original: true
+              punkte: 3
             - name: Duzoe
               runden:
                 hr2:
@@ -3536,8 +3834,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/K2a7AyC3_sk
                       original: true
+              punkte: 10
+          thread: 112601
         "277":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=277
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=277
           teilnehmer:
             - name: Kevnox
               runden:
@@ -3551,6 +3851,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/kTWMkgFul7w
                       original: true
+              punkte: 12
             - name: G-Nite
               runden:
                 hr2:
@@ -3563,8 +3864,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/dW3rqczhWPM
                       original: true
+              punkte: 6
+          thread: 112375
         "278":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=278
+          link: http://www.rappers.in/vbt09_runden.php?battle=278
           teilnehmer:
             - name: NatZ
               runden:
@@ -3574,8 +3877,9 @@ vbt2009:
                     - url: https://youtu.be/PAlsWbBqApo
                       original: true
             - name: Ka-o-Peh
+          thread: 112069
         "279":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=279
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=279
           teilnehmer:
             - name: what
               runden:
@@ -3589,6 +3893,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/HaNv0dXlDVA
                       original: true
+              punkte: 1
             - name: Chellah
               runden:
                 hr2:
@@ -3601,8 +3906,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/UN_vJ0UmJ0w
                       original: true
+              punkte: 9
+          thread: 112510
         "280":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=280
+          link: http://www.rappers.in/vbt09_runden.php?battle=280
           teilnehmer:
             - name: Prime
               runden:
@@ -3623,8 +3930,9 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61121053&type=video
                       original: true
+          thread: 112558
         "281":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=281
+          link: http://www.rappers.in/vbt09_runden.php?battle=281
           teilnehmer:
             - name: trasher2222
               runden:
@@ -3645,8 +3953,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/jK4ImvEkVTA
                       original: true
+          thread: 112227
         "282":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=282
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=282
           teilnehmer:
             - name: B-High
               runden:
@@ -3660,6 +3969,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/c7ETHsTWU-I
                       original: true
+              punkte: 5
             - name: lemon_rap
               runden:
                 hr2:
@@ -3672,8 +3982,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Oo2Lacv-MQo
                       original: true
+              punkte: 7
+          thread: 112596
         "283":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=283
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=283
           teilnehmer:
             - name: cash!
               runden:
@@ -3687,6 +3999,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/4iwZn2QrO0I
                       original: true
+              punkte: 9
             - name: Kico
               runden:
                 hr2:
@@ -3699,8 +4012,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/-W5UekwAw1M
                       original: true
+              punkte: 15
+          thread: 112423
         "284":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=284
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=284
           teilnehmer:
             - name: ChrisFaction
               runden:
@@ -3726,8 +4041,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/KOEmNoIKN7Y
                       original: true
+              punkte: 16
+          thread: 112294
         "285":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=285
+          link: http://www.rappers.in/vbt09_runden.php?battle=285
           teilnehmer:
             - name: Dexter the shit
               runden:
@@ -3737,8 +4054,9 @@ vbt2009:
                     - url: https://youtu.be/emdtBbjrSWg
                       original: true
             - name: mayden
+          thread: 112537
         "286":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=286
+          link: http://www.rappers.in/vbt09_runden.php?battle=286
           teilnehmer:
             - name: diRAPtor
               runden:
@@ -3764,8 +4082,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/6q4YoRpXjGE
                       original: true
+          thread: 112593
         "287":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=287
+          link: http://www.rappers.in/vbt09_runden.php?battle=287
           teilnehmer:
             - name: Danex
               runden:
@@ -3775,8 +4094,9 @@ vbt2009:
                     - url: https://youtu.be/iaObl5X49r4
                       original: true
             - name: Lekxs
+          thread: 111994
         "288":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=288
+          link: http://www.rappers.in/vbt09_runden.php?battle=288
           teilnehmer:
             - name: Dani
               runden:
@@ -3791,6 +4111,7 @@ vbt2009:
                     - url: https://youtu.be/bFUcl42-tbA
                       original: true
             - name: C.A. One
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -3802,8 +4123,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/1flnt7ZViZM
                       original: true
+          thread: 112372
         "289":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=289
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=289
+          thread: 112500
           teilnehmer:
             - name: Buskapé
               runden:
@@ -3817,6 +4140,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/6EVPoKLCCi8
                       original: true
+              punkte: 12
             - name: abduladarula
               runden:
                 hr2:
@@ -3829,8 +4153,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Ih8Vejr7iDI
                       original: true
+              punkte: 6
         "290":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=290
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=290
           teilnehmer:
             - name: Eazy
               runden:
@@ -3844,6 +4169,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/S4eS3YhEbDU
                       original: true
+              punkte: 5
             - name: DaN
               runden:
                 hr2:
@@ -3856,8 +4182,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/BMSh_aAJlG4
                       original: true
+              punkte: 11
+          thread: 112631
         "291":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=291
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=291
           teilnehmer:
             - name: dekz
               runden:
@@ -3871,6 +4199,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/rIObvVg6fBU
                       original: true
+              punkte: 8
             - name: Tico-acustic
               runden:
                 hr2:
@@ -3883,8 +4212,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/DaWWzlzmrcs
                       original: true
+              punkte: 7
+          thread: 112496
         "292":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=292
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=292
           teilnehmer:
             - name: Amok_Salva
               runden:
@@ -3910,8 +4241,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/13Dta8w0lMo
                       original: true
+              punkte: 12
+          thread: 112583
         "293":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=293
+          link: http://www.rappers.in/vbt09_runden.php?battle=293
           teilnehmer:
             - name: coru
               runden:
@@ -3932,8 +4265,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ItvK4Arc6kk
                       original: true
+          thread: 112357
         "294":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=294
+          link: http://www.rappers.in/vbt09_runden.php?battle=294
           teilnehmer:
             - name: vlow
               runden:
@@ -3954,8 +4288,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/20z0Cs4FGrM
                       original: true
+          thread: 112555
         "295":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=295
+          link: http://www.rappers.in/vbt09_runden.php?battle=295
           teilnehmer:
             - name: Tabun
               runden:
@@ -3965,8 +4300,9 @@ vbt2009:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61020521&type=video
                       original: true
             - name: Younxtaa
+          thread: 112281
         "296":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=296
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=296
           teilnehmer:
             - name: Sunzh1ne
               runden:
@@ -3980,6 +4316,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/qLdiOwmdNag
                       original: true
+              punkte: 6
             - name: fedaLic
               runden:
                 hr2:
@@ -3992,8 +4329,10 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6759331
                       original: true
+              punkte: 9
+          thread: 112543
         "297":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=297
+          link: http://www.rappers.in/vbt09_runden.php?battle=297
           teilnehmer:
             - name: Straightluke
               runden:
@@ -4003,10 +4342,12 @@ vbt2009:
                     - url: https://youtu.be/xdlBtexTTSw
                       original: true
             - name: kram26
+          thread: 112561
         "298":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=298
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=298
           teilnehmer:
             - name: Sichtwaise aka Masafakka
+              punkte: 4
               runden:
                 hr1:
                   name: HR1
@@ -4019,6 +4360,7 @@ vbt2009:
                     - url: http://www.myvideo.de/movie/6767607
                       original: true
             - name: KeTh
+              punkte: 5
               runden:
                 hr2:
                   name: HR2
@@ -4030,8 +4372,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/IlgN-EwM8E8
                       original: true
+          thread: 112171
         "299":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=299
+          link: http://www.rappers.in/vbt09_runden.php?battle=299
           teilnehmer:
             - name: Scheffy Scheff
               runden:
@@ -4052,8 +4395,9 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61128742&type=video
                       original: true
+          thread: 112613
         "300":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=300
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=300
           teilnehmer:
             - name: Fid Al Bassrow
               runden:
@@ -4067,6 +4411,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/oX4mqV6nBpE
                       original: true
+              punkte: 6
             - name: JPSpitter
               runden:
                 hr2:
@@ -4079,8 +4424,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/b-4E5CgzUN8
                       original: true
+              punkte: 1
+          thread: 112608
         "301":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=301
+          link: http://www.rappers.in/vbt09_runden.php?battle=301
           teilnehmer:
             - name: fgsz447
             - name: JoFLow
@@ -4090,8 +4437,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/CeK_BiykoRQ
                       original: true
+          thread: 112595
         "302":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=302
+          link: http://www.rappers.in/vbt09_runden.php?battle=302
           teilnehmer:
             - name: eZ-Kay
               runden:
@@ -4101,8 +4449,9 @@ vbt2009:
                     - url: http://vimeo.com/moogaloop.swf?clip_id=5776057&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
                       original: true
             - name: janbarmann
+          thread: 112521
         "303":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=303
+          link: http://www.rappers.in/vbt09_runden.php?battle=303
           teilnehmer:
             - name: Dupash
               runden:
@@ -4112,8 +4461,9 @@ vbt2009:
                     - url: https://youtu.be/j_kCZ9hnllc
                       original: true
             - name: heynoo
+          thread: 112232
         "304":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=304
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=304
           teilnehmer:
             - name: dreamz MC
               runden:
@@ -4139,8 +4489,10 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61403373&type=video
                       original: true
+              punkte: 6
+          thread: 112426
         "305":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=305
+          link: http://www.rappers.in/vbt09_runden.php?battle=305
           teilnehmer:
             - name: DreamOne
               runden:
@@ -4161,8 +4513,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0vwunLct_U4
                       original: true
+          thread: 112495
         "306":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=306
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=306
           teilnehmer:
             - name: Disk One
               runden:
@@ -4176,6 +4529,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/agckI8c_GAU
                       original: true
+              punkte: 4
             - name: FloW-KiNG
               runden:
                 hr2:
@@ -4188,8 +4542,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/usvvr77oay4
                       original: true
+              punkte: 11
+          thread: 112592
         "307":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=307
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=307
           teilnehmer:
             - name: Der_NeGro
               runden:
@@ -4203,6 +4559,7 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=61463015&type=video
                       original: true
+              punkte: 1
             - name: SpliffTastiC
               runden:
                 hr2:
@@ -4215,8 +4572,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/YQGQx1umMFg
                       original: true
+              punkte: 11
+          thread: 112343
         "308":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=308
+          link: http://www.rappers.in/vbt09_runden.php?battle=308
           teilnehmer:
             - name: DECIZE
               runden:
@@ -4226,8 +4585,9 @@ vbt2009:
                     - url: https://youtu.be/5Q0QcP1ge5U
                       original: true
             - name: dash`
+          thread: 112429
         "309":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=309
+          link: http://www.rappers.in/vbt09_runden.php?battle=309
           teilnehmer:
             - name: DasInsekt
               runden:
@@ -4248,11 +4608,12 @@ vbt2009:
                   links:
                     - url: https://youtu.be/_GRrNC4QObY
                       original: true
+          thread: 112462
     32tel:
       name: 32tel
       battles:
         "311":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=311
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=311
           teilnehmer:
             - name: Kartoon
               runden:
@@ -4266,6 +4627,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/YPfo5-J_O_w
                       original: true
+              punkte: 2
             - name: GeOT
               runden:
                 hr2:
@@ -4278,8 +4640,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/CxcHWQnlITw
                       original: true
+              punkte: 9
+          thread: 115817
         "312":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=312
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=312
           teilnehmer:
             - name: Algasoro2009
               runden:
@@ -4293,6 +4657,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/B5Bhm_pQk8w
                       original: true
+              punkte: 3
             - name: FloW-KiNG
               runden:
                 hr2:
@@ -4305,8 +4670,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/xv52UKiysGU
                       original: true
+              punkte: 11
+          thread: 115822
         "313":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=313
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=313
           teilnehmer:
             - name: Scheffy Scheff
               runden:
@@ -4320,6 +4687,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/nRV1q3WKVvk
                       original: true
+              punkte: 1
             - name: SpliffTastiC
               runden:
                 hr2:
@@ -4332,8 +4700,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/v90vcO7dm6k
                       original: true
+              punkte: 15
+          thread: 115245
         "314":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=314
+          link: http://www.rappers.in/vbt09_runden.php?battle=314
           teilnehmer:
             - name: Djin
               runden:
@@ -4354,8 +4724,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/F-e0wITUq8A
                       original: true
+          thread: 115807
         "315":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=315
+          link: http://www.rappers.in/vbt09_runden.php?battle=315
           teilnehmer:
             - name: D4rkSon1C
               runden:
@@ -4376,8 +4747,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/t6WrIYWoe74
                       original: true
+          thread: 115813
         "316":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=316
+          link: http://www.rappers.in/vbt09_runden.php?battle=316
           teilnehmer:
             - name: G.O!
             - name: RaP2FaST
@@ -4387,8 +4759,9 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=62165471&type=video
                       original: true
+          thread: 115408
         "317":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=317
+          link: http://www.rappers.in/vbt09_runden.php?battle=317
           teilnehmer:
             - name: Alpha.D
               runden:
@@ -4404,8 +4777,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/XBKnHLlVzg4
                       original: true
+          thread: 115543
         "318":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=318
+          link: http://www.rappers.in/vbt09_runden.php?battle=318
           teilnehmer:
             - name: Prioritaet
             - name: LTeck
@@ -4415,8 +4789,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/g4q1Q4a1Aqo
                       original: true
+          thread: 115764
         "319":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=319
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=319
           teilnehmer:
             - name: Pete Licious
               runden:
@@ -4430,6 +4805,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/w1sw-Wno_Z8
                       original: true
+              punkte: 11
             - name: Tard-NDS
               runden:
                 hr2:
@@ -4442,8 +4818,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/byhgP6jP-kc
                       original: true
+              punkte: 5
+          thread: 115821
         "320":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=320
+          link: http://www.rappers.in/vbt09_runden.php?battle=320
           teilnehmer:
             - name: JoFLow
               runden:
@@ -4458,8 +4836,9 @@ vbt2009:
                     - url: https://youtu.be/TPoshqmC6nQ
                       original: true
             - name: k-supreme
+          thread: 115850
         "321":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=321
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=321
           teilnehmer:
             - name: Odin
               runden:
@@ -4485,8 +4864,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/RiR4gyFsgy8
                       original: true
+              punkte: 12
+          thread: 115697
         "322":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=322
+          link: http://www.rappers.in/vbt09_runden.php?battle=322
           teilnehmer:
             - name: $SheezY$
             - name: sHiZofRed
@@ -4496,8 +4877,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/QceC2PaT_wk
                       original: true
+          thread: 115837
         "323":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=323
+          link: http://www.rappers.in/vbt09_runden.php?battle=323
           teilnehmer:
             - name: eZ-Kay
               runden:
@@ -4518,8 +4900,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/plvBNGIx4lo
                       original: true
+          thread: 115549
         "324":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=324
+          link: http://www.rappers.in/vbt09_runden.php?battle=324
           teilnehmer:
             - name: L1mit
               runden:
@@ -4540,8 +4923,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/SXebdh3MgW4
                       original: true
+          thread: 115677
         "325":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=325
+          link: http://www.rappers.in/vbt09_runden.php?battle=325
           teilnehmer:
             - name: Dexter the shit
             - name: Silus
@@ -4551,8 +4935,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/yw5fTHhJo6g
                       original: true
+          thread: 115851
         "326":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=326
+          link: http://www.rappers.in/vbt09_runden.php?battle=326
           teilnehmer:
             - name: Dupash
             - name: Chellah
@@ -4562,8 +4947,9 @@ vbt2009:
                   links:
                     - url: http://www.myvideo.de/movie/6842951
                       original: true
+          thread: 115857
         "327":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=327
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=327
           teilnehmer:
             - name: 4ree
               runden:
@@ -4577,6 +4963,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/XjVOBiYH_No
                       original: true
+              punkte: 12
             - name: lemon_rap
               runden:
                 hr2:
@@ -4589,8 +4976,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Uyi9PC8hCGE
                       original: true
+              punkte: 5
+          thread: 115836
         "328":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=328
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=328
           teilnehmer:
             - name: Tabun
               runden:
@@ -4604,6 +4993,7 @@ vbt2009:
                   links:
                     - url: http://lads.myspace.com/videos/vplayer.swf?m=62591913&type=video
                       original: true
+              punkte: 7
             - name: Kico
               runden:
                 hr2:
@@ -4616,8 +5006,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/CVTCKLVN3nI
                       original: true
+              punkte: 14
+          thread: 115804
         "329":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=329
+          link: http://www.rappers.in/vbt09_runden.php?battle=329
           teilnehmer:
             - name: NatZ
             - name: diRAPtor
@@ -4632,8 +5024,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/drM4rF4RJIk
                       original: true
+          thread: 115843
         "330":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=330
+          link: http://www.rappers.in/vbt09_runden.php?battle=330
           teilnehmer:
             - name: DECIZE
               runden:
@@ -4643,10 +5036,12 @@ vbt2009:
                     - url: https://youtu.be/cYBC6SrfUpA
                       original: true
             - name: N-Dei
+          thread: 115770
         "331":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=331
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=331
           teilnehmer:
             - name: V!RUS90
+              punkte: 9
               runden:
                 hr1:
                   name: HR1
@@ -4659,6 +5054,7 @@ vbt2009:
                     - url: https://youtu.be/pn5FnnAyH58
                       original: true
             - name: Damn One
+              punkte: 3
               runden:
                 hr2:
                   name: HR2
@@ -4670,8 +5066,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/qWUuaRs8JDM
                       original: true
+          thread: 115835
         "332":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=332
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=332
           teilnehmer:
             - name: Rosh
               runden:
@@ -4685,6 +5082,7 @@ vbt2009:
                   links:
                     - url: http://vimeo.com/moogaloop.swf?clip_id=6360133&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
                       original: true
+              punkte: 5
             - name: RizeIt
               runden:
                 hr2:
@@ -4697,8 +5095,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/E8WxIxczBCg
                       original: true
+              punkte: 4
+          thread: 115834
         "333":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=333
+          link: http://www.rappers.in/vbt09_runden.php?battle=333
           teilnehmer:
             - name: Rec-Z
               runden:
@@ -4708,8 +5108,9 @@ vbt2009:
                     - url: https://youtu.be/y3kov5ZCYDs
                       original: true
             - name: Prime
+          thread: 115737
         "334":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=334
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=334
           teilnehmer:
             - name: Beatkid_Rap
               runden:
@@ -4723,6 +5124,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/zqiUAgDJrfM
                       original: true
+              punkte: 9
             - name: B zum O
               runden:
                 hr2:
@@ -4735,8 +5137,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/vfSyugjQk1M
                       original: true
+              punkte: 15
+          thread: 115744
         "335":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=335
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=335
           teilnehmer:
             - name: MPH
               runden:
@@ -4750,6 +5154,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/8CapSgL2sqo
                       original: true
+              punkte: 10
             - name: Danex
               runden:
                 hr2:
@@ -4762,8 +5167,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/_dO6oHV25FM
                       original: true
+          thread: 115454
         "336":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=336
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=336
+          thread: 115781
           teilnehmer:
             - name: Buskapé
               runden:
@@ -4777,6 +5184,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/pKMvMQjNwOI
                       original: true
+              punkte: 5
             - name: Nug
               runden:
                 hr2:
@@ -4789,8 +5197,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/2brrqwXuZoU
                       original: true
+              punkte: 12
         "337":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=337
+          link: http://www.rappers.in/vbt09_runden.php?battle=337
           teilnehmer:
             - name: DaN
             - name: Dani
@@ -4801,7 +5210,7 @@ vbt2009:
                     - url: https://youtu.be/ENL2mNUvPLI
                       original: true
         "338":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=338
+          link: http://www.rappers.in/vbt09_runden.php?battle=338
           teilnehmer:
             - name: dekz
               runden:
@@ -4811,8 +5220,9 @@ vbt2009:
                     - url: https://youtu.be/L0pRqzZO-dQ
                       original: true
             - name: DasInsekt
+          thread: 115819
         "339":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=339
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=339
           teilnehmer:
             - name: Uncle_Benz
               runden:
@@ -4826,6 +5236,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0TiwAnNN__M
                       original: true
+              punkte: 8
             - name: Pat Riot
               runden:
                 hr2:
@@ -4838,8 +5249,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/iPBnRRPef54
                       original: true
+              punkte: 8
+          thread: 115751
         "340":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=340
+          link: http://www.rappers.in/vbt09_runden.php?battle=340
           teilnehmer:
             - name: fedaLic
             - name: K-Win
@@ -4849,10 +5262,12 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Z3C2G5Al_ew
                       original: true
+          thread: 115771
         "341":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=341
+          link: http://www.rappers.in/vbt09_runden.php?battle=341
           teilnehmer:
             - name: KeTh
+              punkte: -1
               runden:
                 hr1:
                   name: HR1
@@ -4876,8 +5291,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/fLGShxKnwLk
                       original: true
+          thread: 115838
         "342":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=342
+          link: http://www.rappers.in/vbt09_runden.php?battle=342
           teilnehmer:
             - name: Fid Al Bassrow
               runden:
@@ -4898,11 +5314,12 @@ vbt2009:
                   links:
                     - url: https://youtu.be/G57jvMWNtIM
                       original: true
+          thread: 115761
     16tel:
       name: 16tel
       battles:
         "344":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=344
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=344
           teilnehmer:
             - name: Fid Al Bassrow
               runden:
@@ -4916,6 +5333,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Cqs_xYGLz4k
                       original: true
+              punkte: 15
             - name: GeOT
               runden:
                 hr2:
@@ -4928,8 +5346,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ll8X47tuMb0
                       original: true
+              punkte: 11
+          thread: 118361
         "345":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=345
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=345
           teilnehmer:
             - name: Straightluke
               runden:
@@ -4943,6 +5363,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/9d77bwTrSYQ
                       original: true
+              punkte: 1
             - name: MPH
               runden:
                 hr2:
@@ -4955,8 +5376,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/X4joGBCRTZw
                       original: true
+              punkte: 13
+          thread: 118424
         "346":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=346
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=346
           teilnehmer:
             - name: Rec-Z
               runden:
@@ -4970,6 +5393,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/fM_LST2K9RU
                       original: true
+              punkte: 7
             - name: coru
               runden:
                 hr2:
@@ -4982,10 +5406,13 @@ vbt2009:
                   links:
                     - url: https://youtu.be/CfcUK6fIt64
                       original: true
+              punkte: 13
+          thread: 118080
         "347":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=347
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=347
           teilnehmer:
             - name: LTeck
+              punkte: 5
               runden:
                 hr1:
                   name: HR1
@@ -4998,6 +5425,7 @@ vbt2009:
                     - url: https://youtu.be/-IkuMctj8GM
                       original: true
             - name: 4ree
+              punkte: 18
               runden:
                 hr2:
                   name: HR2
@@ -5009,10 +5437,12 @@ vbt2009:
                   links:
                     - url: https://youtu.be/9dYVBRMbwBE
                       original: true
+          thread: 118430
         "348":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=348
+          link: http://www.rappers.in/vbt09_runden.php?battle=348
           teilnehmer:
             - name: dekz
+              punkte: -1
               runden:
                 hr1:
                   name: HR1
@@ -5036,8 +5466,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/02FsUAby01E
                       original: true
+          thread: 118293
         "349":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=349
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=349
           teilnehmer:
             - name: JoFLow
               runden:
@@ -5051,6 +5482,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/NJ38cEjcSM0
                       original: true
+              punkte: 8
             - name: Kevnox
               runden:
                 hr2:
@@ -5063,8 +5495,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ubNimviBr7g
                       original: true
+              punkte: 9
+          thread: 118208
         "350":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=350
+          link: http://www.rappers.in/vbt09_runden.php?battle=350
           teilnehmer:
             - name: RaP2FaST
               runden:
@@ -5085,8 +5519,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Ne4oKspIroQ
                       original: true
+          thread: 117883
         "351":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=351
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=351
           teilnehmer:
             - name: diRAPtor
               runden:
@@ -5100,6 +5535,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/MBp50U_WFJI
                       original: true
+              punkte: 1
             - name: FloW-KiNG
               runden:
                 hr2:
@@ -5112,8 +5548,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/C76o7XH13bQ
                       original: true
+              punkte: 6
+          thread: 118415
         "352":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=352
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=352
           teilnehmer:
             - name: sHiZofRed
               runden:
@@ -5127,6 +5565,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/2JW_Uz45hnU
                       original: true
+              punkte: 8
             - name: Duzoe
               runden:
                 hr2:
@@ -5139,8 +5578,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/aXnUTVYQqpQ
                       original: true
+              punkte: 13
+          thread: 117727
         "353":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=353
+          link: http://www.rappers.in/vbt09_runden.php?battle=353
           teilnehmer:
             - name: DECIZE
             - name: B-Chris
@@ -5150,8 +5591,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/CbO5z4N7_hQ
                       original: true
+          thread: 118417
         "354":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=354
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=354
           teilnehmer:
             - name: Dani
               runden:
@@ -5165,6 +5607,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0WzKIEeKFL8
                       original: true
+              punkte: 5
             - name: Pete Licious
               runden:
                 hr2:
@@ -5177,8 +5620,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/zpMt82ifUyU
                       original: true
+              punkte: 11
+          thread: 118375
         "355":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=355
+          link: http://www.rappers.in/vbt09_runden.php?battle=355
           teilnehmer:
             - name: Chellah
               runden:
@@ -5199,8 +5644,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/1zD1MQLFPYg
                       original: true
+          thread: 118427
         "356":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=356
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=356
           teilnehmer:
             - name: SpliffTastiC
               runden:
@@ -5214,6 +5660,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/9OqFUNUn7-E
                       original: true
+              punkte: 20
             - name: K-Win
               runden:
                 hr2:
@@ -5226,10 +5673,13 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Nl8xZG6KBmg
                       original: true
+              punkte: 2
+          thread: 118364
         "357":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=357
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=357
           teilnehmer:
             - name: Kico
+              punkte: 10
               runden:
                 hr1:
                   name: HR1
@@ -5242,6 +5692,7 @@ vbt2009:
                     - url: https://youtu.be/eaoN4A1kNj4
                       original: true
             - name: Pat Riot
+              punkte: 2
               runden:
                 hr2:
                   name: HR2
@@ -5255,10 +5706,12 @@ vbt2009:
                     - url: https://youtu.be/jaGU_NVh5Vw
                       original: true
                     - url: https://archive.org/details/vbt-2009-16tel-kico-vs-pat-riot-rr1
+          thread: 118278
         "358":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=358
+          link: http://www.rappers.in/vbt09_runden.php?battle=358
           teilnehmer:
             - name: V!RUS90
+              punkte: -1
               runden:
                 hr1:
                   name: HR1
@@ -5282,8 +5735,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/IntgO2q2JKY
                       original: true
+          thread: 118187
         "359":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=359
+          link: http://www.rappers.in/vbt09_runden.php?battle=359
           teilnehmer:
             - name: B zum O
               runden:
@@ -5304,11 +5758,12 @@ vbt2009:
                   links:
                     - url: https://youtu.be/8uX3IyyRcTI
                       original: true
+          thread: 117667
     achtelfinale:
       name: Achtelfinale
       battles:
         "363":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=363
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=363
           teilnehmer:
             - name: Machmut94
               runden:
@@ -5322,6 +5777,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/uLXPVFMGyPE
                       original: true
+              punkte: 33
             - name: B-Chris
               runden:
                 hr2:
@@ -5334,8 +5790,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/FyPwjU3Yk7Y
                       original: true
+              punkte: 58
+          thread: 120267
         "364":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=364
+          link: http://www.rappers.in/vbt09_runden.php?battle=364
           teilnehmer:
             - name: Uncle_Benz
               runden:
@@ -5356,8 +5814,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/jZR6wSh20Dg
                       original: true
+          thread: 120522
         "365":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=365
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=365
           teilnehmer:
             - name: Nug
               runden:
@@ -5371,6 +5830,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/4SHPzPq2JPU
                       original: true
+              punkte: 67
             - name: SpliffTastiC
               runden:
                 hr2:
@@ -5383,8 +5843,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/6Iqs-CzIaTA
                       original: true
+              punkte: 34
+          thread: 120564
         "366":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=366
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=366
           teilnehmer:
             - name: Rosh
               runden:
@@ -5398,6 +5860,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/8n5ZEc9sZOQ
                       original: true
+              punkte: 20
             - name: Silus
               runden:
                 hr2:
@@ -5410,8 +5873,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/Y_5tfS-gFIc
                       original: true
+              punkte: 58
+          thread: 120545
         "367":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=367
+          link: http://www.rappers.in/vbt09_runden.php?battle=367
           teilnehmer:
             - name: Fid Al Bassrow
               runden:
@@ -5432,8 +5897,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/2kR1srW4wow
                       original: true
+          thread: 120547
         "368":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=368
+          link: http://www.rappers.in/vbt09_runden.php?battle=368
           teilnehmer:
             - name: MPH
               runden:
@@ -5454,8 +5920,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/U1vi6NiF_HA
                       original: true
+          thread: 120386
         "369":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=369
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=369
           teilnehmer:
             - name: 4ree
               runden:
@@ -5469,6 +5936,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ZkPrqJIBWA4
                       original: true
+              punkte: 58
             - name: FloW-KiNG
               runden:
                 hr2:
@@ -5481,8 +5949,10 @@ vbt2009:
                   links:
                     - url: https://youtu.be/OO2ymPptRC0
                       original: true
+              punkte: 33
+          thread: 120548
         "370":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=370
+          link: http://www.rappers.in/vbt09_runden.php?battle=370
           teilnehmer:
             - name: Kevnox
             - name: Pete Licious
@@ -5492,11 +5962,12 @@ vbt2009:
                   links:
                     - url: https://youtu.be/A9sTtnGmmHo
                       original: true
+          thread: 120568
     viertelfinale:
       name: Viertelfinale
       battles:
         "371":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=371
+          link: http://www.rappers.in/vbt09_runden.php?battle=371
           teilnehmer:
             - name: B-Chris
               runden:
@@ -5517,8 +5988,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/piGBTF7JStg
                       original: true
+          thread: 122735
         "372":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=372
+          link: http://www.rappers.in/vbt09_runden.php?battle=372
           teilnehmer:
             - name: 4ree
               runden:
@@ -5539,8 +6011,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/q2r3GuNlqhE
                       original: true
+          thread: 122797
         "373":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=373
+          link: http://www.rappers.in/vbt09_runden.php?battle=373
           teilnehmer:
             - name: Nug
               runden:
@@ -5555,6 +6028,7 @@ vbt2009:
                     - url: https://youtu.be/5pEzj253u-o
                       original: true
             - name: Duzoe
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -5566,8 +6040,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/bRd1Hq-Pw0U
                       original: true
+          thread: 122804
         "374":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=374
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=374
           teilnehmer:
             - name: Silus
               runden:
@@ -5581,6 +6056,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/0SSwelVojHw
                       original: true
+              punkte: 24
             - name: Fid Al Bassrow
               runden:
                 hr2:
@@ -5593,11 +6069,13 @@ vbt2009:
                   links:
                     - url: https://youtu.be/mgQY_kH0TY8
                       original: true
+              punkte: 12
+          thread: 122802
     halbfinale:
       name: Halbfinale
       battles:
         "375":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=375
+          link: http://www.rappers.in/vbt09_runden.php?battle=375
           teilnehmer:
             - name: Nug
             - name: Kico
@@ -5607,8 +6085,9 @@ vbt2009:
                   links:
                     - url: https://youtu.be/s6gZfRQcQGA
                       original: true
+          thread: 125930
         "376":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=376
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=376
           teilnehmer:
             - name: Silus
               runden:
@@ -5622,6 +6101,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/C1OnpwtCQu0
                       original: true
+              punkte: 13
             - name: 4ree
               runden:
                 hr2:
@@ -5634,11 +6114,13 @@ vbt2009:
                   links:
                     - url: https://youtu.be/EqOg4n290ts
                       original: true
+              punkte: 21
+          thread: 125848
     finale:
       name: Finale
       battles:
         "377":
-          link: http://www.rappers.in/en/vbt09_runden.php?battle=377
+          link: http://www.rappers.in/vbt09_bewertungen.php?battle=377
           teilnehmer:
             - name: 4ree
               runden:
@@ -5652,6 +6134,7 @@ vbt2009:
                   links:
                     - url: https://youtu.be/_cE1pATynpI
                       original: true
+              punkte: 12
             - name: Kico
               runden:
                 hr2:
@@ -5664,3 +6147,5 @@ vbt2009:
                   links:
                     - url: https://youtu.be/ChVbTFUoZTQ
                       original: true
+              punkte: 13
+          thread: 129851

@@ -5,8 +5,8 @@ vbt2008:
     vorrunde:
       name: Vorrunde
       battles:
-        49727:
-          thread: https://forum.rappers.in/index.php?thread/49727-vbt08-vr-ly-vs-cashonly/
+        1:
+          thread: 49727
           teilnehmer:
             - name: $ly
             - name: CashOnly
@@ -16,8 +16,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/-PWlSO_oLfg
                       original: true
-        49728:
-          thread: https://forum.rappers.in/index.php?thread/49728-vbt08-vr-coretex-vs-pumpking/
+        2:
+          thread: 49728
           teilnehmer:
             - name: CoreteX
               runden:
@@ -27,15 +27,15 @@ vbt2008:
                     - url: https://youtu.be/btVAkxd14tE
                       original: true
             - name: Pumpking
-        49729:
-          thread: https://forum.rappers.in/index.php?thread/49729-vbt08-vr-chellah-vs-dez-t/
+        3:
+          thread: 49729
           teilnehmer:
             - name: Chellah
             - name: DeZ-T
               punkte: -1
-        49730:
+        4:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=4
-          thread: https://forum.rappers.in/index.php?thread/49730-vbt08-vr-bigbeer-vs-heynoo/
+          thread: 49730
           teilnehmer:
             - name: BigBeer
               punkte: 3
@@ -63,8 +63,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/l0dWk_z0wyE
                       original: true
-        49731:
-          thread: https://forum.rappers.in/index.php?thread/49731-vbt08-vr-erkan-dychfyzten-vs-kah-ihh-ess-ohh-err/
+        5:
+          thread: 49731
           teilnehmer:
             - name: Erkan Dychfyzten
               runden:
@@ -85,8 +85,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/6qgkABVOUSU
                       original: true
-        49733:
-          thread: https://forum.rappers.in/index.php?thread/49733-vbt08-vr-introvertiert-vs-kevka/
+        7:
+          thread: 49733
           teilnehmer:
             - name: IntroVertiert
               runden:
@@ -96,8 +96,8 @@ vbt2008:
                     - url: https://youtu.be/HRtJKNVMpoY
                       original: true
             - name: Kevka
-        49734:
-          thread: https://forum.rappers.in/index.php?thread/49734-vbt08-vr-desr-vs-key-oz/
+        8:
+          thread: 49734
           teilnehmer:
             - name: Desr
               runden:
@@ -118,8 +118,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/0Lk4GsxHthA
                       original: true
-        49735:
-          thread: https://forum.rappers.in/index.php?thread/49735-vbt08-vr-h-saad-vs-king-snipa/
+        9:
+          thread: 49735
           teilnehmer:
             - name: H.Saad
               runden:
@@ -140,8 +140,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/urPBxrAcbTA
                       original: true
-        49736:
-          thread: https://forum.rappers.in/index.php?thread/49736-vbt08-vr-aeroxplaya-vs-krefeldbesterkrieger/
+        10:
+          thread: 49736
           teilnehmer:
             - name: aeroxplaya
               runden:
@@ -162,8 +162,8 @@ vbt2008:
                   links:
                     - url: https://www.myvideo.de/movie/4312593
                       original: true
-        49739:
-          thread: https://forum.rappers.in/index.php?thread/49739-vbt08-vr-m-flame-vs-rizeit/
+        13:
+          thread: 49739
           teilnehmer:
             - name: M-Flame
               punkte: -1
@@ -190,8 +190,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/RA-rEvWgmaU
                       original: true
-        49740:
-          thread: https://forum.rappers.in/index.php?thread/49740-vbt08-vr-bigbukay-vs-madwlad/
+        14:
+          thread: 49740
           teilnehmer:
             - name: BigBukay
               runden:
@@ -201,8 +201,8 @@ vbt2008:
                     - url: https://youtu.be/pFkqYXE-Rj0
                       original: true
             - name: MadWlad
-        49741:
-          thread: https://forum.rappers.in/index.php?thread/49741-vbt08-vr-k-supreme-vs-mafuba/
+        15:
+          thread: 49741
           teilnehmer:
             - name: k-supreme
               runden:
@@ -212,9 +212,9 @@ vbt2008:
                     - url: https://youtu.be/mRAF64Ud2dw
                       original: true
             - name: MaFuBa
-        49742:
+        21:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=21
-          thread: https://forum.rappers.in/index.php?thread/49742-vbt08-vr-g-hunt-vs-mc-titte/
+          thread: 49742
           teilnehmer:
             - name: G-Hunt
               punkte: 4
@@ -242,8 +242,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/lmffzjszNHg
                       original: true
-        49743:
-          thread: https://forum.rappers.in/index.php?thread/49743-vbt08-vr-d-0ne-vs-mikamc/
+        22:
+          thread: 49743
           teilnehmer:
             - name: D.0ne
               punkte: -1
@@ -260,8 +260,8 @@ vbt2008:
                   links:
                     - url: https://www.myvideo.de/movie/4328339
                       original: true
-        49745:
-          thread: https://forum.rappers.in/index.php?thread/49745-vbt08-vr-kazuya-one-vs-mike/
+        23:
+          thread: 49745
           teilnehmer:
             - name: Kazuya-one
               runden:
@@ -277,8 +277,8 @@ vbt2008:
                   links:
                     - url: https://www.myvideo.de/movie/4316567
                       original: true
-        49746:
-          thread: https://forum.rappers.in/index.php?thread/49746-vbt08-vr-mitl%C3%A4ufer-vs-rocka/
+        24:
+          thread: 49746
           teilnehmer:
             - name: Mitläufer
               runden:
@@ -288,8 +288,8 @@ vbt2008:
                     - url: https://youtu.be/kMxFl5RWMJQ
                       original: true
             - name: Rocka
-        49747:
-          thread: https://forum.rappers.in/index.php?thread/49747-vbt08-vr-king-snipes-vs-mochone/
+        25:
+          thread: 49747
           teilnehmer:
             - name: KING SNIPES
               runden:
@@ -299,9 +299,9 @@ vbt2008:
                     - url: https://www.myvideo.de/movie/4327716
                       original: true
             - name: Mochone
-        49748:
+        26:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=26
-          thread: https://forum.rappers.in/index.php?thread/49748-vbt08-vr-loto-vs-rap2fast/
+          thread: 49748
           teilnehmer:
             - name: Loto
               punkte: 7
@@ -329,9 +329,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/HP_E36DXZBE
                       original: true
-        49749:
+        27:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=27
-          thread: https://forum.rappers.in/index.php?thread/49749-vbt08-vr-le-frog-vs-s-a-t/
+          thread: 49749
           teilnehmer:
             - name: Le Frog
               punkte: 12
@@ -361,8 +361,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/IrPhH5OiNog
                       original: true
-        49750:
-          thread: https://forum.rappers.in/index.php?thread/49750-vbt08-vr-sniggedisnix-vs-senselezz/
+        28:
+          thread: 49750
           teilnehmer:
             - name: SnIggediSnIx
               runden:
@@ -379,8 +379,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/M0gMHrerwlc
                       original: true
-        49751:
-          thread: https://forum.rappers.in/index.php?thread/49751-vbt08-vr-sm0gy-vs-threal/
+        29:
+          thread: 49751
           teilnehmer:
             - name: Sm0gY
             - name: Threal
@@ -390,8 +390,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/ZCpYurlmALo
                       original: true
-        49752:
-          thread: https://forum.rappers.in/index.php?thread/49752-vbt08-vr-jay-pi-vs-suito/
+        30:
+          thread: 49752
           teilnehmer:
             - name: Jay Pi
               runden:
@@ -401,9 +401,9 @@ vbt2008:
                     - url: https://youtu.be/z-DKHawLF1c
                       original: true
             - name: suito
-        49753:
+        31:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=31
-          thread: https://forum.rappers.in/index.php?thread/49753-vbt08-vr-kevnox-vs-tchiller/
+          thread: 49753
           teilnehmer:
             - name: Kevnox
               punkte: 12
@@ -430,8 +430,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/v4Pe23Cv2Vg
                       original: true
-        49754:
-          thread: https://forum.rappers.in/index.php?thread/49754-vbt08-vr-deadly-spin-vs-twizzstar/
+        32:
+          thread: 49754
           teilnehmer:
             - name: Deadly-Spin
             - name: Twizzstar
@@ -444,9 +444,9 @@ vbt2008:
     32tel:
       name: 32tel
       battles:
-        51495:
+        35:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=35
-          thread: https://forum.rappers.in/index.php?thread/51495-vbt08-32tel-a-effect-vs-scheide/
+          thread: 51495
           teilnehmer:
             - name: A-effect
               punkte: 3
@@ -474,8 +474,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/TZjiElOA34o
                       original: true
-        51496:
-          thread: https://forum.rappers.in/index.php?thread/51496-vbt08-32tel-abduladarula-vs-bigbeer/
+        36:
+          thread: 51496
           teilnehmer:
             - name: abduladarula
               runden:
@@ -496,8 +496,8 @@ vbt2008:
                   links:
                     - url: https://www.myvideo.de/movie/4495779
                       original: true
-        51497:
-          thread: https://forum.rappers.in/index.php?thread/51497-vbt-08-32tel-akfone-vs-s-a-t/
+        37:
+          thread: 51497
           teilnehmer:
             - name: Akfone
               runden:
@@ -518,9 +518,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/dojCqEwwMyE
                       original: true
-        51498:
+        38:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=38
-          thread: https://forum.rappers.in/index.php?thread/51498-vbt-08-32tel-bdd-vs-le-frog/
+          thread: 51498
           teilnehmer:
             - name: BDD
               punkte: 2
@@ -549,9 +549,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/J8q9TPKArWM
                       original: true
-        51499:
+        39:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=39
-          thread: https://forum.rappers.in/index.php?thread/51499-vbt-08-32tel-c-a-one-vs-erkan-dychfyzten/
+          thread: 51499
           teilnehmer:
             - name: C.A. One
               punkte: 3
@@ -579,9 +579,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/3t1ba6wmKZM
                       original: true
-        51501:
+        40:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=40
-          thread: https://forum.rappers.in/index.php?thread/51501-vbt-08-32tel-cfgfo69-vs-be-high/
+          thread: 51501
           teilnehmer:
             - name: CFGFO69
               punkte: 1
@@ -609,8 +609,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/AiH7mlq7gM4
                       original: true
-        51502:
-          thread: https://forum.rappers.in/index.php?thread/51502-vbt-08-32tel-chaina-vs-bigbukay/
+        41:
+          thread: 51502
           teilnehmer:
             - name: Chaina
               runden:
@@ -620,9 +620,9 @@ vbt2008:
                     - url: https://www.myvideo.de/movie/4496291
                       original: true
             - name: BigBukay
-        51503:
+        42:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=42
-          thread: https://forum.rappers.in/index.php?thread/51503-vbt-08-32tel-core-vs-rizeit/
+          thread: 51503
           teilnehmer:
             - name: Core
               punkte: 2
@@ -651,8 +651,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/ibZGkOhcU0Y
                       original: true
-        51504:
-          thread: https://forum.rappers.in/index.php?thread/51504-vbt-08-32tel-corss-vs-sniggedisnix/
+        43:
+          thread: 51504
           teilnehmer:
             - name: CorSS
               runden:
@@ -673,8 +673,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/iu31TUBl3SM
                       original: true
-        51505:
-          thread: https://forum.rappers.in/index.php?thread/51505-vbt-08-32tel-dapurty-vs-ka-o-peh/
+        44:
+          thread: 51505
           teilnehmer:
             - name: DaPurty
               runden:
@@ -695,9 +695,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/dWays_fZnbg
                       original: true
-        51506:
+        45:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=45
-          thread: https://forum.rappers.in/index.php?thread/51506-vbt-08-32tel-ebola-vs-mitl%C3%A4ufer/
+          thread: 51506
           teilnehmer:
             - name: EbOlA
               punkte: 2
@@ -726,15 +726,15 @@ vbt2008:
                   links:
                     - url: https://youtu.be/kPAUQOHQoVA
                       original: true
-        51507:
-          thread: https://forum.rappers.in/index.php?thread/51507-vbt-08-32tel-esskage-vs-threal/
+        46:
+          thread: 51507
           teilnehmer:
             - name: esskage
               punkte: -1
             - name: Threal
-        51508:
+        47:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=47
-          thread: https://forum.rappers.in/index.php?thread/51508-vbt-08-32tel-fedalic-vs-pr-mar/
+          thread: 51508
           teilnehmer:
             - name: fedaLic
               punkte: 4
@@ -762,8 +762,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/fFgwptgpb10
                       original: true
-        51509:
-          thread: https://forum.rappers.in/index.php?thread/51509-vbt-08-32tel-geot-vs-dasinsekt/
+        48:
+          thread: 51509
           teilnehmer:
             - name: GeOT
               runden:
@@ -779,8 +779,8 @@ vbt2008:
                   name: HR2
                   links:
                     - url: https://youtu.be/PQ0fVgP0gSM
-        51510:
-          thread: https://forum.rappers.in/index.php?thread/51510-vbt-08-32tel-kah-ohh-beh-vs-kico/
+        49:
+          thread: 51510
           teilnehmer:
             - name: Kah-Ohh-Beh
               runden:
@@ -801,9 +801,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/s5c5H_yUElk
                       original: true
-        51512:
+        50:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=50
-          thread: https://forum.rappers.in/index.php?thread/51512-vbt-08-32tel-meins-vs-key-oz/
+          thread: 51512
           teilnehmer:
             - name: meins
               punkte: 8
@@ -831,8 +831,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/h9xm66BwHPQ
                       original: true
-        51513:
-          thread: https://forum.rappers.in/index.php?thread/51513-vbt-08-32tel-milo1-vs-kevnox/
+        51:
+          thread: 51513
           teilnehmer:
             - name: Milo1
             - name: Kevnox
@@ -842,9 +842,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/jwNBWqL1nv0
                       original: true
-        51514:
+        52:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=52
-          thread: https://forum.rappers.in/index.php?thread/51514-vbt-08-32tel-most-vs-aeroxplaya/
+          thread: 51514
           teilnehmer:
             - name: MOST
               punkte: 6
@@ -871,9 +871,9 @@ vbt2008:
                   links:
                     - url: https://www.myvideo.de/movie/4555452
                       original: true
-        51515:
+        53:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=53
-          thread: https://forum.rappers.in/index.php?thread/51515-vbt-08-32tel-natz-vs-tchiller/
+          thread: 51515
           teilnehmer:
             - name: Natz
               punkte: 8
@@ -900,8 +900,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/Oo34FQ-eFEM
                       original: true
-        51516:
-          thread: https://forum.rappers.in/index.php?thread/51516-vbt-08-32tel-nekro-vs-g-hunt/
+        54:
+          thread: 51516
           teilnehmer:
             - name: NeKrO
               runden:
@@ -911,8 +911,8 @@ vbt2008:
                     - url: https://youtu.be/OYa9LZbiXZ0
                       original: true
             - name: G-Hunt
-        51517:
-          thread: https://forum.rappers.in/index.php?thread/51517-vbt-08-32tel-perstil-vs-cashonly/
+        55:
+          thread: 51517
           teilnehmer:
             - name: Perstil
               punkte: -1
@@ -939,8 +939,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/4ffCFgTXN0M
                       original: true
-        51518:
-          thread: https://forum.rappers.in/index.php?thread/51518-vbt-08-32tel-rec-z-vs-k-supreme/
+        56:
+          thread: 51518
           teilnehmer:
             - name: Rec-Z
               runden:
@@ -963,8 +963,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/WlGYBIOH2CY
                       original: true
-        51519:
-          thread: https://forum.rappers.in/index.php?thread/51519-vbt-08-32tel-rian-vs-twizzstar/
+        57:
+          thread: 51519
           teilnehmer:
             - name: Rian
               runden:
@@ -985,8 +985,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/Y6Hu48c7ohk
                       original: true
-        51520:
-          thread: https://forum.rappers.in/index.php?thread/51520-vbt-08-32tel-rob-vs-h-saad/
+        58:
+          thread: 51520
           teilnehmer:
             - name: Rob
               runden:
@@ -1008,8 +1008,8 @@ vbt2008:
                     - url: https://www.myvideo.de/movie/4492936
                       original: true
                     - url: https://youtu.be/a9BwSo1QYS8
-        51521:
-          thread: https://forum.rappers.in/index.php?thread/51521-vbt-08-32tel-s-an-vs-king-snipes/
+        59:
+          thread: 51521
           teilnehmer:
             - name: S-aN
               runden:
@@ -1019,8 +1019,8 @@ vbt2008:
                     - url: https://youtu.be/3CE5ADHK9h4
                       original: true
             - name: KING SNIPES
-        51522:
-          thread: https://forum.rappers.in/index.php?thread/51522-vbt-08-32tel-splifftastic-vs-coretex/
+        60:
+          thread: 51522
           teilnehmer:
             - name: SpliffTastiC
               runden:
@@ -1030,8 +1030,8 @@ vbt2008:
                     - url: https://youtu.be/0EXmEEL-HKc
                       original: true
             - name: CoreteX
-        51523:
-          thread: https://forum.rappers.in/index.php?thread/51523-vbt-08-32tel-t-style-vs-cleptomatic/
+        61:
+          thread: 51523
           teilnehmer:
             - name: T-Style
               runden:
@@ -1052,9 +1052,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/mRlYH_MCxic
                       original: true
-        51524:
+        62:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=62
-          thread: https://forum.rappers.in/index.php?thread/51524-vbt-08-32tel-taishu-vs-jay-pi/
+          thread: 51524
           teilnehmer:
             - name: Taishu
               punkte: 6
@@ -1082,9 +1082,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/HXkmc_2huCU
                       original: true
-        51525:
+        63:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=63
-          thread: https://forum.rappers.in/index.php?thread/51525-vbt-08-32tel-unknownking-vs-luie-die-nadel/
+          thread: 51525
           teilnehmer:
             - name: unknownKing
               punkte: 4
@@ -1113,9 +1113,9 @@ vbt2008:
                   links:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=37285644
                       original: true
-        51526:
+        64:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=64
-          thread: https://forum.rappers.in/index.php?thread/51526-vbt-08-32el-xxx-raptik-xxx-vs-heynoo/
+          thread: 51526
           teilnehmer:
             - name: xXx Raptik xXx
               punkte: 2
@@ -1143,8 +1143,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/LbSkKK_Tolg
                       original: true
-        51527:
-          thread: https://forum.rappers.in/index.php?thread/51527-vbt-08-32tel-zap-vs-suito/
+        65:
+          thread: 51527
           teilnehmer:
             - name: Zap
               runden:
@@ -1165,9 +1165,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/XLhmok8e0_4
                       original: true
-        51528:
+        66:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=66
-          thread: https://forum.rappers.in/index.php?thread/51528-vbt-08-32tel-ols-supremat-vs-introvertiert/
+          thread: 51528
           teilnehmer:
             - name: "[OLS] Supremat"
               punkte: 6
@@ -1197,9 +1197,9 @@ vbt2008:
     16tel:
       name: 16tel
       battles:
-        54152:
+        67:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=67
-          thread: https://forum.rappers.in/index.php?thread/54152-vbt-08-16tel-t-style-vs-le-frog/
+          thread: 54152
           teilnehmer:
             - name: T-Style
               punkte: 15
@@ -1228,8 +1228,8 @@ vbt2008:
                     - url: https://youtu.be/YOLPxRfrxJA
                       original: true
                     - url: https://youtu.be/IwCxGrAG2Cc
-        54153:
-          thread: https://forum.rappers.in/index.php?thread/54153-vbt-08-16tel-cashonly-vs-natz/
+        68:
+          thread: 54153
           teilnehmer:
             - name: CashOnly
               runden:
@@ -1239,9 +1239,9 @@ vbt2008:
                     - url: https://youtu.be/17HVLFv2fFU
                       original: true
             - name: NatZ
-        54154:
+        69:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=69
-          thread: https://forum.rappers.in/index.php?thread/54154-vbt-08-16tel-rec-z-vs-abduladarula/
+          thread: 54154
           teilnehmer:
             - name: Rec-Z
               punkte: 12
@@ -1272,8 +1272,8 @@ vbt2008:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=39088199
                       original: true
                     - url: https://youtu.be/SKqOOiL0uKQ
-        54155:
-          thread: https://forum.rappers.in/index.php?thread/54155-vbt-08-16tel-zap-vs-rob/
+        70:
+          thread: 54155
           teilnehmer:
             - name: ZaP
             - name: Rob
@@ -1283,8 +1283,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/focPH-IZvCo
                       original: true
-        54156:
-          thread: https://forum.rappers.in/index.php?thread/54156-vbt-08-16tel-s-an-vs-rian/
+        71:
+          thread: 54156
           teilnehmer:
             - name: S-aN
               runden:
@@ -1305,8 +1305,8 @@ vbt2008:
                   links:
                     - url: https://www.myvideo.de/movie/4730857
                       original: true
-        54157:
-          thread: https://forum.rappers.in/index.php?thread/54157-vbt-08-16tel-meins-vs-ols-supremat/
+        72:
+          thread: 54157
           teilnehmer:
             - name: meins
               runden:
@@ -1316,9 +1316,9 @@ vbt2008:
                     - url: https://youtu.be/IKUB675d_iE
                       original: true
             - name: "[OLS] Supremat"
-        54158:
+        73:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=73
-          thread: https://forum.rappers.in/index.php?thread/54158-vbt-08-16tel-ka-o-peh-vs-erkan-dychfyzten/
+          thread: 54158
           teilnehmer:
             - name: Ka-o-Peh
               punkte: 11
@@ -1346,9 +1346,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/h2UkSSHoS5k
                       original: true
-        54159:
+        74:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=74
-          thread: https://forum.rappers.in/index.php?thread/54159-vbt-08-16tel-kevnox-vs-most/
+          thread: 54159
           teilnehmer:
             - name: Kevnox
               punkte: 10
@@ -1377,8 +1377,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/UZZKEfDFkyY
                       original: true
-        54160:
-          thread: https://forum.rappers.in/index.php?thread/54160-vbt-08-16tel-corss-rfc-vs-kico/
+        75:
+          thread: 54160
           teilnehmer:
             - name: CorSS RfC
               runden:
@@ -1390,9 +1390,9 @@ vbt2008:
                     - url: https://youtu.be/FLAzKOu5IPM
                     - url: https://youtu.be/sW3DxQDMYWk
             - name: Kico
-        54161:
+        76:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=76
-          thread: https://forum.rappers.in/index.php?thread/54161-vbt-08-16tel-geot-vs-heynoo/
+          thread: 54161
           teilnehmer:
             - name: GeOT
               punkte: 15
@@ -1420,8 +1420,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/afveD_b6frI
                       original: true
-        54162:
-          thread: https://forum.rappers.in/index.php?thread/54162-vbt-08-16tel-threal-vs-nekro/
+        77:
+          thread: 54162
           teilnehmer:
             - name: Threal
             - name: NekrO
@@ -1431,8 +1431,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/HSZDvYGOK7A
                       original: true
-        54164:
-          thread: https://forum.rappers.in/index.php?thread/54164-vbt-08-16tel-a-effect-vs-chaina/
+        78:
+          thread: 54164
           teilnehmer:
             - name: A-effect
               runden:
@@ -1442,9 +1442,9 @@ vbt2008:
                     - url: https://youtu.be/dtm9JByw7Wg
                       original: true
             - name: Chaina
-        54165:
+        79:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=79
-          thread: https://forum.rappers.in/index.php?thread/54165-vbt-08-16tel-be-high-vs-akfone/
+          thread: 54165
           teilnehmer:
             - name: Be-High
               runden:
@@ -1471,8 +1471,8 @@ vbt2008:
                   links:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=39329795
                       original: true
-        54166:
-          thread: https://forum.rappers.in/index.php?thread/54166-vbt-08-16tel-rizeit-vs-taishu/
+        80:
+          thread: 54166
           teilnehmer:
             - name: RizeIt
               punkte: 7
@@ -1500,8 +1500,8 @@ vbt2008:
                   links:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=39432343
                       original: true
-        54167:
-          thread: https://forum.rappers.in/index.php?thread/54167-vbt-08-16tel-mitl%C3%A4ufer-vs-splifftastic/
+        81:
+          thread: 54167
           teilnehmer:
             - name: Mitläufer
             - name: SpliffTastiC
@@ -1512,8 +1512,8 @@ vbt2008:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=38604660
                       original: true
                     - url: https://youtu.be/afSk9ySUU-8
-        54169:
-          thread: https://forum.rappers.in/index.php?thread/54169-vbt-08-16tel-mikamc-vs-luie-die-nadel/
+        82:
+          thread: 54169
           teilnehmer:
             - name: MikaMc
               punkte: 4
@@ -1545,8 +1545,8 @@ vbt2008:
     achtelfinale:
       name: Achtelfinale
       battles:
-        58124:
-          thread: https://forum.rappers.in/index.php?thread/58124-vbt-08-achtelfinale-rian-vs-most/
+        83:
+          thread: 58124
           teilnehmer:
             - name: Rian
               runden:
@@ -1567,9 +1567,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/e5EyDZb1ueY
                       original: true
-        58125:
+        84:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=84
-          thread: https://forum.rappers.in/index.php?thread/58125-vbt-08-achtelfinale-corss-rfc-vs-ka-o-peh/
+          thread: 58125
           teilnehmer:
             - name: CorSS RfC
               punkte: 9
@@ -1598,9 +1598,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/4hrvxRAU_Ls
                       original: true
-        58126:
+        85:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=85
-          thread: https://forum.rappers.in/index.php?thread/58126-vbt-08-achtelfinale-rob-vs-t-style/
+          thread: 58126
           teilnehmer:
             - name: Rob
               punkte: 4
@@ -1628,8 +1628,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/4VQFukQfqIM
                       original: true
-        58127:
-          thread: https://forum.rappers.in/index.php?thread/58127-vbt-08-achtelfinale-rec-z-vs-akfone/
+        86:
+          thread: 58127
           teilnehmer:
             - name: Rec-Z
               runden:
@@ -1659,9 +1659,9 @@ vbt2008:
                   links:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=
                       original: true
-        58128:
+        87:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=87
-          thread: https://forum.rappers.in/index.php?thread/58128-vbt-08-achtelfinale-luie-die-nadel-vs-taishu/
+          thread: 58128
           teilnehmer:
             - name: Luie-Die-Nadel
               punkte: 5
@@ -1689,9 +1689,9 @@ vbt2008:
                   links:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=40767032
                       original: true
-        58129:
+        88:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=88
-          thread: https://forum.rappers.in/index.php?thread/58129-vbt-08-achtelfinale-nekro-vs-cashonly/
+          thread: 58129
           teilnehmer:
             - name: NekrO
               punkte: 1
@@ -1719,9 +1719,9 @@ vbt2008:
                   links:
                     - url: https://youtu.be/Wf6MmB-Q_J8
                       original: true
-        58130:
+        89:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=89
-          thread: https://forum.rappers.in/index.php?thread/58130-vbt-08-achtelfinale-a-effect-vs-geot/
+          thread: 58130
           teilnehmer:
             - name: A-effect
               punkte: 1
@@ -1749,8 +1749,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/lLUkVLZSyyg
                       original: true
-        58131:
-          thread: https://forum.rappers.in/index.php?thread/58131-vbt-08-achtelfinale-meins-vs-splifftastic/
+        90:
+          thread: 58131
           teilnehmer:
             - name: meins
               runden:
@@ -1776,8 +1776,8 @@ vbt2008:
     viertelfinale:
       name: Viertelfinale
       battles:
-        61314:
-          thread: https://forum.rappers.in/index.php?thread/61314-vbt-08-viertelfinale-splifftastic-vs-corss-rfc/
+        91:
+          thread: 61314
           teilnehmer:
             - name: SpliffTastiC
               runden:
@@ -1800,9 +1800,9 @@ vbt2008:
                   links:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=41979682
                       original: true
-        61315:
+        92:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=92
-          thread: https://forum.rappers.in/index.php?thread/61315-vbt-08-viertelfinale-t-style-vs-geot/
+          thread: 61315
           teilnehmer:
             - name: T-Style
               punkte: 9
@@ -1830,9 +1830,9 @@ vbt2008:
                   links:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=42358402
                       original: true
-        61317:
+        93:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=93
-          thread: https://forum.rappers.in/index.php?thread/61317-vbt-08-viertelfinale-cashonly-vs-most/
+          thread: 61317
           teilnehmer:
             - name: CashOnly
               punkte: 6
@@ -1860,8 +1860,8 @@ vbt2008:
                   links:
                     - url: https://youtu.be/fbsaWcEvAKM
                       original: true
-        61318:
-          thread: https://forum.rappers.in/index.php?thread/61318-vbt-08-viertelfinale-rec-z-vs-luie-die-nadel/
+        94:
+          thread: 61318
           teilnehmer:
             - name: Rec-Z
               runden:
@@ -1886,9 +1886,9 @@ vbt2008:
     halbfinale:
       name: Halbfinale
       battles:
-        63774:
+        96:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=96
-          thread: https://forum.rappers.in/index.php?thread/63774-vbt-08-halbfinale-splifftastic-vs-geot/
+          thread: 63774
           teilnehmer:
             - name: SpliffTastiC
               punkte: 8
@@ -1918,8 +1918,8 @@ vbt2008:
                   links:
                     - url: http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=43693381
                       original: true
-        63775:
-          thread: https://forum.rappers.in/index.php?thread/63775-vbt-08-halbfinale-most-vs-rec-z/
+        95:
+          thread: 63775
           teilnehmer:
             - name: MOST
             - name: Rec-Z
@@ -1933,9 +1933,9 @@ vbt2008:
     finale:
       name: Finale
       battles:
-        66267:
+        97:
           link: http://www.rappers.in/vbt08_bewertungen.php?battle=97
-          thread: https://forum.rappers.in/index.php?thread/66267-vbt-08-finale-rec-z-vs-splifftastic/
+          thread: 66267
           teilnehmer:
             - name: Rec-Z
               punkte: 8

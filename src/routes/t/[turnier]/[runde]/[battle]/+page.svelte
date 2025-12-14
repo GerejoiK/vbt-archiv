@@ -19,14 +19,14 @@
 		<a href="https://web.archive.org/web/*/{battle.value.link}">Link</a>
 	{/if}
 	{#if battle.value.thread}
-		<a href="https://web.archive.org/web/*/{battle.value.thread}">Thread</a>
+		<a href="https://forum.rappers.in/index.php?thread/{battle.value.thread}">Thread</a>
 	{/if}
 	<br />
 {/if}
 <mark title="Ergebnis">{battle.value.teilnehmer.map(e => e.punkte || 0).join(" : ")}</mark>
 <dl>
 	{#each battle.value.teilnehmer
-		.map(e => Object.values(e.runden).map(f => Object.assign({ teilnehmer: e.name }, f)))
+		.map(e => Object.values(e.runden || {}).map(f => Object.assign({ teilnehmer: e.name }, f)))
 		.flat()
 		.toSorted((a, b) => (a.name > b.name ? 1 : -1)) as runde, i}
 		<Battle name={runde.name} video={runde?.links} teilnehmer={runde.teilnehmer} />
