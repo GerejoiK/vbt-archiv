@@ -3,8 +3,9 @@
 	import turniere from "$lib/data";
 	import jq from "json-query";
 
-	let turnier = jq(`${$page.params.turnier}`, { data: turniere }).value;
-	$: turnier = jq(`${$page.params.turnier}`, { data: turniere }).value;
+	const { children } = $props();
+
+	const turnier = $derived(jq(`${$page.params.turnier}`, { data: turniere }).value);
 </script>
 
 <h1>{turnier.name}</h1>
@@ -13,4 +14,4 @@
 		{#if index > 0}/{/if}<a href="/t/{$page.params.turnier}/{runde[0]}">{runde[1].name}</a>
 	{/each}
 </div>
-<slot />
+{@render children?.()}

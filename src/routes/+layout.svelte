@@ -2,6 +2,8 @@
 	import "simpledotcss";
 	import { page } from "$app/stores";
 	import turniere from "$lib/data";
+
+	const { children } = $props();
 </script>
 
 <header>
@@ -13,5 +15,11 @@
 	<h1><a href="/">VBT-Archiv</a></h1>
 </header>
 <main>
-	<slot />
+	{@render children?.()}
 </main>
+
+<footer>
+	VBT-Archiv braucht deine Hilfe, um alle Runden zu finden und zu archivieren!
+	<br />
+	Bitte schau auf <a href="https://github.com/GerejoiK/vbt-archiv">GitHub</a> vorbei, wenn du helfen willst.
+</footer>

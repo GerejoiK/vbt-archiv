@@ -1,16 +1,17 @@
 <script>
-	export let name;
-	export let video;
+	const { name, video, teilnehmer } = $props();
 
-	video = video.map(v => {
-		const vid = Object.assign({}, v);
-		vid.url = new URL(v.url);
-		return vid;
-	});
+	const vid = $derived(
+		video.map(v => {
+			const vid = Object.assign({}, v);
+			vid.url = new URL(v.url);
+			return vid;
+		})
+	);
 </script>
 
-<dt>{name}</dt>
-{#each video as v}
+<dt>{name} von {teilnehmer}</dt>
+{#each vid as v}
 	<dd>
 		{#if ["www.youtube.com", "youtu.be"].includes(v.url.hostname)}
 			<details>

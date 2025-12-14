@@ -3,12 +3,11 @@
 	import turniere from "$lib/data";
 	import jq from "json-query";
 
-	let battles = jq(`${$page.params.turnier}.runden.${$page.params.runde}.battles`, {
-		data: turniere,
-	});
-	$: battles = jq(`${$page.params.turnier}.runden.${$page.params.runde}.battles`, {
-		data: turniere,
-	});
+	const battles = $derived(
+		jq(`${$page.params.turnier}.runden.${$page.params.runde}.battles`, {
+			data: turniere,
+		})
+	);
 	const getColor = item => {
 		const diff = item.teilnehmer.map(e => Object.values(e?.runden || {}).length).reduce((a, b) => a - b);
 		if (diff > 0 || (item.teilnehmer[0].punkte || 0) > (item.teilnehmer[1].punkte || 0)) {
@@ -21,7 +20,7 @@
 </script>
 
 <hr />
-<h1>{battles.parents.at(-1).value.name}</h1>
+<h2>{battles.parents.at(-1).value.name}</h2>
 <nav>
 	<table>
 		<tbody>
