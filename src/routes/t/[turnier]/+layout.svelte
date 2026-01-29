@@ -1,11 +1,10 @@
 <script>
 	import { page } from "$app/stores";
 	import turniere from "$lib/data";
-	import jq from "json-query";
 
 	const { children } = $props();
 
-	const turnier = $derived(jq(`${$page.params.turnier}`, { data: turniere }).value);
+	const turnier = $derived(turniere[$page.params.turnier]);
 </script>
 
 <h1>{turnier.name}</h1>

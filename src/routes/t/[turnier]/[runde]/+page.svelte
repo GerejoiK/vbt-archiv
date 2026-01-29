@@ -1,13 +1,10 @@
 <script>
 	import { page } from "$app/stores";
 	import turniere from "$lib/data";
-	import jq from "json-query";
 
-	const battles = $derived(
-		jq(`${$page.params.turnier}.runden.${$page.params.runde}.battles`, {
-			data: turniere,
-		})
-	);
+	const runde = $derived(turniere[$page.params.turnier].runden[$page.params.runde]);
+	const battles = $derived(runde.battles);
+
 	const getColor = item => {
 		const diff = item.teilnehmer.map(e => Object.values(e?.runden || {}).length).reduce((a, b) => a - b);
 		if (diff > 0 || (item.teilnehmer[0].punkte || 0) > (item.teilnehmer[1].punkte || 0)) {
@@ -20,11 +17,11 @@
 </script>
 
 <hr />
-<h2>{battles.parents.at(-1).value.name}</h2>
+<h2>{runde.name}</h2>
 <nav>
 	<table>
 		<tbody>
-			{#each Object.entries(battles.value) as [id, battle]}
+			{#each Object.entries(battles) as [id, battle]}
 				<tr>
 					<td class={getColor(battle)[0]}
 						>{battle.teilnehmer[0].name}

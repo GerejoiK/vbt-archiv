@@ -27,7 +27,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"json-query": "^2.2.2",
 		"simpledotcss": "^2.3.7",
 		"vite-plugin-yaml2": "^1.1.5"
 	}
