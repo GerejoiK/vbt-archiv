@@ -9,7 +9,7 @@
 
 <hr />
 <h2>{runde.name}</h2>
-<h3>{battle.teilnehmer.map(e => e.name).join(" vs. ")}</h3>
+<h3>{@html battle.teilnehmer.map(e => `<a href="/tn/${e.name}">${e.name}</a>`).join(" vs. ")}</h3>
 {#if battle.link || battle.thread}
 	{#if battle.link}
 		<a href="https://web.archive.org/web/*/{battle.link}">Link</a>

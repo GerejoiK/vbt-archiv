@@ -1,19 +1,10 @@
 <script>
 	import { page } from "$app/stores";
 	import turniere from "$lib/data";
+	import { getColor } from "$lib/util";
 
 	const runde = $derived(turniere[$page.params.turnier].runden[$page.params.runde]);
 	const battles = $derived(runde.battles);
-
-	const getColor = item => {
-		const diff = item.teilnehmer.map(e => Object.values(e?.runden || {}).length).reduce((a, b) => a - b);
-		if (diff > 0 || (item.teilnehmer[0].punkte || 0) > (item.teilnehmer[1].punkte || 0)) {
-			return ["green", "red"];
-		} else if (diff < 0 || (item.teilnehmer[0].punkte || 0) < (item.teilnehmer[1].punkte || 0)) {
-			return ["red", "green"];
-		}
-		return ["", ""];
-	};
 </script>
 
 <hr />
@@ -24,7 +15,7 @@
 			{#each Object.entries(battles) as [id, battle]}
 				<tr>
 					<td class={getColor(battle)[0]}
-						>{battle.teilnehmer[0].name}
+						><a href="/tn/{battle.teilnehmer[0].name}">{battle.teilnehmer[0].name}</a>
 						<br />
 						{#if battle.teilnehmer[0]?.runden}
 							{#each Object.values(battle.teilnehmer[0].runden) as runde}
@@ -40,7 +31,7 @@
 						></td
 					>
 					<td class={getColor(battle)[1]}
-						>{battle.teilnehmer[1].name}
+						><a href="/tn/{battle.teilnehmer[1].name}">{battle.teilnehmer[1].name}</a>
 						<br />
 						{#if battle.teilnehmer[1]?.runden}
 							{#each Object.values(battle.teilnehmer[1]?.runden) as runde}
@@ -55,8 +46,12 @@
 </nav>
 
 <style>
+	.red a:first-child,
+	.green a:first-child {
+		color: unset;
+	}
 	.red {
-		color: red;
+		color: red !important;
 	}
 	.green {
 		color: green;

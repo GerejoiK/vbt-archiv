@@ -8133,6 +8133,7 @@ vbt2010:
           link: http://www.rappers.in/en/vbt_2010-d0p3-vs-Punchdeinface-829.html
           teilnehmer:
             - name: d0p3
+              punkte: 7
               runden:
                 hr1:
                   name: HR1
@@ -8142,6 +8143,7 @@ vbt2010:
                   beats:
                     - name: Taifun Beats - Royal Salute Re-up
             - name: Punchdeinface
+              punkte: 7
               runden:
                 hr2:
                   name: HR2
@@ -8620,6 +8622,7 @@ vbt2010:
           link: http://www.rappers.in/en/vbt_2010-mc%22holy+voice%22-vs-FloW-KiNG-855.html
           teilnehmer:
             - name: mc"holy voice"
+              punkte: -1
               runden:
                 hr1:
                   name: HR1
@@ -10398,13 +10401,13 @@ vbt2010:
           link: http://www.rappers.in/en/vbt_2010-SpliffTastiC-vs-Djin-987.html
           teilnehmer:
             - name: SpliffTastiC
+            - name: Djin
               runden:
-                hr1:
-                  name: HR1
+                hr2:
+                  name: HR2
                   links:
                     - url: https://youtu.be/PL0nlVKHdv8
                       original: true
-            - name: Djin
         "2":
           link: http://www.rappers.in/en/vbt_2010-Ti_Jay-vs-GeOT-988.html
           teilnehmer:

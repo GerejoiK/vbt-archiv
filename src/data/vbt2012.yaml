@@ -17682,7 +17682,9 @@ vbt2012:
                   links:
                     - url: https://youtu.be/8ymDtP9QpsA
                       original: true
+                    - url: https://youtu.be/x5ipQF599Gg
             - name: Fußballmann
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
