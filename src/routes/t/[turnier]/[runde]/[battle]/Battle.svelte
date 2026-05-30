@@ -11,9 +11,10 @@
 </script>
 
 <dt>{name} von {teilnehmer}</dt>
+
 {#each vid as v}
 	<dd>
-		{#if ["www.youtube.com", "youtu.be"].includes(v.url.hostname)}
+		{#if v.url.hostname.includes("youtu.be")}
 			<details>
 				<summary
 					><span title="Originalupload">{v.original ? "🌟" : ""}</span>

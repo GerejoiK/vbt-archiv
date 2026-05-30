@@ -3,13 +3,21 @@
 	import turniere from "$lib/data";
 	import Battle from "./Battle.svelte";
 
-	const runde = $derived(turniere[$page.params.turnier].runden[$page.params.runde]);
+	const turnier = $derived(turniere[$page.params.turnier]);
+	const runde = $derived(turnier.runden[$page.params.runde]);
 	const battle = $derived(runde.battles[$page.params.battle]);
 </script>
 
+<svelte:head>
+	<title>{battle.teilnehmer.map(e => e.name).join(" vs. ")} • {runde.name} • {turnier.name} • VBT-Archiv</title>
+</svelte:head>
+
 <hr />
+
 <h2>{runde.name}</h2>
+
 <h3>{@html battle.teilnehmer.map(e => `<a href="/tn/${e.name}">${e.name}</a>`).join(" vs. ")}</h3>
+
 {#if battle.link || battle.thread}
 	{#if battle.link}
 		<a href="https://web.archive.org/web/*/{battle.link}">Link</a>
@@ -19,7 +27,9 @@
 	{/if}
 	<br />
 {/if}
+
 <mark title="Ergebnis">{battle.teilnehmer.map(e => e.punkte || 0).join(" : ")}</mark>
+
 <dl>
 	{#each battle.teilnehmer
 		.map(e => Object.values(e.runden || {}).map(f => Object.assign({ teilnehmer: e.name }, f)))

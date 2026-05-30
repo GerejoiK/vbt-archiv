@@ -13,7 +13,12 @@
 	);
 </script>
 
+<svelte:head>
+	<title>{turnier.name} • VBT-Archiv</title>
+</svelte:head>
+
 <hr />
+
 <h2>Alle Teilnehmer</h2>
 
 {#each Object.values(teilnehmer).toSorted((a, b) => a[0].name.toLowerCase().localeCompare(b[0].name.toLowerCase())) as tn}

@@ -14,6 +14,7 @@
 	</nav>
 	<h1><a href="/">VBT-Archiv</a></h1>
 </header>
+
 <main>
 	{@render children?.()}
 </main>

@@ -3,12 +3,19 @@
 	import turniere from "$lib/data";
 	import { getColor } from "$lib/util";
 
-	const runde = $derived(turniere[$page.params.turnier].runden[$page.params.runde]);
+	const turnier = $derived(turniere[$page.params.turnier]);
+	const runde = $derived(turnier.runden[$page.params.runde]);
 	const battles = $derived(runde.battles);
 </script>
 
+<svelte:head>
+	<title>{runde.name} • {turnier.name} • VBT-Archiv</title>
+</svelte:head>
+
 <hr />
+
 <h2>{runde.name}</h2>
+
 <nav>
 	<table>
 		<tbody>

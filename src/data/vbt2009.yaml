@@ -153,7 +153,7 @@ vbt2009:
                 rr2:
                   name: RR2
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=5398520&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/5398520
                       original: true
               punkte: 5
             - name: RizeIt
@@ -190,7 +190,7 @@ vbt2009:
                 hr1:
                   name: HR1
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=5261486&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/5261486
                       original: true
             - name: Nug
               runden:
@@ -864,12 +864,12 @@ vbt2009:
                 hr2:
                   name: HR2
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=5234889&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/5234889
                       original: true
                 rr1:
                   name: RR1
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=5366049&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/5366049
                       original: true
               punkte: 8
           thread: 107762
@@ -2074,7 +2074,7 @@ vbt2009:
                 hr1:
                   name: HR1
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=5224535&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/5224535
                       original: true
             - name: J.Hover
               runden:
@@ -3785,12 +3785,12 @@ vbt2009:
                 hr2:
                   name: HR2
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=5767335&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/5767335
                       original: true
                 rr1:
                   name: RR1
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=5886794&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/5886794
                       original: true
               punkte: 3
           thread: 112388
@@ -4446,7 +4446,7 @@ vbt2009:
                 hr1:
                   name: HR1
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=5776057&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/5776057
                       original: true
             - name: janbarmann
           thread: 112521
@@ -5080,7 +5080,7 @@ vbt2009:
                 rr2:
                   name: RR2
                   links:
-                    - url: http://vimeo.com/moogaloop.swf?clip_id=6360133&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+                    - url: https://vimeo.com/6360133
                       original: true
               punkte: 5
             - name: RizeIt

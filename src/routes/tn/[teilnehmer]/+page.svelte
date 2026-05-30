@@ -23,6 +23,10 @@
 	let der = $derived(Object.entries(filtered));
 </script>
 
+<svelte:head>
+	<title>{$page.params.teilnehmer} • VBT-Archiv</title>
+</svelte:head>
+
 <h2>{$page.params.teilnehmer}</h2>
 
 {#each der as e}
