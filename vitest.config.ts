@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 import { svelte } from "@sveltejs/vite-plugin-svelte";
-import pluginYaml from "vite-plugin-yaml2";
+import pluginYaml from "@modyfi/vite-plugin-yaml";
 
 export default defineConfig({
 	plugins: [svelte({ hot: !process.env.VITEST }), pluginYaml()],
