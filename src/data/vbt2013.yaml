@@ -25942,6 +25942,13 @@ vbt2013:
           link: http://www.rappers.in/VBT2013_Duzoe-vs-ME-L+Techrap_Battle_7003.html
           teilnehmer:
             - name: Duzoe
+              runden:
+                hr1:
+                  name: HR1
+                  links:
+                    - url: https://youtu.be/XwVWqmlyEsk
+                      original: true
+                      notiz: nie eingereicht
             - name: ME-L Techrap
               runden:
                 hr2:
