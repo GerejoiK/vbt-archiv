@@ -25183,7 +25183,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/IVU8qcChmy0
+                    - url: https://youtu.be/Jg-SNpRfy6c
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Tb5qNXNQ6oM
                       original: true
             - name: DirtyMaulwurf
               punkte: 41
@@ -25191,7 +25196,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/Tb5qNXNQ6oM
+                    - url: https://youtu.be/IVU8qcChmy0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/AgOzcCYCySc
                       original: true
         "2":
           link: http://www.rappers.in/VBT2013_BlaDesa-vs-Nikiz_Battle_6985.html
@@ -25202,7 +25212,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/K2WfFxvy1P8
+                    - url: https://youtu.be/XwML5CFOJEY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/H6WaRtxaZvo
                       original: true
             - name: Nikiz
               punkte: 30
@@ -25210,7 +25225,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/H6WaRtxaZvo
+                    - url: https://youtu.be/K2WfFxvy1P8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/KwOMKm9DHuE
                       original: true
         "3":
           link: http://www.rappers.in/VBT2013_Diverse-vs-Duzoe_Battle_6988.html
@@ -25221,7 +25241,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/zrlDiAYiKU0
+                    - url: https://youtu.be/f8wGQ-XyRqM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/r-vvv1oe018
                       original: true
             - name: Duzoe
               punkte: 60
@@ -25229,7 +25254,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/r-vvv1oe018
+                    - url: https://youtu.be/zrlDiAYiKU0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/vJYZEuoHDCc
                       original: true
         "4":
           link: http://www.rappers.in/VBT2013_Gio-vs-zartelust_Battle_6975.html
@@ -25240,7 +25270,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/miZyws413zk
+                    - url: https://youtu.be/rcAWZgicGgM
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/HQB4YpwvBLc
                       original: true
             - name: zartelust
               punkte: 31
@@ -25248,13 +25283,24 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/HQB4YpwvBLc
+                    - url: https://youtu.be/miZyws413zk
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/vFoqX3_RXxE
                       original: true
         "5":
           link: http://www.rappers.in/VBT2013_k.e.v-vs-Mavgic_Battle_6986.html
           teilnehmer:
             - name: k.e.v
             - name: Mavgic
+              runden:
+                hr2:
+                  name: HR2
+                  links:
+                    - url: https://youtu.be/C5I5ItUh6m0
+                      original: true
         "6":
           link: http://www.rappers.in/VBT2013_Luie-Die-Nadel-vs-Madson_Battle_6978.html
           teilnehmer:
@@ -25264,7 +25310,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/0yXAN0fgsv0
+                    - url: https://youtu.be/LV3bFZh6lpc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/OIm8lbClIJ8
                       original: true
             - name: Madson
               punkte: 14
@@ -25272,7 +25323,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/OIm8lbClIJ8
+                    - url: https://youtu.be/0yXAN0fgsv0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/xEE7L4tdlnU
                       original: true
         "7":
           link: http://www.rappers.in/VBT2013_MoooN-vs--LUkE-_Battle_6982.html
@@ -25283,7 +25339,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/U4viPHgfqUI
+                    - url: https://youtu.be/i5ZvtkQn6W8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/uHS9Ygsk89s
                       original: true
             - name: "-LUkE-"
               punkte: 50
@@ -25291,7 +25352,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/uHS9Ygsk89s
+                    - url: https://youtu.be/U4viPHgfqUI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/n-QCjAGZAqY
                       original: true
         "8":
           link: http://www.rappers.in/VBT2013_SouleK_94-vs-Mavel_Battle_6987.html
@@ -25302,7 +25368,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/mf7xWbDtcFg
+                    - url: https://youtu.be/AOZgtDW944Y
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/WISdMxfgL8o
                       original: true
             - name: Mavel
               punkte: 48
@@ -25310,7 +25381,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/WISdMxfgL8o
+                    - url: https://youtu.be/mf7xWbDtcFg
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/dJDCdY1OVJU
                       original: true
         "9":
           link: http://www.rappers.in/VBT2013_Akfone-vs-PRESTONE_Battle_6979.html
@@ -25321,7 +25397,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/h5sqK5nLTn8
+                    - url: https://youtu.be/nCkVPlC_lGw
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/4RXPGHVyDrw
                       original: true
             - name: PRESTONE
               punkte: 29
@@ -25329,7 +25410,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/4RXPGHVyDrw
+                    - url: https://youtu.be/h5sqK5nLTn8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/3XsJB8JojxQ
                       original: true
         "10":
           link: http://www.rappers.in/VBT2013_DieterGriffin-vs-Hendrik+Lamar_Battle_6990.html
@@ -25340,7 +25426,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/3LvXR6LKgwc
+                    - url: https://youtu.be/Y3YdyO3MI6c
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/DsbSU9gc-bQ
                       original: true
             - name: Hendrik Lamar
               punkte: 42
@@ -25348,7 +25439,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/DsbSU9gc-bQ
+                    - url: https://youtu.be/3LvXR6LKgwc
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/fY-XzAXGYng
                       original: true
         "11":
           link: http://www.rappers.in/VBT2013_F%C3%BCffi-vs-249HoodWatch_Battle_6989.html
@@ -25359,7 +25455,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/rtCoukw58oI
+                    - url: https://youtu.be/mDQpWS_RPxw
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/Md8xqPn2Ey8
                       original: true
             - name: 249HoodWatch
               punkte: 45
@@ -25367,7 +25468,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/Md8xqPn2Ey8
+                    - url: https://youtu.be/rtCoukw58oI
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/s57Rby5Yvfk
                       original: true
         "12":
           link: http://www.rappers.in/VBT2013_James+Cook-vs-ME-L+Techrap_Battle_6981.html
@@ -25378,7 +25484,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/7CT5MfSYM5c
+                    - url: https://youtu.be/VstZtufcEEY
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/hNFUa7lFLdc
                       original: true
             - name: ME-L Techrap
               punkte: 51
@@ -25386,7 +25497,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/hNFUa7lFLdc
+                    - url: https://youtu.be/7CT5MfSYM5c
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/8oU3x7R0Q4c
                       original: true
         "13":
           link: http://www.rappers.in/VBT2013_kayayinn-vs-kex+kuhl_Battle_6983.html
@@ -25397,7 +25513,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/7jFLgWhR_ug
+                    - url: https://youtu.be/ncYz7ygI42s
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/A5gqyp1vUYE
                       original: true
             - name: kex kuhl
               punkte: 53
@@ -25405,7 +25526,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/A5gqyp1vUYE
+                    - url: https://youtu.be/7jFLgWhR_ug
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/qKxBuyTJrOc
                       original: true
         "14":
           link: http://www.rappers.in/VBT2013_LZA-vs-Kennyzle_Battle_6984.html
@@ -25416,7 +25542,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/5aAgEfj7VZ0
+                    - url: https://youtu.be/pimqbHtiWPE
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/hy5pqedWJcw
                       original: true
             - name: Kennyzle
               punkte: 27
@@ -25424,7 +25555,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/hy5pqedWJcw
+                    - url: https://youtu.be/5aAgEfj7VZ0
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/g9oHpLeFDIk
                       original: true
         "15":
           link: http://www.rappers.in/VBT2013_Schote_yoa-vs-GeOT_Battle_6976.html
@@ -25435,7 +25571,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/uvK-fWtWBc8
+                    - url: https://youtu.be/oSBYYK5YHpc
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/dh3Moy1R6ko
                       original: true
             - name: GeOT
               punkte: 47
@@ -25443,7 +25584,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/dh3Moy1R6ko
+                    - url: https://youtu.be/uvK-fWtWBc8
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/dGV01wUAbBA
                       original: true
         "16":
           link: http://www.rappers.in/VBT2013_SpliffTastic-vs-JanniX_Battle_6980.html
@@ -25454,7 +25600,12 @@ vbt2013:
                 hr1:
                   name: HR1
                   links:
-                    - url: https://youtu.be/5_6d4OYqDdw
+                    - url: https://youtu.be/oyT6WLcq6V8
+                      original: true
+                rr2:
+                  name: RR2
+                  links:
+                    - url: https://youtu.be/M7oHYd5SQxs
                       original: true
             - name: JanniX
               punkte: 7
@@ -25462,7 +25613,12 @@ vbt2013:
                 hr2:
                   name: HR2
                   links:
-                    - url: https://youtu.be/M7oHYd5SQxs
+                    - url: https://youtu.be/5_6d4OYqDdw
+                      original: true
+                rr1:
+                  name: RR1
+                  links:
+                    - url: https://youtu.be/kT0MnA3krxw
                       original: true
     achtelfinale:
       name: Achtelfinale
