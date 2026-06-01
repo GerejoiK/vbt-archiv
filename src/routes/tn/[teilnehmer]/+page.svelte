@@ -48,8 +48,8 @@
 					<td>{battle.runde} </td>
 					<td>vs. <a href={sorted[1].name}>{sorted[1].name}</a></td>
 					<td class={getColor({ teilnehmer: sorted })[0]}
-						>{sorted.map(e => e?.punkte || 0).join(":") !== "0:0" ? sorted.map(e => e?.punkte || 0).join(":") : "Aufgabe"}</td
-					>
+						>{sorted.reduce((a, b) => a + (b.punkte || 0), 0) > 0 ? sorted.map(e => e?.punkte || 0).join(":") : "Aufgabe"}
+					</td>
 					<td
 						><a href="/t/{e[0]}/{battle.rundeId}/{id}"
 							>{cnt} Video{#if cnt !== 1}s{/if}</a
