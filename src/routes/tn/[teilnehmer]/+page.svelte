@@ -43,7 +43,7 @@
 				{@const sorted = battle.teilnehmer.toSorted(a =>
 					a.name.toLowerCase() === $page.params.teilnehmer.toLowerCase() ? -1 : 1
 				)}
-				{@const cnt = Object.keys(battle.teilnehmer[0]?.runden || []).length}
+				{@const cnt = Object.keys(sorted[0]?.runden || []).length}
 				<tr>
 					<td>{battle.runde} </td>
 					<td>vs. <a href={sorted[1].name}>{sorted[1].name}</a></td>
