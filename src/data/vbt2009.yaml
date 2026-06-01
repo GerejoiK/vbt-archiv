@@ -3168,8 +3168,8 @@ vbt2009:
                       original: true
             - name: floW Levi
           thread: 111129
-    64tel:
-      name: 64tel
+    64stel:
+      name: 64stel
       battles:
         "246":
           link: http://www.rappers.in/vbt09_bewertungen.php?battle=246
@@ -4609,8 +4609,8 @@ vbt2009:
                     - url: https://youtu.be/_GRrNC4QObY
                       original: true
           thread: 112462
-    32tel:
-      name: 32tel
+    32stel:
+      name: 32stel
       battles:
         "311":
           link: http://www.rappers.in/vbt09_bewertungen.php?battle=311

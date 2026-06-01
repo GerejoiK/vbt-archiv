@@ -16914,6 +16914,7 @@ vbt2011:
                     - url: https://youtu.be/zyGxkTp8FeA
                       original: true
             - name: sOn1c-One
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -17391,6 +17392,7 @@ vbt2011:
                     - url: https://youtu.be/MHQL5nITrUc
                       original: true
             - name: Maso-G
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -17415,8 +17417,8 @@ vbt2011:
                   links:
                     - url: https://youtu.be/kNJBVnMAk7U
                       original: true
-    16stel:
-      name: 16stel
+    16tel:
+      name: 16tel
       battles:
         "1":
           teilnehmer:
@@ -17639,6 +17641,7 @@ vbt2011:
         "9":
           teilnehmer:
             - name: d0p3
+              punkte: -1
               runden:
                 hr1:
                   name: HR1
@@ -18158,6 +18161,7 @@ vbt2011:
         "4":
           teilnehmer:
             - name: Ti Jay
+              punkte: -1
               runden:
                 hr1:
                   name: HR1

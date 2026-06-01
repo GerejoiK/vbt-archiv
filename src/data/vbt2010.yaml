@@ -9213,6 +9213,7 @@ vbt2010:
                     - url: https://youtu.be/ld7_Qe4RRgo
                       original: true
             - name: Punchdeinface
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -9428,7 +9429,8 @@ vbt2010:
                   links:
                     - url: https://youtu.be/U4bSPUO1oY8
                       original: true
-            - name: "--Exitus--"
+            - name: --Exitus--
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -9706,6 +9708,7 @@ vbt2010:
                     - url: https://youtu.be/C8ou3Kj6o8A
                       original: true
             - name: Luie-Die-Nadel
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -9764,6 +9767,7 @@ vbt2010:
                       original: true
                     - url: https://youtu.be/NdT6FDF3tvE
             - name: Lance Butters
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
@@ -9993,6 +9997,7 @@ vbt2010:
           link: http://www.rappers.in/en/vbt_2010-kohma-one-vs-Ti_Jay-955.html
           teilnehmer:
             - name: kohma-one
+              punkte: -1
               runden:
                 hr1:
                   name: HR1
@@ -10184,6 +10189,7 @@ vbt2010:
                     - url: https://youtu.be/5YORJIylgPc
                       original: true
             - name: MC MENSCHENFEIND
+              punkte: -1
               runden:
                 hr2:
                   name: HR2
